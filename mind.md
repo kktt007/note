@@ -1,6 +1,7 @@
 为什么我要记录下来,因为真的会断篇,另外就是自己没有想象中的那么强大.自己辛苦酝酿,体会到的东西,要牢牢的记住.
 感性和理性都应该发挥大最大的作用
 
+人类一直都在创造,发明.
 环境 外部世界 的巨大作用  
 人只是一个容器  
 接触到的知识，必须是一个生态  
@@ -11,6 +12,6 @@ with 和 by    with是有形的，by 是一种方式，抽象
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ1MTQxMDYxLC0xNjMyOTg5MDA0LDcxNz
-QzODE2MF19
+eyJoaXN0b3J5IjpbMTc3MDA3ODg0OSwtMTYzMjk4OTAwNCw3MT
+c0MzgxNjBdfQ==
 -->
