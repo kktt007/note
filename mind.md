@@ -1,4 +1,5 @@
 为什么我要记录下来,因为真的会断篇,另外就是自己没有想象中的那么强大.自己辛苦酝酿,体会到的东西,要牢牢的记住.
+我没有足够的外部环境来支持,所能依靠的是自己,最起来这个drjp
 感性和理性都应该发挥大最大的作用
 
 人类一直都在创造,发明.慢慢的改变着.
@@ -15,6 +16,6 @@ with 和 by    with是有形的，by 是一种方式，抽象
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MDg1NDUzMSwtMTYzMjk4OTAwNCw3MT
+eyJoaXN0b3J5IjpbMjExNTQ0NzM4NCwtMTYzMjk4OTAwNCw3MT
 c0MzgxNjBdfQ==
 -->
