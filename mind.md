@@ -5,7 +5,7 @@
 
 在一次次,一首首纯音乐中,我找到了内心的声音
 
-人类一直都在创造,发明.慢慢的改变着.在这些改变中,人类存在着.其实并没有脱离规律,只是发现.
+人类一直都在创造,发明.慢慢的改变着.在这些改变中,人类存在着.其实并没有脱离规律,只是发现.所以那就让我在未来的人生中,遇到未知的自己吧.  希望努力的速度能够赶的上,我不想再错过,再有遗憾.
 
 10年很快,一生不长.很多时候,内心想要的和外面真实的永远有差距,这是作为人才能感受到的.或者说,人就是落差,就是矛盾,就是最复杂的灵性的物种.
 
@@ -19,6 +19,6 @@ with 和 by    with是有形的，by 是一种方式，抽象
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MTMzMjI5MSwtMTYzMjk4OTAwNCw3MT
-c0MzgxNjBdfQ==
+eyJoaXN0b3J5IjpbLTE2NzQwODc1NjMsLTE2MzI5ODkwMDQsNz
+E3NDM4MTYwXX0=
 -->
