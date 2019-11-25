@@ -1,3 +1,4 @@
+为什么我要记录下来,因为真的会断篇,另外就是自己没有想象中的那么强大.自己辛苦酝酿,体会到的东西,要牢牢的记住.
 
 环境 外部世界 的巨大作用  
 人只是一个容器  
@@ -9,5 +10,6 @@ with 和 by    with是有形的，by 是一种方式，抽象
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzI5ODkwMDQsNzE3NDM4MTYwXX0=
+eyJoaXN0b3J5IjpbODgxNzE1MTU2LC0xNjMyOTg5MDA0LDcxNz
+QzODE2MF19
 -->
