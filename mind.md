@@ -3,7 +3,8 @@
 
 人类一直都在创造,发明.慢慢的改变着.
 
-10年很快,一生不长.很多时候,
+10年很快,一生不长.很多时候,内心想要的和外面真实的永远有差距,这是作为人才能感受到的.或者说,人就是落差,就是矛盾,就是最复杂的灵性的物种.
+
 环境 外部世界 的巨大作用  
 人只是一个容器  
 接触到的知识，必须是一个生态  
@@ -14,6 +15,6 @@ with 和 by    with是有形的，by 是一种方式，抽象
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNjM0NTg0MiwtMTYzMjk4OTAwNCw3MT
+eyJoaXN0b3J5IjpbLTc1MDg1NDUzMSwtMTYzMjk4OTAwNCw3MT
 c0MzgxNjBdfQ==
 -->
