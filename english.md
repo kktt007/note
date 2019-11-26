@@ -11,11 +11,17 @@ Something that's _elevated_ is raised up higher than it usually is, or is higher
 
 lumbar -- \ ˈləm-bər 腰椎
 
-dwelling --
+dwelling -- \ ˈdwe-liŋ
+housing that someone is living in
+
+habitation -- \ ˌha-bə-ˈtā-shən
+Habitation_ is the state of living somewhere.
+
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NDQ1NTgxMSwxMDEwODYxNzUsMzkxMD
-k5OTUyLC01NDA3MzczNywtNzk2MDMyMzk4LC0xNDExMzQ5NDcz
-LC0yODUxNDQ5OTgsLTExNjYzOTE5NzNdfQ==
+eyJoaXN0b3J5IjpbLTE5NTIwNDI2MzgsMTAxMDg2MTc1LDM5MT
+A5OTk1MiwtNTQwNzM3MzcsLTc5NjAzMjM5OCwtMTQxMTM0OTQ3
+MywtMjg1MTQ0OTk4LC0xMTY2MzkxOTczXX0=
 -->
