@@ -2,8 +2,11 @@
 sharper  -- \ ˈshär-pər 发b
 veterinary -- \ ˈve-tə-rə-ˌner-ē 发d
 
+A **body of knowledge** (**BOK** or **BoK**) is the complete set of concepts, terms and activities that make up a [professional](https://en.wikipedia.org/wiki/Professional "Professional") domain, as defined by the relevant [learned society](https://en.wikipedia.org/wiki/Learned_society "Learned society") or [professional association](https://en.wikipedia.org/wiki/Professional_association "Professional association").
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTEzNDk0NzMsLTI4NTE0NDk5OCwtMT
-E2NjM5MTk3M119
+eyJoaXN0b3J5IjpbLTc5NjAzMjM5OCwtMTQxMTM0OTQ3MywtMj
+g1MTQ0OTk4LC0xMTY2MzkxOTczXX0=
 -->
