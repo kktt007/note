@@ -1,3 +1,5 @@
+2019年11月26日
+
 **Kirschner wires** or **K-wires** or **pins** are [sterilized](https://en.wikipedia.org/wiki/Sterilization_(microbiology) "Sterilization (microbiology)"), sharpened, smooth [stainless steel](https://en.wikipedia.org/wiki/Stainless_steel "Stainless steel") pins.
 sharper  -- \ ˈshär-pər 发b
 veterinary -- \ ˈve-tə-rə-ˌner-ē 发d
@@ -11,7 +13,7 @@ lumbar -- \ ˈləm-bər 腰椎
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkxMDk5OTUyLC01NDA3MzczNywtNzk2MD
-MyMzk4LC0xNDExMzQ5NDczLC0yODUxNDQ5OTgsLTExNjYzOTE5
-NzNdfQ==
+eyJoaXN0b3J5IjpbMTAxMDg2MTc1LDM5MTA5OTk1MiwtNTQwNz
+M3MzcsLTc5NjAzMjM5OCwtMTQxMTM0OTQ3MywtMjg1MTQ0OTk4
+LC0xMTY2MzkxOTczXX0=
 -->
