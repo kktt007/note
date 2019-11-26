@@ -11,9 +11,11 @@ Something that's _elevated_ is raised up higher than it usually is, or is higher
 
 lumbar -- \ ˈləm-bər 腰椎
 
+dwelling --
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMDg2MTc1LDM5MTA5OTk1MiwtNTQwNz
-M3MzcsLTc5NjAzMjM5OCwtMTQxMTM0OTQ3MywtMjg1MTQ0OTk4
-LC0xMTY2MzkxOTczXX0=
+eyJoaXN0b3J5IjpbLTU5NDQ1NTgxMSwxMDEwODYxNzUsMzkxMD
+k5OTUyLC01NDA3MzczNywtNzk2MDMyMzk4LC0xNDExMzQ5NDcz
+LC0yODUxNDQ5OTgsLTExNjYzOTE5NzNdfQ==
 -->
