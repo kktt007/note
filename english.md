@@ -7,10 +7,11 @@ A **body of knowledge** (**BOK** or **BoK**) is the complete set of concepts, te
 elevated -- \ ˈe-lə-ˌvā-təd  中间弱读did
 Something that's _elevated_ is raised up higher than it usually is, or is higher than things around it
 
-
+lumbar -- \ ˈləm-bər 腰椎
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MDczNzM3LC03OTYwMzIzOTgsLTE0MT
-EzNDk0NzMsLTI4NTE0NDk5OCwtMTE2NjM5MTk3M119
+eyJoaXN0b3J5IjpbMzkxMDk5OTUyLC01NDA3MzczNywtNzk2MD
+MyMzk4LC0xNDExMzQ5NDczLC0yODUxNDQ5OTgsLTExNjYzOTE5
+NzNdfQ==
 -->
