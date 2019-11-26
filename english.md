@@ -18,11 +18,11 @@ habitation -- \ ˌha-bə-ˈtā-shən
 Habitation_ is the state of living somewhere.
 
 domestic -- \ də-ˈme-stik 家庭的，本国的
-domesticated -- \ də-ˈme-sti-ˌkā-təd Domesticated_ means trained to live or work for humans
+domesticated -- \ də-ˈme-sti-ˌkā-təd Domesticated_ means trained to live or work for humans **驯养的**
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjMwMzA2MTgsLTE5NTIwNDI2MzgsMT
+eyJoaXN0b3J5IjpbLTEyODMwMTQ0ODIsLTE5NTIwNDI2MzgsMT
 AxMDg2MTc1LDM5MTA5OTk1MiwtNTQwNzM3MzcsLTc5NjAzMjM5
 OCwtMTQxMTM0OTQ3MywtMjg1MTQ0OTk4LC0xMTY2MzkxOTczXX
 0=
