@@ -17,11 +17,13 @@ housing that someone is living in
 habitation -- \ ˌha-bə-ˈtā-shən
 Habitation_ is the state of living somewhere.
 
-de
+domestic -- \ də-ˈme-stik 家庭的，本国的
+domesticated -- \ də-ˈme-sti-ˌkā-təd 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMjI3NTM3LC0xOTUyMDQyNjM4LDEwMT
-A4NjE3NSwzOTEwOTk5NTIsLTU0MDczNzM3LC03OTYwMzIzOTgs
-LTE0MTEzNDk0NzMsLTI4NTE0NDk5OCwtMTE2NjM5MTk3M119
+eyJoaXN0b3J5IjpbLTU4ODUzODUyOCwtMTk1MjA0MjYzOCwxMD
+EwODYxNzUsMzkxMDk5OTUyLC01NDA3MzczNywtNzk2MDMyMzk4
+LC0xNDExMzQ5NDczLC0yODUxNDQ5OTgsLTExNjYzOTE5NzNdfQ
+==
 -->
