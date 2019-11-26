@@ -17,11 +17,11 @@ housing that someone is living in
 habitation -- \ ˌha-bə-ˈtā-shən
 Habitation_ is the state of living somewhere.
 
-
+de
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTIwNDI2MzgsMTAxMDg2MTc1LDM5MT
-A5OTk1MiwtNTQwNzM3MzcsLTc5NjAzMjM5OCwtMTQxMTM0OTQ3
-MywtMjg1MTQ0OTk4LC0xMTY2MzkxOTczXX0=
+eyJoaXN0b3J5IjpbMjAwMjI3NTM3LC0xOTUyMDQyNjM4LDEwMT
+A4NjE3NSwzOTEwOTk5NTIsLTU0MDczNzM3LC03OTYwMzIzOTgs
+LTE0MTEzNDk0NzMsLTI4NTE0NDk5OCwtMTE2NjM5MTk3M119
 -->
