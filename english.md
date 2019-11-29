@@ -21,10 +21,11 @@ domestic -- \ də-ˈme-stik 家庭的，本国的
 domesticated -- \ də-ˈme-sti-ˌkā-təd Domesticated_ means trained to live or work for humans **驯养的**
 
 spatial -- \ ˈspā-shəl 
+Spatial describes how objects fit together in space
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNTQ0NTkyNywtMTI4MzAxNDQ4MiwtMT
+eyJoaXN0b3J5IjpbLTY5MDc1ODY1NSwtMTI4MzAxNDQ4MiwtMT
 k1MjA0MjYzOCwxMDEwODYxNzUsMzkxMDk5OTUyLC01NDA3Mzcz
 NywtNzk2MDMyMzk4LC0xNDExMzQ5NDczLC0yODUxNDQ5OTgsLT
 ExNjYzOTE5NzNdfQ==
