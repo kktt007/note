@@ -25,13 +25,17 @@ Spatial describes how objects fit together in space
 ### 12.3
 ordinary -- \ ˈȯr-də-ˌner-ē
 Something _ordinary_ is something that happens every day 
+
 extraordinary -- \ ik-ˈstrȯr-də-ˌner-ē k还是K
  Something _extraordinary_ goes above and beyond what is expected.
  
+ extermination -- \ ik-​ˌstər-​mə-​ˈnā-​shən t发d ,ə发i
+ When an entire group of living things is killed, that's _extermination_.
+ 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMzc0NjM5NSwtNjkwNzU4NjU1LC0xMj
-gzMDE0NDgyLC0xOTUyMDQyNjM4LDEwMTA4NjE3NSwzOTEwOTk5
-NTIsLTU0MDczNzM3LC03OTYwMzIzOTgsLTE0MTEzNDk0NzMsLT
-I4NTE0NDk5OCwtMTE2NjM5MTk3M119
+eyJoaXN0b3J5IjpbLTE5NjI3MjY4NjIsMjAwMzc0NjM5NSwtNj
+kwNzU4NjU1LC0xMjgzMDE0NDgyLC0xOTUyMDQyNjM4LDEwMTA4
+NjE3NSwzOTEwOTk5NTIsLTU0MDczNzM3LC03OTYwMzIzOTgsLT
+E0MTEzNDk0NzMsLTI4NTE0NDk5OCwtMTE2NjM5MTk3M119
 -->
