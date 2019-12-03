@@ -25,12 +25,13 @@ Spatial describes how objects fit together in space
 ### 12.3
 ordinary -- \ ˈȯr-də-ˌner-ē
 Something _ordinary_ is something that happens every day 
- extraordinary -- \ ik-ˈstrȯr-də-ˌner-ē k还是K
+extraordinary -- \ ik-ˈstrȯr-də-ˌner-ē k还是K
  Something _extraordinary_ goes above and beyond what is expected.
+ 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODU5NjI2OTcsLTY5MDc1ODY1NSwtMT
-I4MzAxNDQ4MiwtMTk1MjA0MjYzOCwxMDEwODYxNzUsMzkxMDk5
-OTUyLC01NDA3MzczNywtNzk2MDMyMzk4LC0xNDExMzQ5NDczLC
-0yODUxNDQ5OTgsLTExNjYzOTE5NzNdfQ==
+eyJoaXN0b3J5IjpbMjAwMzc0NjM5NSwtNjkwNzU4NjU1LC0xMj
+gzMDE0NDgyLC0xOTUyMDQyNjM4LDEwMTA4NjE3NSwzOTEwOTk5
+NTIsLTU0MDczNzM3LC03OTYwMzIzOTgsLTE0MTEzNDk0NzMsLT
+I4NTE0NDk5OCwtMTE2NjM5MTk3M119
 -->
