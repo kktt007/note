@@ -22,11 +22,14 @@ domesticated -- \ də-ˈme-sti-ˌkā-təd Domesticated_ means trained to live or
 
 spatial -- \ ˈspā-shəl 
 Spatial describes how objects fit together in space
+### 12.3
+ordinary -- \ ˈȯr-də-ˌner-ē
+Something _ordinary_ is something that happens every day 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MDc1ODY1NSwtMTI4MzAxNDQ4MiwtMT
-k1MjA0MjYzOCwxMDEwODYxNzUsMzkxMDk5OTUyLC01NDA3Mzcz
-NywtNzk2MDMyMzk4LC0xNDExMzQ5NDczLC0yODUxNDQ5OTgsLT
-ExNjYzOTE5NzNdfQ==
+eyJoaXN0b3J5IjpbNjk4NjgwNTcyLC02OTA3NTg2NTUsLTEyOD
+MwMTQ0ODIsLTE5NTIwNDI2MzgsMTAxMDg2MTc1LDM5MTA5OTk1
+MiwtNTQwNzM3MzcsLTc5NjAzMjM5OCwtMTQxMTM0OTQ3MywtMj
+g1MTQ0OTk4LC0xMTY2MzkxOTczXX0=
 -->
