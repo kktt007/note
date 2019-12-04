@@ -31,11 +31,25 @@ extraordinary -- \ ik-ˈstrȯr-də-ˌner-ē k还是K
  
  extermination -- \ ik-​ˌstər-​mə-​ˈnā-​shən t发d ,ə发i
  When an entire group of living things is killed, that's _extermination_.
+
+### 12.4
+make use of
+facility  -- Origin of facility
+Middle English and Old French facilite from Classical Latin facilitas, easiness from facilis, facile
+The definition of a facility is a building or room which was created to serve a specific purpose or is the ease of doing something.
+ease
+
+ease -- \ ˈēz
+Ease means to lessen or release, often making something possible in the meantime.
+
+lesson -- \ ˈle-sᵊn
+
  
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjI3MjY4NjIsMjAwMzc0NjM5NSwtNj
-kwNzU4NjU1LC0xMjgzMDE0NDgyLC0xOTUyMDQyNjM4LDEwMTA4
-NjE3NSwzOTEwOTk5NTIsLTU0MDczNzM3LC03OTYwMzIzOTgsLT
-E0MTEzNDk0NzMsLTI4NTE0NDk5OCwtMTE2NjM5MTk3M119
+eyJoaXN0b3J5IjpbODIwMDQ4OTY2LC0xOTYyNzI2ODYyLDIwMD
+M3NDYzOTUsLTY5MDc1ODY1NSwtMTI4MzAxNDQ4MiwtMTk1MjA0
+MjYzOCwxMDEwODYxNzUsMzkxMDk5OTUyLC01NDA3MzczNywtNz
+k2MDMyMzk4LC0xNDExMzQ5NDczLC0yODUxNDQ5OTgsLTExNjYz
+OTE5NzNdfQ==
 -->
