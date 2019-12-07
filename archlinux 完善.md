@@ -28,12 +28,12 @@
 		nmcli radio wifi off
 		```
 
-#### 2. archiso: netctl (wpa_supplicant dhcpcd dialog) 
+2. #### archiso: netctl (wpa_supplicant dhcpcd dialog) 
 	> `cli: netctl / wifi-menu`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjM2NDM1NzgsLTIwODYxOTU5MjEsMT
-YzMzU3NjM1LC0xMzIyOTM0Mzg0LDQ0MjEwOTk5LC01MDI5ODYz
-ODksMTUwOTU5NDk5MywtNzc3MzcwOTE0LC0xMDYwMzAzMzg2XX
-0=
+eyJoaXN0b3J5IjpbMTMyODg0Njc5OCwtMTM2MzY0MzU3OCwtMj
+A4NjE5NTkyMSwxNjMzNTc2MzUsLTEzMjI5MzQzODQsNDQyMTA5
+OTksLTUwMjk4NjM4OSwxNTA5NTk0OTkzLC03NzczNzA5MTQsLT
+EwNjAzMDMzODZdfQ==
 -->
