@@ -44,12 +44,15 @@ Ease means to lessen or release, often making something possible in the meantime
 
 lesson -- \ ˈle-sᵊn
 
+ ### 12.7
+ interact -- \ ˌin-tər-ˈakt 注意发音 r连读
+ handling 
  
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIwMDQ4OTY2LC0xOTYyNzI2ODYyLDIwMD
-M3NDYzOTUsLTY5MDc1ODY1NSwtMTI4MzAxNDQ4MiwtMTk1MjA0
-MjYzOCwxMDEwODYxNzUsMzkxMDk5OTUyLC01NDA3MzczNywtNz
-k2MDMyMzk4LC0xNDExMzQ5NDczLC0yODUxNDQ5OTgsLTExNjYz
-OTE5NzNdfQ==
+eyJoaXN0b3J5IjpbMTk1NDk1NTAwNCw4MjAwNDg5NjYsLTE5Nj
+I3MjY4NjIsMjAwMzc0NjM5NSwtNjkwNzU4NjU1LC0xMjgzMDE0
+NDgyLC0xOTUyMDQyNjM4LDEwMTA4NjE3NSwzOTEwOTk5NTIsLT
+U0MDczNzM3LC03OTYwMzIzOTgsLTE0MTEzNDk0NzMsLTI4NTE0
+NDk5OCwtMTE2NjM5MTk3M119
 -->
