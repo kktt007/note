@@ -1,6 +1,9 @@
 Use `systemctl --type=service` to ensure that no other network service is running before enabling a _netctl_ profile/service.
 
 ### network manager 
+```php
+<i class="icon-cog"></i>
+```
 
 #### 1.  NetworkManager.service
 > **cli: nmcli / nmtui**
@@ -33,6 +36,6 @@ Use `systemctl --type=service` to ensure that no other network service is runnin
 > **cli: netctl / wifi-menu**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMjk4NjM4OSwxNTA5NTk0OTkzLC03Nz
-czNzA5MTQsLTEwNjAzMDMzODZdfQ==
+eyJoaXN0b3J5IjpbLTEyOTE3MjI0OCwtNTAyOTg2Mzg5LDE1MD
+k1OTQ5OTMsLTc3NzM3MDkxNCwtMTA2MDMwMzM4Nl19
 -->
