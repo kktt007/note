@@ -3,7 +3,7 @@
 
 1. #### NetworkManager.service `cli: nmcli / nmtui`
 
-	 - 1.1 List nearby wifi networks:
+	1. List nearby wifi networks:
  
 		nmcli device wifi list
 
@@ -22,7 +22,7 @@
 #### 2. archiso: netctl (wpa_supplicant dhcpcd dialog) `cli: netctl / wifi-menu`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY4MDM1MjY3LC0xMzIyOTM0Mzg0LDQ0Mj
+eyJoaXN0b3J5IjpbOTQ1NTkwNzI3LC0xMzIyOTM0Mzg0LDQ0Mj
 EwOTk5LC01MDI5ODYzODksMTUwOTU5NDk5MywtNzc3MzcwOTE0
 LC0xMDYwMzAzMzg2XX0=
 -->
