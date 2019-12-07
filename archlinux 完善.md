@@ -31,9 +31,11 @@
 2. #### archiso: netctl (wpa_supplicant dhcpcd dialog) 
 	> `cli: netctl / wifi-menu`
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyODg0Njc5OCwtMTM2MzY0MzU3OCwtMj
-A4NjE5NTkyMSwxNjMzNTc2MzUsLTEzMjI5MzQzODQsNDQyMTA5
-OTksLTUwMjk4NjM4OSwxNTA5NTk0OTkzLC03NzczNzA5MTQsLT
-EwNjAzMDMzODZdfQ==
+eyJoaXN0b3J5IjpbMTgzNzcxMzgzNCwxMzI4ODQ2Nzk4LC0xMz
+YzNjQzNTc4LC0yMDg2MTk1OTIxLDE2MzM1NzYzNSwtMTMyMjkz
+NDM4NCw0NDIxMDk5OSwtNTAyOTg2Mzg5LDE1MDk1OTQ5OTMsLT
+c3NzM3MDkxNCwtMTA2MDMwMzM4Nl19
 -->
