@@ -5,7 +5,8 @@ cli: nmcli / nmtui
 <font face="黑体" color=green size=5>我是黑体，绿色，尺寸为5</font>
 
 <table><tr><td bgcolor=orange>背景色red</td></tr></table>
-
+结尾2空格
+开头 1 2 除此4个的换用tab=4 spacebace
 
 
 
@@ -29,5 +30,6 @@ archiso: netctl wpa_supplicant dhcpcd dialog
 cli: netctl / wifi-menu
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NzM3MDkxNCwtMTA2MDMwMzM4Nl19
+eyJoaXN0b3J5IjpbMTUwOTU5NDk5MywtNzc3MzcwOTE0LC0xMD
+YwMzAzMzg2XX0=
 -->
