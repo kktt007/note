@@ -11,23 +11,28 @@
         nmcli device wifi list
         ```
 
-	1. Connect to a wifi network:**
+	2. Connect to a wifi network:**
 		```
 		nmcli device wifi connect "kktt" password "12345678"
 		```
 
-	1.3 See a list of network devices and their state:**
+	3. See a list of network devices and their state:
 
-	nmcli device
+		```
+		nmcli device
+		```
 
-**1.4 Turn off wifi:**
+	4. Turn off wifi:
 
-	nmcli radio wifi off
+		```
+		nmcli radio wifi off
+		```
 
-#### 2. archiso: netctl (wpa_supplicant dhcpcd dialog) `cli: netctl / wifi-menu`
+#### 2. archiso: netctl (wpa_supplicant dhcpcd dialog) 
+	> `cli: netctl / wifi-menu`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTE2MDExODMsLTIwODYxOTU5MjEsMT
+eyJoaXN0b3J5IjpbLTEzNjM2NDM1NzgsLTIwODYxOTU5MjEsMT
 YzMzU3NjM1LC0xMzIyOTM0Mzg0LDQ0MjEwOTk5LC01MDI5ODYz
 ODksMTUwOTU5NDk5MywtNzc3MzcwOTE0LC0xMDYwMzAzMzg2XX
 0=
