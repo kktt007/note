@@ -1,11 +1,33 @@
-<table><tr><td bgcolor=orange>背景色是：
 
-orange</td></tr></table>
-<font color="white">要反白的文字<font>
-<table><tr><td bgcolor=orange>背景色是：orange</td></tr></table>
+network manager (NetworkManager.service)
+cli: nmcli / nmtui
+
+<font face="黑体" color=green size=5>我是黑体，绿色，尺寸为5</font>
+
+<table><tr><td bgcolor=orange>背景色red</td></tr></table>
 
 
-> Written with [StackEdit](https://stackedit.io/).
+
+
+ **1. List nearby wifi networks:**
+ 
+    nmcli device wifi list
+
+**2. Connect to a wifi network:**
+
+    nmcli device wifi connect "SSID" password "12349876"
+
+3. See a list of network devices and their state:
+
+- $ nmcli device
+
+4. Turn off wifi:
+
+- $ nmcli radio wifi off
+
+archiso: netctl wpa_supplicant dhcpcd dialog 
+cli: netctl / wifi-menu
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjAzMDMzODZdfQ==
+eyJoaXN0b3J5IjpbNzU4NDczNzAzLC0xMDYwMzAzMzg2XX0=
 -->
