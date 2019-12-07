@@ -2,8 +2,7 @@ Use `systemctl --type=service` to ensure that no other network service is runnin
 
 ### network manager 
 
-#### 1.  NetworkManager.service
-> **cli: nmcli / nmtui**
+#### 1.  NetworkManager.service `cli: nmcli / nmtui`
 
 
  **1. List nearby wifi networks:**
@@ -22,10 +21,10 @@ Use `systemctl --type=service` to ensure that no other network service is runnin
 
 	nmcli radio wifi off
 
-#### 2. archiso: netctl wpa_supplicant dhcpcd dialog 
-> **cli: netctl / wifi-menu**
+#### 2. archiso: netctl wpa_supplicant dhcpcd dialog `cli: netctl / wifi-menu`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQyMTA5OTksLTUwMjk4NjM4OSwxNTA5NT
-k0OTkzLC03NzczNzA5MTQsLTEwNjAzMDMzODZdfQ==
+eyJoaXN0b3J5IjpbLTU3NTY5Mzg3LDQ0MjEwOTk5LC01MDI5OD
+YzODksMTUwOTU5NDk5MywtNzc3MzcwOTE0LC0xMDYwMzAzMzg2
+XX0=
 -->
