@@ -46,13 +46,13 @@ lesson -- \ ˈle-sᵊn
 
  ### 12.7
  interact -- \ ˌin-tər-ˈakt 注意发音 r连读
- handling 
+ handling -- \ ˈhan(d)-liŋ d 可以发出来
  
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NDk1NTAwNCw4MjAwNDg5NjYsLTE5Nj
-I3MjY4NjIsMjAwMzc0NjM5NSwtNjkwNzU4NjU1LC0xMjgzMDE0
-NDgyLC0xOTUyMDQyNjM4LDEwMTA4NjE3NSwzOTEwOTk5NTIsLT
-U0MDczNzM3LC03OTYwMzIzOTgsLTE0MTEzNDk0NzMsLTI4NTE0
-NDk5OCwtMTE2NjM5MTk3M119
+eyJoaXN0b3J5IjpbMTU4OTI5MDg3LDgyMDA0ODk2NiwtMTk2Mj
+cyNjg2MiwyMDAzNzQ2Mzk1LC02OTA3NTg2NTUsLTEyODMwMTQ0
+ODIsLTE5NTIwNDI2MzgsMTAxMDg2MTc1LDM5MTA5OTk1MiwtNT
+QwNzM3MzcsLTc5NjAzMjM5OCwtMTQxMTM0OTQ3MywtMjg1MTQ0
+OTk4LC0xMTY2MzkxOTczXX0=
 -->
