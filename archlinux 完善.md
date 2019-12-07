@@ -2,16 +2,8 @@ Use `systemctl --type=service` to ensure that no other network service is runnin
 
 ### network manager 
 
-
 #### 1.  NetworkManager.service
 > **cli: nmcli / nmtui**
-
-<font face="黑体" color=green size=5>我是黑体，绿色，尺寸为5</font>
-
-<table><tr><td bgcolor=orange>背景色red</td></tr></table>
-结尾2空格
-开头 1 2 除此4个的换用tab=4 spacebace
-
 
 
  **1. List nearby wifi networks:**
@@ -34,6 +26,6 @@ Use `systemctl --type=service` to ensure that no other network service is runnin
 > **cli: netctl / wifi-menu**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NDg5MjM1NSwtNTAyOTg2Mzg5LDE1MD
-k1OTQ5OTMsLTc3NzM3MDkxNCwtMTA2MDMwMzM4Nl19
+eyJoaXN0b3J5IjpbNDQyMTA5OTksLTUwMjk4NjM4OSwxNTA5NT
+k0OTkzLC03NzczNzA5MTQsLTEwNjAzMDMzODZdfQ==
 -->
