@@ -15,7 +15,7 @@ cli: nmcli / nmtui
 
 **2. Connect to a wifi network:**
 
-    nmcli device wifi connect "SSID" password "12349876"
+    nmcli device wifi connect "kktt" password "12345678"
 
 3. See a list of network devices and their state:
 
@@ -29,5 +29,5 @@ archiso: netctl wpa_supplicant dhcpcd dialog
 cli: netctl / wifi-menu
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU4NDczNzAzLC0xMDYwMzAzMzg2XX0=
+eyJoaXN0b3J5IjpbLTc3NzM3MDkxNCwtMTA2MDMwMzM4Nl19
 -->
