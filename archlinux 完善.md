@@ -1,6 +1,7 @@
+Use `systemctl --type=service` to ensure that no other network service is running before enabling a _netctl_ profile/service.
 
-network manager (NetworkManager.service)
-cli: nmcli / nmtui
+### network manager (NetworkManager.service)
+**cli: nmcli / nmtui**
 
 <font face="黑体" color=green size=5>我是黑体，绿色，尺寸为5</font>
 
@@ -18,9 +19,10 @@ cli: nmcli / nmtui
 
     nmcli device wifi connect "kktt" password "12345678"
 
-3. See a list of network devices and their state:
+**3. See a list of network devices and their state:**
 
-- $ nmcli device
+nmcli device
+   
 
 4. Turn off wifi:
 
@@ -30,6 +32,6 @@ archiso: netctl wpa_supplicant dhcpcd dialog
 cli: netctl / wifi-menu
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwOTU5NDk5MywtNzc3MzcwOTE0LC0xMD
-YwMzAzMzg2XX0=
+eyJoaXN0b3J5IjpbMTMxNDIyNjUzNCwxNTA5NTk0OTkzLC03Nz
+czNzA5MTQsLTEwNjAzMDMzODZdfQ==
 -->
