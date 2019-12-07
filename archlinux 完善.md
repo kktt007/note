@@ -13,18 +13,17 @@ Use `systemctl --type=service` to ensure that no other network service is runnin
 
  **1. List nearby wifi networks:**
  
-    nmcli device wifi list
+	nmcli device wifi list
 
 **2. Connect to a wifi network:**
 
-    nmcli device wifi connect "kktt" password "12345678"
+	nmcli device wifi connect "kktt" password "12345678"
 
 **3. See a list of network devices and their state:**
 
-nmcli device
-   
+-	nmcli device
 
-4. Turn off wifi:
+**4. Turn off wifi:**
 
 - $ nmcli radio wifi off
 
@@ -32,6 +31,6 @@ archiso: netctl wpa_supplicant dhcpcd dialog
 cli: netctl / wifi-menu
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNDIyNjUzNCwxNTA5NTk0OTkzLC03Nz
+eyJoaXN0b3J5IjpbMjExMTYyNTMxOSwxNTA5NTk0OTkzLC03Nz
 czNzA5MTQsLTEwNjAzMDMzODZdfQ==
 -->
