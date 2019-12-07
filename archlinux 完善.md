@@ -1,7 +1,8 @@
 Use `systemctl --type=service` to ensure that no other network service is running before enabling a _netctl_ profile/service.
 
 ### network manager 
-1. NetworkManager.service
+
+#### 1.  NetworkManager.service
 > **cli: nmcli / nmtui**
 
 <font face="黑体" color=green size=5>我是黑体，绿色，尺寸为5</font>
@@ -28,10 +29,10 @@ Use `systemctl --type=service` to ensure that no other network service is runnin
 
 	nmcli radio wifi off
 
-### 2. archiso: netctl wpa_supplicant dhcpcd dialog 
+#### 2. archiso: netctl wpa_supplicant dhcpcd dialog 
 > **cli: netctl / wifi-menu**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NTUxNDE5NiwxNTA5NTk0OTkzLC03Nz
+eyJoaXN0b3J5IjpbLTUwMjk4NjM4OSwxNTA5NTk0OTkzLC03Nz
 czNzA5MTQsLTEwNjAzMDMzODZdfQ==
 -->
