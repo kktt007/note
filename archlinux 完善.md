@@ -853,7 +853,7 @@ systemctl enable upower
 pacman -S fcitx fcitx-rime fcitx-configtool fcitx-gtk2 fcitx-gtk3 fcitx-qt4 fcitx-qt5 kcm-fcitx
 
 ```
-sudo echo -e "export GTK_IM_MODULE=fcitx\nexport QT_IM_MODULE=fcitx\nexport XMODIFIERS="@im=fcitx"">>~/.xprofile
+sudo echo -e "export GTK_IM_MODULE=fcitx\nexport QT_IM_MODULE=fcitx\nexport XMODIFIERS="@im=fcitx"\nexport LOCALE=en_US.UTF-8">>~/.xprofile
 ```
 
 或者
@@ -1295,9 +1295,9 @@ default     = +forward-override{forward-socks5 127.0.0.1:1080 .}
 
 socks5 127.0.0.1 1080
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcxODU2MTAxLDE0NjEyNTIxNiw5NjM5MT
-Q2MjcsMTMyODg0Njc5OCwtMTM2MzY0MzU3OCwtMjA4NjE5NTky
-MSwxNjMzNTc2MzUsLTEzMjI5MzQzODQsNDQyMTA5OTksLTUwMj
-k4NjM4OSwxNTA5NTk0OTkzLC03NzczNzA5MTQsLTEwNjAzMDMz
-ODZdfQ==
+eyJoaXN0b3J5IjpbLTE5Mzc0ODA0ODgsMTQ2MTI1MjE2LDk2Mz
+kxNDYyNywxMzI4ODQ2Nzk4LC0xMzYzNjQzNTc4LC0yMDg2MTk1
+OTIxLDE2MzM1NzYzNSwtMTMyMjkzNDM4NCw0NDIxMDk5OSwtNT
+AyOTg2Mzg5LDE1MDk1OTQ5OTMsLTc3NzM3MDkxNCwtMTA2MDMw
+MzM4Nl19
 -->
