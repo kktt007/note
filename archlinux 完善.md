@@ -703,7 +703,7 @@ sudo systemctl enable sddm.service    //设置桌面自启动 //sudo systemctl s
 sudo systemctl enable NetworkManager.service  //启用networkmanager
 sudo systemctl enable optimus-manager.service
 以下不需要
-sudo systemctl enable tlp //桌面环境已有自己的方案
+~~sudo systemctl enable tlp //桌面环境已有自己的方案~~
 sudo systemctl enable bluetooth    //启用蓝牙
 ```
 
@@ -1297,7 +1297,7 @@ default     = +forward-override{forward-socks5 127.0.0.1:1080 .}
 
 socks5 127.0.0.1 1080
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNTk3MTUzMCw5NjM5MTQ2MjcsMTMyOD
+eyJoaXN0b3J5IjpbMTYzNzI5NzgwMiw5NjM5MTQ2MjcsMTMyOD
 g0Njc5OCwtMTM2MzY0MzU3OCwtMjA4NjE5NTkyMSwxNjMzNTc2
 MzUsLTEzMjI5MzQzODQsNDQyMTA5OTksLTUwMjk4NjM4OSwxNT
 A5NTk0OTkzLC03NzczNzA5MTQsLTEwNjAzMDMzODZdfQ==
