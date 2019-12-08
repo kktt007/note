@@ -371,8 +371,6 @@ $ passwd
 
 ```
 useradd -m -g users -G wheel -s /bin/zsh kktt
-另一种思路:
-sudo usermod -aG wheel kktt
 ```
 
 passwd kktt
@@ -1299,8 +1297,8 @@ default     = +forward-override{forward-socks5 127.0.0.1:1080 .}
 
 socks5 127.0.0.1 1080
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYzOTE0NjI3LDEzMjg4NDY3OTgsLTEzNj
-M2NDM1NzgsLTIwODYxOTU5MjEsMTYzMzU3NjM1LC0xMzIyOTM0
-Mzg0LDQ0MjEwOTk5LC01MDI5ODYzODksMTUwOTU5NDk5MywtNz
-c3MzcwOTE0LC0xMDYwMzAzMzg2XX0=
+eyJoaXN0b3J5IjpbMzI0MTk2MzI0LDk2MzkxNDYyNywxMzI4OD
+Q2Nzk4LC0xMzYzNjQzNTc4LC0yMDg2MTk1OTIxLDE2MzM1NzYz
+NSwtMTMyMjkzNDM4NCw0NDIxMDk5OSwtNTAyOTg2Mzg5LDE1MD
+k1OTQ5OTMsLTc3NzM3MDkxNCwtMTA2MDMwMzM4Nl19
 -->
