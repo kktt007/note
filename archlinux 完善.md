@@ -733,7 +733,7 @@ makepkg -si
 ## 安装软件
 sudo pacman -Rns discover(back-end: packagekit-qt5)
 
-sudo pacman -S  [tftp-hpa](https://www.archlinux.org/packages/?name=tftp-hpa) kscreen dolphin dolphin-plugins filelight spectacle ark amarok okular p7zip unrar tar gwenview yakuake flameshot mpv gstreamer gst-libav gst-plugins-good aria2 transmission xdman tmux [chromium-vaapi-bin](https://aur.archlinux.org/packages/chromium-vaapi-bin/) firefox-kde-opensuse brave-bin autojump [terminator](https://www.archlinux.org/packages/?name=terminator) [rxvt-unicode](https://www.archlinux.org/packages/?name=rxvt-unicode)
+sudo pacman -S  [tftp-hpa](https://www.archlinux.org/packages/?name=tftp-hpa) kscreen dolphin dolphin-plugins filelight spectacle ark amarok okular p7zip unrar tar gwenview yakuake flameshot mpv gstreamer gst-libav gst-plugins-good aria2 transmission xdman tmux [chromium-vaapi-bin](https://aur.archlinux.org/packages/chromium-vaapi-bin/) [chromium-widevine](https://aur.archlinux.org/packages/chromium-widevine/)firefox-kde-opensuse brave-bin autojump [terminator](https://www.archlinux.org/packages/?name=terminator) [rxvt-unicode](https://www.archlinux.org/packages/?name=rxvt-unicode)
 
 OpenSUSE 打过补丁的、具有更好的 KDE 集成的 Firefox 版本
 
@@ -1309,11 +1309,11 @@ default     = +forward-override{forward-socks5 127.0.0.1:1080 .}
 
 socks5 127.0.0.1 1080
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNDE2NTE4MywtMTI2NjE2MjU2MSw2Nj
-k1NTM3NTgsLTcxNDU1OTQwOSw2MzE5ODYxNzQsMTQ0Mjc4MTk3
-NiwtNjk5NjY3ODgyLDExMTQ2OTYwOTEsLTE5MTkxMzA0MDUsLT
-E5Mzc0ODA0ODgsMTQ2MTI1MjE2LDk2MzkxNDYyNywxMzI4ODQ2
-Nzk4LC0xMzYzNjQzNTc4LC0yMDg2MTk1OTIxLDE2MzM1NzYzNS
-wtMTMyMjkzNDM4NCw0NDIxMDk5OSwtNTAyOTg2Mzg5LDE1MDk1
-OTQ5OTNdfQ==
+eyJoaXN0b3J5IjpbMTM5OTU3MTc5NywxNjM0MTY1MTgzLC0xMj
+Y2MTYyNTYxLDY2OTU1Mzc1OCwtNzE0NTU5NDA5LDYzMTk4NjE3
+NCwxNDQyNzgxOTc2LC02OTk2Njc4ODIsMTExNDY5NjA5MSwtMT
+kxOTEzMDQwNSwtMTkzNzQ4MDQ4OCwxNDYxMjUyMTYsOTYzOTE0
+NjI3LDEzMjg4NDY3OTgsLTEzNjM2NDM1NzgsLTIwODYxOTU5Mj
+EsMTYzMzU3NjM1LC0xMzIyOTM0Mzg0LDQ0MjEwOTk5LC01MDI5
+ODYzODldfQ==
 -->
