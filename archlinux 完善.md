@@ -719,7 +719,7 @@ makepkg -si
 
 ## 安装软件
 
-sudo pacman -S kscreen dolphin dolphin-plugins filelight spectacle ark amarok okular p7zip gwenview yakuake flameshot mpv gstreamer gst-libav gst-plugins-good aria2 transmission xdman tmux  firefox-kde-opensuse packagekit-qt5 autojump 
+sudo pacman -S kscreen dolphin dolphin-plugins filelight spectacle ark amarok okular p7zip gwenview yakuake flameshot mpv gstreamer gst-libav gst-plugins-good aria2 transmission xdman tmux [chromium-vaapi](https://aur.archlinux.org/packages/chromium-vaapi/) firefox-kde-opensuse packagekit-qt5 autojump 
 
 OpenSUSE 打过补丁的、具有更好的 KDE 集成的 Firefox 版本
 
@@ -1297,7 +1297,7 @@ default     = +forward-override{forward-socks5 127.0.0.1:1080 .}
 
 socks5 127.0.0.1 1080
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY3NDQ3NDkyLDk2MzkxNDYyNywxMzI4OD
+eyJoaXN0b3J5IjpbMTQ2MTI1MjE2LDk2MzkxNDYyNywxMzI4OD
 Q2Nzk4LC0xMzYzNjQzNTc4LC0yMDg2MTk1OTIxLDE2MzM1NzYz
 NSwtMTMyMjkzNDM4NCw0NDIxMDk5OSwtNTAyOTg2Mzg5LDE1MD
 k1OTQ5OTMsLTc3NzM3MDkxNCwtMTA2MDMwMzM4Nl19
