@@ -527,7 +527,7 @@ $ sudo cp /usr/share/optimus-manager.conf /etc/optimus-manager/optimus-manager.c
 $ sudo vim /etc/optimus-manager/optimus-manager.conf
 内容:
 [optimus]
-switching=bbswitch
+switching=bbswitch 
 pci_power_control=yes
 auto_logout=yes
 
@@ -1297,7 +1297,7 @@ default     = +forward-override{forward-socks5 127.0.0.1:1080 .}
 
 socks5 127.0.0.1 1080
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI0MTk2MzI0LDk2MzkxNDYyNywxMzI4OD
+eyJoaXN0b3J5IjpbODA0NDg4MDc0LDk2MzkxNDYyNywxMzI4OD
 Q2Nzk4LC0xMzYzNjQzNTc4LC0yMDg2MTk1OTIxLDE2MzM1NzYz
 NSwtMTMyMjkzNDM4NCw0NDIxMDk5OSwtNTAyOTg2Mzg5LDE1MD
 k1OTQ5OTMsLTc3NzM3MDkxNCwtMTA2MDMwMzM4Nl19
