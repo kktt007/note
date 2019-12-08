@@ -719,7 +719,7 @@ makepkg -si
 
 ## 安装软件
 
-sudo pacman -S kscreen dolphin dolphin-plugins filelight spectacle ark amarok okular p7zip gwenview yakuake flameshot mpv gstreamer gst-libav gst-plugins-good aria2 transmission xdman tmux [chromium-vaapi](https://aur.archlinux.org/packages/chromium-vaapi/) firefox-kde-opensuse packagekit-qt5 autojump [terminator](https://www.archlinux.org/packages/?name=terminator) guake 
+sudo pacman -S kscreen dolphin dolphin-plugins filelight spectacle ark amarok okular p7zip gwenview yakuake flameshot mpv gstreamer gst-libav gst-plugins-good aria2 transmission xdman tmux [chromium-vaapi](https://aur.archlinux.org/packages/chromium-vaapi/) firefox-kde-opensuse packagekit-qt5 autojump [terminator](https://www.archlinux.org/packages/?name=terminator) https://www.archlinux.org/packages/?name=rxvt-unicode
 
 OpenSUSE 打过补丁的、具有更好的 KDE 集成的 Firefox 版本
 
@@ -1297,9 +1297,9 @@ default     = +forward-override{forward-socks5 127.0.0.1:1080 .}
 
 socks5 127.0.0.1 1080
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUxMzA0MDg4LDE0NjEyNTIxNiw5NjM5MT
-Q2MjcsMTMyODg0Njc5OCwtMTM2MzY0MzU3OCwtMjA4NjE5NTky
-MSwxNjMzNTc2MzUsLTEzMjI5MzQzODQsNDQyMTA5OTksLTUwMj
-k4NjM4OSwxNTA5NTk0OTkzLC03NzczNzA5MTQsLTEwNjAzMDMz
-ODZdfQ==
+eyJoaXN0b3J5IjpbMTI1NzQ2MDQxNywxNDYxMjUyMTYsOTYzOT
+E0NjI3LDEzMjg4NDY3OTgsLTEzNjM2NDM1NzgsLTIwODYxOTU5
+MjEsMTYzMzU3NjM1LC0xMzIyOTM0Mzg0LDQ0MjEwOTk5LC01MD
+I5ODYzODksMTUwOTU5NDk5MywtNzc3MzcwOTE0LC0xMDYwMzAz
+Mzg2XX0=
 -->
