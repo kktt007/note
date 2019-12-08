@@ -1,4 +1,4 @@
-### network manager 
+### network manager (no need other dhcpcd)
 > *Use `systemctl --type=service` to ensure that no other network service is running before enabling a _netctl_ profile/service.*
 
 
@@ -1309,7 +1309,7 @@ default     = +forward-override{forward-socks5 127.0.0.1:1080 .}
 
 socks5 127.0.0.1 1080
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEyMTU5MzcwLC03MTQ1NTk0MDksNjMxOT
+eyJoaXN0b3J5IjpbNjY5NTUzNzU4LC03MTQ1NTk0MDksNjMxOT
 g2MTc0LDE0NDI3ODE5NzYsLTY5OTY2Nzg4MiwxMTE0Njk2MDkx
 LC0xOTE5MTMwNDA1LC0xOTM3NDgwNDg4LDE0NjEyNTIxNiw5Nj
 M5MTQ2MjcsMTMyODg0Njc5OCwtMTM2MzY0MzU3OCwtMjA4NjE5
