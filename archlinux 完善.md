@@ -864,6 +864,7 @@ export XIM_PROGRAM=fcitx
 export GTK_IM_MODULE=fcitx
 export QT_IM_MODULE=fcitx
 export XMODIFIERS="@im=fcitx"
+export LOCALE=en_US.UTF-8
 ```
 
 libreoffice 需安装中文语言包 pacman -Ss libreoffcie 查找中文语言包名称
@@ -1294,9 +1295,9 @@ default     = +forward-override{forward-socks5 127.0.0.1:1080 .}
 
 socks5 127.0.0.1 1080
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MTgyODM3NCwxNDYxMjUyMTYsOTYzOT
-E0NjI3LDEzMjg4NDY3OTgsLTEzNjM2NDM1NzgsLTIwODYxOTU5
-MjEsMTYzMzU3NjM1LC0xMzIyOTM0Mzg0LDQ0MjEwOTk5LC01MD
-I5ODYzODksMTUwOTU5NDk5MywtNzc3MzcwOTE0LC0xMDYwMzAz
-Mzg2XX0=
+eyJoaXN0b3J5IjpbOTcxODU2MTAxLDE0NjEyNTIxNiw5NjM5MT
+Q2MjcsMTMyODg0Njc5OCwtMTM2MzY0MzU3OCwtMjA4NjE5NTky
+MSwxNjMzNTc2MzUsLTEzMjI5MzQzODQsNDQyMTA5OTksLTUwMj
+k4NjM4OSwxNTA5NTk0OTkzLC03NzczNzA5MTQsLTEwNjAzMDMz
+ODZdfQ==
 -->
