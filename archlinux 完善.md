@@ -411,6 +411,13 @@ grub-install --target=x86_64-efi --efi-directory=/boot --bootloader-id=grub --re
 ```
 grub-mkconfig -o /boot/grub/grub.cfg
 ```
+ if you install :
+ ```
+sudo pacman -S linux-lts linux-lts-headers
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+sudo pacman -Rs linux
+```
+uname -r to check the kernel
 
 ### Intel
 
@@ -1295,9 +1302,9 @@ default     = +forward-override{forward-socks5 127.0.0.1:1080 .}
 
 socks5 127.0.0.1 1080
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzc0ODA0ODgsMTQ2MTI1MjE2LDk2Mz
-kxNDYyNywxMzI4ODQ2Nzk4LC0xMzYzNjQzNTc4LC0yMDg2MTk1
-OTIxLDE2MzM1NzYzNSwtMTMyMjkzNDM4NCw0NDIxMDk5OSwtNT
-AyOTg2Mzg5LDE1MDk1OTQ5OTMsLTc3NzM3MDkxNCwtMTA2MDMw
-MzM4Nl19
+eyJoaXN0b3J5IjpbLTE5MTkxMzA0MDUsLTE5Mzc0ODA0ODgsMT
+Q2MTI1MjE2LDk2MzkxNDYyNywxMzI4ODQ2Nzk4LC0xMzYzNjQz
+NTc4LC0yMDg2MTk1OTIxLDE2MzM1NzYzNSwtMTMyMjkzNDM4NC
+w0NDIxMDk5OSwtNTAyOTg2Mzg5LDE1MDk1OTQ5OTMsLTc3NzM3
+MDkxNCwtMTA2MDMwMzM4Nl19
 -->
