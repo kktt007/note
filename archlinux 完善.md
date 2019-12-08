@@ -719,7 +719,7 @@ makepkg -si
 
 ## 安装软件
 
-sudo pacman -S kscreen dolphin dolphin-plugins filelight spectacle ark amarok okular p7zip unrar targwenview yakuake flameshot mpv gstreamer gst-libav gst-plugins-good aria2 transmission xdman tmux [chromium-vaapi](https://aur.archlinux.org/packages/chromium-vaapi/) firefox-kde-opensuse packagekit-qt5 autojump [terminator](https://www.archlinux.org/packages/?name=terminator) [rxvt-unicode](https://www.archlinux.org/packages/?name=rxvt-unicode)
+sudo pacman -S kscreen dolphin dolphin-plugins filelight spectacle ark amarok okular p7zip unrar tar gwenview yakuake flameshot mpv gstreamer gst-libav gst-plugins-good aria2 transmission xdman tmux [chromium-vaapi](https://aur.archlinux.org/packages/chromium-vaapi/) firefox-kde-opensuse packagekit-qt5 autojump [terminator](https://www.archlinux.org/packages/?name=terminator) [rxvt-unicode](https://www.archlinux.org/packages/?name=rxvt-unicode)
 
 OpenSUSE 打过补丁的、具有更好的 KDE 集成的 Firefox 版本
 
@@ -727,11 +727,8 @@ VLC可能在KDE有问题 用gstreamer即可 可以同时安装多个后端，并
 
 // 目前不需要 udisk2(磁盘管理) udev挂载
 
-解压
-sudo pacman -S p7zip-gui p7zip-plugins unrar tar
 
-kde:  kf5 kf5-aids kdeutils kdebase kdeconnect kdenetwork
-
+kde:  kf5 kf5-aids kdeutils kdebase kdeconnect 
 不需要 :kdenetwork
 
 kde框架: kf5 kf5-aids  // krunner 包括在 kf5中 // KWin 是**window manager for KDE Plasma Desktops** 包含在plasma 中 //kdegraphics不需要
@@ -1297,7 +1294,7 @@ default     = +forward-override{forward-socks5 127.0.0.1:1080 .}
 
 socks5 127.0.0.1 1080
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTg3MzQ1ODMsMTQ2MTI1MjE2LDk2Mz
+eyJoaXN0b3J5IjpbLTIwMzQzMDQ2NjIsMTQ2MTI1MjE2LDk2Mz
 kxNDYyNywxMzI4ODQ2Nzk4LC0xMzYzNjQzNTc4LC0yMDg2MTk1
 OTIxLDE2MzM1NzYzNSwtMTMyMjkzNDM4NCw0NDIxMDk5OSwtNT
 AyOTg2Mzg5LDE1MDk1OTQ5OTMsLTc3NzM3MDkxNCwtMTA2MDMw
