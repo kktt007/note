@@ -576,8 +576,8 @@ pacman -S xorg-server
 
 有SDDM不需安装:
 
-~~ 1. pacman -S xorg-xinit~~
-~~ 2. pacman -S xorg-twm xorg-xclock xterm~~
+~~1. pacman -S xorg-xinit~~
+~~2. pacman -S xorg-twm xorg-xclock xterm~~
 
 pacman -S mesa // 添加3D支持,上一个命令会自动安装
 
@@ -645,11 +645,11 @@ xdg-user-dirs-update
 
   - 鼠键驱动
 
-    `xf86-input-mouse xf86-input-keyboard xf86-input-evdev`
+    ~~`xf86-input-mouse xf86-input-keyboard xf86-input-evdev`~~
 
   - 触摸板驱动
 
-     `pacman -S xf86-input-synaptics`
+     ~~`pacman -S xf86-input-synaptics`~~
 
 - 音频驱动
 
@@ -1297,8 +1297,8 @@ default     = +forward-override{forward-socks5 127.0.0.1:1080 .}
 
 socks5 127.0.0.1 1080
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjIzMDQxNzgsOTYzOTE0NjI3LDEzMj
-g4NDY3OTgsLTEzNjM2NDM1NzgsLTIwODYxOTU5MjEsMTYzMzU3
-NjM1LC0xMzIyOTM0Mzg0LDQ0MjEwOTk5LC01MDI5ODYzODksMT
-UwOTU5NDk5MywtNzc3MzcwOTE0LC0xMDYwMzAzMzg2XX0=
+eyJoaXN0b3J5IjpbMTQzNTk3MTUzMCw5NjM5MTQ2MjcsMTMyOD
+g0Njc5OCwtMTM2MzY0MzU3OCwtMjA4NjE5NTkyMSwxNjMzNTc2
+MzUsLTEzMjI5MzQzODQsNDQyMTA5OTksLTUwMjk4NjM4OSwxNT
+A5NTk0OTkzLC03NzczNzA5MTQsLTEwNjAzMDMzODZdfQ==
 -->
