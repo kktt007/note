@@ -292,6 +292,7 @@ hwclock --systohc --utc //将UTC时间写入BIOS，适用于UTC=yes,使用 local
 
 
 2. > echo "LANG=en_US.UTF-8" > /etc/locale.conf
+3. > export LANG=en_US.UTF-8
 
    或者 
 
@@ -299,7 +300,7 @@ hwclock --systohc --utc //将UTC时间写入BIOS，适用于UTC=yes,使用 local
 
    不要在这里把系统全局设置成中文，因为终端无法显示中文，请单独将桌面环境设置为中文。
 
-3. locale-gen
+4. locale-gen
 
 ### 必要网络工具
 
@@ -860,7 +861,7 @@ systemctl enable upower
 pacman -S fcitx fcitx-rime fcitx-configtool fcitx-gtk2 fcitx-gtk3 fcitx-qt4 fcitx-qt5 kcm-fcitx
 
 ```
-sudo echo -e "export GTK_IM_MODULE=fcitx\nexport QT_IM_MODULE=fcitx\nexport XMODIFIERS="@im=fcitx"\nexport LOCALE=en_US.UTF-8">>~/.xprofile
+sudo echo -e "export GTK_IM_MODULE=fcitx\nexport QT_IM_MODULE=fcitx\nexport XMODIFIERS="@im=fcitx"">>~/.xprofile
 ```
 
 或者
@@ -871,7 +872,7 @@ export XIM_PROGRAM=fcitx
 export GTK_IM_MODULE=fcitx
 export QT_IM_MODULE=fcitx
 export XMODIFIERS="@im=fcitx"
-export LOCALE=en_US.UTF-8
+export LOCALE=en_US.UTF-8(no need)
 ```
 
 libreoffice 需安装中文语言包 pacman -Ss libreoffcie 查找中文语言包名称
@@ -1302,10 +1303,10 @@ default     = +forward-override{forward-socks5 127.0.0.1:1080 .}
 
 socks5 127.0.0.1 1080
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5OTY2Nzg4MiwxMTE0Njk2MDkxLC0xOT
-E5MTMwNDA1LC0xOTM3NDgwNDg4LDE0NjEyNTIxNiw5NjM5MTQ2
-MjcsMTMyODg0Njc5OCwtMTM2MzY0MzU3OCwtMjA4NjE5NTkyMS
-wxNjMzNTc2MzUsLTEzMjI5MzQzODQsNDQyMTA5OTksLTUwMjk4
-NjM4OSwxNTA5NTk0OTkzLC03NzczNzA5MTQsLTEwNjAzMDMzOD
-ZdfQ==
+eyJoaXN0b3J5IjpbMTQ0Mjc4MTk3NiwtNjk5NjY3ODgyLDExMT
+Q2OTYwOTEsLTE5MTkxMzA0MDUsLTE5Mzc0ODA0ODgsMTQ2MTI1
+MjE2LDk2MzkxNDYyNywxMzI4ODQ2Nzk4LC0xMzYzNjQzNTc4LC
+0yMDg2MTk1OTIxLDE2MzM1NzYzNSwtMTMyMjkzNDM4NCw0NDIx
+MDk5OSwtNTAyOTg2Mzg5LDE1MDk1OTQ5OTMsLTc3NzM3MDkxNC
+wtMTA2MDMwMzM4Nl19
 -->
