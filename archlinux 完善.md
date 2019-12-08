@@ -508,9 +508,11 @@ EndSection
 
 sudo vim /etc/modprobe.d/nouveau_blacklist.conf 添加: blacklist nouveau  和 options nouveau modeset=0检查nouveau driver确保没有被加载 重建  initramfs image file : # mkinitcpio -p linux
 if you need: ### Disable Bluetooth
-
+```
 blacklist btusb
 blacklist bluetooth
+```
+
 ## 重建mkinitcpio -p linux
 
 - [optimus-manager](https://github.com/Askannz/optimus-manager) //需要配置中bbswitch switching=bbswitch
@@ -1307,11 +1309,10 @@ default     = +forward-override{forward-socks5 127.0.0.1:1080 .}
 
 socks5 127.0.0.1 1080
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzU3OTUzNjksNjMxOTg2MTc0LDE0ND
-I3ODE5NzYsLTY5OTY2Nzg4MiwxMTE0Njk2MDkxLC0xOTE5MTMw
-NDA1LC0xOTM3NDgwNDg4LDE0NjEyNTIxNiw5NjM5MTQ2MjcsMT
-MyODg0Njc5OCwtMTM2MzY0MzU3OCwtMjA4NjE5NTkyMSwxNjMz
-NTc2MzUsLTEzMjI5MzQzODQsNDQyMTA5OTksLTUwMjk4NjM4OS
-wxNTA5NTk0OTkzLC03NzczNzA5MTQsLTEwNjAzMDMzODZdfQ==
-
+eyJoaXN0b3J5IjpbLTcxNDU1OTQwOSw2MzE5ODYxNzQsMTQ0Mj
+c4MTk3NiwtNjk5NjY3ODgyLDExMTQ2OTYwOTEsLTE5MTkxMzA0
+MDUsLTE5Mzc0ODA0ODgsMTQ2MTI1MjE2LDk2MzkxNDYyNywxMz
+I4ODQ2Nzk4LC0xMzYzNjQzNTc4LC0yMDg2MTk1OTIxLDE2MzM1
+NzYzNSwtMTMyMjkzNDM4NCw0NDIxMDk5OSwtNTAyOTg2Mzg5LD
+E1MDk1OTQ5OTMsLTc3NzM3MDkxNCwtMTA2MDMwMzM4Nl19
 -->
