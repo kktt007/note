@@ -145,9 +145,12 @@ eyJzZWFyY2hFbmdpbmVzIjpbeyJuYW1lIjoiR29vZ2xlIiwidXJsIjoiaHR0cHM6Ly93d3cuZ29vZ2xl
 
 ### brave
 
-change negative plug regret chaos truck satoshi glow sketch scrub pudding cushion spatial spike trophy census blast scissors hawk fashion kiss ship device team
+change negative plug regret chaos truck satoshi glow sketch scrub pudding cushion spatial spike trophy census blast scissors hawk fashion kiss ship device teambroken portion rack device raise tank hire private april index uphold play ignore ticket detect lawsuit butter rate daughter advance west barely busy slogan
+========
+hungry clever vocal basic expose happy nasty barrel tunnel flag express venture leave flee mad cruise flame apart right yellow rebel produce tomorrow lawsuit
 =======end======
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NzM0NjE1MiwtOTIzMTA0MjQ1XX0=
+eyJoaXN0b3J5IjpbOTE0MTkzMzYsLTk2NzM0NjE1MiwtOTIzMT
+A0MjQ1XX0=
 -->
