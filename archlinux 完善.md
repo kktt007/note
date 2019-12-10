@@ -733,7 +733,7 @@ makepkg -si
 ## 安装软件
 sudo pacman -Rns discover(back-end: packagekit-qt5)
 
-sudo pacman -S  [tftp-hpa](https://www.archlinux.org/packages/?name=tftp-hpa) kscreen dolphin dolphin-plugins filelight spectacle ark amarok okular p7zip unrar tar gwenview yakuake flameshot mpv gstreamer gst-libav gst-plugins-good aria2 transmission xdman tmux [chromium-vaapi-bin](https://aur.archlinux.org/packages/chromium-vaapi-bin/) [chromium-widevine](https://aur.archlinux.org/packages/chromium-widevine/)firefox-kde-opensuse brave-bin autojump [terminator](https://www.archlinux.org/packages/?name=terminator) [rxvt-unicode](https://www.archlinux.org/packages/?name=rxvt-unicode)
+sudo pacman -S  [tftp-hpa](https://www.archlinux.org/packages/?name=tftp-hpa) kscreen dolphin dolphin-plugins filelight spectacle ark amarok okular p7zip unrar tar gwenview yakuake flameshot mpv gstreamer gst-libav gst-plugins-good aria2 transmission xdman tmux [chromium-vaapi-bin](https://aur.archlinux.org/packages/chromium-vaapi-bin/) [chromium-widevine](https://aur.archlinux.org/packages/chromium-widevine/)firefox-kde-opensuse vivaldi vivaldi-snapshot-ffmpeg-codecs autojump [terminator](https://www.archlinux.org/packages/?name=terminator) [rxvt-unicode](https://www.archlinux.org/packages/?name=rxvt-unicode)
 
 OpenSUSE 打过补丁的、具有更好的 KDE 集成的 Firefox 版本
 
