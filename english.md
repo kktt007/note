@@ -44,15 +44,28 @@ Ease means to lessen or release, often making something possible in the meantime
 
 lesson -- \ ˈle-sᵊn
 
- ### 12.7
+### 12.7
  interact -- \ ˌin-tər-ˈakt 注意发音 r连读
  handling -- \ ˈhan(d)-liŋ d 可以发出来
  
+### 12.11
+toaster:
+a kitchen appliance (usually electric) for toasting(发d) bread
+
+appliance: \ ə-ˈplī-ən(t)s 
+Your toaster is an appliance, and so is your dishwasher. Your dog? Not so much.
+a device or control that is very useful for a particular job
+durable goods for home or office use
+
+dishwasher:
+someone who washes dishes
+a machine for washing dishes
+ 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4OTI5MDg3LDgyMDA0ODk2NiwtMTk2Mj
-cyNjg2MiwyMDAzNzQ2Mzk1LC02OTA3NTg2NTUsLTEyODMwMTQ0
-ODIsLTE5NTIwNDI2MzgsMTAxMDg2MTc1LDM5MTA5OTk1MiwtNT
-QwNzM3MzcsLTc5NjAzMjM5OCwtMTQxMTM0OTQ3MywtMjg1MTQ0
-OTk4LC0xMTY2MzkxOTczXX0=
+eyJoaXN0b3J5IjpbLTE4NzI0NTk4MzMsMTU4OTI5MDg3LDgyMD
+A0ODk2NiwtMTk2MjcyNjg2MiwyMDAzNzQ2Mzk1LC02OTA3NTg2
+NTUsLTEyODMwMTQ0ODIsLTE5NTIwNDI2MzgsMTAxMDg2MTc1LD
+M5MTA5OTk1MiwtNTQwNzM3MzcsLTc5NjAzMjM5OCwtMTQxMTM0
+OTQ3MywtMjg1MTQ0OTk4LC0xMTY2MzkxOTczXX0=
 -->
