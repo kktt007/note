@@ -92,6 +92,7 @@ events that provide the generative force that is the origin of something
 generative --  \ ˈjen-rə-tiv 注意发音发t
 having the ability to produce or originate
 
+
 originate -- \ ə-ˈri-jə-ˌnāt
 Originate is a verb that means to start or create something
 You can _originate_ the idea of adding a fancy new coffee machine to your company's break room
@@ -101,10 +102,11 @@ effect --\ i-ˈfekt --none.
  
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0Nzk1NjM4LC0xOTcwNDU1MTQ1LDExMz
-kxMTAzMjAsLTE4NzI0NTk4MzMsMTU4OTI5MDg3LDgyMDA0ODk2
-NiwtMTk2MjcyNjg2MiwyMDAzNzQ2Mzk1LC02OTA3NTg2NTUsLT
-EyODMwMTQ0ODIsLTE5NTIwNDI2MzgsMTAxMDg2MTc1LDM5MTA5
-OTk1MiwtNTQwNzM3MzcsLTc5NjAzMjM5OCwtMTQxMTM0OTQ3My
-wtMjg1MTQ0OTk4LC0xMTY2MzkxOTczXX0=
+eyJoaXN0b3J5IjpbMTMwNzQ0NDEzMiwyMDQ3OTU2MzgsLTE5Nz
+A0NTUxNDUsMTEzOTExMDMyMCwtMTg3MjQ1OTgzMywxNTg5Mjkw
+ODcsODIwMDQ4OTY2LC0xOTYyNzI2ODYyLDIwMDM3NDYzOTUsLT
+Y5MDc1ODY1NSwtMTI4MzAxNDQ4MiwtMTk1MjA0MjYzOCwxMDEw
+ODYxNzUsMzkxMDk5OTUyLC01NDA3MzczNywtNzk2MDMyMzk4LC
+0xNDExMzQ5NDczLC0yODUxNDQ5OTgsLTExNjYzOTE5NzNdfQ==
+
 -->
