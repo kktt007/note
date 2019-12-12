@@ -60,12 +60,48 @@ durable goods for home or office use
 dishwasher:
 someone who washes dishes
 a machine for washing dishes
+
+#### 12.12
+venture -- \ ˈven(t)-shər
+
+
+risky -- \ ˈri-skē
+involving risk or danger
+
+undertaking 
+Painting a house is a serious undertaking––it looks simple but involves a lot of preparation and hard work. An undertaking is a job or a task you commit to. 
+
+undertake 
+give as a formal pledge
+
+commit 
+to commit is to fully dedicate yourself to sth
+
+dedicate
+to dedicate is to assign, to commit or to give over
+give entirely to a specific pserson, activity, or cause
+
+cause -- \ ˈkȯz
+A cause makes an effect, and you're likely to hear the phrase "cause and effect" when people are trying to analyze how things happen.
+events that provide the generative force that is the origin of something
+
+generative --  \ ˈjen-rə-tiv 注意发音发t
+having the ability to produce or originate
+
+originate -- \ ə-ˈri-jə-ˌnāt
+Originate is a verb that means to start or create something
+
+
+effect --\ i-ˈfekt --none.
+
+
  
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzI0NTk4MzMsMTU4OTI5MDg3LDgyMD
-A0ODk2NiwtMTk2MjcyNjg2MiwyMDAzNzQ2Mzk1LC02OTA3NTg2
-NTUsLTEyODMwMTQ0ODIsLTE5NTIwNDI2MzgsMTAxMDg2MTc1LD
-M5MTA5OTk1MiwtNTQwNzM3MzcsLTc5NjAzMjM5OCwtMTQxMTM0
-OTQ3MywtMjg1MTQ0OTk4LC0xMTY2MzkxOTczXX0=
+eyJoaXN0b3J5IjpbMTEzOTExMDMyMCwtMTg3MjQ1OTgzMywxNT
+g5MjkwODcsODIwMDQ4OTY2LC0xOTYyNzI2ODYyLDIwMDM3NDYz
+OTUsLTY5MDc1ODY1NSwtMTI4MzAxNDQ4MiwtMTk1MjA0MjYzOC
+wxMDEwODYxNzUsMzkxMDk5OTUyLC01NDA3MzczNywtNzk2MDMy
+Mzk4LC0xNDExMzQ5NDczLC0yODUxNDQ5OTgsLTExNjYzOTE5Nz
+NdfQ==
 -->
