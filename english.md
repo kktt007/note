@@ -80,6 +80,10 @@ to commit is to fully dedicate yourself to sth
 dedicate
 to dedicate is to assign, to commit or to give over
 give entirely to a specific pserson, activity, or cause
+If you dedicate a song you’ve written to a friend, it means the song belongs to them
+
+assign -- \ ə-ˈsīn
+To assign is to specify something or someone for a specific purpose. 
 
 cause -- \ ˈkȯz
 A cause makes an effect, and you're likely to hear the phrase "cause and effect" when people are trying to analyze how things happen.
@@ -94,14 +98,13 @@ Originate is a verb that means to start or create something
 
 effect --\ i-ˈfekt --none.
 
-
  
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzOTExMDMyMCwtMTg3MjQ1OTgzMywxNT
-g5MjkwODcsODIwMDQ4OTY2LC0xOTYyNzI2ODYyLDIwMDM3NDYz
-OTUsLTY5MDc1ODY1NSwtMTI4MzAxNDQ4MiwtMTk1MjA0MjYzOC
-wxMDEwODYxNzUsMzkxMDk5OTUyLC01NDA3MzczNywtNzk2MDMy
-Mzk4LC0xNDExMzQ5NDczLC0yODUxNDQ5OTgsLTExNjYzOTE5Nz
-NdfQ==
+eyJoaXN0b3J5IjpbLTE5NzA0NTUxNDUsMTEzOTExMDMyMCwtMT
+g3MjQ1OTgzMywxNTg5MjkwODcsODIwMDQ4OTY2LC0xOTYyNzI2
+ODYyLDIwMDM3NDYzOTUsLTY5MDc1ODY1NSwtMTI4MzAxNDQ4Mi
+wtMTk1MjA0MjYzOCwxMDEwODYxNzUsMzkxMDk5OTUyLC01NDA3
+MzczNywtNzk2MDMyMzk4LC0xNDExMzQ5NDczLC0yODUxNDQ5OT
+gsLTExNjYzOTE5NzNdfQ==
 -->
