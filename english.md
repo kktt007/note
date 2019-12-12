@@ -91,7 +91,8 @@ events that provide the generative force that is the origin of something
 
 generative --  \ ˈjen-rə-tiv 注意发音发t
 having the ability to produce or originate
-
+Synonyms: productive, reproductive, fruitful
+Antonyms: consumptive
 
 originate -- \ ə-ˈri-jə-ˌnāt
 Originate is a verb that means to start or create something
@@ -102,11 +103,11 @@ effect --\ i-ˈfekt --none.
  
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNzQ0NDEzMiwyMDQ3OTU2MzgsLTE5Nz
-A0NTUxNDUsMTEzOTExMDMyMCwtMTg3MjQ1OTgzMywxNTg5Mjkw
-ODcsODIwMDQ4OTY2LC0xOTYyNzI2ODYyLDIwMDM3NDYzOTUsLT
-Y5MDc1ODY1NSwtMTI4MzAxNDQ4MiwtMTk1MjA0MjYzOCwxMDEw
-ODYxNzUsMzkxMDk5OTUyLC01NDA3MzczNywtNzk2MDMyMzk4LC
-0xNDExMzQ5NDczLC0yODUxNDQ5OTgsLTExNjYzOTE5NzNdfQ==
+eyJoaXN0b3J5IjpbLTE0OTYyMDcyNjYsMjA0Nzk1NjM4LC0xOT
+cwNDU1MTQ1LDExMzkxMTAzMjAsLTE4NzI0NTk4MzMsMTU4OTI5
+MDg3LDgyMDA0ODk2NiwtMTk2MjcyNjg2MiwyMDAzNzQ2Mzk1LC
+02OTA3NTg2NTUsLTEyODMwMTQ0ODIsLTE5NTIwNDI2MzgsMTAx
+MDg2MTc1LDM5MTA5OTk1MiwtNTQwNzM3MzcsLTc5NjAzMjM5OC
+wtMTQxMTM0OTQ3MywtMjg1MTQ0OTk4LC0xMTY2MzkxOTczXX0=
 
 -->
