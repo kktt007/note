@@ -14,7 +14,7 @@
 
 
 2019.12.13
-这2天，持续淡定，成熟，安静。让我非常冷静的思考，学习，反思自己的不足，环境的限制，书上得来的东西实在不能看。人的情感，性格，等等，这些只有靠自己去悟，没人有何文字能描述这一切。找到自己的目标，自己的节奏，自己看待事情的规律，运转。bu'zai
+这2天，持续淡定，成熟，安静。让我非常冷静的思考，学习，反思自己的不足，环境的限制，书上得来的东西实在不能看。人的情感，性格，等等，这些只有靠自己去悟，没人有何文字能描述这一切。找到自己的目标，自己的节奏，自己看待事情的规律，运转。不再被束缚的思考。只希望自己还是能够尽快的实现更大的价值，放弃那个无知，单纯，木讷，追求个人小我的自己。总是要放下一些东西，不断的去蜕变的。
 
 环境 外部世界 的巨大作用  
 人只是一个容器  
@@ -26,6 +26,6 @@ with 和 by    with是有形的，by 是一种方式，抽象
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjc3NjYzMzIsLTE2NzQwODc1NjMsLT
-E2MzI5ODkwMDQsNzE3NDM4MTYwXX0=
+eyJoaXN0b3J5IjpbLTQ0ODc2Mjk1NywtMTY3NDA4NzU2MywtMT
+YzMjk4OTAwNCw3MTc0MzgxNjBdfQ==
 -->
