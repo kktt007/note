@@ -101,13 +101,36 @@ You can _originate_ the idea of adding a fancy new coffee machine to your compan
 effect --\ i-ˈfekt --none.
 
  #### 12.13
- 
+ map out
+to plan in detail how sth will happen
+
+elaborate -adj. --  \ i-ˈla-b(ə-)rət 
+use the adjective elaborate when you want to describe how sth is very detailed or especially complicated.
+
+scheme
+scheme is an elaborate plan or plot
+
+plot -none. v. -- \ ˈplät 
+A plot is a scheme, a story, a map charting progress, or a piece of land (as for a garden)
+
+area -- \ ˈer-ē-ə
+
+
+devise -- \ di-ˈvīz 发z
+
+figure out
+1. to calculate or reckon
+2. to understand
+1. To discover or decide: Let's figure out a way to help.
+2. To solve or decipher: Can you figure out this puzzle?
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk2NzExNzU5LDIwNDc5NTYzOCwtMTk3MD
-Q1NTE0NSwxMTM5MTEwMzIwLC0xODcyNDU5ODMzLDE1ODkyOTA4
-Nyw4MjAwNDg5NjYsLTE5NjI3MjY4NjIsMjAwMzc0NjM5NSwtNj
-kwNzU4NjU1LC0xMjgzMDE0NDgyLC0xOTUyMDQyNjM4LDEwMTA4
-NjE3NSwzOTEwOTk5NTIsLTU0MDczNzM3LC03OTYwMzIzOTgsLT
-E0MTEzNDk0NzMsLTI4NTE0NDk5OCwtMTE2NjM5MTk3M119
+eyJoaXN0b3J5IjpbMzUwMDAwNjU1LDY5NjcxMTc1OSwyMDQ3OT
+U2MzgsLTE5NzA0NTUxNDUsMTEzOTExMDMyMCwtMTg3MjQ1OTgz
+MywxNTg5MjkwODcsODIwMDQ4OTY2LC0xOTYyNzI2ODYyLDIwMD
+M3NDYzOTUsLTY5MDc1ODY1NSwtMTI4MzAxNDQ4MiwtMTk1MjA0
+MjYzOCwxMDEwODYxNzUsMzkxMDk5OTUyLC01NDA3MzczNywtNz
+k2MDMyMzk4LC0xNDExMzQ5NDczLC0yODUxNDQ5OTgsLTExNjYz
+OTE5NzNdfQ==
 -->
