@@ -12,6 +12,10 @@
 2019.12.11
 今天是阴历11.16 对，我又梦到了小学，初中老师和同学，想拿相机拍下，却迟疑了很久。最终，我明白。人先管好自己的肉体和灵魂，才有资格做其他的。时光一直再走，完成历史使命，如果注定的事，不论好与不好。自己都是自己的主宰，能改变这轨迹，即便是注定，存在的意义就是改变。一生会有很多美好，但是这美好共存的代价很大，唯有看透之后，完成自己，再去做其他的。可能刚开局的时候才是最初美好的状态。就这样吧
 
+
+2019.12.13
+这2天，持续淡定，成熟，安静。让我非常冷静的思考，学习，反思自己的不足，环境的限制，书上得来的东西实在不能看。
+
 环境 外部世界 的巨大作用  
 人只是一个容器  
 接触到的知识，必须是一个生态  
@@ -22,6 +26,6 @@ with 和 by    with是有形的，by 是一种方式，抽象
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzQwODc1NjMsLTE2MzI5ODkwMDQsNz
-E3NDM4MTYwXX0=
+eyJoaXN0b3J5IjpbODI0OTcyMzM0LC0xNjc0MDg3NTYzLC0xNj
+MyOTg5MDA0LDcxNzQzODE2MF19
 -->
