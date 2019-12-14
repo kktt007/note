@@ -1,6 +1,6 @@
 
 ## speed dial2
-
+```
 {
   "groups": {},
   "dials": {
@@ -135,6 +135,7 @@
     "options.apps.theme": "dark"
   }
 }
+```
 =====end=====
 
 
