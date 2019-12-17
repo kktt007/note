@@ -1,5 +1,5 @@
 
-默认的 <Leader> 是 \
+默认的 `<Leader>` 是 \
 
 标签栏上每一个 Tab 或者 Buffer 可通过快捷键 <Leader> number 进行快速访问 
     
