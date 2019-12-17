@@ -22,13 +22,12 @@ s 为 search 相关快捷键前缀
 h 为 help 相关快捷键前缀
 
 f 为文件操作相关前缀
-`SPC f s`
+`SPC f s` 保存文件
 
-保存文件
+`SPC f S` 保存所有文件
 
-`SPC f S`
+`<F3>`  /  `SPC f t` 切换文件树
 
-保存所有文件
 t/T 界面元素
 
 默认主题 gruvbox 的状态栏颜色和模式对照表：
@@ -47,6 +46,6 @@ t/T 界面元素
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1ODY5MjE3NiwyMDYxMjE2NDQ5LDczMD
+eyJoaXN0b3J5IjpbLTI3ODYxNjgwMywyMDYxMjE2NDQ5LDczMD
 k5ODExNl19
 -->
