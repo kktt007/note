@@ -20,6 +20,7 @@ p 为 project 相关快捷键前缀
 s 为 search 相关快捷键前缀
 
 h 为 help 相关快捷键前缀
+文件操作相关的快捷键都是以 `SPC f` 为前缀的
 
 t/T 界面元素
 
@@ -39,5 +40,6 @@ t/T 界面元素
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MTIxNjQ0OSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTMyMjE0MjYzMiwyMDYxMjE2NDQ5LDczMD
+k5ODExNl19
 -->
