@@ -20,8 +20,15 @@ p 为 project 相关快捷键前缀
 s 为 search 相关快捷键前缀
 
 h 为 help 相关快捷键前缀
-文件操作相关的快捷键都是以 `SPC f` 为前缀的
 
+f 为文件操作相关前缀
+`SPC f s`
+
+保存文件
+
+`SPC f S`
+
+保存所有文件
 t/T 界面元素
 
 默认主题 gruvbox 的状态栏颜色和模式对照表：
@@ -40,6 +47,6 @@ t/T 界面元素
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMjE0MjYzMiwyMDYxMjE2NDQ5LDczMD
+eyJoaXN0b3J5IjpbMTc1ODY5MjE3NiwyMDYxMjE2NDQ5LDczMD
 k5ODExNl19
 -->
