@@ -30,7 +30,10 @@ f 为文件操作相关前缀
 
 `<F3>`  /  `SPC f t` 切换文件树
 
-t/T 界面元素
+t/T 界面元素 theme
+
+SPC ? 
+使用 Unite 将当前快捷键罗列出来。然后可以输入快捷键按键字母或者描述，Unite 可以模糊匹配并展示结果。
 
 默认主题 gruvbox 的状态栏颜色和模式对照表：
 
@@ -48,6 +51,6 @@ t/T 界面元素
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3ODYxNjgwMywyMDYxMjE2NDQ5LDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbLTIwNTM1OTI4MzEsLTI3ODYxNjgwMywyMD
+YxMjE2NDQ5LDczMDk5ODExNl19
 -->
