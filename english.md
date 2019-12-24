@@ -121,16 +121,19 @@ devise -- \ di-ˈvīz 发z
 figure out
 1. to calculate or reckon
 2. to understand
-1. To discover or decide: Let's figure out a way to help.
-2. To solve or decipher: Can you figure out this puzzle?
+3. To discover or decide: Let's figure out a way to help.
+4. To solve or decipher: Can you figure out this puzzle?
+
+12.24 
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUwMDAwNjU1LDY5NjcxMTc1OSwyMDQ3OT
-U2MzgsLTE5NzA0NTUxNDUsMTEzOTExMDMyMCwtMTg3MjQ1OTgz
-MywxNTg5MjkwODcsODIwMDQ4OTY2LC0xOTYyNzI2ODYyLDIwMD
-M3NDYzOTUsLTY5MDc1ODY1NSwtMTI4MzAxNDQ4MiwtMTk1MjA0
-MjYzOCwxMDEwODYxNzUsMzkxMDk5OTUyLC01NDA3MzczNywtNz
-k2MDMyMzk4LC0xNDExMzQ5NDczLC0yODUxNDQ5OTgsLTExNjYz
-OTE5NzNdfQ==
+eyJoaXN0b3J5IjpbMTM4NTUyMjk4NCwzNTAwMDA2NTUsNjk2Nz
+ExNzU5LDIwNDc5NTYzOCwtMTk3MDQ1NTE0NSwxMTM5MTEwMzIw
+LC0xODcyNDU5ODMzLDE1ODkyOTA4Nyw4MjAwNDg5NjYsLTE5Nj
+I3MjY4NjIsMjAwMzc0NjM5NSwtNjkwNzU4NjU1LC0xMjgzMDE0
+NDgyLC0xOTUyMDQyNjM4LDEwMTA4NjE3NSwzOTEwOTk5NTIsLT
+U0MDczNzM3LC03OTYwMzIzOTgsLTE0MTEzNDk0NzMsLTI4NTE0
+NDk5OF19
 -->
