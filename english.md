@@ -143,17 +143,17 @@ A _tone_ is the kind of sound you hear in a musical note, or in a person's voice
 
 musical
 
-objective -- \ əb-ˈjek-tiv
+objective -- \ əb-ˈjek-tiv  注意发音g d
 
 perceived 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NDYwMjg0OSw0MjQxNzY3MjQsMzUwMD
-AwNjU1LDY5NjcxMTc1OSwyMDQ3OTU2MzgsLTE5NzA0NTUxNDUs
-MTEzOTExMDMyMCwtMTg3MjQ1OTgzMywxNTg5MjkwODcsODIwMD
-Q4OTY2LC0xOTYyNzI2ODYyLDIwMDM3NDYzOTUsLTY5MDc1ODY1
-NSwtMTI4MzAxNDQ4MiwtMTk1MjA0MjYzOCwxMDEwODYxNzUsMz
-kxMDk5OTUyLC01NDA3MzczNywtNzk2MDMyMzk4LC0xNDExMzQ5
-NDczXX0=
+eyJoaXN0b3J5IjpbLTEwMDY4NzA3OTUsLTk0NDYwMjg0OSw0Mj
+QxNzY3MjQsMzUwMDAwNjU1LDY5NjcxMTc1OSwyMDQ3OTU2Mzgs
+LTE5NzA0NTUxNDUsMTEzOTExMDMyMCwtMTg3MjQ1OTgzMywxNT
+g5MjkwODcsODIwMDQ4OTY2LC0xOTYyNzI2ODYyLDIwMDM3NDYz
+OTUsLTY5MDc1ODY1NSwtMTI4MzAxNDQ4MiwtMTk1MjA0MjYzOC
+wxMDEwODYxNzUsMzkxMDk5OTUyLC01NDA3MzczNywtNzk2MDMy
+Mzk4XX0=
 -->
