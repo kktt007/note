@@ -11,9 +11,9 @@ Fira Code
 Prettier
 Regex Previewer
 vscode-icons
-
+EditorConfig for VS Code
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwOTYyNjI3OF19
+eyJoaXN0b3J5IjpbMTI1MTIyODA1MCwtMzA5NjI2Mjc4XX0=
 -->
