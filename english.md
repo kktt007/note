@@ -143,17 +143,18 @@ A _tone_ is the kind of sound you hear in a musical note, or in a person's voice
 
 musical
 
-objective -- \ əb-ˈjek-tiv  注意发音g d
+objective -- \ əb-ˈjek-tiv  注意发音g d 
+-- An _objective_ is something you plan to achieve.
 
 perceived 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDY4NzA3OTUsLTk0NDYwMjg0OSw0Mj
-QxNzY3MjQsMzUwMDAwNjU1LDY5NjcxMTc1OSwyMDQ3OTU2Mzgs
-LTE5NzA0NTUxNDUsMTEzOTExMDMyMCwtMTg3MjQ1OTgzMywxNT
-g5MjkwODcsODIwMDQ4OTY2LC0xOTYyNzI2ODYyLDIwMDM3NDYz
-OTUsLTY5MDc1ODY1NSwtMTI4MzAxNDQ4MiwtMTk1MjA0MjYzOC
-wxMDEwODYxNzUsMzkxMDk5OTUyLC01NDA3MzczNywtNzk2MDMy
-Mzk4XX0=
+eyJoaXN0b3J5IjpbMTQ2OTkzNjEwOSwtMTAwNjg3MDc5NSwtOT
+Q0NjAyODQ5LDQyNDE3NjcyNCwzNTAwMDA2NTUsNjk2NzExNzU5
+LDIwNDc5NTYzOCwtMTk3MDQ1NTE0NSwxMTM5MTEwMzIwLC0xOD
+cyNDU5ODMzLDE1ODkyOTA4Nyw4MjAwNDg5NjYsLTE5NjI3MjY4
+NjIsMjAwMzc0NjM5NSwtNjkwNzU4NjU1LC0xMjgzMDE0NDgyLC
+0xOTUyMDQyNjM4LDEwMTA4NjE3NSwzOTEwOTk5NTIsLTU0MDcz
+NzM3XX0=
 -->
