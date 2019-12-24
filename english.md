@@ -124,16 +124,27 @@ figure out
 3. To discover or decide: Let's figure out a way to help.
 4. To solve or decipher: Can you figure out this puzzle?
 
-12.24 
+#### 12.24 
+replacement -- 
+A replacement is the thing that fills in for something that's missing, or the act of substituting for the missing thing. The replacement for your absent teacher is an annoying substitute. Sigh.
 
+pronoun -- \ ˈprō-ˌnau̇n
+- a pronoun is a word that's used in place of a noun or noun phrase, like "he," "she," or "it,", in place of "Dusty," "Carok," etc.
+
+fill in 
+To provide information or details, usually by actually writing something in a blank space on a test, form, etc. In this usage, a noun or pronoun can be used between "fill" and "in."
+Fill in the blank with the correct answer.
+
+substitute --  \ ˈsəb-stə-ˌtüt
+Something or someone that takes the place of another is said to be a substitute. You may be sent into a game as a substitute for an injured player, or you might substitute chocolate chips for blueberries in a pancake recipe.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NTUyMjk4NCwzNTAwMDA2NTUsNjk2Nz
-ExNzU5LDIwNDc5NTYzOCwtMTk3MDQ1NTE0NSwxMTM5MTEwMzIw
-LC0xODcyNDU5ODMzLDE1ODkyOTA4Nyw4MjAwNDg5NjYsLTE5Nj
-I3MjY4NjIsMjAwMzc0NjM5NSwtNjkwNzU4NjU1LC0xMjgzMDE0
-NDgyLC0xOTUyMDQyNjM4LDEwMTA4NjE3NSwzOTEwOTk5NTIsLT
-U0MDczNzM3LC03OTYwMzIzOTgsLTE0MTEzNDk0NzMsLTI4NTE0
-NDk5OF19
+eyJoaXN0b3J5IjpbNDI0MTc2NzI0LDM1MDAwMDY1NSw2OTY3MT
+E3NTksMjA0Nzk1NjM4LC0xOTcwNDU1MTQ1LDExMzkxMTAzMjAs
+LTE4NzI0NTk4MzMsMTU4OTI5MDg3LDgyMDA0ODk2NiwtMTk2Mj
+cyNjg2MiwyMDAzNzQ2Mzk1LC02OTA3NTg2NTUsLTEyODMwMTQ0
+ODIsLTE5NTIwNDI2MzgsMTAxMDg2MTc1LDM5MTA5OTk1MiwtNT
+QwNzM3MzcsLTc5NjAzMjM5OCwtMTQxMTM0OTQ3MywtMjg1MTQ0
+OTk4XX0=
 -->
