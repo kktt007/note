@@ -138,13 +138,22 @@ Fill in the blank with the correct answer.
 substitute --  \ ˈsəb-stə-ˌtüt
 Something or someone that takes the place of another is said to be a substitute. You may be sent into a game as a substitute for an injured player, or you might substitute chocolate chips for blueberries in a pancake recipe.
 
+tone
+A _tone_ is the kind of sound you hear in a musical note, or in a person's voice live or in writing. A newspaper article should be objective, but a poem can bring up all kinds of emotions, depending on the _tone_
+
+musical
+
+objective -- \ əb-ˈjek-tiv
+
+perceived 
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI0MTc2NzI0LDM1MDAwMDY1NSw2OTY3MT
-E3NTksMjA0Nzk1NjM4LC0xOTcwNDU1MTQ1LDExMzkxMTAzMjAs
-LTE4NzI0NTk4MzMsMTU4OTI5MDg3LDgyMDA0ODk2NiwtMTk2Mj
-cyNjg2MiwyMDAzNzQ2Mzk1LC02OTA3NTg2NTUsLTEyODMwMTQ0
-ODIsLTE5NTIwNDI2MzgsMTAxMDg2MTc1LDM5MTA5OTk1MiwtNT
-QwNzM3MzcsLTc5NjAzMjM5OCwtMTQxMTM0OTQ3MywtMjg1MTQ0
-OTk4XX0=
+eyJoaXN0b3J5IjpbLTk0NDYwMjg0OSw0MjQxNzY3MjQsMzUwMD
+AwNjU1LDY5NjcxMTc1OSwyMDQ3OTU2MzgsLTE5NzA0NTUxNDUs
+MTEzOTExMDMyMCwtMTg3MjQ1OTgzMywxNTg5MjkwODcsODIwMD
+Q4OTY2LC0xOTYyNzI2ODYyLDIwMDM3NDYzOTUsLTY5MDc1ODY1
+NSwtMTI4MzAxNDQ4MiwtMTk1MjA0MjYzOCwxMDEwODYxNzUsMz
+kxMDk5OTUyLC01NDA3MzczNywtNzk2MDMyMzk4LC0xNDExMzQ5
+NDczXX0=
 -->
