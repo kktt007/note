@@ -148,13 +148,51 @@ objective -- \ əb-ˈjek-tiv  注意发音g d
 
 perceived 
 
+### 12.25
+speculum -- \ ˈspe-kyə-ləm
+
+- a mirror (especially one made of polished metal) for use in an optical instrument
+
+- optical -- \ ˈäp-ti-kəl
+
+  
+  
+
+intransitive verb To ride a bicycle.
+
+bicycle, cycle, bike, pedal, wheel(verb)
+
+  
+
+ride a bicycle
+
+  
+
+vehicle
+
+  
+
+intransitive -- \ (ˌ)in-ˈtran(t)-sə-tiv
+
+designating a verb that does not require or cannot take a direct object
+
+  
+
+versatility -- \ ˌvər-sə-ˈti-lə-tē 都发t
+
+- The word versatility describes having many different skills or qualities. Versatility allows you to adapt to many different situations. Your versatility in sports means that you can play soccer, tennis, and basketball.
+
+  
+
+dimension
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2OTkzNjEwOSwtMTAwNjg3MDc5NSwtOT
-Q0NjAyODQ5LDQyNDE3NjcyNCwzNTAwMDA2NTUsNjk2NzExNzU5
-LDIwNDc5NTYzOCwtMTk3MDQ1NTE0NSwxMTM5MTEwMzIwLC0xOD
-cyNDU5ODMzLDE1ODkyOTA4Nyw4MjAwNDg5NjYsLTE5NjI3MjY4
-NjIsMjAwMzc0NjM5NSwtNjkwNzU4NjU1LC0xMjgzMDE0NDgyLC
-0xOTUyMDQyNjM4LDEwMTA4NjE3NSwzOTEwOTk5NTIsLTU0MDcz
-NzM3XX0=
+eyJoaXN0b3J5IjpbLTQzMTEzOTI5MCwxNDY5OTM2MTA5LC0xMD
+A2ODcwNzk1LC05NDQ2MDI4NDksNDI0MTc2NzI0LDM1MDAwMDY1
+NSw2OTY3MTE3NTksMjA0Nzk1NjM4LC0xOTcwNDU1MTQ1LDExMz
+kxMTAzMjAsLTE4NzI0NTk4MzMsMTU4OTI5MDg3LDgyMDA0ODk2
+NiwtMTk2MjcyNjg2MiwyMDAzNzQ2Mzk1LC02OTA3NTg2NTUsLT
+EyODMwMTQ0ODIsLTE5NTIwNDI2MzgsMTAxMDg2MTc1LDM5MTA5
+OTk1Ml19
 -->
