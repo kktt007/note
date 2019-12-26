@@ -245,17 +245,17 @@ Archaic. causing happiness; pleasant; delightful.
 
 - Exhilaration is great joy, and excitement and liveliness! When you ride an ocean wave, hear a favorite song, or have a long and uncontrollable laugh with friends, there's a feeling of exhilaration, an overflow of happiness.
 
- excitement指状态
+excitement指状态
 
 exhilaration指行为
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMzExNjc2NSwyMDA2OTIwNTMsLTQzMT
-EzOTI5MCwxNDY5OTM2MTA5LC0xMDA2ODcwNzk1LC05NDQ2MDI4
-NDksNDI0MTc2NzI0LDM1MDAwMDY1NSw2OTY3MTE3NTksMjA0Nz
-k1NjM4LC0xOTcwNDU1MTQ1LDExMzkxMTAzMjAsLTE4NzI0NTk4
-MzMsMTU4OTI5MDg3LDgyMDA0ODk2NiwtMTk2MjcyNjg2MiwyMD
-AzNzQ2Mzk1LC02OTA3NTg2NTUsLTEyODMwMTQ0ODIsLTE5NTIw
-NDI2MzhdfQ==
+eyJoaXN0b3J5IjpbLTE0Mjg5NjEzNjEsMjAwNjkyMDUzLC00Mz
+ExMzkyOTAsMTQ2OTkzNjEwOSwtMTAwNjg3MDc5NSwtOTQ0NjAy
+ODQ5LDQyNDE3NjcyNCwzNTAwMDA2NTUsNjk2NzExNzU5LDIwND
+c5NTYzOCwtMTk3MDQ1NTE0NSwxMTM5MTEwMzIwLC0xODcyNDU5
+ODMzLDE1ODkyOTA4Nyw4MjAwNDg5NjYsLTE5NjI3MjY4NjIsMj
+AwMzc0NjM5NSwtNjkwNzU4NjU1LC0xMjgzMDE0NDgyLC0xOTUy
+MDQyNjM4XX0=
 -->
