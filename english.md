@@ -187,6 +187,7 @@ versatility -- \ ˌvər-sə-ˈti-lə-tē 都发t
 dimension
 
 ### 12.26
+
 merry adj. -- \ ˈmer-ē
 
 - To be merry is to be happy, especially in a fun, festive way.
@@ -201,6 +202,31 @@ merry adj. -- \ ˈmer-ē
 
 - A decoration is anything used to make something more attractive or festive. If you’re having a Valentine’s Day party, drape your house in red and pink decorations.
 
+  
+
+- adjective, mer·ri·er, mer·ri·est.
+
+- adjective, mer·ri·er, mer·ri·est.
+
+full of cheerfulness or gaiety; joyous in disposition or spirit:
+
+- spirit -- \ ˈspir-ət
+
+- If someone tells you you have a sagging spirit, that means your life-force seems to be missing.
+
+> Spirit comes from the Latin word for "breath," and like breath, spirit is considered a fundamental part of being alive.
+
+- the vital principle or animating force within living things
+
+- e.g. a merry little man.
+
+- laughingly happy; mirthful; festively joyous; hilarious:
+
+- a merry time at the party.
+
+Archaic. causing happiness; pleasant; delightful.
+
+  
   
 
 - Excitement noun. -- \ ik-ˈsīt-mənt
@@ -219,19 +245,17 @@ merry adj. -- \ ˈmer-ē
 
 - Exhilaration is great joy, and excitement and liveliness! When you ride an ocean wave, hear a favorite song, or have a long and uncontrollable laugh with friends, there's a feeling of exhilaration, an overflow of happiness.
 
-  
-
-excitement指状态
+ excitement指状态
 
 exhilaration指行为
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNjkyMDUzLC00MzExMzkyOTAsMTQ2OT
-kzNjEwOSwtMTAwNjg3MDc5NSwtOTQ0NjAyODQ5LDQyNDE3Njcy
-NCwzNTAwMDA2NTUsNjk2NzExNzU5LDIwNDc5NTYzOCwtMTk3MD
-Q1NTE0NSwxMTM5MTEwMzIwLC0xODcyNDU5ODMzLDE1ODkyOTA4
-Nyw4MjAwNDg5NjYsLTE5NjI3MjY4NjIsMjAwMzc0NjM5NSwtNj
-kwNzU4NjU1LC0xMjgzMDE0NDgyLC0xOTUyMDQyNjM4LDEwMTA4
-NjE3NV19
+eyJoaXN0b3J5IjpbLTMwMzExNjc2NSwyMDA2OTIwNTMsLTQzMT
+EzOTI5MCwxNDY5OTM2MTA5LC0xMDA2ODcwNzk1LC05NDQ2MDI4
+NDksNDI0MTc2NzI0LDM1MDAwMDY1NSw2OTY3MTE3NTksMjA0Nz
+k1NjM4LC0xOTcwNDU1MTQ1LDExMzkxMTAzMjAsLTE4NzI0NTk4
+MzMsMTU4OTI5MDg3LDgyMDA0ODk2NiwtMTk2MjcyNjg2MiwyMD
+AzNzQ2Mzk1LC02OTA3NTg2NTUsLTEyODMwMTQ0ODIsLTE5NTIw
+NDI2MzhdfQ==
 -->
