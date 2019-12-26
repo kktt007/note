@@ -186,15 +186,52 @@ versatility -- \ ˌvər-sə-ˈti-lə-tē 都发t
 
 dimension
 
+### 12.26
+merry adj. -- \ ˈmer-ē
 
+- To be merry is to be happy, especially in a fun, festive way.
+
+- ex. :He’s a lovely man with merry eyes and a wide smile.
+
+- festive adj. --\ ˈfe-stiv
+
+- Festive describes an event that’s full of joy, smiles, and excitement. A birthday party without presents, decorations, or friends would be the opposite of festive.
+
+- decorations noun. -- ˌde-kə-ˈrā-shən
+
+- A decoration is anything used to make something more attractive or festive. If you’re having a Valentine’s Day party, drape your house in red and pink decorations.
+
+  
+
+- Excitement noun. -- \ ik-ˈsīt-mənt
+
+- is a feeling or situation full of activity, joy, exhilaration, or upheaval. One thing about excitement it sure isn't boring.
+
+- joy
+
+- Joy is the emotion of pleasure and happiness.
+
+- pleasure -- \ ˈple-zhər
+
+  
+
+- exhilaration -- \ ig-ˌzi-lə-ˈrā-shən
+
+- Exhilaration is great joy, and excitement and liveliness! When you ride an ocean wave, hear a favorite song, or have a long and uncontrollable laugh with friends, there's a feeling of exhilaration, an overflow of happiness.
+
+  
+
+excitement指状态
+
+exhilaration指行为
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NDUzMTQ1OCwtNDMxMTM5MjkwLDE0Nj
-k5MzYxMDksLTEwMDY4NzA3OTUsLTk0NDYwMjg0OSw0MjQxNzY3
-MjQsMzUwMDAwNjU1LDY5NjcxMTc1OSwyMDQ3OTU2MzgsLTE5Nz
-A0NTUxNDUsMTEzOTExMDMyMCwtMTg3MjQ1OTgzMywxNTg5Mjkw
-ODcsODIwMDQ4OTY2LC0xOTYyNzI2ODYyLDIwMDM3NDYzOTUsLT
-Y5MDc1ODY1NSwtMTI4MzAxNDQ4MiwtMTk1MjA0MjYzOCwxMDEw
-ODYxNzVdfQ==
+eyJoaXN0b3J5IjpbMjAwNjkyMDUzLC00MzExMzkyOTAsMTQ2OT
+kzNjEwOSwtMTAwNjg3MDc5NSwtOTQ0NjAyODQ5LDQyNDE3Njcy
+NCwzNTAwMDA2NTUsNjk2NzExNzU5LDIwNDc5NTYzOCwtMTk3MD
+Q1NTE0NSwxMTM5MTEwMzIwLC0xODcyNDU5ODMzLDE1ODkyOTA4
+Nyw4MjAwNDg5NjYsLTE5NjI3MjY4NjIsMjAwMzc0NjM5NSwtNj
+kwNzU4NjU1LC0xMjgzMDE0NDgyLC0xOTUyMDQyNjM4LDEwMTA4
+NjE3NV19
 -->
