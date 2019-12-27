@@ -250,11 +250,13 @@ excitement指状态
 exhilaration指行为
 
 ## 12.27
-uniform 
+uniform -- \ ˈyü-nə-ˌfȯrm
+_Uniform_ means the same. If your school has a _uniform_ it means all the kids wear the same clothes. If you are told to make your handwriting _uniform_, they want your letters to be the same shape and size over and over.
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5Mzg4NzUyNSwyMDA2OTIwNTMsLTQzMT
+eyJoaXN0b3J5IjpbMTc4MzQwMTg4MCwyMDA2OTIwNTMsLTQzMT
 EzOTI5MCwxNDY5OTM2MTA5LC0xMDA2ODcwNzk1LC05NDQ2MDI4
 NDksNDI0MTc2NzI0LDM1MDAwMDY1NSw2OTY3MTE3NTksMjA0Nz
 k1NjM4LC0xOTcwNDU1MTQ1LDExMzkxMTAzMjAsLTE4NzI0NTk4
