@@ -253,14 +253,22 @@ exhilaration指行为
 uniform -- \ ˈyü-nə-ˌfȯrm
 _Uniform_ means the same. If your school has a _uniform_ it means all the kids wear the same clothes. If you are told to make your handwriting _uniform_, they want your letters to be the same shape and size over and over.
 
+### 12.28
+transfe
+If you are moving something from one place to another, like transferring money from your savings account to your checking account, you are transferring it. Or, if you've been moved from one job site to another — you, my friend, have been transferred.
+
+checking account 
+an account at a bank against which checks can be drawn by the account depositor.
+a bank account which pays little or no interest, but from which the customer can withdraw money when he or she wants by writing checks.
+Also called cheque account
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MzQwMTg4MCwyMDA2OTIwNTMsLTQzMT
-EzOTI5MCwxNDY5OTM2MTA5LC0xMDA2ODcwNzk1LC05NDQ2MDI4
-NDksNDI0MTc2NzI0LDM1MDAwMDY1NSw2OTY3MTE3NTksMjA0Nz
-k1NjM4LC0xOTcwNDU1MTQ1LDExMzkxMTAzMjAsLTE4NzI0NTk4
-MzMsMTU4OTI5MDg3LDgyMDA0ODk2NiwtMTk2MjcyNjg2MiwyMD
-AzNzQ2Mzk1LC02OTA3NTg2NTUsLTEyODMwMTQ0ODIsLTE5NTIw
-NDI2MzhdfQ==
+eyJoaXN0b3J5IjpbLTgzNTg2MTE1NywxNzgzNDAxODgwLDIwMD
+Y5MjA1MywtNDMxMTM5MjkwLDE0Njk5MzYxMDksLTEwMDY4NzA3
+OTUsLTk0NDYwMjg0OSw0MjQxNzY3MjQsMzUwMDAwNjU1LDY5Nj
+cxMTc1OSwyMDQ3OTU2MzgsLTE5NzA0NTUxNDUsMTEzOTExMDMy
+MCwtMTg3MjQ1OTgzMywxNTg5MjkwODcsODIwMDQ4OTY2LC0xOT
+YyNzI2ODYyLDIwMDM3NDYzOTUsLTY5MDc1ODY1NSwtMTI4MzAx
+NDQ4Ml19
 -->
