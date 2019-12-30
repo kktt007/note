@@ -262,9 +262,30 @@ an account at a bank against which checks can be drawn by the account depositor.
 a bank account which pays little or no interest, but from which the customer can withdraw money when he or she wants by writing checks.
 Also called cheque account
 
+### 2019.12.30
+dissemble
+- When people dissemble, they hide their real intentions or emotions.
+
+experiment -- \ ik-ˈsper-ə-mənt
+- the testing of an idea
+“it was an experiment in living”
+- try something new, as in order to gain experience
+- the act of conducting a controlled test or investigation
+
+conduct 
+- The noun conduct refers to behavior, like how students are rewarded for good conduct. 
+- the way a person behaves toward other people
+- to behave or manage (oneself):
+	- He conducted himself well.
+
+gain -- \ ˈgān
+- A gain is an increase in something, especially something good. You gain knowledge by attending philosophy lectures and reading books.
+
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNTg2MTE1NywxNzgzNDAxODgwLDIwMD
+eyJoaXN0b3J5IjpbLTQwNzMwNDA1OCwxNzgzNDAxODgwLDIwMD
 Y5MjA1MywtNDMxMTM5MjkwLDE0Njk5MzYxMDksLTEwMDY4NzA3
 OTUsLTk0NDYwMjg0OSw0MjQxNzY3MjQsMzUwMDAwNjU1LDY5Nj
 cxMTc1OSwyMDQ3OTU2MzgsLTE5NzA0NTUxNDUsMTEzOTExMDMy
