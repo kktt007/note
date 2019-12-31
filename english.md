@@ -288,7 +288,7 @@ The noun _hatred_ means to feel a strong emotional dislike toward something or s
 disgust \ di-ˈskəst
 _Disgust_ is a strong feeling of dislike.
 
-loathing \ ˈlō-t͟hiŋ
+loathing \ ˈlō-t͟hiŋ 更强烈
 _Loathing_ is a feeling of complete disgust.
 
 adtronomy \ ə-ˈsträ-nə-mē
@@ -296,11 +296,11 @@ _Astronomy_ is the science that looks up
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkyODA3NDI5LC00MDczMDQwNTgsMTc4Mz
-QwMTg4MCwyMDA2OTIwNTMsLTQzMTEzOTI5MCwxNDY5OTM2MTA5
-LC0xMDA2ODcwNzk1LC05NDQ2MDI4NDksNDI0MTc2NzI0LDM1MD
-AwMDY1NSw2OTY3MTE3NTksMjA0Nzk1NjM4LC0xOTcwNDU1MTQ1
-LDExMzkxMTAzMjAsLTE4NzI0NTk4MzMsMTU4OTI5MDg3LDgyMD
-A0ODk2NiwtMTk2MjcyNjg2MiwyMDAzNzQ2Mzk1LC02OTA3NTg2
-NTVdfQ==
+eyJoaXN0b3J5IjpbMjY3NjEzMjE5LDg5MjgwNzQyOSwtNDA3Mz
+A0MDU4LDE3ODM0MDE4ODAsMjAwNjkyMDUzLC00MzExMzkyOTAs
+MTQ2OTkzNjEwOSwtMTAwNjg3MDc5NSwtOTQ0NjAyODQ5LDQyND
+E3NjcyNCwzNTAwMDA2NTUsNjk2NzExNzU5LDIwNDc5NTYzOCwt
+MTk3MDQ1NTE0NSwxMTM5MTEwMzIwLC0xODcyNDU5ODMzLDE1OD
+kyOTA4Nyw4MjAwNDg5NjYsLTE5NjI3MjY4NjIsMjAwMzc0NjM5
+NV19
 -->
