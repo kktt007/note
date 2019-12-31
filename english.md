@@ -283,7 +283,7 @@ gain -- \ ˈgān
 - A gain is an increase in something, especially something good. You gain knowledge by attending philosophy lectures and reading books.
 
 ### 12.31
-hatred \ ˈhā-trəd
+hatred \ ˈhā-trəd 发tr
 The noun _hatred_ means to feel a strong emotional dislike toward something or someone.
 
 disgust \ di-ˈskəst
@@ -297,11 +297,11 @@ _Astronomy_ is the science that looks up
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAzMDAyOTk3LDI2NzYxMzIxOSw4OTI4MD
-c0MjksLTQwNzMwNDA1OCwxNzgzNDAxODgwLDIwMDY5MjA1Mywt
-NDMxMTM5MjkwLDE0Njk5MzYxMDksLTEwMDY4NzA3OTUsLTk0ND
-YwMjg0OSw0MjQxNzY3MjQsMzUwMDAwNjU1LDY5NjcxMTc1OSwy
-MDQ3OTU2MzgsLTE5NzA0NTUxNDUsMTEzOTExMDMyMCwtMTg3Mj
-Q1OTgzMywxNTg5MjkwODcsODIwMDQ4OTY2LC0xOTYyNzI2ODYy
-XX0=
+eyJoaXN0b3J5IjpbLTU5Mzk3NjU0MCwzMDMwMDI5OTcsMjY3Nj
+EzMjE5LDg5MjgwNzQyOSwtNDA3MzA0MDU4LDE3ODM0MDE4ODAs
+MjAwNjkyMDUzLC00MzExMzkyOTAsMTQ2OTkzNjEwOSwtMTAwNj
+g3MDc5NSwtOTQ0NjAyODQ5LDQyNDE3NjcyNCwzNTAwMDA2NTUs
+Njk2NzExNzU5LDIwNDc5NTYzOCwtMTk3MDQ1NTE0NSwxMTM5MT
+EwMzIwLC0xODcyNDU5ODMzLDE1ODkyOTA4Nyw4MjAwNDg5NjZd
+fQ==
 -->
