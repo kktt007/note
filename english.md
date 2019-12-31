@@ -285,16 +285,19 @@ gain -- \ ˈgān
 hatred \ ˈhā-trəd
 The noun _hatred_ means to feel a strong emotional dislike toward something or someone.
 
-disgust 
+disgust \ di-ˈskəst
 _Disgust_ is a strong feeling of dislike.
+
+loathing \ ˈlō-t͟hiŋ
+_Loathing_ is a feeling of complete disgust.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTU5NTUxOTQsLTQwNzMwNDA1OCwxNz
-gzNDAxODgwLDIwMDY5MjA1MywtNDMxMTM5MjkwLDE0Njk5MzYx
-MDksLTEwMDY4NzA3OTUsLTk0NDYwMjg0OSw0MjQxNzY3MjQsMz
-UwMDAwNjU1LDY5NjcxMTc1OSwyMDQ3OTU2MzgsLTE5NzA0NTUx
-NDUsMTEzOTExMDMyMCwtMTg3MjQ1OTgzMywxNTg5MjkwODcsOD
-IwMDQ4OTY2LC0xOTYyNzI2ODYyLDIwMDM3NDYzOTUsLTY5MDc1
-ODY1NV19
+eyJoaXN0b3J5IjpbNDkwMDU5MDU1LC00MDczMDQwNTgsMTc4Mz
+QwMTg4MCwyMDA2OTIwNTMsLTQzMTEzOTI5MCwxNDY5OTM2MTA5
+LC0xMDA2ODcwNzk1LC05NDQ2MDI4NDksNDI0MTc2NzI0LDM1MD
+AwMDY1NSw2OTY3MTE3NTksMjA0Nzk1NjM4LC0xOTcwNDU1MTQ1
+LDExMzkxMTAzMjAsLTE4NzI0NTk4MzMsMTU4OTI5MDg3LDgyMD
+A0ODk2NiwtMTk2MjcyNjg2MiwyMDAzNzQ2Mzk1LC02OTA3NTg2
+NTVdfQ==
 -->
