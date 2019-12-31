@@ -1,4 +1,5 @@
 2019年11月26日
+/**---英英解释是帮助理解 记住的不能是解释, 通过记住语音和词组或句子来 记住单词,最好是文章中的句子,而不是单个的句子,最终也是要像文章那样使用句子的,从模仿开始daily news article-story magazine---**/
 
 **Kirschner wires** or **K-wires** or **pins** are [sterilized](https://en.wikipedia.org/wiki/Sterilization_(microbiology) "Sterilization (microbiology)"), sharpened, smooth [stainless steel](https://en.wikipedia.org/wiki/Stainless_steel "Stainless steel") pins.
 sharper  -- \ ˈshär-pər 发b
@@ -296,11 +297,11 @@ _Astronomy_ is the science that looks up
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY3NjEzMjE5LDg5MjgwNzQyOSwtNDA3Mz
-A0MDU4LDE3ODM0MDE4ODAsMjAwNjkyMDUzLC00MzExMzkyOTAs
-MTQ2OTkzNjEwOSwtMTAwNjg3MDc5NSwtOTQ0NjAyODQ5LDQyND
-E3NjcyNCwzNTAwMDA2NTUsNjk2NzExNzU5LDIwNDc5NTYzOCwt
-MTk3MDQ1NTE0NSwxMTM5MTEwMzIwLC0xODcyNDU5ODMzLDE1OD
-kyOTA4Nyw4MjAwNDg5NjYsLTE5NjI3MjY4NjIsMjAwMzc0NjM5
-NV19
+eyJoaXN0b3J5IjpbMzAzMDAyOTk3LDI2NzYxMzIxOSw4OTI4MD
+c0MjksLTQwNzMwNDA1OCwxNzgzNDAxODgwLDIwMDY5MjA1Mywt
+NDMxMTM5MjkwLDE0Njk5MzYxMDksLTEwMDY4NzA3OTUsLTk0ND
+YwMjg0OSw0MjQxNzY3MjQsMzUwMDAwNjU1LDY5NjcxMTc1OSwy
+MDQ3OTU2MzgsLTE5NzA0NTUxNDUsMTEzOTExMDMyMCwtMTg3Mj
+Q1OTgzMywxNTg5MjkwODcsODIwMDQ4OTY2LC0xOTYyNzI2ODYy
+XX0=
 -->
