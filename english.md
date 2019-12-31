@@ -291,9 +291,12 @@ _Disgust_ is a strong feeling of dislike.
 loathing \ ˈlō-t͟hiŋ
 _Loathing_ is a feeling of complete disgust.
 
+adtronomy \ ə-ˈsträ-nə-mē
+_Astronomy_ is the science that looks up
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkwMDU5MDU1LC00MDczMDQwNTgsMTc4Mz
+eyJoaXN0b3J5IjpbODkyODA3NDI5LC00MDczMDQwNTgsMTc4Mz
 QwMTg4MCwyMDA2OTIwNTMsLTQzMTEzOTI5MCwxNDY5OTM2MTA5
 LC0xMDA2ODcwNzk1LC05NDQ2MDI4NDksNDI0MTc2NzI0LDM1MD
 AwMDY1NSw2OTY3MTE3NTksMjA0Nzk1NjM4LC0xOTcwNDU1MTQ1
