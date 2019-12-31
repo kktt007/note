@@ -281,15 +281,20 @@ conduct
 gain -- \ ˈgān
 - A gain is an increase in something, especially something good. You gain knowledge by attending philosophy lectures and reading books.
 
+### 12.31
+hatred \ ˈhā-trəd
+The noun _hatred_ means to feel a strong emotional dislike toward something or someone.
 
+disgust 
+_Disgust_ is a strong feeling of dislike.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNzMwNDA1OCwxNzgzNDAxODgwLDIwMD
-Y5MjA1MywtNDMxMTM5MjkwLDE0Njk5MzYxMDksLTEwMDY4NzA3
-OTUsLTk0NDYwMjg0OSw0MjQxNzY3MjQsMzUwMDAwNjU1LDY5Nj
-cxMTc1OSwyMDQ3OTU2MzgsLTE5NzA0NTUxNDUsMTEzOTExMDMy
-MCwtMTg3MjQ1OTgzMywxNTg5MjkwODcsODIwMDQ4OTY2LC0xOT
-YyNzI2ODYyLDIwMDM3NDYzOTUsLTY5MDc1ODY1NSwtMTI4MzAx
-NDQ4Ml19
+eyJoaXN0b3J5IjpbLTEwNTU5NTUxOTQsLTQwNzMwNDA1OCwxNz
+gzNDAxODgwLDIwMDY5MjA1MywtNDMxMTM5MjkwLDE0Njk5MzYx
+MDksLTEwMDY4NzA3OTUsLTk0NDYwMjg0OSw0MjQxNzY3MjQsMz
+UwMDAwNjU1LDY5NjcxMTc1OSwyMDQ3OTU2MzgsLTE5NzA0NTUx
+NDUsMTEzOTExMDMyMCwtMTg3MjQ1OTgzMywxNTg5MjkwODcsOD
+IwMDQ4OTY2LC0xOTYyNzI2ODYyLDIwMDM3NDYzOTUsLTY5MDc1
+ODY1NV19
 -->
