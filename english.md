@@ -298,6 +298,7 @@ _Astronomy_ is the science that looks up
 ### 2020.1.2
 
 apprehension -- \ ˌa-pri-ˈhen(t)-shən 注意发音
+anxiety about the future, especially about dealing with something  [unpleasant]
 
 entertainment -- \ ˌen-tər-ˈtān-mənt
 amusement, usually involving a performance. 
@@ -307,7 +308,7 @@ amuse
 to make someone laugh or smile
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTQxMDM2NDcsMzAzMDAyOTk3LDI2Nz
+eyJoaXN0b3J5IjpbLTE1MTIzNjczODksMzAzMDAyOTk3LDI2Nz
 YxMzIxOSw4OTI4MDc0MjksLTQwNzMwNDA1OCwxNzgzNDAxODgw
 LDIwMDY5MjA1MywtNDMxMTM5MjkwLDE0Njk5MzYxMDksLTEwMD
 Y4NzA3OTUsLTk0NDYwMjg0OSw0MjQxNzY3MjQsMzUwMDAwNjU1
