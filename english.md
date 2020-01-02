@@ -295,13 +295,23 @@ _Loathing_ is a feeling of complete disgust.
 adtronomy \ ə-ˈsträ-nə-mē
 _Astronomy_ is the science that looks up
 
+### 2020.1.2
+
+apprehension -- \ ˌa-pri-ˈhen(t)-shən 注意发音
+
+entertainment -- \ ˌen-tər-ˈtān-mənt
+amusement, usually involving a performance. 
+things such as films, television, performances etc that are intended to amuse or interest people
+
+amuse
+to make someone laugh or smile
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5Mzk3NjU0MCwzMDMwMDI5OTcsMjY3Nj
-EzMjE5LDg5MjgwNzQyOSwtNDA3MzA0MDU4LDE3ODM0MDE4ODAs
-MjAwNjkyMDUzLC00MzExMzkyOTAsMTQ2OTkzNjEwOSwtMTAwNj
-g3MDc5NSwtOTQ0NjAyODQ5LDQyNDE3NjcyNCwzNTAwMDA2NTUs
-Njk2NzExNzU5LDIwNDc5NTYzOCwtMTk3MDQ1NTE0NSwxMTM5MT
-EwMzIwLC0xODcyNDU5ODMzLDE1ODkyOTA4Nyw4MjAwNDg5NjZd
-fQ==
+eyJoaXN0b3J5IjpbLTE1NTQxMDM2NDcsMzAzMDAyOTk3LDI2Nz
+YxMzIxOSw4OTI4MDc0MjksLTQwNzMwNDA1OCwxNzgzNDAxODgw
+LDIwMDY5MjA1MywtNDMxMTM5MjkwLDE0Njk5MzYxMDksLTEwMD
+Y4NzA3OTUsLTk0NDYwMjg0OSw0MjQxNzY3MjQsMzUwMDAwNjU1
+LDY5NjcxMTc1OSwyMDQ3OTU2MzgsLTE5NzA0NTUxNDUsMTEzOT
+ExMDMyMCwtMTg3MjQ1OTgzMywxNTg5MjkwODcsODIwMDQ4OTY2
+XX0=
 -->
