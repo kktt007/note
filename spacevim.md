@@ -1,4 +1,6 @@
 
+windows: mklink /D %USERPROFILE%\AppData\Local\nvnvim %USERPROFILE%\.SpaceVim
+https://github.com/Gabirel/Hack-SpaceVim/blob/master/en_US/installation/installation-for-windows.md#start-to-install
 默认的 `<Leader>` 是 \
 
 标签栏上每一个 Tab 或者 Buffer 可通过快捷键 <Leader> number 进行快速访问 
