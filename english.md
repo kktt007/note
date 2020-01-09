@@ -323,14 +323,15 @@ To give or apply (one's time, attention, or self, for example) entirely to a par
 
 pursuit \ pər-ˈsüt
 A _pursuit_ is a chase or a quest for something.
+the act of following or searching for someone or something, in order to catch or attack the person or thing.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMDM4NzU3LDE4NDEyNTI1OTgsMzAzMD
-AyOTk3LDI2NzYxMzIxOSw4OTI4MDc0MjksLTQwNzMwNDA1OCwx
-NzgzNDAxODgwLDIwMDY5MjA1MywtNDMxMTM5MjkwLDE0Njk5Mz
-YxMDksLTEwMDY4NzA3OTUsLTk0NDYwMjg0OSw0MjQxNzY3MjQs
-MzUwMDAwNjU1LDY5NjcxMTc1OSwyMDQ3OTU2MzgsLTE5NzA0NT
-UxNDUsMTEzOTExMDMyMCwtMTg3MjQ1OTgzMywxNTg5MjkwODdd
-fQ==
+eyJoaXN0b3J5IjpbLTg2MjUzMDczNCwxODQxMjUyNTk4LDMwMz
+AwMjk5NywyNjc2MTMyMTksODkyODA3NDI5LC00MDczMDQwNTgs
+MTc4MzQwMTg4MCwyMDA2OTIwNTMsLTQzMTEzOTI5MCwxNDY5OT
+M2MTA5LC0xMDA2ODcwNzk1LC05NDQ2MDI4NDksNDI0MTc2NzI0
+LDM1MDAwMDY1NSw2OTY3MTE3NTksMjA0Nzk1NjM4LC0xOTcwND
+U1MTQ1LDExMzkxMTAzMjAsLTE4NzI0NTk4MzMsMTU4OTI5MDg3
+XX0=
 -->
