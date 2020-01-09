@@ -325,13 +325,18 @@ pursuit \ pər-ˈsüt
 A _pursuit_ is a chase or a quest for something.
 the act of following or searching for someone or something, in order to catch or attack the person or thing.
 
+upset -- \ (ˌ)əp-ˈset 
+
+insensitive - \ (ˌ)in-ˈsen(t)-s(ə-)tiv
+not noticing, or not taking the care to notice, other people’s feelings, and not realizing when they are upset or when something that you do will upset them
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MjUzMDczNCwxODQxMjUyNTk4LDMwMz
-AwMjk5NywyNjc2MTMyMTksODkyODA3NDI5LC00MDczMDQwNTgs
-MTc4MzQwMTg4MCwyMDA2OTIwNTMsLTQzMTEzOTI5MCwxNDY5OT
-M2MTA5LC0xMDA2ODcwNzk1LC05NDQ2MDI4NDksNDI0MTc2NzI0
-LDM1MDAwMDY1NSw2OTY3MTE3NTksMjA0Nzk1NjM4LC0xOTcwND
-U1MTQ1LDExMzkxMTAzMjAsLTE4NzI0NTk4MzMsMTU4OTI5MDg3
-XX0=
+eyJoaXN0b3J5IjpbLTE5OTU1MzkyMTYsLTg2MjUzMDczNCwxOD
+QxMjUyNTk4LDMwMzAwMjk5NywyNjc2MTMyMTksODkyODA3NDI5
+LC00MDczMDQwNTgsMTc4MzQwMTg4MCwyMDA2OTIwNTMsLTQzMT
+EzOTI5MCwxNDY5OTM2MTA5LC0xMDA2ODcwNzk1LC05NDQ2MDI4
+NDksNDI0MTc2NzI0LDM1MDAwMDY1NSw2OTY3MTE3NTksMjA0Nz
+k1NjM4LC0xOTcwNDU1MTQ1LDExMzkxMTAzMjAsLTE4NzI0NTk4
+MzNdfQ==
 -->
