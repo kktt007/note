@@ -330,11 +330,11 @@ upset -- \ (ˌ)əp-ˈset
 insensitive -- \ (ˌ)in-ˈsen(t)-s(ə-)tiv
 not noticing, or not taking the care to notice, other people’s feelings, and not realizing when they are upset or when something that you do will upset them
 
-interpret -- \ in-ˈtər-prət
+interpret -- \ in-ˈtər-prət ə发ə
 When you _interpret_ something, you make sense of it
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NTQ3MDk5NCwtODYyNTMwNzM0LDE4ND
+eyJoaXN0b3J5IjpbLTQ0NjE3MDgzNSwtODYyNTMwNzM0LDE4ND
 EyNTI1OTgsMzAzMDAyOTk3LDI2NzYxMzIxOSw4OTI4MDc0Mjks
 LTQwNzMwNDA1OCwxNzgzNDAxODgwLDIwMDY5MjA1MywtNDMxMT
 M5MjkwLDE0Njk5MzYxMDksLTEwMDY4NzA3OTUsLTk0NDYwMjg0
