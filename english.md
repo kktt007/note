@@ -321,10 +321,12 @@ an interpretation of a poem.
 devote -- \ di-ˈvōt
 To give or apply (one's time, attention, or self, for example) entirely to a particular activity, pursuit, cause, or person
 
+pursuit \ pər-ˈsüt
+A _pursuit_ is a chase or a quest for something.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI3MjQ3ODkxLDE4NDEyNTI1OTgsMzAzMD
+eyJoaXN0b3J5IjpbLTIyMDM4NzU3LDE4NDEyNTI1OTgsMzAzMD
 AyOTk3LDI2NzYxMzIxOSw4OTI4MDc0MjksLTQwNzMwNDA1OCwx
 NzgzNDAxODgwLDIwMDY5MjA1MywtNDMxMTM5MjkwLDE0Njk5Mz
 YxMDksLTEwMDY4NzA3OTUsLTk0NDYwMjg0OSw0MjQxNzY3MjQs
