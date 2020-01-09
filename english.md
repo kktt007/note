@@ -327,16 +327,18 @@ the act of following or searching for someone or something, in order to catch or
 
 upset -- \ (ˌ)əp-ˈset 
 
-insensitive - \ (ˌ)in-ˈsen(t)-s(ə-)tiv
+insensitive -- \ (ˌ)in-ˈsen(t)-s(ə-)tiv
 not noticing, or not taking the care to notice, other people’s feelings, and not realizing when they are upset or when something that you do will upset them
 
+interpret -- \ in-ˈtər-prət
+When you _interpret_ something, you make sense of it
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTU1MzkyMTYsLTg2MjUzMDczNCwxOD
-QxMjUyNTk4LDMwMzAwMjk5NywyNjc2MTMyMTksODkyODA3NDI5
-LC00MDczMDQwNTgsMTc4MzQwMTg4MCwyMDA2OTIwNTMsLTQzMT
-EzOTI5MCwxNDY5OTM2MTA5LC0xMDA2ODcwNzk1LC05NDQ2MDI4
-NDksNDI0MTc2NzI0LDM1MDAwMDY1NSw2OTY3MTE3NTksMjA0Nz
-k1NjM4LC0xOTcwNDU1MTQ1LDExMzkxMTAzMjAsLTE4NzI0NTk4
-MzNdfQ==
+eyJoaXN0b3J5IjpbLTg3NTQ3MDk5NCwtODYyNTMwNzM0LDE4ND
+EyNTI1OTgsMzAzMDAyOTk3LDI2NzYxMzIxOSw4OTI4MDc0Mjks
+LTQwNzMwNDA1OCwxNzgzNDAxODgwLDIwMDY5MjA1MywtNDMxMT
+M5MjkwLDE0Njk5MzYxMDksLTEwMDY4NzA3OTUsLTk0NDYwMjg0
+OSw0MjQxNzY3MjQsMzUwMDAwNjU1LDY5NjcxMTc1OSwyMDQ3OT
+U2MzgsLTE5NzA0NTUxNDUsMTEzOTExMDMyMCwtMTg3MjQ1OTgz
+M119
 -->
