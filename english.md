@@ -317,13 +317,17 @@ interpretation  \ in-ˌtər-prə-ˈtā-shən
 - an explanation of the meaning of another's artistic or creative work; an elucidation:
 an interpretation of a poem.
 
+### 2020.1.9
+devote -- \ di-ˈvōt
+To give or apply (one's time, attention, or self, for example) entirely to a particular activity, pursuit, cause, or person
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MTI1MjU5OCwzMDMwMDI5OTcsMjY3Nj
-EzMjE5LDg5MjgwNzQyOSwtNDA3MzA0MDU4LDE3ODM0MDE4ODAs
-MjAwNjkyMDUzLC00MzExMzkyOTAsMTQ2OTkzNjEwOSwtMTAwNj
-g3MDc5NSwtOTQ0NjAyODQ5LDQyNDE3NjcyNCwzNTAwMDA2NTUs
-Njk2NzExNzU5LDIwNDc5NTYzOCwtMTk3MDQ1NTE0NSwxMTM5MT
-EwMzIwLC0xODcyNDU5ODMzLDE1ODkyOTA4Nyw4MjAwNDg5NjZd
+eyJoaXN0b3J5IjpbLTU4Mzc3NjkxLDE4NDEyNTI1OTgsMzAzMD
+AyOTk3LDI2NzYxMzIxOSw4OTI4MDc0MjksLTQwNzMwNDA1OCwx
+NzgzNDAxODgwLDIwMDY5MjA1MywtNDMxMTM5MjkwLDE0Njk5Mz
+YxMDksLTEwMDY4NzA3OTUsLTk0NDYwMjg0OSw0MjQxNzY3MjQs
+MzUwMDAwNjU1LDY5NjcxMTc1OSwyMDQ3OTU2MzgsLTE5NzA0NT
+UxNDUsMTEzOTExMDMyMCwtMTg3MjQ1OTgzMywxNTg5MjkwODdd
 fQ==
 -->
