@@ -27,7 +27,57 @@ vscode-icons
 EditorConfig for VS Code
 
 gitlens
+------
+---------
+### bash
+> https://www.gnu.org/software/bash/
 
+>
+
+>  [Bash builtinsBuilt in Bash commands](https://helpmanual.io/builtin/)
+
+>
+
+> https://ss64.com/bash/
+
+>
+
+> https://www.tldp.org/LDP/Bash-Beginners-Guide/html/Bash-Beginners-Guide.html
+
+>
+
+> https://gerardnico.com/lang/bash/builtin
+
+>
+
+> https://www.gnu.org/software/bash/manual/html_node/Bash-Builtins.html
+
+> https://www.gnu.org/software/bash/manual/html_node/Builtin-Index.html#Builtin-Index
+
+>
+
+> https://www.gnu.org/software/bash/manual/html_node/index.html
+
+>
+
+> http://man7.org/linux/man-pages/man1/set.1p.html
+
+>
+
+>  [Special Built-in Utilities](https://pubs.opengroup.org/onlinepubs/009695399/idx/sbi.html)
+
+>
+
+> https://en.wikibooks.org/wiki/Bash_Shell_Scripting
+
+>
+
+> https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/bash.sh
+
+>
+
+> http://manpages.ubuntu.com/manpages/bionic/man7/bash-builtins.7.html#bash builtin commands
+> 
 
 v2ray配置
 ```
@@ -151,6 +201,6 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MDEzNjU5MCwxODAyMTkxNDQ4LC0zMD
-k2MjYyNzhdfQ==
+eyJoaXN0b3J5IjpbMTMxNjAyMTIzMSwtMzgwMTM2NTkwLDE4MD
+IxOTE0NDgsLTMwOTYyNjI3OF19
 -->
