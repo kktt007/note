@@ -26,6 +26,14 @@ vscode-icons
 
 EditorConfig for VS Code
 
+Server = http://mirrors.aliyun.com/archlinux/$repo/os/$arch
+Server = http://mirrors.163.com/archlinux/$repo/os/$arch
+Server = https://mirrors.huaweicloud.com/archlinux/$repo/os/$arch
+
+[archlinuxcn]
+Server = http://mirrors.163.com/archlinux-cn/$arch
+Server = https://mirrors.cloud.tencent.com/archlinuxcn/$arch
+
 gitlens
 ------
 ---------
@@ -201,6 +209,6 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNjAyMTIzMSwtMzgwMTM2NTkwLDE4MD
-IxOTE0NDgsLTMwOTYyNjI3OF19
+eyJoaXN0b3J5IjpbLTE5NTU0ODE3MTYsMTMxNjAyMTIzMSwtMz
+gwMTM2NTkwLDE4MDIxOTE0NDgsLTMwOTYyNjI3OF19
 -->
