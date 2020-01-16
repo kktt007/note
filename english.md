@@ -334,11 +334,11 @@ interpret -- \ in-ˈtər-prət ə发ə
 When you _interpret_ something, you make sense of it
 
 ## 2020.1.16
-personable 
+- personable 
 someone who is personable is attractive and pleasant
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MjUwMTc0NywtODYyNTMwNzM0LDE4ND
+eyJoaXN0b3J5IjpbLTIxNzgwNDY2NiwtODYyNTMwNzM0LDE4ND
 EyNTI1OTgsMzAzMDAyOTk3LDI2NzYxMzIxOSw4OTI4MDc0Mjks
 LTQwNzMwNDA1OCwxNzgzNDAxODgwLDIwMDY5MjA1MywtNDMxMT
 M5MjkwLDE0Njk5MzYxMDksLTEwMDY4NzA3OTUsLTk0NDYwMjg0
