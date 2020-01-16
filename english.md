@@ -333,18 +333,21 @@ not noticing, or not taking the care to notice, other people’s feelings, and n
 interpret -- \ in-ˈtər-prət ə发ə
 When you _interpret_ something, you make sense of it
 
-- reunion -- \ (ˌ)rē-ˈyün-yən
-- 
+	
 ## 2020.1.16
 - personable 
 someone who is personable is attractive and pleasant
+
+- reunion -- \ (ˌ)rē-ˈyün-yən
+a social meeting of people who have not met for a long time, especially people who were at school or college together
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDk3Njg5OTMsLTIxNzgwNDY2NiwtOD
-YyNTMwNzM0LDE4NDEyNTI1OTgsMzAzMDAyOTk3LDI2NzYxMzIx
-OSw4OTI4MDc0MjksLTQwNzMwNDA1OCwxNzgzNDAxODgwLDIwMD
-Y5MjA1MywtNDMxMTM5MjkwLDE0Njk5MzYxMDksLTEwMDY4NzA3
-OTUsLTk0NDYwMjg0OSw0MjQxNzY3MjQsMzUwMDAwNjU1LDY5Nj
-cxMTc1OSwyMDQ3OTU2MzgsLTE5NzA0NTUxNDUsMTEzOTExMDMy
-MF19
+eyJoaXN0b3J5IjpbMTEwMjgzMTMzMSwtMjE3ODA0NjY2LC04Nj
+I1MzA3MzQsMTg0MTI1MjU5OCwzMDMwMDI5OTcsMjY3NjEzMjE5
+LDg5MjgwNzQyOSwtNDA3MzA0MDU4LDE3ODM0MDE4ODAsMjAwNj
+kyMDUzLC00MzExMzkyOTAsMTQ2OTkzNjEwOSwtMTAwNjg3MDc5
+NSwtOTQ0NjAyODQ5LDQyNDE3NjcyNCwzNTAwMDA2NTUsNjk2Nz
+ExNzU5LDIwNDc5NTYzOCwtMTk3MDQ1NTE0NSwxMTM5MTEwMzIw
+XX0=
 -->
