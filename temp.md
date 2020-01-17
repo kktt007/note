@@ -98,7 +98,6 @@ gitlens
 ### bash
 > https://www.gnu.org/software/bash/
 
->
 
 >  [Bash builtinsBuilt in Bash commands](https://helpmanual.io/builtin/)
 
@@ -116,7 +115,7 @@ gitlens
 
 >
 
-> https://www.gnu.org/software/bash/manual/html_node/Bash-Builtins.html
+>https://www.gnu.org/software/bash/manual/html_node/Bash-Builtins.html
 
 > https://www.gnu.org/software/bash/manual/html_node/Builtin-Index.html#Builtin-Index
 
@@ -267,8 +266,8 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDU3NjQwNDMsMTg4NjQyNDQ1NCwxNz
-g5MTQzNzgwLDE5MjI5MDU2NzUsMTgwMDM4NDA0MSw0NzQzOTAx
-OTIsLTE5NTU0ODE3MTYsMTMxNjAyMTIzMSwtMzgwMTM2NTkwLD
-E4MDIxOTE0NDgsLTMwOTYyNjI3OF19
+eyJoaXN0b3J5IjpbLTEyOTMwNDMwODksLTIxNDU3NjQwNDMsMT
+g4NjQyNDQ1NCwxNzg5MTQzNzgwLDE5MjI5MDU2NzUsMTgwMDM4
+NDA0MSw0NzQzOTAxOTIsLTE5NTU0ODE3MTYsMTMxNjAyMTIzMS
+wtMzgwMTM2NTkwLDE4MDIxOTE0NDgsLTMwOTYyNjI3OF19
 -->
