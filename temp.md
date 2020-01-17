@@ -1,3 +1,7 @@
+## KDE blur
+https://www.reddit.com/r/unixporn/comments/9un99u/kde_plasma_do_you_need_so_more_blur/?utm_source=share&utm_medium=web2x
+-----
+
 vs code plugin
 
 Visual Studio Intellicode
@@ -209,6 +213,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTU0ODE3MTYsMTMxNjAyMTIzMSwtMz
-gwMTM2NTkwLDE4MDIxOTE0NDgsLTMwOTYyNjI3OF19
+eyJoaXN0b3J5IjpbMTA5MDE3MTQ4MCwtMTk1NTQ4MTcxNiwxMz
+E2MDIxMjMxLC0zODAxMzY1OTAsMTgwMjE5MTQ0OCwtMzA5NjI2
+Mjc4XX0=
 -->
