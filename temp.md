@@ -15,6 +15,9 @@ Windows Decoration
 Application Menu icon
 Widget Style
 Title bar button
+```
+Kvantum Manager → Configure Active Theme → Compositing & General Look → Blurring for menus and tooltips.
+```
 
 ### Script usage
 
@@ -259,7 +262,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMTc1NTQ4MSwxODAwMzg0MDQxLDQ3ND
+eyJoaXN0b3J5IjpbMTkyMjkwNTY3NSwxODAwMzg0MDQxLDQ3ND
 M5MDE5MiwtMTk1NTQ4MTcxNiwxMzE2MDIxMjMxLC0zODAxMzY1
 OTAsMTgwMjE5MTQ0OCwtMzA5NjI2Mjc4XX0=
 -->
