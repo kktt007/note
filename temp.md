@@ -18,6 +18,7 @@ Title bar button
 ```
 Kvantum Manager → Configure Active Theme → Compositing & General Look → Blurring for menus and tooltips.
 ```
+_Appearance → Application Style"_ , you must select kvantum
 
 ### Script usage
 
@@ -262,7 +263,8 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMjkwNTY3NSwxODAwMzg0MDQxLDQ3ND
-M5MDE5MiwtMTk1NTQ4MTcxNiwxMzE2MDIxMjMxLC0zODAxMzY1
-OTAsMTgwMjE5MTQ0OCwtMzA5NjI2Mjc4XX0=
+eyJoaXN0b3J5IjpbMTc4OTE0Mzc4MCwxOTIyOTA1Njc1LDE4MD
+AzODQwNDEsNDc0MzkwMTkyLC0xOTU1NDgxNzE2LDEzMTYwMjEy
+MzEsLTM4MDEzNjU5MCwxODAyMTkxNDQ4LC0zMDk2MjYyNzhdfQ
+==
 -->
