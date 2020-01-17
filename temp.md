@@ -1,5 +1,8 @@
 ## KDE blur
 https://www.reddit.com/r/unixporn/comments/9un99u/kde_plasma_do_you_need_so_more_blur/?utm_source=share&utm_medium=web2x
+
+https://www.reddit.com/r/kde/comments/ekiw85/dark_breeze_blur_simple_kde_top_bar/
+
 -----
 
 vs code plugin
@@ -213,7 +216,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MDE3MTQ4MCwtMTk1NTQ4MTcxNiwxMz
-E2MDIxMjMxLC0zODAxMzY1OTAsMTgwMjE5MTQ0OCwtMzA5NjI2
-Mjc4XX0=
+eyJoaXN0b3J5IjpbNDc0MzkwMTkyLC0xOTU1NDgxNzE2LDEzMT
+YwMjEyMzEsLTM4MDEzNjU5MCwxODAyMTkxNDQ4LC0zMDk2MjYy
+NzhdfQ==
 -->
