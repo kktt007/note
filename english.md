@@ -341,13 +341,26 @@ someone who is personable is attractive and pleasant
 - reunion -- \ (ˌ)rē-ˈyün-yən
 a social meeting of people who have not met for a long time, especially people who were at school or college together
 
-> Written with [StackEdit](https://stackedit.io/).
+## 1.17
+
+transparent -- \ tran(t)s-ˈper-ənt
+- You can see right through something transparent. A window is transparent
+- a transparent plastic container
+- formal language or information that is transparent is clear and easy to understand
+	- The way the system works will be transparent to the user.
+
+opacify --  \ ō-ˈpas-ə-ˌfī
+- to make or become opaque
+	- opaque adj. -- \ ō-ˈpāk
+	-  preventing light from traveling through, and therefore not allowing you to see through 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMjgzMTMzMSwtMjE3ODA0NjY2LC04Nj
-I1MzA3MzQsMTg0MTI1MjU5OCwzMDMwMDI5OTcsMjY3NjEzMjE5
-LDg5MjgwNzQyOSwtNDA3MzA0MDU4LDE3ODM0MDE4ODAsMjAwNj
-kyMDUzLC00MzExMzkyOTAsMTQ2OTkzNjEwOSwtMTAwNjg3MDc5
-NSwtOTQ0NjAyODQ5LDQyNDE3NjcyNCwzNTAwMDA2NTUsNjk2Nz
-ExNzU5LDIwNDc5NTYzOCwtMTk3MDQ1NTE0NSwxMTM5MTEwMzIw
+eyJoaXN0b3J5IjpbLTYxOTY0MzQ5NSwxMTAyODMxMzMxLC0yMT
+c4MDQ2NjYsLTg2MjUzMDczNCwxODQxMjUyNTk4LDMwMzAwMjk5
+NywyNjc2MTMyMTksODkyODA3NDI5LC00MDczMDQwNTgsMTc4Mz
+QwMTg4MCwyMDA2OTIwNTMsLTQzMTEzOTI5MCwxNDY5OTM2MTA5
+LC0xMDA2ODcwNzk1LC05NDQ2MDI4NDksNDI0MTc2NzI0LDM1MD
+AwMDY1NSw2OTY3MTE3NTksMjA0Nzk1NjM4LC0xOTcwNDU1MTQ1
 XX0=
 -->
