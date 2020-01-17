@@ -354,13 +354,13 @@ opacify --  \ ō-ˈpas-ə-ˌfī
 	- opaque adj. -- \ ō-ˈpāk
 	-  preventing light from traveling through, and therefore not allowing you to see through 
 
-
+ ritten with tackit(httpsstaeditio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxOTY0MzQ5NSwxMTAyODMxMzMxLC0yMT
-c4MDQ2NjYsLTg2MjUzMDczNCwxODQxMjUyNTk4LDMwMzAwMjk5
-NywyNjc2MTMyMTksODkyODA3NDI5LC00MDczMDQwNTgsMTc4Mz
-QwMTg4MCwyMDA2OTIwNTMsLTQzMTEzOTI5MCwxNDY5OTM2MTA5
-LC0xMDA2ODcwNzk1LC05NDQ2MDI4NDksNDI0MTc2NzI0LDM1MD
-AwMDY1NSw2OTY3MTE3NTksMjA0Nzk1NjM4LC0xOTcwNDU1MTQ1
-XX0=
+eyJoaXN0b3J5IjpbMTYwNjAxNzE1OCwtNjE5NjQzNDk1LDExMD
+I4MzEzMzEsLTIxNzgwNDY2NiwtODYyNTMwNzM0LDE4NDEyNTI1
+OTgsMzAzMDAyOTk3LDI2NzYxMzIxOSw4OTI4MDc0MjksLTQwNz
+MwNDA1OCwxNzgzNDAxODgwLDIwMDY5MjA1MywtNDMxMTM5Mjkw
+LDE0Njk5MzYxMDksLTEwMDY4NzA3OTUsLTk0NDYwMjg0OSw0Mj
+QxNzY3MjQsMzUwMDAwNjU1LDY5NjcxMTc1OSwyMDQ3OTU2Mzhd
+fQ==
 -->
