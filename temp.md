@@ -9,6 +9,13 @@ Select Kvantum from System Settings → Application Style → Widget Style and a
 Select Kvantum from System Settings → Color → Scheme and click Apply.
 papirus-icon-theme 需要安装 yay hardcode-fixer-git papirus-folders-git(使用方法:https://github.com/PapirusDevelopmentTeam/papirus-folders#script-usage)
 
+
+Global Menu(key words):
+Windows Decoration
+Application Menu icon
+Widget Style
+Title bar button
+
 ### Script usage
 
 Papirus-folders doesn't have a GUI, but it is a fully functional command-line application with TAB-completions. Below you'll see some examples of use.
@@ -252,7 +259,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMDM4NDA0MSw0NzQzOTAxOTIsLTE5NT
-U0ODE3MTYsMTMxNjAyMTIzMSwtMzgwMTM2NTkwLDE4MDIxOTE0
-NDgsLTMwOTYyNjI3OF19
+eyJoaXN0b3J5IjpbLTUzMTc1NTQ4MSwxODAwMzg0MDQxLDQ3ND
+M5MDE5MiwtMTk1NTQ4MTcxNiwxMzE2MDIxMjMxLC0zODAxMzY1
+OTAsMTgwMjE5MTQ0OCwtMzA5NjI2Mjc4XX0=
 -->
