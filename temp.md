@@ -19,7 +19,8 @@ Title bar button
 Kvantum Manager → Configure Active Theme → Compositing & General Look → Blurring for menus and tooltips.
 ```
 _Appearance → Application Style"_ , you must select kvantum
-
+kvantum 是一个引擎，需要在安装主题
+[kvantum theme](https://store.kde.org/browse/cat/123/ord/rating/)
 ### Script usage
 
 Papirus-folders doesn't have a GUI, but it is a fully functional command-line application with TAB-completions. Below you'll see some examples of use.
@@ -263,8 +264,8 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4OTE0Mzc4MCwxOTIyOTA1Njc1LDE4MD
-AzODQwNDEsNDc0MzkwMTkyLC0xOTU1NDgxNzE2LDEzMTYwMjEy
-MzEsLTM4MDEzNjU5MCwxODAyMTkxNDQ4LC0zMDk2MjYyNzhdfQ
-==
+eyJoaXN0b3J5IjpbMTg4NjQyNDQ1NCwxNzg5MTQzNzgwLDE5Mj
+I5MDU2NzUsMTgwMDM4NDA0MSw0NzQzOTAxOTIsLTE5NTU0ODE3
+MTYsMTMxNjAyMTIzMSwtMzgwMTM2NTkwLDE4MDIxOTE0NDgsLT
+MwOTYyNjI3OF19
 -->
