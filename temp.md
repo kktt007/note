@@ -3,6 +3,42 @@ https://www.reddit.com/r/unixporn/comments/9un99u/kde_plasma_do_you_need_so_more
 
 https://www.reddit.com/r/kde/comments/ekiw85/dark_breeze_blur_simple_kde_top_bar/
 
+Kvantum:
+In KDE:
+Select Kvantum from System Settings → Application Style → Widget Style and apply it.
+Select Kvantum from System Settings → Color → Scheme and click Apply.
+papirus-icon-theme 需要安装 yay hardcode-fixer-git papirus-folders-git(使用方法:https://github.com/PapirusDevelopmentTeam/papirus-folders#script-usage)
+
+### Script usage
+
+Papirus-folders doesn't have a GUI, but it is a fully functional command-line application with TAB-completions. Below you'll see some examples of use.
+
+#### [](https://github.com/PapirusDevelopmentTeam/papirus-folders#show-the-current-color-and-available-colors-for-papirus-dark)Show the current color and available colors for Papirus-Dark
+
+```
+papirus-folders -l --theme Papirus-Dark
+
+```
+
+#### [](https://github.com/PapirusDevelopmentTeam/papirus-folders#change-color-of-folders-to-brown-for-papirus-dark)Change color of folders to brown for Papirus-Dark
+
+```
+papirus-folders -C brown --theme Papirus-Dark
+
+```
+
+#### [](https://github.com/PapirusDevelopmentTeam/papirus-folders#revert-to-default-color-of-folders-for-papirus-dark)Revert to default color of folders for Papirus-Dark
+
+```
+papirus-folders -D --theme Papirus-Dark
+
+```
+
+#### [](https://github.com/PapirusDevelopmentTeam/papirus-folders#restore-the-last-used-color-from-a-config-file)Restore the last used color from a config file
+
+```
+papirus-folders -Ru
+```
 -----
 
 vs code plugin
@@ -216,7 +252,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc0MzkwMTkyLC0xOTU1NDgxNzE2LDEzMT
-YwMjEyMzEsLTM4MDEzNjU5MCwxODAyMTkxNDQ4LC0zMDk2MjYy
-NzhdfQ==
+eyJoaXN0b3J5IjpbMTgwMDM4NDA0MSw0NzQzOTAxOTIsLTE5NT
+U0ODE3MTYsMTMxNjAyMTIzMSwtMzgwMTM2NTkwLDE4MDIxOTE0
+NDgsLTMwOTYyNjI3OF19
 -->
