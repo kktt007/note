@@ -21,6 +21,9 @@ Kvantum Manager → Configure Active Theme → Compositing & General Look → Bl
 _Appearance → Application Style"_ , you must select kvantum
 kvantum 是一个引擎，需要在安装主题
 [kvantum theme](https://store.kde.org/browse/cat/123/ord/rating/)
+
+[kde port](https://www.reddit.com/r/kde/comments/a9s1u4/list_of_themes_ported_to_both_qt_and_gtk/)
+
 ### Script usage
 
 Papirus-folders doesn't have a GUI, but it is a fully functional command-line application with TAB-completions. Below you'll see some examples of use.
@@ -264,8 +267,8 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NjQyNDQ1NCwxNzg5MTQzNzgwLDE5Mj
-I5MDU2NzUsMTgwMDM4NDA0MSw0NzQzOTAxOTIsLTE5NTU0ODE3
-MTYsMTMxNjAyMTIzMSwtMzgwMTM2NTkwLDE4MDIxOTE0NDgsLT
-MwOTYyNjI3OF19
+eyJoaXN0b3J5IjpbLTIxNDU3NjQwNDMsMTg4NjQyNDQ1NCwxNz
+g5MTQzNzgwLDE5MjI5MDU2NzUsMTgwMDM4NDA0MSw0NzQzOTAx
+OTIsLTE5NTU0ODE3MTYsMTMxNjAyMTIzMSwtMzgwMTM2NTkwLD
+E4MDIxOTE0NDgsLTMwOTYyNjI3OF19
 -->
