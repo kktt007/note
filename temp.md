@@ -4,6 +4,11 @@ https://www.cnblogs.com/lychee/p/11214032.html
 https://help.github.com/cn/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line
 https://cloud.ibm.com/docs/services/ghededicated?topic=ghededicated-getting-started
 
+## i3 with plasma
+https://github.com/avivace/dotfiles
+https://wiki.archlinux.org/index.php/KDE#Use_a_different_window_manager
+https://github.com/nightsh/i3-plasma
+https://github.com/heckelson/i3-and-kde-plasma
 
 
 ## kde
@@ -303,11 +308,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2OTgwNDAxNiwxMjgzMjQ1NDkyLC0xMT
-UyNjU2NzE4LDIxMzMzNTg2MzMsLTE0NjY4ODA3MTksNzEwNTEz
-MDkxLDIwMzcyMzY2NTIsLTEzNzY3MjQ0OCwtMTI5MzA0MzA4OS
-wtMjE0NTc2NDA0MywxODg2NDI0NDU0LDE3ODkxNDM3ODAsMTky
-MjkwNTY3NSwxODAwMzg0MDQxLDQ3NDM5MDE5MiwtMTk1NTQ4MT
-cxNiwxMzE2MDIxMjMxLC0zODAxMzY1OTAsMTgwMjE5MTQ0OCwt
-MzA5NjI2Mjc4XX0=
+eyJoaXN0b3J5IjpbMTU1NDY4NDA2NCwxNzY5ODA0MDE2LDEyOD
+MyNDU0OTIsLTExNTI2NTY3MTgsMjEzMzM1ODYzMywtMTQ2Njg4
+MDcxOSw3MTA1MTMwOTEsMjAzNzIzNjY1MiwtMTM3NjcyNDQ4LC
+0xMjkzMDQzMDg5LC0yMTQ1NzY0MDQzLDE4ODY0MjQ0NTQsMTc4
+OTE0Mzc4MCwxOTIyOTA1Njc1LDE4MDAzODQwNDEsNDc0MzkwMT
+kyLC0xOTU1NDgxNzE2LDEzMTYwMjEyMzEsLTM4MDEzNjU5MCwx
+ODAyMTkxNDQ4XX0=
 -->
