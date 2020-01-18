@@ -4,11 +4,15 @@ https://www.cnblogs.com/lychee/p/11214032.html
 https://help.github.com/cn/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line
 https://cloud.ibm.com/docs/services/ghededicated?topic=ghededicated-getting-started
 
+
 ## kde
 
-### plasma
-- icons:
-- font:
+### plasma[kde和gtk的theme/icon分别设置)](https://i.redd.it/k23gf0rfuow11.png)
+- icons: papirus
+- font: monaco
+- wm: [i3](https://i.redd.it/rprzkxe7cl331.jpg)
+- window decoration
+- look and feel: Work in progress
 - dock: latte dock
 - global theme
 - plasma theme
@@ -17,6 +21,10 @@ https://cloud.ibm.com/docs/services/ghededicated?topic=ghededicated-getting-star
 	- theme: [Kv Glass](https://store.kde.org/p/1201321/ "KvGlassManjaro.tar.gz")
 - wedjet:
 	- global menu, windows button, window list(latte task), application launcher,system tray.
+1. blur light strength [设置百分比参考2/3](https://imgur.com/gallery/T9htiB1)
+2. background transparency设置1/3
+
+
 
 
 ## KDE blur
@@ -287,9 +295,10 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEwNTEzMDkxLDIwMzcyMzY2NTIsLTEzNz
-Y3MjQ0OCwtMTI5MzA0MzA4OSwtMjE0NTc2NDA0MywxODg2NDI0
-NDU0LDE3ODkxNDM3ODAsMTkyMjkwNTY3NSwxODAwMzg0MDQxLD
-Q3NDM5MDE5MiwtMTk1NTQ4MTcxNiwxMzE2MDIxMjMxLC0zODAx
-MzY1OTAsMTgwMjE5MTQ0OCwtMzA5NjI2Mjc4XX0=
+eyJoaXN0b3J5IjpbLTE0NjY4ODA3MTksNzEwNTEzMDkxLDIwMz
+cyMzY2NTIsLTEzNzY3MjQ0OCwtMTI5MzA0MzA4OSwtMjE0NTc2
+NDA0MywxODg2NDI0NDU0LDE3ODkxNDM3ODAsMTkyMjkwNTY3NS
+wxODAwMzg0MDQxLDQ3NDM5MDE5MiwtMTk1NTQ4MTcxNiwxMzE2
+MDIxMjMxLC0zODAxMzY1OTAsMTgwMjE5MTQ0OCwtMzA5NjI2Mj
+c4XX0=
 -->
