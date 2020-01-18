@@ -9,7 +9,7 @@ https://github.com/avivace/dotfiles
 https://wiki.archlinux.org/index.php/KDE#Use_a_different_window_manager
 https://github.com/nightsh/i3-plasma
 https://github.com/heckelson/i3-and-kde-plasma
-
+https://userbase.kde.org/Tutorials/Using_Other_Window_Managers_with_Plasma
 
 ## kde
 
@@ -308,7 +308,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NDY4NDA2NCwxNzY5ODA0MDE2LDEyOD
+eyJoaXN0b3J5IjpbLTIzMDIzNDU2MywxNzY5ODA0MDE2LDEyOD
 MyNDU0OTIsLTExNTI2NTY3MTgsMjEzMzM1ODYzMywtMTQ2Njg4
 MDcxOSw3MTA1MTMwOTEsMjAzNzIzNjY1MiwtMTM3NjcyNDQ4LC
 0xMjkzMDQzMDg5LC0yMTQ1NzY0MDQzLDE4ODY0MjQ0NTQsMTc4
