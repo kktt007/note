@@ -22,7 +22,7 @@ Check "Enable compositor on startup"
 - window decoration
 - look and feel: Work in progress
 - dock: latte dock
-- global theme
+- global theme: [kde上使用的gtk-- Materia KDE](https://github.com/PapirusDevelopmentTeam/materia-kde)
 - plasma theme
 - kvantum:
 	- engine: [kvantum](https://github.com/tsujan/Kvantum/tree/master/Kvantum)
@@ -303,10 +303,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTI2NTY3MTgsMjEzMzM1ODYzMywtMT
-Q2Njg4MDcxOSw3MTA1MTMwOTEsMjAzNzIzNjY1MiwtMTM3Njcy
-NDQ4LC0xMjkzMDQzMDg5LC0yMTQ1NzY0MDQzLDE4ODY0MjQ0NT
-QsMTc4OTE0Mzc4MCwxOTIyOTA1Njc1LDE4MDAzODQwNDEsNDc0
-MzkwMTkyLC0xOTU1NDgxNzE2LDEzMTYwMjEyMzEsLTM4MDEzNj
-U5MCwxODAyMTkxNDQ4LC0zMDk2MjYyNzhdfQ==
+eyJoaXN0b3J5IjpbMTI4MzI0NTQ5MiwtMTE1MjY1NjcxOCwyMT
+MzMzU4NjMzLC0xNDY2ODgwNzE5LDcxMDUxMzA5MSwyMDM3MjM2
+NjUyLC0xMzc2NzI0NDgsLTEyOTMwNDMwODksLTIxNDU3NjQwND
+MsMTg4NjQyNDQ1NCwxNzg5MTQzNzgwLDE5MjI5MDU2NzUsMTgw
+MDM4NDA0MSw0NzQzOTAxOTIsLTE5NTU0ODE3MTYsMTMxNjAyMT
+IzMSwtMzgwMTM2NTkwLDE4MDIxOTE0NDgsLTMwOTYyNjI3OF19
+
 -->
