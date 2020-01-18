@@ -15,6 +15,7 @@ https://cloud.ibm.com/docs/services/ghededicated?topic=ghededicated-getting-star
 1.Settings > Display and Monitor > Compositor
 Check "Enable compositor on startup"
 ```
+[参考kde](https://userbase.kde.org/Tutorials/Force_Transparency_And_Blur)
 - icons: papirus
 - font: monaco
 - wm: [i3](https://i.redd.it/rprzkxe7cl331.jpg)
@@ -302,7 +303,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODM0NzMxMjYsMjEzMzM1ODYzMywtMT
+eyJoaXN0b3J5IjpbLTExNTI2NTY3MTgsMjEzMzM1ODYzMywtMT
 Q2Njg4MDcxOSw3MTA1MTMwOTEsMjAzNzIzNjY1MiwtMTM3Njcy
 NDQ4LC0xMjkzMDQzMDg5LC0yMTQ1NzY0MDQzLDE4ODY0MjQ0NT
 QsMTc4OTE0Mzc4MCwxOTIyOTA1Njc1LDE4MDAzODQwNDEsNDc0
