@@ -5,9 +5,15 @@ https://help.github.com/cn/github/authenticating-to-github/creating-a-personal-a
 https://cloud.ibm.com/docs/services/ghededicated?topic=ghededicated-getting-started
 
 
+
 ## kde
 
 ### plasma[kde和gtk的theme/icon分别设置)](https://i.redd.it/k23gf0rfuow11.png)
+
+```
+确保开启了: Settings > Display and Monitor > Compositor
+Check "Enable compositor on startup"
+```
 - icons: papirus
 - font: monaco
 - wm: [i3](https://i.redd.it/rprzkxe7cl331.jpg)
@@ -17,11 +23,11 @@ https://cloud.ibm.com/docs/services/ghededicated?topic=ghededicated-getting-star
 - global theme
 - plasma theme
 - kvantum:
-	- engine:
+	- engine: [kvantum](https://github.com/tsujan/Kvantum/tree/master/Kvantum)
 	- theme: [Kv Glass](https://store.kde.org/p/1201321/ "KvGlassManjaro.tar.gz")
 - wedjet:
 	- global menu, windows button, window list(latte task), application launcher,system tray.
-1. blur light strength [设置百分比参考2/3](https://imgur.com/gallery/T9htiB1)
+1. blur light strength [设置百分比参考2/3](https://imgur.com/gallery/T9htiB1),最强也可以
 2. background transparency设置1/3
 
 
@@ -295,10 +301,10 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjY4ODA3MTksNzEwNTEzMDkxLDIwMz
-cyMzY2NTIsLTEzNzY3MjQ0OCwtMTI5MzA0MzA4OSwtMjE0NTc2
-NDA0MywxODg2NDI0NDU0LDE3ODkxNDM3ODAsMTkyMjkwNTY3NS
-wxODAwMzg0MDQxLDQ3NDM5MDE5MiwtMTk1NTQ4MTcxNiwxMzE2
-MDIxMjMxLC0zODAxMzY1OTAsMTgwMjE5MTQ0OCwtMzA5NjI2Mj
-c4XX0=
+eyJoaXN0b3J5IjpbMjEzMzM1ODYzMywtMTQ2Njg4MDcxOSw3MT
+A1MTMwOTEsMjAzNzIzNjY1MiwtMTM3NjcyNDQ4LC0xMjkzMDQz
+MDg5LC0yMTQ1NzY0MDQzLDE4ODY0MjQ0NTQsMTc4OTE0Mzc4MC
+wxOTIyOTA1Njc1LDE4MDAzODQwNDEsNDc0MzkwMTkyLC0xOTU1
+NDgxNzE2LDEzMTYwMjEyMzEsLTM4MDEzNjU5MCwxODAyMTkxND
+Q4LC0zMDk2MjYyNzhdfQ==
 -->
