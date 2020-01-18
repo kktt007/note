@@ -11,7 +11,8 @@ https://cloud.ibm.com/docs/services/ghededicated?topic=ghededicated-getting-star
 ### plasma[kde和gtk的theme/icon分别设置)](https://i.redd.it/k23gf0rfuow11.png)
 
 ```
-确保开启了: Settings > Display and Monitor > Compositor
+确保开启了: 
+1.Settings > Display and Monitor > Compositor
 Check "Enable compositor on startup"
 ```
 - icons: papirus
@@ -301,10 +302,10 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMzM1ODYzMywtMTQ2Njg4MDcxOSw3MT
-A1MTMwOTEsMjAzNzIzNjY1MiwtMTM3NjcyNDQ4LC0xMjkzMDQz
-MDg5LC0yMTQ1NzY0MDQzLDE4ODY0MjQ0NTQsMTc4OTE0Mzc4MC
-wxOTIyOTA1Njc1LDE4MDAzODQwNDEsNDc0MzkwMTkyLC0xOTU1
-NDgxNzE2LDEzMTYwMjEyMzEsLTM4MDEzNjU5MCwxODAyMTkxND
-Q4LC0zMDk2MjYyNzhdfQ==
+eyJoaXN0b3J5IjpbLTE5ODM0NzMxMjYsMjEzMzM1ODYzMywtMT
+Q2Njg4MDcxOSw3MTA1MTMwOTEsMjAzNzIzNjY1MiwtMTM3Njcy
+NDQ4LC0xMjkzMDQzMDg5LC0yMTQ1NzY0MDQzLDE4ODY0MjQ0NT
+QsMTc4OTE0Mzc4MCwxOTIyOTA1Njc1LDE4MDAzODQwNDEsNDc0
+MzkwMTkyLC0xOTU1NDgxNzE2LDEzMTYwMjEyMzEsLTM4MDEzNj
+U5MCwxODAyMTkxNDQ4LC0zMDk2MjYyNzhdfQ==
 -->
