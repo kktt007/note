@@ -10,6 +10,7 @@ https://wiki.archlinux.org/index.php/KDE#Use_a_different_window_manager
 https://github.com/nightsh/i3-plasma
 https://github.com/heckelson/i3-and-kde-plasma
 https://userbase.kde.org/Tutorials/Using_Other_Window_Managers_with_Plasma
+https://ryanlue.com/posts/2019-06-13-kde-i3
 
 ## kde
 
@@ -308,11 +309,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMDIzNDU2MywxNzY5ODA0MDE2LDEyOD
-MyNDU0OTIsLTExNTI2NTY3MTgsMjEzMzM1ODYzMywtMTQ2Njg4
-MDcxOSw3MTA1MTMwOTEsMjAzNzIzNjY1MiwtMTM3NjcyNDQ4LC
-0xMjkzMDQzMDg5LC0yMTQ1NzY0MDQzLDE4ODY0MjQ0NTQsMTc4
-OTE0Mzc4MCwxOTIyOTA1Njc1LDE4MDAzODQwNDEsNDc0MzkwMT
-kyLC0xOTU1NDgxNzE2LDEzMTYwMjEyMzEsLTM4MDEzNjU5MCwx
-ODAyMTkxNDQ4XX0=
+eyJoaXN0b3J5IjpbNjkwNTU4MzIyLDE3Njk4MDQwMTYsMTI4Mz
+I0NTQ5MiwtMTE1MjY1NjcxOCwyMTMzMzU4NjMzLC0xNDY2ODgw
+NzE5LDcxMDUxMzA5MSwyMDM3MjM2NjUyLC0xMzc2NzI0NDgsLT
+EyOTMwNDMwODksLTIxNDU3NjQwNDMsMTg4NjQyNDQ1NCwxNzg5
+MTQzNzgwLDE5MjI5MDU2NzUsMTgwMDM4NDA0MSw0NzQzOTAxOT
+IsLTE5NTU0ODE3MTYsMTMxNjAyMTIzMSwtMzgwMTM2NTkwLDE4
+MDIxOTE0NDhdfQ==
 -->
