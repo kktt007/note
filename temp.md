@@ -11,6 +11,7 @@ https://github.com/nightsh/i3-plasma
 https://github.com/heckelson/i3-and-kde-plasma
 https://userbase.kde.org/Tutorials/Using_Other_Window_Managers_with_Plasma
 https://ryanlue.com/posts/2019-06-13-kde-i3
+https://medium.com/@vishnu_mad/using-i3-window-manager-with-kde-plasma-c2ac70594d8
 
 ## kde
 
@@ -309,7 +310,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkwNTU4MzIyLDE3Njk4MDQwMTYsMTI4Mz
+eyJoaXN0b3J5IjpbNzk1MzEwNzY5LDE3Njk4MDQwMTYsMTI4Mz
 I0NTQ5MiwtMTE1MjY1NjcxOCwyMTMzMzU4NjMzLC0xNDY2ODgw
 NzE5LDcxMDUxMzA5MSwyMDM3MjM2NjUyLC0xMzc2NzI0NDgsLT
 EyOTMwNDMwODksLTIxNDU3NjQwNDMsMTg4NjQyNDQ1NCwxNzg5
