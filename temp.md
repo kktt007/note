@@ -16,7 +16,7 @@ https://cloud.ibm.com/docs/services/ghededicated?topic=ghededicated-getting-star
 Check "Enable compositor on startup"
 ```
 [参考kde](https://userbase.kde.org/Tutorials/Force_Transparency_And_Blur)
-- icons: papirus
+- icons: [Papirus icon theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
 - font: monaco
 - wm: [i3](https://i.redd.it/rprzkxe7cl331.jpg)
 - window decoration
@@ -303,11 +303,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MzI0NTQ5MiwtMTE1MjY1NjcxOCwyMT
-MzMzU4NjMzLC0xNDY2ODgwNzE5LDcxMDUxMzA5MSwyMDM3MjM2
-NjUyLC0xMzc2NzI0NDgsLTEyOTMwNDMwODksLTIxNDU3NjQwND
-MsMTg4NjQyNDQ1NCwxNzg5MTQzNzgwLDE5MjI5MDU2NzUsMTgw
-MDM4NDA0MSw0NzQzOTAxOTIsLTE5NTU0ODE3MTYsMTMxNjAyMT
-IzMSwtMzgwMTM2NTkwLDE4MDIxOTE0NDgsLTMwOTYyNjI3OF19
-
+eyJoaXN0b3J5IjpbMTc2OTgwNDAxNiwxMjgzMjQ1NDkyLC0xMT
+UyNjU2NzE4LDIxMzMzNTg2MzMsLTE0NjY4ODA3MTksNzEwNTEz
+MDkxLDIwMzcyMzY2NTIsLTEzNzY3MjQ0OCwtMTI5MzA0MzA4OS
+wtMjE0NTc2NDA0MywxODg2NDI0NDU0LDE3ODkxNDM3ODAsMTky
+MjkwNTY3NSwxODAwMzg0MDQxLDQ3NDM5MDE5MiwtMTk1NTQ4MT
+cxNiwxMzE2MDIxMjMxLC0zODAxMzY1OTAsMTgwMjE5MTQ0OCwt
+MzA5NjI2Mjc4XX0=
 -->
