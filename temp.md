@@ -1,3 +1,6 @@
+## 创建gist token
+https://myzerone.com/posts/2017/12/14/atom同步/
+
 ## KDE blur
 https://www.reddit.com/r/unixporn/comments/9un99u/kde_plasma_do_you_need_so_more_blur/?utm_source=share&utm_medium=web2x
 
@@ -266,8 +269,9 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTMwNDMwODksLTIxNDU3NjQwNDMsMT
-g4NjQyNDQ1NCwxNzg5MTQzNzgwLDE5MjI5MDU2NzUsMTgwMDM4
-NDA0MSw0NzQzOTAxOTIsLTE5NTU0ODE3MTYsMTMxNjAyMTIzMS
-wtMzgwMTM2NTkwLDE4MDIxOTE0NDgsLTMwOTYyNjI3OF19
+eyJoaXN0b3J5IjpbLTEzNzY3MjQ0OCwtMTI5MzA0MzA4OSwtMj
+E0NTc2NDA0MywxODg2NDI0NDU0LDE3ODkxNDM3ODAsMTkyMjkw
+NTY3NSwxODAwMzg0MDQxLDQ3NDM5MDE5MiwtMTk1NTQ4MTcxNi
+wxMzE2MDIxMjMxLC0zODAxMzY1OTAsMTgwMjE5MTQ0OCwtMzA5
+NjI2Mjc4XX0=
 -->
