@@ -1,6 +1,8 @@
 ## 创建gist token
 https://myzerone.com/posts/2017/12/14/atom同步/
 https://www.cnblogs.com/lychee/p/11214032.html
+https://help.github.com/cn/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line
+https://cloud.ibm.com/docs/services/ghededicated?topic=ghededicated-getting-started
 
 ## KDE blur
 https://www.reddit.com/r/unixporn/comments/9un99u/kde_plasma_do_you_need_so_more_blur/?utm_source=share&utm_medium=web2x
@@ -270,9 +272,9 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTAwNzkyMTUsLTEzNzY3MjQ0OCwtMT
-I5MzA0MzA4OSwtMjE0NTc2NDA0MywxODg2NDI0NDU0LDE3ODkx
-NDM3ODAsMTkyMjkwNTY3NSwxODAwMzg0MDQxLDQ3NDM5MDE5Mi
-wtMTk1NTQ4MTcxNiwxMzE2MDIxMjMxLC0zODAxMzY1OTAsMTgw
-MjE5MTQ0OCwtMzA5NjI2Mjc4XX0=
+eyJoaXN0b3J5IjpbMjAzNzIzNjY1MiwtMTM3NjcyNDQ4LC0xMj
+kzMDQzMDg5LC0yMTQ1NzY0MDQzLDE4ODY0MjQ0NTQsMTc4OTE0
+Mzc4MCwxOTIyOTA1Njc1LDE4MDAzODQwNDEsNDc0MzkwMTkyLC
+0xOTU1NDgxNzE2LDEzMTYwMjEyMzEsLTM4MDEzNjU5MCwxODAy
+MTkxNDQ4LC0zMDk2MjYyNzhdfQ==
 -->
