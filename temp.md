@@ -2,6 +2,7 @@
 [下载安装字体](https://developerjillur.me/san-francisco-font-download/)
 个性化设置，找到字体，或者
 cmd+R fonts找到字体
+SF Pro Text
 ## 创建gist token
 https://myzerone.com/posts/2017/12/14/atom同步/
 https://www.cnblogs.com/lychee/p/11214032.html
@@ -315,11 +316,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNTc0MzA2NywtMTk1OTkzMjM4OSwyMD
-MyNDUyMDQwLDc5NTMxMDc2OSwxNzY5ODA0MDE2LDEyODMyNDU0
-OTIsLTExNTI2NTY3MTgsMjEzMzM1ODYzMywtMTQ2Njg4MDcxOS
-w3MTA1MTMwOTEsMjAzNzIzNjY1MiwtMTM3NjcyNDQ4LC0xMjkz
-MDQzMDg5LC0yMTQ1NzY0MDQzLDE4ODY0MjQ0NTQsMTc4OTE0Mz
-c4MCwxOTIyOTA1Njc1LDE4MDAzODQwNDEsNDc0MzkwMTkyLC0x
-OTU1NDgxNzE2XX0=
+eyJoaXN0b3J5IjpbMjk5NjUzNTkyLC0xOTU5OTMyMzg5LDIwMz
+I0NTIwNDAsNzk1MzEwNzY5LDE3Njk4MDQwMTYsMTI4MzI0NTQ5
+MiwtMTE1MjY1NjcxOCwyMTMzMzU4NjMzLC0xNDY2ODgwNzE5LD
+cxMDUxMzA5MSwyMDM3MjM2NjUyLC0xMzc2NzI0NDgsLTEyOTMw
+NDMwODksLTIxNDU3NjQwNDMsMTg4NjQyNDQ1NCwxNzg5MTQzNz
+gwLDE5MjI5MDU2NzUsMTgwMDM4NDA0MSw0NzQzOTAxOTIsLTE5
+NTU0ODE3MTZdfQ==
 -->
