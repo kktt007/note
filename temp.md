@@ -3,6 +3,8 @@
 个性化设置，找到字体，或者
 cmd+R fonts找到字体
 SF Pro Text
+vscode字体: 
+"editor.fontFamily": "'MesloLGM Nerd Font Mono', 'FiraCode Nerd Font Mono', 'SF Pro Text', 'Droid Sans Mono', 'monospace', monospace, '全字庫正楷體', '文泉驿微米黑', '楷体'",
 
 ## 创建gist token
 https://myzerone.com/posts/2017/12/14/atom同步/
@@ -317,11 +319,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNTkyMDYxOCwyOTk2NTM1OTIsLTE5NT
-k5MzIzODksMjAzMjQ1MjA0MCw3OTUzMTA3NjksMTc2OTgwNDAx
-NiwxMjgzMjQ1NDkyLC0xMTUyNjU2NzE4LDIxMzMzNTg2MzMsLT
-E0NjY4ODA3MTksNzEwNTEzMDkxLDIwMzcyMzY2NTIsLTEzNzY3
-MjQ0OCwtMTI5MzA0MzA4OSwtMjE0NTc2NDA0MywxODg2NDI0ND
-U0LDE3ODkxNDM3ODAsMTkyMjkwNTY3NSwxODAwMzg0MDQxLDQ3
-NDM5MDE5Ml19
+eyJoaXN0b3J5IjpbLTEyMjkzNDg2MDUsMjk5NjUzNTkyLC0xOT
+U5OTMyMzg5LDIwMzI0NTIwNDAsNzk1MzEwNzY5LDE3Njk4MDQw
+MTYsMTI4MzI0NTQ5MiwtMTE1MjY1NjcxOCwyMTMzMzU4NjMzLC
+0xNDY2ODgwNzE5LDcxMDUxMzA5MSwyMDM3MjM2NjUyLC0xMzc2
+NzI0NDgsLTEyOTMwNDMwODksLTIxNDU3NjQwNDMsMTg4NjQyND
+Q1NCwxNzg5MTQzNzgwLDE5MjI5MDU2NzUsMTgwMDM4NDA0MSw0
+NzQzOTAxOTJdfQ==
 -->
