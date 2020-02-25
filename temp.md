@@ -1,5 +1,5 @@
 ## windows 安装SF 字体
-https://developerjillur.me/san-francisco-font-download/
+[下载安装字体](https://developerjillur.me/san-francisco-font-download/)
 个性化设置，找到字体，或者
 cmd+R fonts找到字体
 ## 创建gist token
@@ -315,7 +315,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2OTcwMTQ5NiwtMTk1OTkzMjM4OSwyMD
+eyJoaXN0b3J5IjpbMTMxNTc0MzA2NywtMTk1OTkzMjM4OSwyMD
 MyNDUyMDQwLDc5NTMxMDc2OSwxNzY5ODA0MDE2LDEyODMyNDU0
 OTIsLTExNTI2NTY3MTgsMjEzMzM1ODYzMywtMTQ2Njg4MDcxOS
 w3MTA1MTMwOTEsMjAzNzIzNjY1MiwtMTM3NjcyNDQ4LC0xMjkz
