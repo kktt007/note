@@ -14,7 +14,7 @@ https://github.com/login/oauth/authorize?scope=gist read:user&client_id=cfd96460
 # **[cloudSettings](https://gist.github.com/kktt007/47df1b995cfa27cb4da5587513ed0a50)**
 
 To solve it I did the following
-我做的第二步，然后他自己生成了token,验证了本地客户端，
+我做的第二步，然后他自己生成了token,验证了本地客户端，然后找几个gist不用的，重新传
 1.  regenerate the token
 2.  reset settings + delete all the lines in settings.json with sync.*
 3.  restarted VS Code
@@ -344,11 +344,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTY4NjA3NTksLTY1MTIwNywxNTIyNj
-Y5NTgxLC0xODMzNzc3NzQwLDgzMDM0NjQ4OCwxNzc5ODgwMTgz
-LC0yNTQwNzIyMjgsLTE2ODM0ODUwNTMsLTEyMjkzNDg2MDUsMj
-k5NjUzNTkyLC0xOTU5OTMyMzg5LDIwMzI0NTIwNDAsNzk1MzEw
-NzY5LDE3Njk4MDQwMTYsMTI4MzI0NTQ5MiwtMTE1MjY1NjcxOC
-wyMTMzMzU4NjMzLC0xNDY2ODgwNzE5LDcxMDUxMzA5MSwyMDM3
-MjM2NjUyXX0=
+eyJoaXN0b3J5IjpbMTYxMzMyNDcyMCwtNjUxMjA3LDE1MjI2Nj
+k1ODEsLTE4MzM3Nzc3NDAsODMwMzQ2NDg4LDE3Nzk4ODAxODMs
+LTI1NDA3MjIyOCwtMTY4MzQ4NTA1MywtMTIyOTM0ODYwNSwyOT
+k2NTM1OTIsLTE5NTk5MzIzODksMjAzMjQ1MjA0MCw3OTUzMTA3
+NjksMTc2OTgwNDAxNiwxMjgzMjQ1NDkyLC0xMTUyNjU2NzE4LD
+IxMzMzNTg2MzMsLTE0NjY4ODA3MTksNzEwNTEzMDkxLDIwMzcy
+MzY2NTJdfQ==
 -->
