@@ -24,7 +24,7 @@ https://github.com/login/oauth/authorize?scope=gist read:user&client_id=cfd96460
 
 linux:
 e91647653ad84531e49495dfc4d63d3a
-a3d4c3515c170f7851eeb01bb19e7bc03a9203c
+
 
 
 46fef847fa9fa0f847ea6d79cedbab33e84c795a
@@ -356,7 +356,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3ODcwMzU3MCwtNDc5MDY5OTcyLDE2Nj
+eyJoaXN0b3J5IjpbMTI5MTg2MTU5NCwtNDc5MDY5OTcyLDE2Nj
 cxNzEyMTYsMTUwNDAyNDMzLDE3MzA3ODYyNDQsMTI5MjY3NjI3
 MiwtMTc1NzIzMzAzOCwxNDgzMTU5NjgwLDEwMjg4MzA4MjIsMT
 IzNTAxMTQ1NSwtNjUxMjA3LDE1MjI2Njk1ODEsLTE4MzM3Nzc3
