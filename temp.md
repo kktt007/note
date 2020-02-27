@@ -11,6 +11,14 @@ https://github.com/login/oauth/authorize?scope=gist read:user&client_id=cfd96460
 9facf3a8dc15812395e73cf8eca618e57f3a58c0
 
 # **[cloudSettings](https://gist.github.com/kktt007/47df1b995cfa27cb4da5587513ed0a50)**
+
+To solve it I did the following
+
+1.  regenerate the token
+2.  reset settings + delete all the lines in settings.json with sync.*
+3.  restarted VS Code
+4.  upload settings
+
 3f1816525ce73d6005a4ea0fb91801167474c082
 
 08e5b46069b4332a5da444748b598a5dc678a010
@@ -335,11 +343,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NDcxMjI4OCwxNTIyNjY5NTgxLC0xOD
-MzNzc3NzQwLDgzMDM0NjQ4OCwxNzc5ODgwMTgzLC0yNTQwNzIy
-MjgsLTE2ODM0ODUwNTMsLTEyMjkzNDg2MDUsMjk5NjUzNTkyLC
-0xOTU5OTMyMzg5LDIwMzI0NTIwNDAsNzk1MzEwNzY5LDE3Njk4
-MDQwMTYsMTI4MzI0NTQ5MiwtMTE1MjY1NjcxOCwyMTMzMzU4Nj
-MzLC0xNDY2ODgwNzE5LDcxMDUxMzA5MSwyMDM3MjM2NjUyLC0x
-Mzc2NzI0NDhdfQ==
+eyJoaXN0b3J5IjpbLTY1MTIwNywxNTIyNjY5NTgxLC0xODMzNz
+c3NzQwLDgzMDM0NjQ4OCwxNzc5ODgwMTgzLC0yNTQwNzIyMjgs
+LTE2ODM0ODUwNTMsLTEyMjkzNDg2MDUsMjk5NjUzNTkyLC0xOT
+U5OTMyMzg5LDIwMzI0NTIwNDAsNzk1MzEwNzY5LDE3Njk4MDQw
+MTYsMTI4MzI0NTQ5MiwtMTE1MjY1NjcxOCwyMTMzMzU4NjMzLC
+0xNDY2ODgwNzE5LDcxMDUxMzA5MSwyMDM3MjM2NjUyLC0xMzc2
+NzI0NDhdfQ==
 -->
