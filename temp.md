@@ -20,26 +20,7 @@ https://github.com/login/oauth/authorize?scope=gist read:user&client_id=cfd96460
 3.  restarted VS Code
 4.  upload settings
 
-3f1816525ce73d6005a4ea0fb91801167474c082
 
-linux:
-e91647653ad84531e49495dfc4d63d3a
-94ef6c250744fcacef3d44b7059b7a3f566a671e
-
-
-46fef847fa9fa0f847ea6d79cedbab33e84c795a
-6715df07ec5cf0a9f206ba476553815ac5699dba
-c975ab928093d88cffbbc654e3393c1ffdc58fe3
-
-
-08e5b46069b4332a5da444748b598a5dc678a010
-b1b333e2de4bac7b666e73ce0ebe97e1a72061ce
-
-3b3c0f49b3297b70cb7bb01734c8cb3023d49e96
-老的
-edfe6341d5cba049c497c4b382da1dc0
-
-3326862fdc75e118310c78a9a7685507963c54f3
 
 一直以为查单词，查字典就行了，原来修行如此重要，因为字典也有根源，字典的起源怎么来的。美国传统词典The American Heritage dictionary 的标准，音标等等，有何意义
 
@@ -356,11 +337,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzA4NTY4MTEsLTQ3OTA2OTk3MiwxNj
-Y3MTcxMjE2LDE1MDQwMjQzMywxNzMwNzg2MjQ0LDEyOTI2NzYy
-NzIsLTE3NTcyMzMwMzgsMTQ4MzE1OTY4MCwxMDI4ODMwODIyLD
-EyMzUwMTE0NTUsLTY1MTIwNywxNTIyNjY5NTgxLC0xODMzNzc3
-NzQwLDgzMDM0NjQ4OCwxNzc5ODgwMTgzLC0yNTQwNzIyMjgsLT
-E2ODM0ODUwNTMsLTEyMjkzNDg2MDUsMjk5NjUzNTkyLC0xOTU5
-OTMyMzg5XX0=
+eyJoaXN0b3J5IjpbLTEzNDc2MzQyNSwtMTE3MDg1NjgxMSwtND
+c5MDY5OTcyLDE2NjcxNzEyMTYsMTUwNDAyNDMzLDE3MzA3ODYy
+NDQsMTI5MjY3NjI3MiwtMTc1NzIzMzAzOCwxNDgzMTU5NjgwLD
+EwMjg4MzA4MjIsMTIzNTAxMTQ1NSwtNjUxMjA3LDE1MjI2Njk1
+ODEsLTE4MzM3Nzc3NDAsODMwMzQ2NDg4LDE3Nzk4ODAxODMsLT
+I1NDA3MjIyOCwtMTY4MzQ4NTA1MywtMTIyOTM0ODYwNSwyOTk2
+NTM1OTJdfQ==
 -->
