@@ -31,7 +31,7 @@ edfe6341d5cba049c497c4b382da1dc0
 
 3326862fdc75e118310c78a9a7685507963c54f3
 
-一直以为查单词，查字典就行了，原来修行如此重要，因为字典也有根源，字典的起源怎么来的。
+一直以为查单词，查字典就行了，原来修行如此重要，因为字典也有根源，字典的起源怎么来的。美国传统词典The American Heritage dictionary 的标准，音标等等，有何意义
 
 ## 创建gist token
 https://myzerone.com/posts/2017/12/14/atom同步/
@@ -346,7 +346,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNjkwMzI0NCwxMDI4ODMwODIyLDEyMz
+eyJoaXN0b3J5IjpbMTQ4MzE1OTY4MCwxMDI4ODMwODIyLDEyMz
 UwMTE0NTUsLTY1MTIwNywxNTIyNjY5NTgxLC0xODMzNzc3NzQw
 LDgzMDM0NjQ4OCwxNzc5ODgwMTgzLC0yNTQwNzIyMjgsLTE2OD
 M0ODUwNTMsLTEyMjkzNDg2MDUsMjk5NjUzNTkyLC0xOTU5OTMy
