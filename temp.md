@@ -6,6 +6,7 @@ SF Pro Text
 vscode字体: 
 "editor.fontFamily": "'MesloLGM Nerd Font Mono', 'FiraCode Nerd Font Mono', 'SF Pro Text', 'Droid Sans Mono', 'monospace', monospace, '全字庫正楷體', '文泉驿微米黑', '楷体'",
 chenxi配置:
+
 https://github.com/login/oauth/authorize?scope=gist read:user&client_id=cfd96460d8b110e2351b&redirect_uri=http://localhost:54321/callback
 
 9facf3a8dc15812395e73cf8eca618e57f3a58c0
@@ -13,7 +14,7 @@ https://github.com/login/oauth/authorize?scope=gist read:user&client_id=cfd96460
 # **[cloudSettings](https://gist.github.com/kktt007/47df1b995cfa27cb4da5587513ed0a50)**
 
 To solve it I did the following
-
+我做的第二步，然后他自己生成了token,验证了本地客户端，
 1.  regenerate the token
 2.  reset settings + delete all the lines in settings.json with sync.*
 3.  restarted VS Code
@@ -343,11 +344,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MTIwNywxNTIyNjY5NTgxLC0xODMzNz
-c3NzQwLDgzMDM0NjQ4OCwxNzc5ODgwMTgzLC0yNTQwNzIyMjgs
-LTE2ODM0ODUwNTMsLTEyMjkzNDg2MDUsMjk5NjUzNTkyLC0xOT
-U5OTMyMzg5LDIwMzI0NTIwNDAsNzk1MzEwNzY5LDE3Njk4MDQw
-MTYsMTI4MzI0NTQ5MiwtMTE1MjY1NjcxOCwyMTMzMzU4NjMzLC
-0xNDY2ODgwNzE5LDcxMDUxMzA5MSwyMDM3MjM2NjUyLC0xMzc2
-NzI0NDhdfQ==
+eyJoaXN0b3J5IjpbLTIxMTY4NjA3NTksLTY1MTIwNywxNTIyNj
+Y5NTgxLC0xODMzNzc3NzQwLDgzMDM0NjQ4OCwxNzc5ODgwMTgz
+LC0yNTQwNzIyMjgsLTE2ODM0ODUwNTMsLTEyMjkzNDg2MDUsMj
+k5NjUzNTkyLC0xOTU5OTMyMzg5LDIwMzI0NTIwNDAsNzk1MzEw
+NzY5LDE3Njk4MDQwMTYsMTI4MzI0NTQ5MiwtMTE1MjY1NjcxOC
+wyMTMzMzU4NjMzLC0xNDY2ODgwNzE5LDcxMDUxMzA5MSwyMDM3
+MjM2NjUyXX0=
 -->
