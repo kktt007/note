@@ -6,6 +6,9 @@ SF Pro Text
 vscode字体: 
 "editor.fontFamily": "'MesloLGM Nerd Font Mono', 'FiraCode Nerd Font Mono', 'SF Pro Text', 'Droid Sans Mono', 'monospace', monospace, '全字庫正楷體', '文泉驿微米黑', '楷体'",
 chenxi配置:
+# **[cloudSettings](https://gist.github.com/kktt007/47df1b995cfa27cb4da5587513ed0a50)**
+3f1816525ce73d6005a4ea0fb91801167474c082
+
 08e5b46069b4332a5da444748b598a5dc678a010
 b1b333e2de4bac7b666e73ce0ebe97e1a72061ce
 
@@ -328,11 +331,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMwMzQ2NDg4LDE3Nzk4ODAxODMsLTI1ND
-A3MjIyOCwtMTY4MzQ4NTA1MywtMTIyOTM0ODYwNSwyOTk2NTM1
-OTIsLTE5NTk5MzIzODksMjAzMjQ1MjA0MCw3OTUzMTA3NjksMT
-c2OTgwNDAxNiwxMjgzMjQ1NDkyLC0xMTUyNjU2NzE4LDIxMzMz
-NTg2MzMsLTE0NjY4ODA3MTksNzEwNTEzMDkxLDIwMzcyMzY2NT
-IsLTEzNzY3MjQ0OCwtMTI5MzA0MzA4OSwtMjE0NTc2NDA0Mywx
-ODg2NDI0NDU0XX0=
+eyJoaXN0b3J5IjpbLTE4MzM3Nzc3NDAsODMwMzQ2NDg4LDE3Nz
+k4ODAxODMsLTI1NDA3MjIyOCwtMTY4MzQ4NTA1MywtMTIyOTM0
+ODYwNSwyOTk2NTM1OTIsLTE5NTk5MzIzODksMjAzMjQ1MjA0MC
+w3OTUzMTA3NjksMTc2OTgwNDAxNiwxMjgzMjQ1NDkyLC0xMTUy
+NjU2NzE4LDIxMzMzNTg2MzMsLTE0NjY4ODA3MTksNzEwNTEzMD
+kxLDIwMzcyMzY2NTIsLTEzNzY3MjQ0OCwtMTI5MzA0MzA4OSwt
+MjE0NTc2NDA0M119
 -->
