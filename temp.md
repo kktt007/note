@@ -31,6 +31,8 @@ edfe6341d5cba049c497c4b382da1dc0
 
 3326862fdc75e118310c78a9a7685507963c54f3
 
+一直以为查单词，查字典就行了，原来修行如此重要，因为字典也有根源，字典的起源怎么来的。
+
 ## 创建gist token
 https://myzerone.com/posts/2017/12/14/atom同步/
 https://www.cnblogs.com/lychee/p/11214032.html
@@ -344,11 +346,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyODgzMDgyMiwxMjM1MDExNDU1LC02NT
-EyMDcsMTUyMjY2OTU4MSwtMTgzMzc3Nzc0MCw4MzAzNDY0ODgs
-MTc3OTg4MDE4MywtMjU0MDcyMjI4LC0xNjgzNDg1MDUzLC0xMj
-I5MzQ4NjA1LDI5OTY1MzU5MiwtMTk1OTkzMjM4OSwyMDMyNDUy
-MDQwLDc5NTMxMDc2OSwxNzY5ODA0MDE2LDEyODMyNDU0OTIsLT
-ExNTI2NTY3MTgsMjEzMzM1ODYzMywtMTQ2Njg4MDcxOSw3MTA1
-MTMwOTFdfQ==
+eyJoaXN0b3J5IjpbMTYyNjkwMzI0NCwxMDI4ODMwODIyLDEyMz
+UwMTE0NTUsLTY1MTIwNywxNTIyNjY5NTgxLC0xODMzNzc3NzQw
+LDgzMDM0NjQ4OCwxNzc5ODgwMTgzLC0yNTQwNzIyMjgsLTE2OD
+M0ODUwNTMsLTEyMjkzNDg2MDUsMjk5NjUzNTkyLC0xOTU5OTMy
+Mzg5LDIwMzI0NTIwNDAsNzk1MzEwNzY5LDE3Njk4MDQwMTYsMT
+I4MzI0NTQ5MiwtMTE1MjY1NjcxOCwyMTMzMzU4NjMzLC0xNDY2
+ODgwNzE5XX0=
 -->
