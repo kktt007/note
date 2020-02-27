@@ -354,13 +354,31 @@ opacify --  \ ō-ˈpas-ə-ˌfī
 	- opaque adj. -- \ ō-ˈpāk
 	-  preventing light from traveling through, and therefore not allowing you to see through 
 
+2020.2.27
+1. daemon -- demon
+
+a person who does a particular activity with great skill or energy.
+
+1. vagina --
+
+the part of a woman other female mammal's body that connects her outer sex organs to her uterus. -- \ ˈyü-tə-rəs. the organ in the body of a woman or other female mammal in which a baby develops before birth
+
+1. bear
+
+to accept, tolerate, or endure something, especially something unpleasant:
+
+2. tolerate
+
+to accept behaviour and beliefs that are different from your own, although you might not agree with or approve of them
+
+[Aygun -- surgical motor](http://www.aygun.com/en/surgical-motor-systems-k-1)
  ritten with tackit(httpsstaeditio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNjAxNzE1OCwtNjE5NjQzNDk1LDExMD
-I4MzEzMzEsLTIxNzgwNDY2NiwtODYyNTMwNzM0LDE4NDEyNTI1
-OTgsMzAzMDAyOTk3LDI2NzYxMzIxOSw4OTI4MDc0MjksLTQwNz
-MwNDA1OCwxNzgzNDAxODgwLDIwMDY5MjA1MywtNDMxMTM5Mjkw
-LDE0Njk5MzYxMDksLTEwMDY4NzA3OTUsLTk0NDYwMjg0OSw0Mj
-QxNzY3MjQsMzUwMDAwNjU1LDY5NjcxMTc1OSwyMDQ3OTU2Mzhd
+eyJoaXN0b3J5IjpbNDUyODA3NDczLDE2MDYwMTcxNTgsLTYxOT
+Y0MzQ5NSwxMTAyODMxMzMxLC0yMTc4MDQ2NjYsLTg2MjUzMDcz
+NCwxODQxMjUyNTk4LDMwMzAwMjk5NywyNjc2MTMyMTksODkyOD
+A3NDI5LC00MDczMDQwNTgsMTc4MzQwMTg4MCwyMDA2OTIwNTMs
+LTQzMTEzOTI5MCwxNDY5OTM2MTA5LC0xMDA2ODcwNzk1LC05ND
+Q2MDI4NDksNDI0MTc2NzI0LDM1MDAwMDY1NSw2OTY3MTE3NTld
 fQ==
 -->
