@@ -1,3 +1,7 @@
+## md格式
+网址里用-或者 %20 最好
+网站多半是-或者空格
+
 ## windows 安装SF 字体
 [下载安装字体](https://developerjillur.me/san-francisco-font-download/)
 个性化设置，找到字体，或者
@@ -337,11 +341,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDc2MzQyNSwtMTE3MDg1NjgxMSwtND
-c5MDY5OTcyLDE2NjcxNzEyMTYsMTUwNDAyNDMzLDE3MzA3ODYy
-NDQsMTI5MjY3NjI3MiwtMTc1NzIzMzAzOCwxNDgzMTU5NjgwLD
-EwMjg4MzA4MjIsMTIzNTAxMTQ1NSwtNjUxMjA3LDE1MjI2Njk1
-ODEsLTE4MzM3Nzc3NDAsODMwMzQ2NDg4LDE3Nzk4ODAxODMsLT
-I1NDA3MjIyOCwtMTY4MzQ4NTA1MywtMTIyOTM0ODYwNSwyOTk2
-NTM1OTJdfQ==
+eyJoaXN0b3J5IjpbLTEyODM1NjQ5OTksLTEzNDc2MzQyNSwtMT
+E3MDg1NjgxMSwtNDc5MDY5OTcyLDE2NjcxNzEyMTYsMTUwNDAy
+NDMzLDE3MzA3ODYyNDQsMTI5MjY3NjI3MiwtMTc1NzIzMzAzOC
+wxNDgzMTU5NjgwLDEwMjg4MzA4MjIsMTIzNTAxMTQ1NSwtNjUx
+MjA3LDE1MjI2Njk1ODEsLTE4MzM3Nzc3NDAsODMwMzQ2NDg4LD
+E3Nzk4ODAxODMsLTI1NDA3MjIyOCwtMTY4MzQ4NTA1MywtMTIy
+OTM0ODYwNV19
 -->
