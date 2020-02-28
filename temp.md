@@ -81,6 +81,81 @@ the scientific study of the body and how its parts are arranged
 
 1. the best or most effective possible in a particular situation
 
+
+## 2.28其他词汇
+##  2.28
+
+  
+
+1. ratio -- \ ˈrā-(ˌ)shō
+
+the retation ship between two groups or amounts that express how much bigger one is than the other.
+
+  
+
+2. probability --\ ˌprä-bə-ˈbi-lə-tē
+
+the level of possibility of something happening or being true
+
+  
+
+3. odds \ ˈädz
+
+the probability that a particular thing will or will not happen
+
+  
+
+- probability VS odds
+
+- Odds are ratios between outcomes while a probability is the ratio between an outcome and all possible outcomes.
+
+  
+
+4. fairly --\ ˈfer-lē
+
+more than average, but less than very
+
+  
+
+5. beam --\ ˈbēm 注意发音，明显的m
+
+a line of light that shines from a bright object
+
+  
+
+6. radiation -- \ ˌrā-dē-ˈā-shən
+
+a form of energy that comes from a nuclear reaction adn that can be very dangerous to health
+
+  
+
+7. nuclear -- \ ˈnü-klē-ər
+
+being or using the power produced when the nucleus of an atom is divided or joined to another nucleus
+
+8. nucleus -- \ ˈnü-klē-əs
+
+PHYSICS: the central part of an atom, usually made up of protons and neutrons
+
+BLOLOGY: the part of a cell that controls its arowth
+
+  
+
+9. atom --\ ˈa-təm t发弹舌音d
+
+the smallest unit of any chemical element, consisting of a positive nucleus
+
+  
+
+10. property -- \ ˈprä-pər-tē p发b t 不变t
+
+an object or objects that belong to someone
+
+  
+
+11. reputation --\ ˌre-pyə-ˈtā-shən 注意发音 p发b
+
+12. general -- \ ˈjen-rəl 中间的e不发音，注意发音
 ## windows 安装SF 字体
 [下载安装字体](https://developerjillur.me/san-francisco-font-download/)
 个性化设置，找到字体，或者
@@ -420,11 +495,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM0MzkyMjkyLC0xMjgzNTY0OTk5LC0xMz
-Q3NjM0MjUsLTExNzA4NTY4MTEsLTQ3OTA2OTk3MiwxNjY3MTcx
-MjE2LDE1MDQwMjQzMywxNzMwNzg2MjQ0LDEyOTI2NzYyNzIsLT
-E3NTcyMzMwMzgsMTQ4MzE1OTY4MCwxMDI4ODMwODIyLDEyMzUw
-MTE0NTUsLTY1MTIwNywxNTIyNjY5NTgxLC0xODMzNzc3NzQwLD
-gzMDM0NjQ4OCwxNzc5ODgwMTgzLC0yNTQwNzIyMjgsLTE2ODM0
-ODUwNTNdfQ==
+eyJoaXN0b3J5IjpbLTgyOTk1NTY2MCwtMTI4MzU2NDk5OSwtMT
+M0NzYzNDI1LC0xMTcwODU2ODExLC00NzkwNjk5NzIsMTY2NzE3
+MTIxNiwxNTA0MDI0MzMsMTczMDc4NjI0NCwxMjkyNjc2MjcyLC
+0xNzU3MjMzMDM4LDE0ODMxNTk2ODAsMTAyODgzMDgyMiwxMjM1
+MDExNDU1LC02NTEyMDcsMTUyMjY2OTU4MSwtMTgzMzc3Nzc0MC
+w4MzAzNDY0ODgsMTc3OTg4MDE4MywtMjU0MDcyMjI4LC0xNjgz
+NDg1MDUzXX0=
 -->
