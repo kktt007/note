@@ -2,6 +2,85 @@
 网址里用-或者 %20 最好
 网站多半是-或者空格
 
+##2.28 
+#  neurosurgery 词汇
+
+格式记录33行
+
+https://biologydictionary.net/
+
+https://en.wiktionary.org/wiki/
+
+  
+
+https://www.lexico.com/en/definition/
+
+https://www.medicinenet.com/medterms-medical-dictionary/article.htm
+
+  
+
+生僻的:
+
+https://medical-dictionary.thefreedictionary.com/
+
+https://www.merriam-webster.com/medical/
+
+  
+
+1. anatomy -- \ ə-ˈna-tə-mē
+
+the scientific study of the body and how its parts are arranged
+
+- scientific
+
+- relating to science, or using the organized methods of science
+
+2. transsphenoidal -- Through or across the sphenoid bone.
+
+1. sphenoid - \ ˈsfē-ˌnȯid
+
+- a bone in the lower part of the skull.
+
+- butterfly-shaped bone at the base of the skull.
+
+  
+
+3. posture -- \ ˈpäs-chər
+
+- posture is the position of a body while standing or sitting.
+
+  
+
+4. illustration -- \ ˌi-lə-ˈstrā-shən
+
+- a picture in a book, magazine, etc. or the process of illustrating sth.
+
+  
+
+5. compliance -- \ kəm-ˈplī-ən(t)s
+
+- the act of obeying an order, rule, or request.
+
+  
+
+6. inversion -- \ in-ˈvər-zhən 注意发音zh发 /ʒ/
+
+  
+
+7. personnel -- \ ˌpər-sə-ˈnel
+
+1. the people who are employed in a company, organization, or one of the armed forces
+
+- personnel vs employ
+
+- 1: My boss said that he appreciated having me as his employee. 2: During the holiday season, there is a normal reduction in personnel in most companies.
+
+  
+
+8. optimal -- \ ˈäp-tə-məl
+
+1. the best or most effective possible in a particular situation
+
 ## windows 安装SF 字体
 [下载安装字体](https://developerjillur.me/san-francisco-font-download/)
 个性化设置，找到字体，或者
@@ -341,11 +420,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODM1NjQ5OTksLTEzNDc2MzQyNSwtMT
-E3MDg1NjgxMSwtNDc5MDY5OTcyLDE2NjcxNzEyMTYsMTUwNDAy
-NDMzLDE3MzA3ODYyNDQsMTI5MjY3NjI3MiwtMTc1NzIzMzAzOC
-wxNDgzMTU5NjgwLDEwMjg4MzA4MjIsMTIzNTAxMTQ1NSwtNjUx
-MjA3LDE1MjI2Njk1ODEsLTE4MzM3Nzc3NDAsODMwMzQ2NDg4LD
-E3Nzk4ODAxODMsLTI1NDA3MjIyOCwtMTY4MzQ4NTA1MywtMTIy
-OTM0ODYwNV19
+eyJoaXN0b3J5IjpbNDM0MzkyMjkyLC0xMjgzNTY0OTk5LC0xMz
+Q3NjM0MjUsLTExNzA4NTY4MTEsLTQ3OTA2OTk3MiwxNjY3MTcx
+MjE2LDE1MDQwMjQzMywxNzMwNzg2MjQ0LDEyOTI2NzYyNzIsLT
+E3NTcyMzMwMzgsMTQ4MzE1OTY4MCwxMDI4ODMwODIyLDEyMzUw
+MTE0NTUsLTY1MTIwNywxNTIyNjY5NTgxLC0xODMzNzc3NzQwLD
+gzMDM0NjQ4OCwxNzc5ODgwMTgzLC0yNTQwNzIyMjgsLTE2ODM0
+ODUwNTNdfQ==
 -->
