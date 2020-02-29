@@ -53,7 +53,7 @@ is used to describe basic low-cost versions of products such as cars or computer
 
 11. tile --\ ˈtil-də 根据多次经历，发舌头像上的优 的音，不是o
 
-12. parenthesis -- \ pə-ˈren(t)-thə-səs (t)-the发d
+12. parenthesis -- \ pə-ˈren(t)-thə-səs (t)-the发特t的音
 
   
   
@@ -562,11 +562,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjQ5ODY2NCwtODI5OTU1NjYwLC0xMj
-gzNTY0OTk5LC0xMzQ3NjM0MjUsLTExNzA4NTY4MTEsLTQ3OTA2
-OTk3MiwxNjY3MTcxMjE2LDE1MDQwMjQzMywxNzMwNzg2MjQ0LD
-EyOTI2NzYyNzIsLTE3NTcyMzMwMzgsMTQ4MzE1OTY4MCwxMDI4
-ODMwODIyLDEyMzUwMTE0NTUsLTY1MTIwNywxNTIyNjY5NTgxLC
-0xODMzNzc3NzQwLDgzMDM0NjQ4OCwxNzc5ODgwMTgzLC0yNTQw
-NzIyMjhdfQ==
+eyJoaXN0b3J5IjpbLTE4NDM0NDgxNTYsLTE1MjQ5ODY2NCwtOD
+I5OTU1NjYwLC0xMjgzNTY0OTk5LC0xMzQ3NjM0MjUsLTExNzA4
+NTY4MTEsLTQ3OTA2OTk3MiwxNjY3MTcxMjE2LDE1MDQwMjQzMy
+wxNzMwNzg2MjQ0LDEyOTI2NzYyNzIsLTE3NTcyMzMwMzgsMTQ4
+MzE1OTY4MCwxMDI4ODMwODIyLDEyMzUwMTE0NTUsLTY1MTIwNy
+wxNTIyNjY5NTgxLC0xODMzNzc3NzQwLDgzMDM0NjQ4OCwxNzc5
+ODgwMTgzXX0=
 -->
