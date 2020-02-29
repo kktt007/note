@@ -1,3 +1,70 @@
+
+##  2.29
+
+1. benefit \ ˈbe-nə-ˌfit 注意发音，和下面i类似，靠后的i有弱读现象，产生i和e之间的音
+
+  
+
+2. privilege \ ˈpriv-lij. 注意i ，前面的i明显，后面的接近i和e之间的音
+
+1. an advantage that only one person or group of people has, usually because of their position or because they are rich 很明显的逻辑，有钱有势才行，特权
+
+  
+
+3. entry
+
+1. the act of entering a place or joining a particular society or organization
+
+  
+
+4. entry-level
+
+1. (of a product) basic and suitable for new users who may later move on to a more advanced product
+
+  
+
+They have a good range of entry-level computers for beginners.
+
+  
+
+​(of a job) at the lowest level in a company
+
+is used to describe basic low-cost versions of products such as cars or computers that are suitable for people who have no previous experience or knowledge of them.
+
+  
+
+5. diagnose \ ˈdī-ig-ˌnōs 注意发音ig开始失去重音，到弱读
+
+1. to recognize and name the exact character of a disease or a problem, by examining it
+
+  
+
+6. asterisk -- \ ˈa-stə-ˌrisk 注意发音 i 发ə
+
+  
+
+7. bracket --\ ˈbra-kət 注意发音ə发e
+
+8. comma -- \ ˈkä-mə 对比下面的还有asterisk,
+
+9. colon -- \ ˈkō-lən 发现，o的发音其实看后面字母，达到同一个目的
+
+10. dollar -- \ ˈdä-lər
+
+11. tile --\ ˈtil-də 根据多次经历，发舌头像上的优 的音，不是o
+
+12. parenthesis -- \ pə-ˈren(t)-thə-səs (t)-the发d
+
+  
+  
+
+https://www.yourdictionary.com/entry-level 解释不错
+
+[md参考](https://about.gitlab.com/handbook/engineering/ux/technical-writing/markdown-guide/#tips--tricks)
+
+  
+
+[md参考](https://learn.getgrav.org/16/content/markdown)
 ## md格式
 网址里用-或者 %20 最好
 网站多半是-或者空格
@@ -495,11 +562,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyOTk1NTY2MCwtMTI4MzU2NDk5OSwtMT
-M0NzYzNDI1LC0xMTcwODU2ODExLC00NzkwNjk5NzIsMTY2NzE3
-MTIxNiwxNTA0MDI0MzMsMTczMDc4NjI0NCwxMjkyNjc2MjcyLC
-0xNzU3MjMzMDM4LDE0ODMxNTk2ODAsMTAyODgzMDgyMiwxMjM1
-MDExNDU1LC02NTEyMDcsMTUyMjY2OTU4MSwtMTgzMzc3Nzc0MC
-w4MzAzNDY0ODgsMTc3OTg4MDE4MywtMjU0MDcyMjI4LC0xNjgz
-NDg1MDUzXX0=
+eyJoaXN0b3J5IjpbLTE1MjQ5ODY2NCwtODI5OTU1NjYwLC0xMj
+gzNTY0OTk5LC0xMzQ3NjM0MjUsLTExNzA4NTY4MTEsLTQ3OTA2
+OTk3MiwxNjY3MTcxMjE2LDE1MDQwMjQzMywxNzMwNzg2MjQ0LD
+EyOTI2NzYyNzIsLTE3NTcyMzMwMzgsMTQ4MzE1OTY4MCwxMDI4
+ODMwODIyLDEyMzUwMTE0NTUsLTY1MTIwNywxNTIyNjY5NTgxLC
+0xODMzNzc3NzQwLDgzMDM0NjQ4OCwxNzc5ODgwMTgzLC0yNTQw
+NzIyMjhdfQ==
 -->
