@@ -51,7 +51,7 @@ is used to describe basic low-cost versions of products such as cars or computer
 
 10. dollar -- \ ˈdä-lər
 
-11. tile --\ ˈtil-də 根据多次经历，发舌头像上的优 的音，不是o
+11. tile --\ ˈtil-də 根据多次经历，发舌头像上的欧 ō的音，不是o更不是优
 
 12. parenthesis -- \ pə-ˈren(t)-thə-səs (t)-the发特tə的音
 
@@ -562,11 +562,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0ODczOTA4NywtMTUyNDk4NjY0LC04Mj
-k5NTU2NjAsLTEyODM1NjQ5OTksLTEzNDc2MzQyNSwtMTE3MDg1
-NjgxMSwtNDc5MDY5OTcyLDE2NjcxNzEyMTYsMTUwNDAyNDMzLD
-E3MzA3ODYyNDQsMTI5MjY3NjI3MiwtMTc1NzIzMzAzOCwxNDgz
-MTU5NjgwLDEwMjg4MzA4MjIsMTIzNTAxMTQ1NSwtNjUxMjA3LD
-E1MjI2Njk1ODEsLTE4MzM3Nzc3NDAsODMwMzQ2NDg4LDE3Nzk4
-ODAxODNdfQ==
+eyJoaXN0b3J5IjpbMzQzMjYwMDA1LDE1NDg3MzkwODcsLTE1Mj
+Q5ODY2NCwtODI5OTU1NjYwLC0xMjgzNTY0OTk5LC0xMzQ3NjM0
+MjUsLTExNzA4NTY4MTEsLTQ3OTA2OTk3MiwxNjY3MTcxMjE2LD
+E1MDQwMjQzMywxNzMwNzg2MjQ0LDEyOTI2NzYyNzIsLTE3NTcy
+MzMwMzgsMTQ4MzE1OTY4MCwxMDI4ODMwODIyLDEyMzUwMTE0NT
+UsLTY1MTIwNywxNTIyNjY5NTgxLC0xODMzNzc3NzQwLDgzMDM0
+NjQ4OF19
 -->
