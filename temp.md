@@ -55,7 +55,7 @@ is used to describe basic low-cost versions of products such as cars or computer
 
 12. parenthesis -- \ pə-ˈren(t)-thə-səs (t)-the发特tə的音
 
-  
+13. evaluate  \ i-ˈval-yə-ˌwāt -yü-ˌāt \第一次遇到读后面的yü-ˌāt ,注意发音
   
 
 https://www.yourdictionary.com/entry-level 解释不错
@@ -562,11 +562,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQzMjYwMDA1LDE1NDg3MzkwODcsLTE1Mj
-Q5ODY2NCwtODI5OTU1NjYwLC0xMjgzNTY0OTk5LC0xMzQ3NjM0
-MjUsLTExNzA4NTY4MTEsLTQ3OTA2OTk3MiwxNjY3MTcxMjE2LD
-E1MDQwMjQzMywxNzMwNzg2MjQ0LDEyOTI2NzYyNzIsLTE3NTcy
-MzMwMzgsMTQ4MzE1OTY4MCwxMDI4ODMwODIyLDEyMzUwMTE0NT
-UsLTY1MTIwNywxNTIyNjY5NTgxLC0xODMzNzc3NzQwLDgzMDM0
-NjQ4OF19
+eyJoaXN0b3J5IjpbNDMyNDgyMzQ0LDM0MzI2MDAwNSwxNTQ4Nz
+M5MDg3LC0xNTI0OTg2NjQsLTgyOTk1NTY2MCwtMTI4MzU2NDk5
+OSwtMTM0NzYzNDI1LC0xMTcwODU2ODExLC00NzkwNjk5NzIsMT
+Y2NzE3MTIxNiwxNTA0MDI0MzMsMTczMDc4NjI0NCwxMjkyNjc2
+MjcyLC0xNzU3MjMzMDM4LDE0ODMxNTk2ODAsMTAyODgzMDgyMi
+wxMjM1MDExNDU1LC02NTEyMDcsMTUyMjY2OTU4MSwtMTgzMzc3
+Nzc0MF19
 -->
