@@ -1,4 +1,60 @@
 
+##  2020.3.2
+
+1. beginner \ bi-ˈgi-nər 注意发音
+
+  
+
+2. garage \ gə-ˈräzh 注意发音
+
+1. a building where a car is kept, built next to or as part of a house
+
+  
+
+3. ritual \ ˈri-chə-wəl
+
+1. a set of fixed actions and sometimes words performed regularly, especially as part of a ceremony.
+
+  
+
+4. advantage \ əd-ˈvan-tij 注意发音，a就是a不是ä
+
+  
+
+5. manipulate \ mə-ˈni-pyə-ˌlāt
+
+1. control sth or someon to your advantage
+
+  
+
+6. theater \ ˈthē-ə-tər 注意发音t还是t
+
+1. a building, room, or outside structure with rows of seats, each row usually higher than the one in front, from which people can watch a performance, a movie, or another activity.
+
+  
+
+7. dedication the willingness to give a lot of time and energy to something because it is important
+
+  
+
+8. possession \ pə-ˈze-shən
+
+1. the fact that you have or own something.
+
+  
+
+9. resource \ ˈrē-ˌsȯrs
+
+1. a useful or valuable possession or quality of a contry, organization, or person
+
+  
+
+10. comment \ ˈkä-ˌment 注意发音
+
+  
+
+11. embedded \ im-ˈbe-dəd 注意ə发音偏向i ，没有e，没有ə，说明的确是ə的嘴型弱读，
+
 ##  2.29
 
 1. benefit \ ˈbe-nə-ˌfit 注意发音，和下面i类似，靠后的i有弱读现象，产生i和e之间的音
@@ -562,11 +618,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMyNDgyMzQ0LDM0MzI2MDAwNSwxNTQ4Nz
-M5MDg3LC0xNTI0OTg2NjQsLTgyOTk1NTY2MCwtMTI4MzU2NDk5
-OSwtMTM0NzYzNDI1LC0xMTcwODU2ODExLC00NzkwNjk5NzIsMT
-Y2NzE3MTIxNiwxNTA0MDI0MzMsMTczMDc4NjI0NCwxMjkyNjc2
-MjcyLC0xNzU3MjMzMDM4LDE0ODMxNTk2ODAsMTAyODgzMDgyMi
-wxMjM1MDExNDU1LC02NTEyMDcsMTUyMjY2OTU4MSwtMTgzMzc3
-Nzc0MF19
+eyJoaXN0b3J5IjpbMTQyNTA1MzE2Myw0MzI0ODIzNDQsMzQzMj
+YwMDA1LDE1NDg3MzkwODcsLTE1MjQ5ODY2NCwtODI5OTU1NjYw
+LC0xMjgzNTY0OTk5LC0xMzQ3NjM0MjUsLTExNzA4NTY4MTEsLT
+Q3OTA2OTk3MiwxNjY3MTcxMjE2LDE1MDQwMjQzMywxNzMwNzg2
+MjQ0LDEyOTI2NzYyNzIsLTE3NTcyMzMwMzgsMTQ4MzE1OTY4MC
+wxMDI4ODMwODIyLDEyMzUwMTE0NTUsLTY1MTIwNywxNTIyNjY5
+NTgxXX0=
 -->
