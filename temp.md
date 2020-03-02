@@ -3,6 +3,8 @@
 语法空格
 https://www.oreilly.com/library/view/learning-perl-6/9781491977675/ch01.html
 
+https://github.com/AlexDaniel/raku-golf-cheatsheet
+
 1. beginner \ bi-ˈgi-nər 注意发音
 
   
@@ -620,7 +622,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NzE2OTMxMywxNDI1MDUzMTYzLDQzMj
+eyJoaXN0b3J5IjpbLTM2Nzg1MDA5OCwxNDI1MDUzMTYzLDQzMj
 Q4MjM0NCwzNDMyNjAwMDUsMTU0ODczOTA4NywtMTUyNDk4NjY0
 LC04Mjk5NTU2NjAsLTEyODM1NjQ5OTksLTEzNDc2MzQyNSwtMT
 E3MDg1NjgxMSwtNDc5MDY5OTcyLDE2NjcxNzEyMTYsMTUwNDAy
