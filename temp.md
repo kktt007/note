@@ -4,6 +4,15 @@
 https://www.oreilly.com/library/view/learning-perl-6/9781491977675/ch01.html
 
 https://github.com/AlexDaniel/raku-golf-cheatsheet
+https://news.ycombinator.com/news
+
+https://www.evanmiller.org/a-review-of-perl-6.html
+
+https://www.learningraku.com/
+
+https://perlgeek.de/en/article/5-to-6
+
+https://rakuadventcalendar.wordpress.com/
 
 1. beginner \ bi-ˈgi-nər 注意发音
 
@@ -622,11 +631,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2Nzg1MDA5OCwxNDI1MDUzMTYzLDQzMj
-Q4MjM0NCwzNDMyNjAwMDUsMTU0ODczOTA4NywtMTUyNDk4NjY0
-LC04Mjk5NTU2NjAsLTEyODM1NjQ5OTksLTEzNDc2MzQyNSwtMT
-E3MDg1NjgxMSwtNDc5MDY5OTcyLDE2NjcxNzEyMTYsMTUwNDAy
-NDMzLDE3MzA3ODYyNDQsMTI5MjY3NjI3MiwtMTc1NzIzMzAzOC
-wxNDgzMTU5NjgwLDEwMjg4MzA4MjIsMTIzNTAxMTQ1NSwtNjUx
-MjA3XX0=
+eyJoaXN0b3J5IjpbMjgyODQwMjkxLDE0MjUwNTMxNjMsNDMyND
+gyMzQ0LDM0MzI2MDAwNSwxNTQ4NzM5MDg3LC0xNTI0OTg2NjQs
+LTgyOTk1NTY2MCwtMTI4MzU2NDk5OSwtMTM0NzYzNDI1LC0xMT
+cwODU2ODExLC00NzkwNjk5NzIsMTY2NzE3MTIxNiwxNTA0MDI0
+MzMsMTczMDc4NjI0NCwxMjkyNjc2MjcyLC0xNzU3MjMzMDM4LD
+E0ODMxNTk2ODAsMTAyODgzMDgyMiwxMjM1MDExNDU1LC02NTEy
+MDddfQ==
 -->
