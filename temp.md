@@ -1,4 +1,160 @@
+##  2020.3.3
 
+https://github.com/manwar/perlweeklychallenge-club
+
+https://www.infoq.cn/article/7eYwX_3Ap7DRb5LedzUp
+
+HTML 和 CSS
+
+GO 语言
+
+  
+  
+  
+
+图标获取网站
+
+https://favicongrabber.com/
+
+https://faviconkit.com/
+
+1. favicon \ ˈfa-və-ˌkän
+
+1. a small icon associated with a particular website or page that is displayed in an Internet browser (as in the browser's address bar or in a list of favorites)
+
+2. A favicon is a small symbol which helps users to recognize a website. Usually, it’s a simplified version of a logo or figurative mark, which is displayed next to the page title in a browser tab. For power users who use a lot of tabs at the same time or who attach tabs in their browser, the small square icon can sometimes be the only orientation aid between websites that are currently opened. As an example you can see the favicon of seobility.net here:
+
+  
+
+2. usual \ ˈyü-zhə-wəl
+
+1. happening or done most of the time; ordinary
+
+  
+  
+
+###  Multifunctional power tool
+
+剑桥和朗文 mw vocabu wiki 最全
+
+1. rehabilitate \ ˌrē-ə-ˈbi-lə-ˌtāt
+
+1. to return someone to a healthy or usual condition or way of living, or to return something to good condition
+
+  
+
+2. chuck
+
+1. a device for holding an object firmly in a machine
+
+  
+
+3. veterinary \ ˈve-tə-rə-ˌner-ē 注意发音t发d
+
+  
+
+4. medicine
+
+1. a substance taken into the body in treating an illness
+
+  
+
+5. audiology \ ˌȯ-dē-ˈä-lə-jē
+
+1. the area of science and medicine that is concerned with hearing and balance
+
+  
+
+6. laryngology \ ˌler-ən-ˈgä-lə-jē
+
+1. The branch of physiology dealing with the larynx and its disorders
+
+1. larynx \ ˈler-iŋ(k)s -- an organ in the throat which contains the vocal cords (= tissue that moves to produce the voice)
+
+  
+
+7. vocal \ ˈvō-kəl
+
+1. relating to or produced by the voice, either in singing or speaking
+
+  
+
+8. intentionally
+
+1. in a planned or intended way
+
+  
+
+9. intervention
+
+1. the act or fact of becoming involved intentionally in a difficult situation
+
+  
+
+10. severe \ sə-ˈvir 注意发音ə还是ə，不是e
+
+1. causing great pain, difficulty, damage, etc.; very serious
+
+  
+
+11. https://www.merriam-webster.com/dictionary/trauma 单词似乎有问题
+
+1. trauma
+
+-. severe shock caused by an injury
+
+  
+
+12. shock
+
+1. a sudden, unexpected, and often unpleasant or offensive event, or the emotional or physical reaction to such an event
+
+  
+
+13.
+
+  
+
+##  power tools
+
+1.
+
+[ FB 高福翠 Галина Гао](https://www.facebook.com/profile.php?id=100025532490361&sk=photos&collection_token=100025532490361%3A2305272732%3A5&next_cursor=AQHR6E4IREiCIMr40S5fGpPuUhzy94v9mX9CzyMsFcYmjHVX0O0Y9brMOeZvFpp9JsdvX6r7kmG9NiftgoGWSC9TOg)
+
+  
+
+> [JIANGSU HEALTH MEDICAL TECHNOLOGY DEVELOPMENT CO., LTD.]
+
+> [Harbin Health Medical Appliances Co.,Ltd]
+
+> [Harbin Haiousi Business Co., Ltd.]
+
+> [HealthHOS](www.cn-hos.com)
+
+> [阿里主页](https://cn-hos.en.alibaba.com/)
+
+>
+
+> No. 68 Dongyuan Lane, Laozishan Town, Hongze District, 223001 Huaian City
+
+  
+
+2. [ZS ORTHO](https://www.zsortho.com/products/index.html)
+
+1. HK 公司 Power Tools
+
+  
+
+##  topics
+
+  
+
+1. #rhinology #rhinologist #sinussurgery #skullbasesurgery #endoscopicsurgery #skullbase #surgery #ilooklikeasurgeon #womensurgeons #womeninsurgery #womeninmedicine #womeninotolaryngology #femalesurgeon #stanfordent #stanfordsurgery #stanforduniversity #stanfordhealthcare #stanfordhospital #education #teaching #doctor #wellness #health #sinus #sinusitis #sinusinfection
+
+  
+
+2. #‎skullbase‬ #earsurgery #neurosurgery #microsurgery #schwannoma #laryngology #entsurgery
+3. 
 ##  2020.3.2
 语法空格
 https://www.oreilly.com/library/view/learning-perl-6/9781491977675/ch01.html
@@ -631,11 +787,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgyODQwMjkxLDE0MjUwNTMxNjMsNDMyND
-gyMzQ0LDM0MzI2MDAwNSwxNTQ4NzM5MDg3LC0xNTI0OTg2NjQs
-LTgyOTk1NTY2MCwtMTI4MzU2NDk5OSwtMTM0NzYzNDI1LC0xMT
-cwODU2ODExLC00NzkwNjk5NzIsMTY2NzE3MTIxNiwxNTA0MDI0
-MzMsMTczMDc4NjI0NCwxMjkyNjc2MjcyLC0xNzU3MjMzMDM4LD
-E0ODMxNTk2ODAsMTAyODgzMDgyMiwxMjM1MDExNDU1LC02NTEy
-MDddfQ==
+eyJoaXN0b3J5IjpbMTQ3OTUxNTIyMiwyODI4NDAyOTEsMTQyNT
+A1MzE2Myw0MzI0ODIzNDQsMzQzMjYwMDA1LDE1NDg3MzkwODcs
+LTE1MjQ5ODY2NCwtODI5OTU1NjYwLC0xMjgzNTY0OTk5LC0xMz
+Q3NjM0MjUsLTExNzA4NTY4MTEsLTQ3OTA2OTk3MiwxNjY3MTcx
+MjE2LDE1MDQwMjQzMywxNzMwNzg2MjQ0LDEyOTI2NzYyNzIsLT
+E3NTcyMzMwMzgsMTQ4MzE1OTY4MCwxMDI4ODMwODIyLDEyMzUw
+MTE0NTVdfQ==
 -->
