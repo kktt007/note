@@ -9,8 +9,8 @@ Javascript/HTML/CSS是很多人都会用到的，后面的是SQLSQL 是一门非
 　　如果你平时的编程工作涉及到业务功能，而不是纯粹的技术架构，一定会使用到数据库。SQL 就是数据的语言，通过它你可以和数据建立连接和沟通。如果你的数据访问模式写得很差，轻则代码性能一塌糊涂，重则引发 Bug，而涉及数据的问题，Bug 等级都比较高，后果可能很严重。
 
 　　(关于 SQL，可以参考朱赟专栏文章“每个工程师都应该了解的：数据库知识”。)
-
-GO 语言
+python动态
+GO 语言 静态
 
   
   
@@ -791,11 +791,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4ODI4MDAzMSw4MDQ5NTQ2NCwxNDc5NT
-E1MjIyLDI4Mjg0MDI5MSwxNDI1MDUzMTYzLDQzMjQ4MjM0NCwz
-NDMyNjAwMDUsMTU0ODczOTA4NywtMTUyNDk4NjY0LC04Mjk5NT
-U2NjAsLTEyODM1NjQ5OTksLTEzNDc2MzQyNSwtMTE3MDg1Njgx
-MSwtNDc5MDY5OTcyLDE2NjcxNzEyMTYsMTUwNDAyNDMzLDE3Mz
-A3ODYyNDQsMTI5MjY3NjI3MiwtMTc1NzIzMzAzOCwxNDgzMTU5
-NjgwXX0=
+eyJoaXN0b3J5IjpbMTI1NTEyMzk1MCwtNjg4MjgwMDMxLDgwND
+k1NDY0LDE0Nzk1MTUyMjIsMjgyODQwMjkxLDE0MjUwNTMxNjMs
+NDMyNDgyMzQ0LDM0MzI2MDAwNSwxNTQ4NzM5MDg3LC0xNTI0OT
+g2NjQsLTgyOTk1NTY2MCwtMTI4MzU2NDk5OSwtMTM0NzYzNDI1
+LC0xMTcwODU2ODExLC00NzkwNjk5NzIsMTY2NzE3MTIxNiwxNT
+A0MDI0MzMsMTczMDc4NjI0NCwxMjkyNjc2MjcyLC0xNzU3MjMz
+MDM4XX0=
 -->
