@@ -1,4 +1,10 @@
 ## 3.5
+**4、爆破音+摩擦音/破擦音=失去爆破**
+
+当爆破音后紧跟着摩擦音和破擦音时，该爆破音形成阻碍，但不完全爆破。  
+摩擦音：[f][v][θ][ ð][s][ z][ ʃ][ ʒ ][h][r]
+
+破擦音：[ts]-[dz],[tr]-[dr],[tʃ]-[dʒ]
 intentional \ in-ˈtench-nəl 注意发音ch
 ambiguous \ am-ˈbi-gyə-wəs 注意发音yə-w形成u
 ##  2020.3.3
@@ -796,11 +802,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTIyMTkzNTQsLTExOTgyNDI2NTksMT
-kzNzYwODY1OCw2NDczMDc2MDUsMTI1NTEyMzk1MCwtNjg4Mjgw
-MDMxLDgwNDk1NDY0LDE0Nzk1MTUyMjIsMjgyODQwMjkxLDE0Mj
-UwNTMxNjMsNDMyNDgyMzQ0LDM0MzI2MDAwNSwxNTQ4NzM5MDg3
-LC0xNTI0OTg2NjQsLTgyOTk1NTY2MCwtMTI4MzU2NDk5OSwtMT
-M0NzYzNDI1LC0xMTcwODU2ODExLC00NzkwNjk5NzIsMTY2NzE3
-MTIxNl19
+eyJoaXN0b3J5IjpbLTE1OTI2MTU2MTAsLTEzNTIyMTkzNTQsLT
+ExOTgyNDI2NTksMTkzNzYwODY1OCw2NDczMDc2MDUsMTI1NTEy
+Mzk1MCwtNjg4MjgwMDMxLDgwNDk1NDY0LDE0Nzk1MTUyMjIsMj
+gyODQwMjkxLDE0MjUwNTMxNjMsNDMyNDgyMzQ0LDM0MzI2MDAw
+NSwxNTQ4NzM5MDg3LC0xNTI0OTg2NjQsLTgyOTk1NTY2MCwtMT
+I4MzU2NDk5OSwtMTM0NzYzNDI1LC0xMTcwODU2ODExLC00Nzkw
+Njk5NzJdfQ==
 -->
