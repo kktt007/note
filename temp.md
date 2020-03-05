@@ -4,7 +4,7 @@ https://github.com/manwar/perlweeklychallenge-club
 
 https://www.infoq.cn/article/7eYwX_3Ap7DRb5LedzUp
 
-Javascript/HTML/CSS是很多人都会用到的，后面的是SQL
+Javascript/HTML/CSS是很多人都会用到的，后面的是SQLSQL 是一门非常非常重要并且应该熟练掌握的语言(虽然它不能被称为程序语言)
 
 GO 语言
 
@@ -787,11 +787,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA0OTU0NjQsMTQ3OTUxNTIyMiwyODI4ND
-AyOTEsMTQyNTA1MzE2Myw0MzI0ODIzNDQsMzQzMjYwMDA1LDE1
-NDg3MzkwODcsLTE1MjQ5ODY2NCwtODI5OTU1NjYwLC0xMjgzNT
-Y0OTk5LC0xMzQ3NjM0MjUsLTExNzA4NTY4MTEsLTQ3OTA2OTk3
-MiwxNjY3MTcxMjE2LDE1MDQwMjQzMywxNzMwNzg2MjQ0LDEyOT
-I2NzYyNzIsLTE3NTcyMzMwMzgsMTQ4MzE1OTY4MCwxMDI4ODMw
-ODIyXX0=
+eyJoaXN0b3J5IjpbNDYzMzI0Njk1LDgwNDk1NDY0LDE0Nzk1MT
+UyMjIsMjgyODQwMjkxLDE0MjUwNTMxNjMsNDMyNDgyMzQ0LDM0
+MzI2MDAwNSwxNTQ4NzM5MDg3LC0xNTI0OTg2NjQsLTgyOTk1NT
+Y2MCwtMTI4MzU2NDk5OSwtMTM0NzYzNDI1LC0xMTcwODU2ODEx
+LC00NzkwNjk5NzIsMTY2NzE3MTIxNiwxNTA0MDI0MzMsMTczMD
+c4NjI0NCwxMjkyNjc2MjcyLC0xNzU3MjMzMDM4LDE0ODMxNTk2
+ODBdfQ==
 -->
