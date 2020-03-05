@@ -1,3 +1,6 @@
+## 3.5
+intentional \ in-ˈtench-nəl 注意发音ch
+
 ##  2020.3.3
 [英语情景对话](https://www.learnrealeng.com/p/situational-dialogues.html)
 https://eslgold.com/practice-speaking/conversation-phrases/low-beginner/
@@ -793,11 +796,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTgyNDI2NTksMTkzNzYwODY1OCw2ND
-czMDc2MDUsMTI1NTEyMzk1MCwtNjg4MjgwMDMxLDgwNDk1NDY0
-LDE0Nzk1MTUyMjIsMjgyODQwMjkxLDE0MjUwNTMxNjMsNDMyND
-gyMzQ0LDM0MzI2MDAwNSwxNTQ4NzM5MDg3LC0xNTI0OTg2NjQs
-LTgyOTk1NTY2MCwtMTI4MzU2NDk5OSwtMTM0NzYzNDI1LC0xMT
-cwODU2ODExLC00NzkwNjk5NzIsMTY2NzE3MTIxNiwxNTA0MDI0
-MzNdfQ==
+eyJoaXN0b3J5IjpbLTE4NDczMjU0MzIsLTExOTgyNDI2NTksMT
+kzNzYwODY1OCw2NDczMDc2MDUsMTI1NTEyMzk1MCwtNjg4Mjgw
+MDMxLDgwNDk1NDY0LDE0Nzk1MTUyMjIsMjgyODQwMjkxLDE0Mj
+UwNTMxNjMsNDMyNDgyMzQ0LDM0MzI2MDAwNSwxNTQ4NzM5MDg3
+LC0xNTI0OTg2NjQsLTgyOTk1NTY2MCwtMTI4MzU2NDk5OSwtMT
+M0NzYzNDI1LC0xMTcwODU2ODExLC00NzkwNjk5NzIsMTY2NzE3
+MTIxNl19
 -->
