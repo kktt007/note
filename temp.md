@@ -1,4 +1,35 @@
 ## 3.5
+
+4：/t/，/d/，/s/，/z/分别和/j/的连读
+
+1）/t/+/j/=/tʃ/
+
+例：can’t you do it /kæntʃu:/
+
+what your name is /wɒtʃɔ:r/
+
+2）/d/+/j/=/dʒ/
+
+例：did you /dɪdʒu:/
+
+find your /faɪndʒɔ:r/
+
+（do you 也常常连读为/dʒu:/，连读时do中的o不发音）
+
+3）/s/+/j/=/ʃ/
+
+例：yes, you are /jeʃu:/
+
+guess your age /ɡeʃɔ:r/
+
+4）/z/+/j/=/ʒ/
+
+例：how’s your family /haʊʒɔ:r/
+
+she misses you /mɪsɪʒu:/
+
+（you，your和 you’re 在实际发音时，很可能会轻读，you发/jə/，your发/jər/，you’re发/jər/。连读后具体的发音以实际情况为准。）
+
 https://zhuanlan.zhihu.com/p/100868878
 
 **一、连读**
@@ -849,11 +880,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNTE4NzM0MCwxNjMyNDU4OTYzLC0xMz
-UyMjE5MzU0LC0xMTk4MjQyNjU5LDE5Mzc2MDg2NTgsNjQ3MzA3
-NjA1LDEyNTUxMjM5NTAsLTY4ODI4MDAzMSw4MDQ5NTQ2NCwxND
-c5NTE1MjIyLDI4Mjg0MDI5MSwxNDI1MDUzMTYzLDQzMjQ4MjM0
-NCwzNDMyNjAwMDUsMTU0ODczOTA4NywtMTUyNDk4NjY0LC04Mj
-k5NTU2NjAsLTEyODM1NjQ5OTksLTEzNDc2MzQyNSwtMTE3MDg1
-NjgxMV19
+eyJoaXN0b3J5IjpbLTUwNzIzMDM4MCwxMTE1MTg3MzQwLDE2Mz
+I0NTg5NjMsLTEzNTIyMTkzNTQsLTExOTgyNDI2NTksMTkzNzYw
+ODY1OCw2NDczMDc2MDUsMTI1NTEyMzk1MCwtNjg4MjgwMDMxLD
+gwNDk1NDY0LDE0Nzk1MTUyMjIsMjgyODQwMjkxLDE0MjUwNTMx
+NjMsNDMyNDgyMzQ0LDM0MzI2MDAwNSwxNTQ4NzM5MDg3LC0xNT
+I0OTg2NjQsLTgyOTk1NTY2MCwtMTI4MzU2NDk5OSwtMTM0NzYz
+NDI1XX0=
 -->
