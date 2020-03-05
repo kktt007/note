@@ -1,5 +1,24 @@
 ## 3.5
 
+美式发音中，当/t/和/p/在单词的中间，且后面的音属于非重读音节，则/t/浊化成/d/，/p/浊化成/b/。
+
+例：butter /ˈbʌdər/，open/ˈəʊbən/
+
+city/ˈsɪdi/，little/ˈlɪdl/
+
+（美音中/t/音的浊化大大促进了英语流畅、放松的发音，/d/音是非常平滑的音，/t/音需要更多的体力，/d/发音时肌肉无需太紧张。美音中的/p/也可以浊化成/b/，但没有/t/的浊化常见。）
+
+/t/和/d/的完全省略
+
+1）当/t/和/d/音在两个辅音中间时，可以完全省略。
+
+例：must do /t/音完全省略
+
+2）/t/和/d/在词尾时，通常会失去爆破或省略。
+
+（在交流中，单词是有语境的，不是独立存在的，因此省略尾音后，不会对交流造成影响。
+
+
 4：/t/，/d/，/s/，/z/分别和/j/的连读
 
 1）/t/+/j/=/tʃ/
@@ -880,11 +899,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNzIzMDM4MCwxMTE1MTg3MzQwLDE2Mz
-I0NTg5NjMsLTEzNTIyMTkzNTQsLTExOTgyNDI2NTksMTkzNzYw
-ODY1OCw2NDczMDc2MDUsMTI1NTEyMzk1MCwtNjg4MjgwMDMxLD
-gwNDk1NDY0LDE0Nzk1MTUyMjIsMjgyODQwMjkxLDE0MjUwNTMx
-NjMsNDMyNDgyMzQ0LDM0MzI2MDAwNSwxNTQ4NzM5MDg3LC0xNT
-I0OTg2NjQsLTgyOTk1NTY2MCwtMTI4MzU2NDk5OSwtMTM0NzYz
-NDI1XX0=
+eyJoaXN0b3J5IjpbLTE0MjkyMTM4OTQsLTUwNzIzMDM4MCwxMT
+E1MTg3MzQwLDE2MzI0NTg5NjMsLTEzNTIyMTkzNTQsLTExOTgy
+NDI2NTksMTkzNzYwODY1OCw2NDczMDc2MDUsMTI1NTEyMzk1MC
+wtNjg4MjgwMDMxLDgwNDk1NDY0LDE0Nzk1MTUyMjIsMjgyODQw
+MjkxLDE0MjUwNTMxNjMsNDMyNDgyMzQ0LDM0MzI2MDAwNSwxNT
+Q4NzM5MDg3LC0xNTI0OTg2NjQsLTgyOTk1NTY2MCwtMTI4MzU2
+NDk5OV19
 -->
