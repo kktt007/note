@@ -1,6 +1,6 @@
 ## 3.5
 intentional \ in-ˈtench-nəl 注意发音ch
-
+ambiguous \ am-ˈbi-gyə-wəs 注意发音yə-w形成u
 ##  2020.3.3
 [英语情景对话](https://www.learnrealeng.com/p/situational-dialogues.html)
 https://eslgold.com/practice-speaking/conversation-phrases/low-beginner/
@@ -796,7 +796,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDczMjU0MzIsLTExOTgyNDI2NTksMT
+eyJoaXN0b3J5IjpbLTEzNTIyMTkzNTQsLTExOTgyNDI2NTksMT
 kzNzYwODY1OCw2NDczMDc2MDUsMTI1NTEyMzk1MCwtNjg4Mjgw
 MDMxLDgwNDk1NDY0LDE0Nzk1MTUyMjIsMjgyODQwMjkxLDE0Mj
 UwNTMxNjMsNDMyNDgyMzQ0LDM0MzI2MDAwNSwxNTQ4NzM5MDg3
