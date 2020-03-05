@@ -1,5 +1,9 @@
 ## 3.5
 
+https://zhuanlan.zhihu.com/p/109230363
+
+https://zhuanlan.zhihu.com/p/89660011
+
 美式发音中，当/t/和/p/在单词的中间，且后面的音属于非重读音节，则/t/浊化成/d/，/p/浊化成/b/。
 
 例：butter /ˈbʌdər/，open/ˈəʊbən/
@@ -899,7 +903,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjkyMTM4OTQsLTUwNzIzMDM4MCwxMT
+eyJoaXN0b3J5IjpbLTEyMDA0Mzg0MzAsLTUwNzIzMDM4MCwxMT
 E1MTg3MzQwLDE2MzI0NTg5NjMsLTEzNTIyMTkzNTQsLTExOTgy
 NDI2NTksMTkzNzYwODY1OCw2NDczMDc2MDUsMTI1NTEyMzk1MC
 wtNjg4MjgwMDMxLDgwNDk1NDY0LDE0Nzk1MTUyMjIsMjgyODQw
