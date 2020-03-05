@@ -1,4 +1,26 @@
 ## 3.5
+**一、连读**
+
+**发音规则一：辅音+元音**
+
+一句话中相邻的两个单词，前一个单词以辅音结尾，后一个单词以元音开始，拼读成“辅音+元音”。
+
+**讲解：**你还记得汉语拼音中有些单词xi'an（西安）、ku'ai（酷爱）吗？如果去掉隔音符，就成了xian（先）、kuai（快）了。英文中几乎所有的句子都是从头拼到尾，简单地说：连音就是两个单词相遇能拼读就拼，不能拼读就让过。例如：Take~it~easy
+
+
+**发音规则二：元音+元音**
+
+一句话中相邻的两个单词，前一个单词以元音结尾，后一个单词以元音开始，则在两个元音之间加上一个轻微的 [j] 或 [w] 的音，拼读成“元音+ [j] 或 [w] +元音”。
+
+**[i:]或[eɪ]结尾的元音+[j]+元音**
+
+**以[u:]或 [əʊ] 结尾的元音+[w]+元音**
+
+**发音规则三** **省略 [h] 的连续**
+
+在连音规则中，以“h”开头的单词 [h] 音近乎省略。因为 [h] 发音很特殊——只是出气没有摩擦，所以拼读时好像被省略了。
+
+
 **二、略读**
 
 英文最明显的语音规则除了连读外，就是略读了。爆破音和爆破音相邻，第一个爆破音只形成阻碍，但不发生爆破，称为失爆；爆破音和其他辅音相邻，该爆破音不完全爆破。英语语音中的失爆和不完全爆破现象，我们简称为“略读”。略读是英语语音学习的重点，也是一个难点，掌握好略读，也就掌握了地道英语发音的制胜法宝！
@@ -825,11 +847,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzY4OTQ0MjksLTEzNTIyMTkzNTQsLT
-ExOTgyNDI2NTksMTkzNzYwODY1OCw2NDczMDc2MDUsMTI1NTEy
-Mzk1MCwtNjg4MjgwMDMxLDgwNDk1NDY0LDE0Nzk1MTUyMjIsMj
-gyODQwMjkxLDE0MjUwNTMxNjMsNDMyNDgyMzQ0LDM0MzI2MDAw
-NSwxNTQ4NzM5MDg3LC0xNTI0OTg2NjQsLTgyOTk1NTY2MCwtMT
-I4MzU2NDk5OSwtMTM0NzYzNDI1LC0xMTcwODU2ODExLC00Nzkw
-Njk5NzJdfQ==
+eyJoaXN0b3J5IjpbMTYzMjQ1ODk2MywtMTM1MjIxOTM1NCwtMT
+E5ODI0MjY1OSwxOTM3NjA4NjU4LDY0NzMwNzYwNSwxMjU1MTIz
+OTUwLC02ODgyODAwMzEsODA0OTU0NjQsMTQ3OTUxNTIyMiwyOD
+I4NDAyOTEsMTQyNTA1MzE2Myw0MzI0ODIzNDQsMzQzMjYwMDA1
+LDE1NDg3MzkwODcsLTE1MjQ5ODY2NCwtODI5OTU1NjYwLC0xMj
+gzNTY0OTk5LC0xMzQ3NjM0MjUsLTExNzA4NTY4MTEsLTQ3OTA2
+OTk3Ml19
 -->
