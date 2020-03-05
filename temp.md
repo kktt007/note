@@ -4,7 +4,11 @@ https://github.com/manwar/perlweeklychallenge-club
 
 https://www.infoq.cn/article/7eYwX_3Ap7DRb5LedzUp
 
-Javascript/HTML/CSS是很多人都会用到的，后面的是SQLSQL 是一门非常非常重要并且应该熟练掌握的语言(虽然它不能被称为程序语言)
+Javascript/HTML/CSS是很多人都会用到的，后面的是SQLSQL 是一门非常非常重要并且应该熟练掌握的语言(虽然它不能被称为程序语言)，我在这里用了两个非常，因为很多工程师有些过于轻视 SQL 了，并为此付出了惨重的代价。
+
+　　如果你平时的编程工作涉及到业务功能，而不是纯粹的技术架构，一定会使用到数据库。SQL 就是数据的语言，通过它你可以和数据建立连接和沟通。如果你的数据访问模式写得很差，轻则代码性能一塌糊涂，重则引发 Bug，而涉及数据的问题，Bug 等级都比较高，后果可能很严重。
+
+　　(关于 SQL，可以参考朱赟专栏文章“每个工程师都应该了解的：数据库知识”。)
 
 GO 语言
 
@@ -787,11 +791,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYzMzI0Njk1LDgwNDk1NDY0LDE0Nzk1MT
-UyMjIsMjgyODQwMjkxLDE0MjUwNTMxNjMsNDMyNDgyMzQ0LDM0
-MzI2MDAwNSwxNTQ4NzM5MDg3LC0xNTI0OTg2NjQsLTgyOTk1NT
-Y2MCwtMTI4MzU2NDk5OSwtMTM0NzYzNDI1LC0xMTcwODU2ODEx
-LC00NzkwNjk5NzIsMTY2NzE3MTIxNiwxNTA0MDI0MzMsMTczMD
-c4NjI0NCwxMjkyNjc2MjcyLC0xNzU3MjMzMDM4LDE0ODMxNTk2
-ODBdfQ==
+eyJoaXN0b3J5IjpbLTY4ODI4MDAzMSw4MDQ5NTQ2NCwxNDc5NT
+E1MjIyLDI4Mjg0MDI5MSwxNDI1MDUzMTYzLDQzMjQ4MjM0NCwz
+NDMyNjAwMDUsMTU0ODczOTA4NywtMTUyNDk4NjY0LC04Mjk5NT
+U2NjAsLTEyODM1NjQ5OTksLTEzNDc2MzQyNSwtMTE3MDg1Njgx
+MSwtNDc5MDY5OTcyLDE2NjcxNzEyMTYsMTUwNDAyNDMzLDE3Mz
+A3ODYyNDQsMTI5MjY3NjI3MiwtMTc1NzIzMzAzOCwxNDgzMTU5
+NjgwXX0=
 -->
