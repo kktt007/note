@@ -1,10 +1,33 @@
 ## 3.5
+**二、略读**
+
+英文最明显的语音规则除了连读外，就是略读了。爆破音和爆破音相邻，第一个爆破音只形成阻碍，但不发生爆破，称为失爆；爆破音和其他辅音相邻，该爆破音不完全爆破。英语语音中的失爆和不完全爆破现象，我们简称为“略读”。略读是英语语音学习的重点，也是一个难点，掌握好略读，也就掌握了地道英语发音的制胜法宝！
+
+**注意：**略读时并不是把整个音丢掉，而是发音时点到为止，有口型不发音或轻微发音。重要学术名词--爆破音：[p] [b] [t] [d] [k] [g]
+
+
+**1、爆破音+爆破音=失去爆破**
+
+**Tips：**  
+六个爆破音中任意两个相遇，一个爆破音后紧跟着另一个爆破音时，前面一个音点到为止，形成阻碍，但不发生爆破；第二个音完全爆破；若第二个爆破音在词尾，则必须轻化。以一个爆破音结尾并以同一个爆破音开始时，只发一次音，前一个音只做好发音准备而不发音，直接发第二个音。
+
+**2、爆破音[t]和[d]+鼻辅音[m]和[n]**
+
+爆破音[t]和[d]后面紧跟鼻辅音[m]和[n]，[t]和[d]形成阻碍，在词末必须通过鼻腔爆破；发音时，舌尖紧贴上齿龈，稍放开立刻贴回，从爆破音到鼻音舌位不变，让气流通过鼻腔冲出，在词中则不完全爆破。
+
+
+
+**3、爆破音[t]和[d]+舌边音[l]**
+
+爆破音[t]和[d]后面紧跟舌边音[l]，则必须由舌两边爆破，这种情况多发生在词尾。爆破音爆破音[t]和[d]后面紧跟清晰舌边[l]，则为不完全爆破。
+
 **4、爆破音+摩擦音/破擦音=失去爆破**
 
 当爆破音后紧跟着摩擦音和破擦音时，该爆破音形成阻碍，但不完全爆破。  
 摩擦音：[f][v][θ][ ð][s][ z][ ʃ][ ʒ ][h][r]
 
 破擦音：[ts]-[dz],[tr]-[dr],[tʃ]-[dʒ]
+
 intentional \ in-ˈtench-nəl 注意发音ch
 ambiguous \ am-ˈbi-gyə-wəs 注意发音yə-w形成u
 ##  2020.3.3
@@ -802,7 +825,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTI2MTU2MTAsLTEzNTIyMTkzNTQsLT
+eyJoaXN0b3J5IjpbLTEzMzY4OTQ0MjksLTEzNTIyMTkzNTQsLT
 ExOTgyNDI2NTksMTkzNzYwODY1OCw2NDczMDc2MDUsMTI1NTEy
 Mzk1MCwtNjg4MjgwMDMxLDgwNDk1NDY0LDE0Nzk1MTUyMjIsMj
 gyODQwMjkxLDE0MjUwNTMxNjMsNDMyNDgyMzQ0LDM0MzI2MDAw
