@@ -1,5 +1,6 @@
 ##  2020.3.3
 [英语情景对话](https://www.learnrealeng.com/p/situational-dialogues.html)
+https://eslgold.com/practice-speaking/conversation-phrases/low-beginner/
 
 https://github.com/manwar/perlweeklychallenge-club
 
@@ -792,7 +793,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTM3MzU1MDYsMTkzNzYwODY1OCw2ND
+eyJoaXN0b3J5IjpbLTExOTgyNDI2NTksMTkzNzYwODY1OCw2ND
 czMDc2MDUsMTI1NTEyMzk1MCwtNjg4MjgwMDMxLDgwNDk1NDY0
 LDE0Nzk1MTUyMjIsMjgyODQwMjkxLDE0MjUwNTMxNjMsNDMyND
 gyMzQ0LDM0MzI2MDAwNSwxNTQ4NzM5MDg3LC0xNTI0OTg2NjQs
