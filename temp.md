@@ -9,6 +9,12 @@ https://www.wgtn.ac.nz/lals/about/staff/Publications/paul-nation/headwords-first
 
 [好好学习句子](https://www.ihbristol.com/useful-english-expressions)
 
+https://midobay.com/
+
+http://www.espressoenglish.net/wp-content/uploads/free/500-Real-English-Phrases.pdf
+
+https://www.englishspeak.com/en/english-phrases
+
 字典https://enacademic.com/
 https://www.macmillandictionary.com/dictionary/british 比US更好
 
@@ -937,11 +943,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQzNjAzNjkxLC0xOTk4ODQ4MDcwLC0xND
-gxNTAwOTA5LC0xMzQ3MDY3NDQ4LC0xMDM5MTE5MzMsMTI5MjA2
-MjQ0MywtODkzOTMwNjUyLC0zNTkzOTEzNjUsNjYzNDgzNDg2LC
-0xMjAwNDM4NDMwLC01MDcyMzAzODAsMTExNTE4NzM0MCwxNjMy
-NDU4OTYzLC0xMzUyMjE5MzU0LC0xMTk4MjQyNjU5LDE5Mzc2MD
-g2NTgsNjQ3MzA3NjA1LDEyNTUxMjM5NTAsLTY4ODI4MDAzMSw4
-MDQ5NTQ2NF19
+eyJoaXN0b3J5IjpbLTI1ODUyMjk1MSw4NDM2MDM2OTEsLTE5OT
+g4NDgwNzAsLTE0ODE1MDA5MDksLTEzNDcwNjc0NDgsLTEwMzkx
+MTkzMywxMjkyMDYyNDQzLC04OTM5MzA2NTIsLTM1OTM5MTM2NS
+w2NjM0ODM0ODYsLTEyMDA0Mzg0MzAsLTUwNzIzMDM4MCwxMTE1
+MTg3MzQwLDE2MzI0NTg5NjMsLTEzNTIyMTkzNTQsLTExOTgyND
+I2NTksMTkzNzYwODY1OCw2NDczMDc2MDUsMTI1NTEyMzk1MCwt
+Njg4MjgwMDMxXX0=
 -->
