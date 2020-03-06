@@ -3,6 +3,8 @@
 
 https://www.quora.com/Where-can-I-find-a-list-of-the-10-000-most-important-English-words
 
+https://www.talkenglish.com/vocabulary/english-vocabulary.aspx
+
 字典https://enacademic.com/
 https://www.macmillandictionary.com/dictionary/british 比US更好
 
@@ -931,7 +933,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MzUwMjQ2OSwtMTQ4MTUwMDkwOSwtMT
+eyJoaXN0b3J5IjpbMTg0OTE0Mjg4MywtMTQ4MTUwMDkwOSwtMT
 M0NzA2NzQ0OCwtMTAzOTExOTMzLDEyOTIwNjI0NDMsLTg5Mzkz
 MDY1MiwtMzU5MzkxMzY1LDY2MzQ4MzQ4NiwtMTIwMDQzODQzMC
 wtNTA3MjMwMzgwLDExMTUxODczNDAsMTYzMjQ1ODk2MywtMTM1
