@@ -3,7 +3,8 @@
 https://www.macmillandictionary.com/dictionary/british 比US更好
 
 moral
-[relating](https://dictionary.cambridge.org/us/dictionary/english/relate "relating") to [standards](https://dictionary.cambridge.org/us/dictionary/english/standard "standards") of good [behavior](https://dictionary.cambridge.org/us/dictionary/english/behavior "behavior"), [honesty](https://dictionary.cambridge.org/us/dictionary/english/honesty "honesty"), and [fair](https://dictionary.cambridge.org/us/dictionary/english/fair "fair") [dealing](https://dictionary.cambridge.org/us/dictionary/english/dealing "dealing"), or [showing](https://dictionary.cambridge.org/us/dictionary/english/showing "showing") high [standards](https://dictionary.cambridge.org/us/dictionary/english/standard "standards") of this [type](https://dictionary.cambridge.org/us/dictionary/english/type "type"):
+relating to standards of good behavior, honesty, and fair dealing, or showing high standards of this type: 
+
 ## 3.5
 https://mp.weixin.qq.com/s/BatbfrYLbycsHE5Ksdwoow
 4.t音的消失 当/t/位于/n/于元音之间时
@@ -913,7 +914,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjgwNDQ2MzQsMTI5MjA2MjQ0MywtOD
+eyJoaXN0b3J5IjpbLTEyNzIyNDQ4NzEsMTI5MjA2MjQ0MywtOD
 kzOTMwNjUyLC0zNTkzOTEzNjUsNjYzNDgzNDg2LC0xMjAwNDM4
 NDMwLC01MDcyMzAzODAsMTExNTE4NzM0MCwxNjMyNDU4OTYzLC
 0xMzUyMjE5MzU0LC0xMTk4MjQyNjU5LDE5Mzc2MDg2NTgsNjQ3
