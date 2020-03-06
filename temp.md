@@ -5,6 +5,9 @@ https://www.macmillandictionary.com/dictionary/british 比US更好
 evil 
 the condition of being immoral, cruel, or bad, or an act of this type
 
+assume   \ ə-ˈsüm
+to accept something as true without question or proof: 
+
 innocent 
 (of a person) not guilty of a particular crime, or having no knowledge of the unpleasant and evil things in life, or (of words or an action) not intended to cause harm
 
@@ -920,11 +923,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDg3Mjg2NjcsMTI5MjA2MjQ0MywtOD
-kzOTMwNjUyLC0zNTkzOTEzNjUsNjYzNDgzNDg2LC0xMjAwNDM4
-NDMwLC01MDcyMzAzODAsMTExNTE4NzM0MCwxNjMyNDU4OTYzLC
-0xMzUyMjE5MzU0LC0xMTk4MjQyNjU5LDE5Mzc2MDg2NTgsNjQ3
-MzA3NjA1LDEyNTUxMjM5NTAsLTY4ODI4MDAzMSw4MDQ5NTQ2NC
-wxNDc5NTE1MjIyLDI4Mjg0MDI5MSwxNDI1MDUzMTYzLDQzMjQ4
-MjM0NF19
+eyJoaXN0b3J5IjpbLTEwMzkxMTkzMywxMjkyMDYyNDQzLC04OT
+M5MzA2NTIsLTM1OTM5MTM2NSw2NjM0ODM0ODYsLTEyMDA0Mzg0
+MzAsLTUwNzIzMDM4MCwxMTE1MTg3MzQwLDE2MzI0NTg5NjMsLT
+EzNTIyMTkzNTQsLTExOTgyNDI2NTksMTkzNzYwODY1OCw2NDcz
+MDc2MDUsMTI1NTEyMzk1MCwtNjg4MjgwMDMxLDgwNDk1NDY0LD
+E0Nzk1MTUyMjIsMjgyODQwMjkxLDE0MjUwNTMxNjMsNDMyNDgy
+MzQ0XX0=
 -->
