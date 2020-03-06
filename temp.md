@@ -7,6 +7,7 @@ https://www.talkenglish.com/vocabulary/english-vocabulary.aspx
 
 https://www.wgtn.ac.nz/lals/about/staff/Publications/paul-nation/headwords-first-thousand.pdf
 
+
 字典https://enacademic.com/
 https://www.macmillandictionary.com/dictionary/british 比US更好
 
@@ -935,11 +936,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTg4NDgwNzAsLTE0ODE1MDA5MDksLT
-EzNDcwNjc0NDgsLTEwMzkxMTkzMywxMjkyMDYyNDQzLC04OTM5
-MzA2NTIsLTM1OTM5MTM2NSw2NjM0ODM0ODYsLTEyMDA0Mzg0Mz
-AsLTUwNzIzMDM4MCwxMTE1MTg3MzQwLDE2MzI0NTg5NjMsLTEz
-NTIyMTkzNTQsLTExOTgyNDI2NTksMTkzNzYwODY1OCw2NDczMD
-c2MDUsMTI1NTEyMzk1MCwtNjg4MjgwMDMxLDgwNDk1NDY0LDE0
-Nzk1MTUyMjJdfQ==
+eyJoaXN0b3J5IjpbMTMzNzgyNzM0MCwtMTk5ODg0ODA3MCwtMT
+Q4MTUwMDkwOSwtMTM0NzA2NzQ0OCwtMTAzOTExOTMzLDEyOTIw
+NjI0NDMsLTg5MzkzMDY1MiwtMzU5MzkxMzY1LDY2MzQ4MzQ4Ni
+wtMTIwMDQzODQzMCwtNTA3MjMwMzgwLDExMTUxODczNDAsMTYz
+MjQ1ODk2MywtMTM1MjIxOTM1NCwtMTE5ODI0MjY1OSwxOTM3Nj
+A4NjU4LDY0NzMwNzYwNSwxMjU1MTIzOTUwLC02ODgyODAwMzEs
+ODA0OTU0NjRdfQ==
 -->
