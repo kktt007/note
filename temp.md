@@ -7,6 +7,7 @@ https://www.talkenglish.com/vocabulary/english-vocabulary.aspx
 
 https://www.wgtn.ac.nz/lals/about/staff/Publications/paul-nation/headwords-first-thousand.pdf
 
+[好好学习句子](https://www.ihbristol.com/useful-english-expressions)
 
 字典https://enacademic.com/
 https://www.macmillandictionary.com/dictionary/british 比US更好
@@ -936,11 +937,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNzgyNzM0MCwtMTk5ODg0ODA3MCwtMT
-Q4MTUwMDkwOSwtMTM0NzA2NzQ0OCwtMTAzOTExOTMzLDEyOTIw
-NjI0NDMsLTg5MzkzMDY1MiwtMzU5MzkxMzY1LDY2MzQ4MzQ4Ni
-wtMTIwMDQzODQzMCwtNTA3MjMwMzgwLDExMTUxODczNDAsMTYz
-MjQ1ODk2MywtMTM1MjIxOTM1NCwtMTE5ODI0MjY1OSwxOTM3Nj
-A4NjU4LDY0NzMwNzYwNSwxMjU1MTIzOTUwLC02ODgyODAwMzEs
-ODA0OTU0NjRdfQ==
+eyJoaXN0b3J5IjpbODQzNjAzNjkxLC0xOTk4ODQ4MDcwLC0xND
+gxNTAwOTA5LC0xMzQ3MDY3NDQ4LC0xMDM5MTE5MzMsMTI5MjA2
+MjQ0MywtODkzOTMwNjUyLC0zNTkzOTEzNjUsNjYzNDgzNDg2LC
+0xMjAwNDM4NDMwLC01MDcyMzAzODAsMTExNTE4NzM0MCwxNjMy
+NDU4OTYzLC0xMzUyMjE5MzU0LC0xMTk4MjQyNjU5LDE5Mzc2MD
+g2NTgsNjQ3MzA3NjA1LDEyNTUxMjM5NTAsLTY4ODI4MDAzMSw4
+MDQ5NTQ2NF19
 -->
