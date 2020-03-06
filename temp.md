@@ -14,6 +14,10 @@ innocent
 moral \ ˈmȯr-əl 注意发音 Mr. ben理论不发ə
 relating to standards of good behavior, honesty, and fair dealing, or showing high standards of this type: 
 
+milestone \ ˈmī(-ə)l-ˌstōn 注意发音l o 非常经典的区别
+a stone or post at the side of the road that shows the distance to various places, especially to the nearest large town
+
+
 ## 3.5
 https://mp.weixin.qq.com/s/BatbfrYLbycsHE5Ksdwoow
 4.t音的消失 当/t/位于/n/于元音之间时
@@ -923,11 +927,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzkxMTkzMywxMjkyMDYyNDQzLC04OT
-M5MzA2NTIsLTM1OTM5MTM2NSw2NjM0ODM0ODYsLTEyMDA0Mzg0
-MzAsLTUwNzIzMDM4MCwxMTE1MTg3MzQwLDE2MzI0NTg5NjMsLT
-EzNTIyMTkzNTQsLTExOTgyNDI2NTksMTkzNzYwODY1OCw2NDcz
-MDc2MDUsMTI1NTEyMzk1MCwtNjg4MjgwMDMxLDgwNDk1NDY0LD
-E0Nzk1MTUyMjIsMjgyODQwMjkxLDE0MjUwNTMxNjMsNDMyNDgy
-MzQ0XX0=
+eyJoaXN0b3J5IjpbLTEzNDcwNjc0NDgsLTEwMzkxMTkzMywxMj
+kyMDYyNDQzLC04OTM5MzA2NTIsLTM1OTM5MTM2NSw2NjM0ODM0
+ODYsLTEyMDA0Mzg0MzAsLTUwNzIzMDM4MCwxMTE1MTg3MzQwLD
+E2MzI0NTg5NjMsLTEzNTIyMTkzNTQsLTExOTgyNDI2NTksMTkz
+NzYwODY1OCw2NDczMDc2MDUsMTI1NTEyMzk1MCwtNjg4MjgwMD
+MxLDgwNDk1NDY0LDE0Nzk1MTUyMjIsMjgyODQwMjkxLDE0MjUw
+NTMxNjNdfQ==
 -->
