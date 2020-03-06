@@ -1,6 +1,6 @@
 ## 3.6
 字典https://enacademic.com/
-
+https://www.macmillandictionary.com/dictionary/british 比US更好
 ## 3.5
 https://mp.weixin.qq.com/s/BatbfrYLbycsHE5Ksdwoow
 4.t音的消失 当/t/位于/n/于元音之间时
@@ -910,11 +910,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MzkzMDY1MiwtMzU5MzkxMzY1LDY2Mz
-Q4MzQ4NiwtMTIwMDQzODQzMCwtNTA3MjMwMzgwLDExMTUxODcz
-NDAsMTYzMjQ1ODk2MywtMTM1MjIxOTM1NCwtMTE5ODI0MjY1OS
-wxOTM3NjA4NjU4LDY0NzMwNzYwNSwxMjU1MTIzOTUwLC02ODgy
-ODAwMzEsODA0OTU0NjQsMTQ3OTUxNTIyMiwyODI4NDAyOTEsMT
-QyNTA1MzE2Myw0MzI0ODIzNDQsMzQzMjYwMDA1LDE1NDg3Mzkw
-ODddfQ==
+eyJoaXN0b3J5IjpbMTI5MjA2MjQ0MywtODkzOTMwNjUyLC0zNT
+kzOTEzNjUsNjYzNDgzNDg2LC0xMjAwNDM4NDMwLC01MDcyMzAz
+ODAsMTExNTE4NzM0MCwxNjMyNDU4OTYzLC0xMzUyMjE5MzU0LC
+0xMTk4MjQyNjU5LDE5Mzc2MDg2NTgsNjQ3MzA3NjA1LDEyNTUx
+MjM5NTAsLTY4ODI4MDAzMSw4MDQ5NTQ2NCwxNDc5NTE1MjIyLD
+I4Mjg0MDI5MSwxNDI1MDUzMTYzLDQzMjQ4MjM0NCwzNDMyNjAw
+MDVdfQ==
 -->
