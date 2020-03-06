@@ -1,5 +1,6 @@
 ## 3.6
-[
+[真正需要的](https://www.easypacelearning.com/english-books/english-books-for-download-pdf/category/20-common-useful-english-phrases)
+
 字典https://enacademic.com/
 https://www.macmillandictionary.com/dictionary/british 比US更好
 
@@ -928,11 +929,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk3MzQxMDU1LC0xMzQ3MDY3NDQ4LC0xMD
-M5MTE5MzMsMTI5MjA2MjQ0MywtODkzOTMwNjUyLC0zNTkzOTEz
-NjUsNjYzNDgzNDg2LC0xMjAwNDM4NDMwLC01MDcyMzAzODAsMT
-ExNTE4NzM0MCwxNjMyNDU4OTYzLC0xMzUyMjE5MzU0LC0xMTk4
-MjQyNjU5LDE5Mzc2MDg2NTgsNjQ3MzA3NjA1LDEyNTUxMjM5NT
-AsLTY4ODI4MDAzMSw4MDQ5NTQ2NCwxNDc5NTE1MjIyLDI4Mjg0
-MDI5MV19
+eyJoaXN0b3J5IjpbLTE0ODE1MDA5MDksLTEzNDcwNjc0NDgsLT
+EwMzkxMTkzMywxMjkyMDYyNDQzLC04OTM5MzA2NTIsLTM1OTM5
+MTM2NSw2NjM0ODM0ODYsLTEyMDA0Mzg0MzAsLTUwNzIzMDM4MC
+wxMTE1MTg3MzQwLDE2MzI0NTg5NjMsLTEzNTIyMTkzNTQsLTEx
+OTgyNDI2NTksMTkzNzYwODY1OCw2NDczMDc2MDUsMTI1NTEyMz
+k1MCwtNjg4MjgwMDMxLDgwNDk1NDY0LDE0Nzk1MTUyMjIsMjgy
+ODQwMjkxXX0=
 -->
