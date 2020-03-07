@@ -1,6 +1,11 @@
 ##  3.7
 
-loo
+loose
+I’d better sew that loose button before it comes off.  
+come off
+to happen as planned or to succeed
+
+
 stewardship \ ˈstü-ərd-ˌship 颠覆性发音sh发ch
 
 nob
@@ -1031,11 +1036,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNTY1ODA0NSwtNDk3NDMxODMxLDEwMT
-Q3MjI3MDksLTI1ODUyMjk1MSw4NDM2MDM2OTEsLTE5OTg4NDgw
-NzAsLTE0ODE1MDA5MDksLTEzNDcwNjc0NDgsLTEwMzkxMTkzMy
-wxMjkyMDYyNDQzLC04OTM5MzA2NTIsLTM1OTM5MTM2NSw2NjM0
-ODM0ODYsLTEyMDA0Mzg0MzAsLTUwNzIzMDM4MCwxMTE1MTg3Mz
-QwLDE2MzI0NTg5NjMsLTEzNTIyMTkzNTQsLTExOTgyNDI2NTks
-MTkzNzYwODY1OF19
+eyJoaXN0b3J5IjpbLTIxMDMwNjcxNzMsLTQ5NzQzMTgzMSwxMD
+E0NzIyNzA5LC0yNTg1MjI5NTEsODQzNjAzNjkxLC0xOTk4ODQ4
+MDcwLC0xNDgxNTAwOTA5LC0xMzQ3MDY3NDQ4LC0xMDM5MTE5Mz
+MsMTI5MjA2MjQ0MywtODkzOTMwNjUyLC0zNTkzOTEzNjUsNjYz
+NDgzNDg2LC0xMjAwNDM4NDMwLC01MDcyMzAzODAsMTExNTE4Nz
+M0MCwxNjMyNDU4OTYzLC0xMzUyMjE5MzU0LC0xMTk4MjQyNjU5
+LDE5Mzc2MDg2NThdfQ==
 -->
