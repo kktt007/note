@@ -1,6 +1,9 @@
 ##  3.7
 stewardship \ ˈstü-ərd-ˌship 颠覆性发音sh发ch
 
+nob
+a round lump on the surface or end of something
+
 [programming](https://hackr.io/)
 
 [go](https://stackify.com/learn-go-tutorials/)
@@ -1026,11 +1029,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MTUwMzQ5LDEwMTQ3MjI3MDksLTI1OD
-UyMjk1MSw4NDM2MDM2OTEsLTE5OTg4NDgwNzAsLTE0ODE1MDA5
-MDksLTEzNDcwNjc0NDgsLTEwMzkxMTkzMywxMjkyMDYyNDQzLC
-04OTM5MzA2NTIsLTM1OTM5MTM2NSw2NjM0ODM0ODYsLTEyMDA0
-Mzg0MzAsLTUwNzIzMDM4MCwxMTE1MTg3MzQwLDE2MzI0NTg5Nj
-MsLTEzNTIyMTkzNTQsLTExOTgyNDI2NTksMTkzNzYwODY1OCw2
-NDczMDc2MDVdfQ==
+eyJoaXN0b3J5IjpbLTQ5NzQzMTgzMSwxMDE0NzIyNzA5LC0yNT
+g1MjI5NTEsODQzNjAzNjkxLC0xOTk4ODQ4MDcwLC0xNDgxNTAw
+OTA5LC0xMzQ3MDY3NDQ4LC0xMDM5MTE5MzMsMTI5MjA2MjQ0My
+wtODkzOTMwNjUyLC0zNTkzOTEzNjUsNjYzNDgzNDg2LC0xMjAw
+NDM4NDMwLC01MDcyMzAzODAsMTExNTE4NzM0MCwxNjMyNDU4OT
+YzLC0xMzUyMjE5MzU0LC0xMTk4MjQyNjU5LDE5Mzc2MDg2NTgs
+NjQ3MzA3NjA1XX0=
 -->
