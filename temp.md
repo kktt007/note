@@ -2,8 +2,9 @@
 
 loose
 I’d better sew that loose button before it comes off.  
-come off
+come off 注意不同词典，解释不一，还有多变，自现其义
 to happen as planned or to succeed
+To move, or to move something downwards
 
 
 stewardship \ ˈstü-ərd-ˌship 颠覆性发音sh发ch
@@ -1036,11 +1037,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDMwNjcxNzMsLTQ5NzQzMTgzMSwxMD
-E0NzIyNzA5LC0yNTg1MjI5NTEsODQzNjAzNjkxLC0xOTk4ODQ4
-MDcwLC0xNDgxNTAwOTA5LC0xMzQ3MDY3NDQ4LC0xMDM5MTE5Mz
-MsMTI5MjA2MjQ0MywtODkzOTMwNjUyLC0zNTkzOTEzNjUsNjYz
-NDgzNDg2LC0xMjAwNDM4NDMwLC01MDcyMzAzODAsMTExNTE4Nz
-M0MCwxNjMyNDU4OTYzLC0xMzUyMjE5MzU0LC0xMTk4MjQyNjU5
-LDE5Mzc2MDg2NThdfQ==
+eyJoaXN0b3J5IjpbMjA4NDYzNTY1OCwtNDk3NDMxODMxLDEwMT
+Q3MjI3MDksLTI1ODUyMjk1MSw4NDM2MDM2OTEsLTE5OTg4NDgw
+NzAsLTE0ODE1MDA5MDksLTEzNDcwNjc0NDgsLTEwMzkxMTkzMy
+wxMjkyMDYyNDQzLC04OTM5MzA2NTIsLTM1OTM5MTM2NSw2NjM0
+ODM0ODYsLTEyMDA0Mzg0MzAsLTUwNzIzMDM4MCwxMTE1MTg3Mz
+QwLDE2MzI0NTg5NjMsLTEzNTIyMTkzNTQsLTExOTgyNDI2NTks
+MTkzNzYwODY1OF19
 -->
