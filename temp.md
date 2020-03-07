@@ -1,3 +1,85 @@
+##  3.7
+
+[programming](https://hackr.io/)
+
+[go](https://stackify.com/learn-go-tutorials/)
+
+[go](https://www.tutorialspoint.com/computer_programming_tutorials.htm)
+
+[learn](https://gitconnected.com/learn)
+
+  
+
+[学习go](https://learnku.com/go/t/24715)
+
+[the go playground](https://play.golang.org/)
+
+  
+
+词典[APA Dictionary of Psychology](http://dictionary.apa.org)
+
+http://www.memidex.com/
+
+https://www.computer-dictionary-online.org/
+
+http://www.learnersdictionary.com
+
+http://webstersdictionary1828.com/Dictionary/
+
+  
+
+sss配置
+
+```
+
+https://www.google.com/search?q={searchTerms}&tbm=isch
+
+https://www.google.com/search?q={searchTerms}
+
+https://en.wikipedia.org/wiki/Special:Search?search={searchTerms}
+
+https://translate.google.com/#en/pt/{searchTerms}
+
+https://en.wiktionary.org/wiki/{searchTerms}
+
+https://translate.google.com/#auto/zh-CN/{searchTerms}
+
+https://zh.forvo.com/word/{searchTerms}/#en_usa
+
+https://ahdictionary.com/word/search.html?q={searchTerms}
+
+http://webstersdictionary1828.com/Dictionary/{searchTerms}
+
+https://www.merriam-webster.com/dictionary/{searchTerms}
+
+https://www.vocabulary.com/dictionary/{searchTerms}
+
+https://dictionary.cambridge.org/us/dictionary/english/{searchTerms}
+
+https://www.oxfordlearnersdictionaries.com/us/definition/american_english/{searchTerms}
+
+https://www.lexico.com/en/definition/{searchTerms}
+
+https://www.macmillandictionary.com/dictionary/british/{searchTerms}
+
+https://www.collinsdictionary.com/dictionary/english/{searchTerms}
+
+https://www.yourdictionary.com/{searchTerms}
+
+https://www.dictionary.com/browse/{searchTerms}
+
+https://www.powerthesaurus.org/{searchTerms}/synonyms
+
+https://www.spellzone.com/dictionary/{searchTerms}
+
+http://dict.cn/{searchTerms}
+
+https://www.etymonline.com/word/{searchTerms}
+
+https://www.google.com/search?q={searchTerms} site:{hostname}
+
+```
+
 ## 3.6
 [真正需要的](https://www.easypacelearning.com/english-books/english-books-for-download-pdf/category/20-common-useful-english-phrases)
 
@@ -943,11 +1025,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1ODUyMjk1MSw4NDM2MDM2OTEsLTE5OT
-g4NDgwNzAsLTE0ODE1MDA5MDksLTEzNDcwNjc0NDgsLTEwMzkx
-MTkzMywxMjkyMDYyNDQzLC04OTM5MzA2NTIsLTM1OTM5MTM2NS
-w2NjM0ODM0ODYsLTEyMDA0Mzg0MzAsLTUwNzIzMDM4MCwxMTE1
-MTg3MzQwLDE2MzI0NTg5NjMsLTEzNTIyMTkzNTQsLTExOTgyND
-I2NTksMTkzNzYwODY1OCw2NDczMDc2MDUsMTI1NTEyMzk1MCwt
-Njg4MjgwMDMxXX0=
+eyJoaXN0b3J5IjpbMTAxNDcyMjcwOSwtMjU4NTIyOTUxLDg0Mz
+YwMzY5MSwtMTk5ODg0ODA3MCwtMTQ4MTUwMDkwOSwtMTM0NzA2
+NzQ0OCwtMTAzOTExOTMzLDEyOTIwNjI0NDMsLTg5MzkzMDY1Mi
+wtMzU5MzkxMzY1LDY2MzQ4MzQ4NiwtMTIwMDQzODQzMCwtNTA3
+MjMwMzgwLDExMTUxODczNDAsMTYzMjQ1ODk2MywtMTM1MjIxOT
+M1NCwtMTE5ODI0MjY1OSwxOTM3NjA4NjU4LDY0NzMwNzYwNSwx
+MjU1MTIzOTUwXX0=
 -->
