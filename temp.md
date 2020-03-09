@@ -1,4 +1,6 @@
 ## 3.9
+planet -- \ ˈpla-nət 注意发音 ə 是i
+
 infrared \ ˌin-frə-ˈred 注意发音 frə很连贯，没有明显的ə
  science
 describing light at the red end of the spectrum (= set of colors into which light is separated), which cannot be seen by human beings, and which gives out heat
@@ -1054,11 +1056,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3Mjk2NTAzOCw1OTg3Nzc2ODksLTE0Nz
-EzNDA1NzMsLTkzMzI2MTgsLTMwNzA4NDgzOSwxNTg2NDU0NDcw
-LDIwODQ2MzU2NTgsLTQ5NzQzMTgzMSwxMDE0NzIyNzA5LC0yNT
-g1MjI5NTEsODQzNjAzNjkxLC0xOTk4ODQ4MDcwLC0xNDgxNTAw
-OTA5LC0xMzQ3MDY3NDQ4LC0xMDM5MTE5MzMsMTI5MjA2MjQ0My
-wtODkzOTMwNjUyLC0zNTkzOTEzNjUsNjYzNDgzNDg2LC0xMjAw
-NDM4NDMwXX0=
+eyJoaXN0b3J5IjpbLTg0MDA2MjU0MSwtNDcyOTY1MDM4LDU5OD
+c3NzY4OSwtMTQ3MTM0MDU3MywtOTMzMjYxOCwtMzA3MDg0ODM5
+LDE1ODY0NTQ0NzAsMjA4NDYzNTY1OCwtNDk3NDMxODMxLDEwMT
+Q3MjI3MDksLTI1ODUyMjk1MSw4NDM2MDM2OTEsLTE5OTg4NDgw
+NzAsLTE0ODE1MDA5MDksLTEzNDcwNjc0NDgsLTEwMzkxMTkzMy
+wxMjkyMDYyNDQzLC04OTM5MzA2NTIsLTM1OTM5MTM2NSw2NjM0
+ODM0ODZdfQ==
 -->
