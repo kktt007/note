@@ -2,7 +2,7 @@
 发d :
 little butter settle 
 发t:
-gentle mantle pivotal digital retail(有意思，可能是次重音缘故)
+gentle mantle pivotal digital mortal retail(有意思，可能是次重音缘故)
 总结:能省则省，但是n后面没音了，为了保证继续能起头发t，太长的音节为了保证t有声，最后的也是t
 
 ##  3.7
@@ -1044,11 +1044,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NTc4NDcsMjA4NDYzNTY1OCwtNDk3ND
-MxODMxLDEwMTQ3MjI3MDksLTI1ODUyMjk1MSw4NDM2MDM2OTEs
-LTE5OTg4NDgwNzAsLTE0ODE1MDA5MDksLTEzNDcwNjc0NDgsLT
-EwMzkxMTkzMywxMjkyMDYyNDQzLC04OTM5MzA2NTIsLTM1OTM5
-MTM2NSw2NjM0ODM0ODYsLTEyMDA0Mzg0MzAsLTUwNzIzMDM4MC
-wxMTE1MTg3MzQwLDE2MzI0NTg5NjMsLTEzNTIyMTkzNTQsLTEx
-OTgyNDI2NTldfQ==
+eyJoaXN0b3J5IjpbLTE1Mzg5MDUxNTgsMjA4NDYzNTY1OCwtND
+k3NDMxODMxLDEwMTQ3MjI3MDksLTI1ODUyMjk1MSw4NDM2MDM2
+OTEsLTE5OTg4NDgwNzAsLTE0ODE1MDA5MDksLTEzNDcwNjc0ND
+gsLTEwMzkxMTkzMywxMjkyMDYyNDQzLC04OTM5MzA2NTIsLTM1
+OTM5MTM2NSw2NjM0ODM0ODYsLTEyMDA0Mzg0MzAsLTUwNzIzMD
+M4MCwxMTE1MTg3MzQwLDE2MzI0NTg5NjMsLTEzNTIyMTkzNTQs
+LTExOTgyNDI2NTldfQ==
 -->
