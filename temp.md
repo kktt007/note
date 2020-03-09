@@ -3,7 +3,9 @@ infrared \ ˌin-frə-ˈred 注意发音 frə很连贯，没有明显的ə
  science
 describing light at the red end of the spectrum (= set of colors into which light is separated), which cannot be seen by human beings, and which gives out heat
 
-inhabitan
+inhabitant
+a person or animal that lives in a particular place: 
+
 发d :
 little butter settle mortal after(弹舌)
 发t: 重音 次重音 必发t
@@ -1052,7 +1054,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NjUyMDkyMyw1OTg3Nzc2ODksLTE0Nz
+eyJoaXN0b3J5IjpbLTQ3Mjk2NTAzOCw1OTg3Nzc2ODksLTE0Nz
 EzNDA1NzMsLTkzMzI2MTgsLTMwNzA4NDgzOSwxNTg2NDU0NDcw
 LDIwODQ2MzU2NTgsLTQ5NzQzMTgzMSwxMDE0NzIyNzA5LC0yNT
 g1MjI5NTEsODQzNjAzNjkxLC0xOTk4ODQ4MDcwLC0xNDgxNTAw
