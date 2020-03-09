@@ -1,5 +1,8 @@
 ## 3.9
-in
+infrared \ ˌin-frə-ˈred 注意发音 frə很连贯，没有明显的ə
+ science
+describing light at the red end of the spectrum (= set of colors into which light is separated), which cannot be seen by human beings, and which gives out heat
+
 发d :
 little butter settle mortal after(弹舌)
 发t: 重音 次重音 必发t
@@ -1048,11 +1051,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzOTg4OTIyOCwtMTQ3MTM0MDU3MywtOT
-MzMjYxOCwtMzA3MDg0ODM5LDE1ODY0NTQ0NzAsMjA4NDYzNTY1
-OCwtNDk3NDMxODMxLDEwMTQ3MjI3MDksLTI1ODUyMjk1MSw4ND
-M2MDM2OTEsLTE5OTg4NDgwNzAsLTE0ODE1MDA5MDksLTEzNDcw
-Njc0NDgsLTEwMzkxMTkzMywxMjkyMDYyNDQzLC04OTM5MzA2NT
-IsLTM1OTM5MTM2NSw2NjM0ODM0ODYsLTEyMDA0Mzg0MzAsLTUw
-NzIzMDM4MF19
+eyJoaXN0b3J5IjpbNTk4Nzc3Njg5LC0xNDcxMzQwNTczLC05Mz
+MyNjE4LC0zMDcwODQ4MzksMTU4NjQ1NDQ3MCwyMDg0NjM1NjU4
+LC00OTc0MzE4MzEsMTAxNDcyMjcwOSwtMjU4NTIyOTUxLDg0Mz
+YwMzY5MSwtMTk5ODg0ODA3MCwtMTQ4MTUwMDkwOSwtMTM0NzA2
+NzQ0OCwtMTAzOTExOTMzLDEyOTIwNjI0NDMsLTg5MzkzMDY1Mi
+wtMzU5MzkxMzY1LDY2MzQ4MzQ4NiwtMTIwMDQzODQzMCwtNTA3
+MjMwMzgwXX0=
 -->
