@@ -1,8 +1,8 @@
 ## 3.9
-发t :
-little butter settle pivotal
-发d:
-gentle mantle digital
+发d :
+little butter settle 
+发t:
+gentle mantle pivotal digital
 总结:能省则省，但是n后面没音了，为了保证继续能起头发t，
 digital 
 ##  3.7
@@ -1044,11 +1044,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTEzMTIxMjAsMjA4NDYzNTY1OCwtND
-k3NDMxODMxLDEwMTQ3MjI3MDksLTI1ODUyMjk1MSw4NDM2MDM2
-OTEsLTE5OTg4NDgwNzAsLTE0ODE1MDA5MDksLTEzNDcwNjc0ND
-gsLTEwMzkxMTkzMywxMjkyMDYyNDQzLC04OTM5MzA2NTIsLTM1
-OTM5MTM2NSw2NjM0ODM0ODYsLTEyMDA0Mzg0MzAsLTUwNzIzMD
-M4MCwxMTE1MTg3MzQwLDE2MzI0NTg5NjMsLTEzNTIyMTkzNTQs
-LTExOTgyNDI2NTldfQ==
+eyJoaXN0b3J5IjpbODkyODE0MzQ4LDIwODQ2MzU2NTgsLTQ5Nz
+QzMTgzMSwxMDE0NzIyNzA5LC0yNTg1MjI5NTEsODQzNjAzNjkx
+LC0xOTk4ODQ4MDcwLC0xNDgxNTAwOTA5LC0xMzQ3MDY3NDQ4LC
+0xMDM5MTE5MzMsMTI5MjA2MjQ0MywtODkzOTMwNjUyLC0zNTkz
+OTEzNjUsNjYzNDgzNDg2LC0xMjAwNDM4NDMwLC01MDcyMzAzOD
+AsMTExNTE4NzM0MCwxNjMyNDU4OTYzLC0xMzUyMjE5MzU0LC0x
+MTk4MjQyNjU5XX0=
 -->
