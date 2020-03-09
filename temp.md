@@ -1,6 +1,6 @@
 ## 3.9
 planet -- \ ˈpla-nət 注意发音 ə 是i
-conservation \ ˌkän(t)-sər-ˈvā-shən ts
+conservation \ ˌkän(t)-sər-ˈvā-shən ts连起来，
 
 infrared \ ˌin-frə-ˈred 注意发音 frə很连贯，没有明显的ə
  science
@@ -1057,7 +1057,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMzE4NDg0OSwtNDcyOTY1MDM4LDU5OD
+eyJoaXN0b3J5IjpbMTc3NDI2OTk2NywtNDcyOTY1MDM4LDU5OD
 c3NzY4OSwtMTQ3MTM0MDU3MywtOTMzMjYxOCwtMzA3MDg0ODM5
 LDE1ODY0NTQ0NzAsMjA4NDYzNTY1OCwtNDk3NDMxODMxLDEwMT
 Q3MjI3MDksLTI1ODUyMjk1MSw4NDM2MDM2OTEsLTE5OTg4NDgw
