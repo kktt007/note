@@ -10,13 +10,14 @@ inhabitant
 a person or animal that lives in a particular place: 
 
 发d :
-little butter settle mortal after(弹舌)
+little butter settle mortal after(弹舌) hospital(次重音在s)
 发t: 重音 次重音 必发t
 gentle mantle pivotal digital retail(有意思，可能是次重音缘故)
 总结:能省则省，但是n后面没音了，为了保证继续能起头发t，太长的音节为了保证t有声，最后的也是t
 t: 有n(用t打破n导致的非元声状态) ， 长的，重音
 d: 前后元音(t和元音是相对存在)，短的，非重音
 只有mn才会消音，r不会,f也不会(after)...目前都不会
+hospital因为重音在s，所以t算2音节，不算3音节长的
 
 ##  3.7
 
@@ -1057,11 +1058,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTAyODQ2MTYsLTQ3Mjk2NTAzOCw1OT
-g3Nzc2ODksLTE0NzEzNDA1NzMsLTkzMzI2MTgsLTMwNzA4NDgz
-OSwxNTg2NDU0NDcwLDIwODQ2MzU2NTgsLTQ5NzQzMTgzMSwxMD
-E0NzIyNzA5LC0yNTg1MjI5NTEsODQzNjAzNjkxLC0xOTk4ODQ4
-MDcwLC0xNDgxNTAwOTA5LC0xMzQ3MDY3NDQ4LC0xMDM5MTE5Mz
-MsMTI5MjA2MjQ0MywtODkzOTMwNjUyLC0zNTkzOTEzNjUsNjYz
-NDgzNDg2XX0=
+eyJoaXN0b3J5IjpbLTYyNTQ5ODY4MCwtMjExMDI4NDYxNiwtND
+cyOTY1MDM4LDU5ODc3NzY4OSwtMTQ3MTM0MDU3MywtOTMzMjYx
+OCwtMzA3MDg0ODM5LDE1ODY0NTQ0NzAsMjA4NDYzNTY1OCwtND
+k3NDMxODMxLDEwMTQ3MjI3MDksLTI1ODUyMjk1MSw4NDM2MDM2
+OTEsLTE5OTg4NDgwNzAsLTE0ODE1MDA5MDksLTEzNDcwNjc0ND
+gsLTEwMzkxMTkzMywxMjkyMDYyNDQzLC04OTM5MzA2NTIsLTM1
+OTM5MTM2NV19
 -->
