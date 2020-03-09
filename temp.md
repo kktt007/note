@@ -1,6 +1,6 @@
 ## 3.9
 发d :
-little butter settle mortal
+little butter settle mortal af
 发t: 重音 次重音 必发t
 gentle mantle pivotal digital retail(有意思，可能是次重音缘故)
 总结:能省则省，但是n后面没音了，为了保证继续能起头发t，太长的音节为了保证t有声，最后的也是t
@@ -1047,11 +1047,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MzE0ODMxMywtMzA3MDg0ODM5LDE1OD
-Y0NTQ0NzAsMjA4NDYzNTY1OCwtNDk3NDMxODMxLDEwMTQ3MjI3
-MDksLTI1ODUyMjk1MSw4NDM2MDM2OTEsLTE5OTg4NDgwNzAsLT
-E0ODE1MDA5MDksLTEzNDcwNjc0NDgsLTEwMzkxMTkzMywxMjky
-MDYyNDQzLC04OTM5MzA2NTIsLTM1OTM5MTM2NSw2NjM0ODM0OD
-YsLTEyMDA0Mzg0MzAsLTUwNzIzMDM4MCwxMTE1MTg3MzQwLDE2
-MzI0NTg5NjNdfQ==
+eyJoaXN0b3J5IjpbMTI1NjYzNDg0LC0zMDcwODQ4MzksMTU4Nj
+Q1NDQ3MCwyMDg0NjM1NjU4LC00OTc0MzE4MzEsMTAxNDcyMjcw
+OSwtMjU4NTIyOTUxLDg0MzYwMzY5MSwtMTk5ODg0ODA3MCwtMT
+Q4MTUwMDkwOSwtMTM0NzA2NzQ0OCwtMTAzOTExOTMzLDEyOTIw
+NjI0NDMsLTg5MzkzMDY1MiwtMzU5MzkxMzY1LDY2MzQ4MzQ4Ni
+wtMTIwMDQzODQzMCwtNTA3MjMwMzgwLDExMTUxODczNDAsMTYz
+MjQ1ODk2M119
 -->
