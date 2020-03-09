@@ -6,7 +6,7 @@ gentle mantle pivotal digital retail(有意思，可能是次重音缘故)
 总结:能省则省，但是n后面没音了，为了保证继续能起头发t，太长的音节为了保证t有声，最后的也是t
 t: 有n(用t打破n导致的非元声状态) ， 长的，重音
 d: 前后元音(t和元音是相对存在)，短的，非重音
-只有mn才会消音，r不会,f也不会...目前都不会
+只有mn才会消音，r不会,f也不会(after)...目前都不会
 
 ##  3.7
 
@@ -1047,11 +1047,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMzI2MTgsLTMwNzA4NDgzOSwxNTg2ND
-U0NDcwLDIwODQ2MzU2NTgsLTQ5NzQzMTgzMSwxMDE0NzIyNzA5
-LC0yNTg1MjI5NTEsODQzNjAzNjkxLC0xOTk4ODQ4MDcwLC0xND
-gxNTAwOTA5LC0xMzQ3MDY3NDQ4LC0xMDM5MTE5MzMsMTI5MjA2
-MjQ0MywtODkzOTMwNjUyLC0zNTkzOTEzNjUsNjYzNDgzNDg2LC
-0xMjAwNDM4NDMwLC01MDcyMzAzODAsMTExNTE4NzM0MCwxNjMy
-NDU4OTYzXX0=
+eyJoaXN0b3J5IjpbLTE0NzEzNDA1NzMsLTkzMzI2MTgsLTMwNz
+A4NDgzOSwxNTg2NDU0NDcwLDIwODQ2MzU2NTgsLTQ5NzQzMTgz
+MSwxMDE0NzIyNzA5LC0yNTg1MjI5NTEsODQzNjAzNjkxLC0xOT
+k4ODQ4MDcwLC0xNDgxNTAwOTA5LC0xMzQ3MDY3NDQ4LC0xMDM5
+MTE5MzMsMTI5MjA2MjQ0MywtODkzOTMwNjUyLC0zNTkzOTEzNj
+UsNjYzNDgzNDg2LC0xMjAwNDM4NDMwLC01MDcyMzAzODAsMTEx
+NTE4NzM0MF19
 -->
