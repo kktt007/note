@@ -3,8 +3,8 @@
 little butter settle 
 发t:
 gentle mantle pivotal digital
-总结:能省则省，但是n后面没音了，为了保证继续能起头发t，
-digital 
+总结:能省则省，但是n后面没音了，为了保证继续能起头发t，太长的音节为了保证t有声，最后的也是t
+
 ##  3.7
 
 loose
@@ -1044,7 +1044,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkyODE0MzQ4LDIwODQ2MzU2NTgsLTQ5Nz
+eyJoaXN0b3J5IjpbNDEyNDg4NzExLDIwODQ2MzU2NTgsLTQ5Nz
 QzMTgzMSwxMDE0NzIyNzA5LC0yNTg1MjI5NTEsODQzNjAzNjkx
 LC0xOTk4ODQ4MDcwLC0xNDgxNTAwOTA5LC0xMzQ3MDY3NDQ4LC
 0xMDM5MTE5MzMsMTI5MjA2MjQ0MywtODkzOTMwNjUyLC0zNTkz
