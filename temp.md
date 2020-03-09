@@ -1,4 +1,18 @@
 ## 3.9
+something you give to someone or do for someone to express your feelings or intentions:
+It isn’t a big present – it’s just a token of thanks for your help.
+ 
+
+a feeling of liking someone or something:
+[ U ] Pets should be treated with affection.
+[ U ] Harriet felt great affection for him.
+http://www.cxyym.com/2016/04/1561/
+https://waimaoquan.alibaba.com/newbbs/topic/1547579
+简单来说吧，外销眼中只有客户，而内销看到的是整个市场。 
+https://tenor.com/ 国外表情
+我加入的
+#I Look Like A Surgeon
+
 planet -- \ ˈpla-nət 注意发音 ə 是i
 conservation \ ˌkän(t)-sər-ˈvā-shən ts连起来，注意发音
 
@@ -1058,11 +1072,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNTQ5ODY4MCwtMjExMDI4NDYxNiwtND
-cyOTY1MDM4LDU5ODc3NzY4OSwtMTQ3MTM0MDU3MywtOTMzMjYx
-OCwtMzA3MDg0ODM5LDE1ODY0NTQ0NzAsMjA4NDYzNTY1OCwtND
-k3NDMxODMxLDEwMTQ3MjI3MDksLTI1ODUyMjk1MSw4NDM2MDM2
-OTEsLTE5OTg4NDgwNzAsLTE0ODE1MDA5MDksLTEzNDcwNjc0ND
-gsLTEwMzkxMTkzMywxMjkyMDYyNDQzLC04OTM5MzA2NTIsLTM1
-OTM5MTM2NV19
+eyJoaXN0b3J5IjpbLTEwODQ3MTQyOTIsLTIxMTAyODQ2MTYsLT
+Q3Mjk2NTAzOCw1OTg3Nzc2ODksLTE0NzEzNDA1NzMsLTkzMzI2
+MTgsLTMwNzA4NDgzOSwxNTg2NDU0NDcwLDIwODQ2MzU2NTgsLT
+Q5NzQzMTgzMSwxMDE0NzIyNzA5LC0yNTg1MjI5NTEsODQzNjAz
+NjkxLC0xOTk4ODQ4MDcwLC0xNDgxNTAwOTA5LC0xMzQ3MDY3ND
+Q4LC0xMDM5MTE5MzMsMTI5MjA2MjQ0MywtODkzOTMwNjUyLC0z
+NTkzOTEzNjVdfQ==
 -->
