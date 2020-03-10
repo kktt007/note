@@ -3,7 +3,7 @@ laparoscopy -- \ ˌla-pə-ˈrä-skə-pē --注意发音，和t几乎一样，前
 the use of a long thin tube put into a cut made in the body in order to examine inside the body or do an operation:
 Typically, patients would prefer laparoscopy to an open surgery.
 
-typically -- \ ˈti-pi-k(ə-)lē p发b, k发g
+typically -- \ ˈti-pi-k(ə-)lē p发b, k发k
 
 ```
 d: 
@@ -1158,7 +1158,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3OTg1MzM3Myw4NTEyNDI2NTEsOTIwMT
+eyJoaXN0b3J5IjpbMTI2MTg1MDQzMyw4NTEyNDI2NTEsOTIwMT
 M4NjA5LDEyMzkzNTU1NSwtNjIyODc5ODUsLTEzOTUyOTEzMTMs
 LTU3NDE5NjI5NCwxMjUyMTEzNTg4LDIyNzExMzIyNiwtMTg3OT
 YwNjAzNCwtMTIzMjE0NjIyMywtMTA4NDcxNDI5MiwtMjExMDI4
