@@ -80,7 +80,7 @@ optical -- \ ˈäp-ti-kəl 发d
 看重音开始:
 前面有清辅，或有r 这样的发声了，后面t不需要停下来.
 前面没有有气的发声带出，也没有完全被 m, n 结束，"有音无气状态"， 需要浊化的d继续保持
-不能光看音节，要看比如以下，
+不能光看音节，要看比如以下，p 是否参与了引导元音的状态，才决定有没有气
 optical -- \ ˈäp-ti-kəl 
 priority -- \ prī-ˈȯr-ə-tē
 
@@ -1123,7 +1123,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5ODQxMzIxNCwtNjIyODc5ODUsLTEzOT
+eyJoaXN0b3J5IjpbMTUyNjIwOTgwNiwtNjIyODc5ODUsLTEzOT
 UyOTEzMTMsLTU3NDE5NjI5NCwxMjUyMTEzNTg4LDIyNzExMzIy
 NiwtMTg3OTYwNjAzNCwtMTIzMjE0NjIyMywtMTA4NDcxNDI5Mi
 wtMjExMDI4NDYxNiwtNDcyOTY1MDM4LDU5ODc3NzY4OSwtMTQ3
