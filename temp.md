@@ -1,5 +1,26 @@
 ## 3.10
-·
+```
+d: 
+2音节
+little  \ ˈli-tᵊl 
+butter \ ˈbə-tər  
+settle \ ˈse-tᵊl
+mortal \ ˈmȯr-tᵊl
+2音节以上
+stability \ stə-ˈbi-lə-tē
+optical -- \ ˈäp-ti-kəl
+
+t:
+2音节
+gentle \ ˈjen-tᵊl 
+mantle \ ˈman-tᵊl 
+2音节以上
+pivotal \ ˈpi-və-tᵊl
+digital \ ˈdi-jə-tᵊl 
+facility \ fə-ˈsi-lə-tē 
+priority -- \ prī-ˈȯr-ə-tē 
+majority \ mə-ˈjȯr-ə-tē 
+```
 
 constantly -- \ ˈkän(t)-stənt-lē
 all the time or often: He's constantly changing his mind.
@@ -1131,11 +1152,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxODE3MjEwNiwxMjM5MzU1NTUsLTYyMj
-g3OTg1LC0xMzk1MjkxMzEzLC01NzQxOTYyOTQsMTI1MjExMzU4
-OCwyMjcxMTMyMjYsLTE4Nzk2MDYwMzQsLTEyMzIxNDYyMjMsLT
-EwODQ3MTQyOTIsLTIxMTAyODQ2MTYsLTQ3Mjk2NTAzOCw1OTg3
-Nzc2ODksLTE0NzEzNDA1NzMsLTkzMzI2MTgsLTMwNzA4NDgzOS
-wxNTg2NDU0NDcwLDIwODQ2MzU2NTgsLTQ5NzQzMTgzMSwxMDE0
-NzIyNzA5XX0=
+eyJoaXN0b3J5IjpbOTIwMTM4NjA5LDEyMzkzNTU1NSwtNjIyOD
+c5ODUsLTEzOTUyOTEzMTMsLTU3NDE5NjI5NCwxMjUyMTEzNTg4
+LDIyNzExMzIyNiwtMTg3OTYwNjAzNCwtMTIzMjE0NjIyMywtMT
+A4NDcxNDI5MiwtMjExMDI4NDYxNiwtNDcyOTY1MDM4LDU5ODc3
+NzY4OSwtMTQ3MTM0MDU3MywtOTMzMjYxOCwtMzA3MDg0ODM5LD
+E1ODY0NTQ0NzAsMjA4NDYzNTY1OCwtNDk3NDMxODMxLDEwMTQ3
+MjI3MDldfQ==
 -->
