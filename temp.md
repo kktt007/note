@@ -74,6 +74,7 @@ hospital因为重音在s，所以t算2音节，不算3音节长的
 facility \ fə-ˈsi-lə-tē t
 digital \ ˈdi-jə-tᵊl t
 priority -- \ prī-ˈȯr-ə-tē --- t
+majority \ mə-ˈjȯr-ə-tē t
 stability \ stə-ˈbi-lə-tē d
 optical -- \ ˈäp-ti-kəl 发d
 
@@ -1116,11 +1117,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NDE5NjI5NCwxMjUyMTEzNTg4LDIyNz
-ExMzIyNiwtMTg3OTYwNjAzNCwtMTIzMjE0NjIyMywtMTA4NDcx
-NDI5MiwtMjExMDI4NDYxNiwtNDcyOTY1MDM4LDU5ODc3NzY4OS
-wtMTQ3MTM0MDU3MywtOTMzMjYxOCwtMzA3MDg0ODM5LDE1ODY0
-NTQ0NzAsMjA4NDYzNTY1OCwtNDk3NDMxODMxLDEwMTQ3MjI3MD
-ksLTI1ODUyMjk1MSw4NDM2MDM2OTEsLTE5OTg4NDgwNzAsLTE0
-ODE1MDA5MDldfQ==
+eyJoaXN0b3J5IjpbLTEzOTUyOTEzMTMsLTU3NDE5NjI5NCwxMj
+UyMTEzNTg4LDIyNzExMzIyNiwtMTg3OTYwNjAzNCwtMTIzMjE0
+NjIyMywtMTA4NDcxNDI5MiwtMjExMDI4NDYxNiwtNDcyOTY1MD
+M4LDU5ODc3NzY4OSwtMTQ3MTM0MDU3MywtOTMzMjYxOCwtMzA3
+MDg0ODM5LDE1ODY0NTQ0NzAsMjA4NDYzNTY1OCwtNDk3NDMxOD
+MxLDEwMTQ3MjI3MDksLTI1ODUyMjk1MSw4NDM2MDM2OTEsLTE5
+OTg4NDgwNzBdfQ==
 -->
