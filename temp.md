@@ -70,7 +70,7 @@ hospital因为重音在s，所以t算2音节，不算3音节长的
 辅音有气的，s f +t t浊化，配合
 辅音无气的 m n, t必须发生了，因为没音了
 2音节以上理论要t，看重音的音，清就保持t
-浊就d, digital 或许是因为弹舌
+浊就d, digital 或许是因为
 facility t
 ditital t
 stability d
@@ -1114,11 +1114,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI3MTEzMjI2LC0xODc5NjA2MDM0LC0xMj
-MyMTQ2MjIzLC0xMDg0NzE0MjkyLC0yMTEwMjg0NjE2LC00NzI5
-NjUwMzgsNTk4Nzc3Njg5LC0xNDcxMzQwNTczLC05MzMyNjE4LC
-0zMDcwODQ4MzksMTU4NjQ1NDQ3MCwyMDg0NjM1NjU4LC00OTc0
-MzE4MzEsMTAxNDcyMjcwOSwtMjU4NTIyOTUxLDg0MzYwMzY5MS
-wtMTk5ODg0ODA3MCwtMTQ4MTUwMDkwOSwtMTM0NzA2NzQ0OCwt
-MTAzOTExOTMzXX0=
+eyJoaXN0b3J5IjpbMTA2MTQ3OTk2NSwyMjcxMTMyMjYsLTE4Nz
+k2MDYwMzQsLTEyMzIxNDYyMjMsLTEwODQ3MTQyOTIsLTIxMTAy
+ODQ2MTYsLTQ3Mjk2NTAzOCw1OTg3Nzc2ODksLTE0NzEzNDA1Nz
+MsLTkzMzI2MTgsLTMwNzA4NDgzOSwxNTg2NDU0NDcwLDIwODQ2
+MzU2NTgsLTQ5NzQzMTgzMSwxMDE0NzIyNzA5LC0yNTg1MjI5NT
+EsODQzNjAzNjkxLC0xOTk4ODQ4MDcwLC0xNDgxNTAwOTA5LC0x
+MzQ3MDY3NDQ4XX0=
 -->
