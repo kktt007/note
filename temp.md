@@ -70,9 +70,9 @@ hospital因为重音在s，所以t算2音节，不算3音节长的
 辅音有气的，s f +t t浊化，配合
 辅音无气的 m n, t必须发生了，因为没音了
 2音节以上理论要t，看重音的音，清就保持t
-浊就d, digital 或许是因为
+浊就d, digital 或许是因为后面的l,
 facility t
-ditital t
+digital t
 stability d
 
 ##  3.7
@@ -1114,7 +1114,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MTQ3OTk2NSwyMjcxMTMyMjYsLTE4Nz
+eyJoaXN0b3J5IjpbMTI1MjExMzU4OCwyMjcxMTMyMjYsLTE4Nz
 k2MDYwMzQsLTEyMzIxNDYyMjMsLTEwODQ3MTQyOTIsLTIxMTAy
 ODQ2MTYsLTQ3Mjk2NTAzOCw1OTg3Nzc2ODksLTE0NzEzNDA1Nz
 MsLTkzMzI2MTgsLTMwNzA4NDgzOSwxNTg2NDU0NDcwLDIwODQ2
