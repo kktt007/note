@@ -66,7 +66,10 @@ t: 有n(用t打破n导致的非元声状态) ， 长的，重音
 d: 前后元音(t和元音是相对存在)，短的，非重音 (stability长的本音出来t，但是重音是b所以还是出不来)
 只有mn才会消音(需要t重新拉起声音)，r不会,f也不会(after)...目前都不会
 hospital因为重音在s，所以t算2音节，不算3音节长的
-看元音，就是d, 辅音前后还是
+看元音，就是d, 
+辅音有气的，s f +t t浊化，配合
+辅音无气的 m n, t必须发生了，因为没音了
+2音节以上理论要
 
 ##  3.7
 
@@ -1107,11 +1110,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4OTUxODgwLC0xMjMyMTQ2MjIzLC0xMD
-g0NzE0MjkyLC0yMTEwMjg0NjE2LC00NzI5NjUwMzgsNTk4Nzc3
-Njg5LC0xNDcxMzQwNTczLC05MzMyNjE4LC0zMDcwODQ4MzksMT
-U4NjQ1NDQ3MCwyMDg0NjM1NjU4LC00OTc0MzE4MzEsMTAxNDcy
-MjcwOSwtMjU4NTIyOTUxLDg0MzYwMzY5MSwtMTk5ODg0ODA3MC
-wtMTQ4MTUwMDkwOSwtMTM0NzA2NzQ0OCwtMTAzOTExOTMzLDEy
-OTIwNjI0NDNdfQ==
+eyJoaXN0b3J5IjpbLTE4Nzk2MDYwMzQsLTEyMzIxNDYyMjMsLT
+EwODQ3MTQyOTIsLTIxMTAyODQ2MTYsLTQ3Mjk2NTAzOCw1OTg3
+Nzc2ODksLTE0NzEzNDA1NzMsLTkzMzI2MTgsLTMwNzA4NDgzOS
+wxNTg2NDU0NDcwLDIwODQ2MzU2NTgsLTQ5NzQzMTgzMSwxMDE0
+NzIyNzA5LC0yNTg1MjI5NTEsODQzNjAzNjkxLC0xOTk4ODQ4MD
+cwLC0xNDgxNTAwOTA5LC0xMzQ3MDY3NDQ4LC0xMDM5MTE5MzMs
+MTI5MjA2MjQ0M119
 -->
