@@ -1,4 +1,11 @@
 ## 3.10
+
+constantly -- \ ˈkän(t)-stənt-lē
+all the time or often: He's constantly changing his mind.
+
+strive - \ ˈstrīv
+to try hard to do sth, or make sth happen, esp. for a long time or agains difficulties.
+
 ambient
 existing or present around you
 ambient sound
@@ -1123,11 +1130,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNjIwOTgwNiwtNjIyODc5ODUsLTEzOT
-UyOTEzMTMsLTU3NDE5NjI5NCwxMjUyMTEzNTg4LDIyNzExMzIy
-NiwtMTg3OTYwNjAzNCwtMTIzMjE0NjIyMywtMTA4NDcxNDI5Mi
-wtMjExMDI4NDYxNiwtNDcyOTY1MDM4LDU5ODc3NzY4OSwtMTQ3
-MTM0MDU3MywtOTMzMjYxOCwtMzA3MDg0ODM5LDE1ODY0NTQ0Nz
-AsMjA4NDYzNTY1OCwtNDk3NDMxODMxLDEwMTQ3MjI3MDksLTI1
-ODUyMjk1MV19
+eyJoaXN0b3J5IjpbMTIzOTM1NTU1LC02MjI4Nzk4NSwtMTM5NT
+I5MTMxMywtNTc0MTk2Mjk0LDEyNTIxMTM1ODgsMjI3MTEzMjI2
+LC0xODc5NjA2MDM0LC0xMjMyMTQ2MjIzLC0xMDg0NzE0MjkyLC
+0yMTEwMjg0NjE2LC00NzI5NjUwMzgsNTk4Nzc3Njg5LC0xNDcx
+MzQwNTczLC05MzMyNjE4LC0zMDcwODQ4MzksMTU4NjQ1NDQ3MC
+wyMDg0NjM1NjU4LC00OTc0MzE4MzEsMTAxNDcyMjcwOSwtMjU4
+NTIyOTUxXX0=
 -->
