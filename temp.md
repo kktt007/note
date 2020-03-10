@@ -1,3 +1,36 @@
+## 3.10
+ambient
+existing or present around you
+ambient sound
+
+atmosphere --\ ˈat-mə-ˌsfir 注意发音 t几乎浊化
+the mixture of gases that surrounds some planets, such as the earth; the air 大气
+the character or mood of a place or situation: the club provided a relaxed and friendly atmosphere for its members.
+
+
+Noticeable -- \ ˈnō-tə-sə-bəl 完全符合t的规则，在前面，元音间，d
+there's a noticeable improvement in your grades. : easy to see
+
+influence
+She was influenced by the common-sense views of her grandparents.
+common-sense
+
+present -- \ ˈpre-zᵊnt
+a birthday present
+did you wrap th present?
+
+now: the present
+
+to give, show, make known
+
+to introduce a person:
+I’m pleased to present my son, Charles.
+
+to cause something:
+Falling tax revenues present a problem for the city.
+
+wrap --\ ˈrap
+cover sth by putting sth such as paper or cloth round it.
 
 ## 3.9
 something you give to someone or do for someone to express your feelings or intentions:
@@ -1073,11 +1106,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4Mjg5ODk1MCwtMTA4NDcxNDI5MiwtMj
-ExMDI4NDYxNiwtNDcyOTY1MDM4LDU5ODc3NzY4OSwtMTQ3MTM0
-MDU3MywtOTMzMjYxOCwtMzA3MDg0ODM5LDE1ODY0NTQ0NzAsMj
-A4NDYzNTY1OCwtNDk3NDMxODMxLDEwMTQ3MjI3MDksLTI1ODUy
-Mjk1MSw4NDM2MDM2OTEsLTE5OTg4NDgwNzAsLTE0ODE1MDA5MD
-ksLTEzNDcwNjc0NDgsLTEwMzkxMTkzMywxMjkyMDYyNDQzLC04
-OTM5MzA2NTJdfQ==
+eyJoaXN0b3J5IjpbLTEyMzIxNDYyMjMsLTEwODQ3MTQyOTIsLT
+IxMTAyODQ2MTYsLTQ3Mjk2NTAzOCw1OTg3Nzc2ODksLTE0NzEz
+NDA1NzMsLTkzMzI2MTgsLTMwNzA4NDgzOSwxNTg2NDU0NDcwLD
+IwODQ2MzU2NTgsLTQ5NzQzMTgzMSwxMDE0NzIyNzA5LC0yNTg1
+MjI5NTEsODQzNjAzNjkxLC0xOTk4ODQ4MDcwLC0xNDgxNTAwOT
+A5LC0xMzQ3MDY3NDQ4LC0xMDM5MTE5MzMsMTI5MjA2MjQ0Mywt
+ODkzOTMwNjUyXX0=
 -->
