@@ -77,6 +77,9 @@ priority -- \ prī-ˈȯr-ə-tē --- t
 majority \ mə-ˈjȯr-ə-tē t
 stability \ stə-ˈbi-lə-tē d
 optical -- \ ˈäp-ti-kəl 发d
+看重音开始:
+前面有清辅，或者元音，把启用了，后面需要用t来补
+
 
 ##  3.7
 
@@ -1117,11 +1120,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTUyOTEzMTMsLTU3NDE5NjI5NCwxMj
-UyMTEzNTg4LDIyNzExMzIyNiwtMTg3OTYwNjAzNCwtMTIzMjE0
-NjIyMywtMTA4NDcxNDI5MiwtMjExMDI4NDYxNiwtNDcyOTY1MD
-M4LDU5ODc3NzY4OSwtMTQ3MTM0MDU3MywtOTMzMjYxOCwtMzA3
-MDg0ODM5LDE1ODY0NTQ0NzAsMjA4NDYzNTY1OCwtNDk3NDMxOD
-MxLDEwMTQ3MjI3MDksLTI1ODUyMjk1MSw4NDM2MDM2OTEsLTE5
-OTg4NDgwNzBdfQ==
+eyJoaXN0b3J5IjpbLTEzNTYyMDM4MzQsLTEzOTUyOTEzMTMsLT
+U3NDE5NjI5NCwxMjUyMTEzNTg4LDIyNzExMzIyNiwtMTg3OTYw
+NjAzNCwtMTIzMjE0NjIyMywtMTA4NDcxNDI5MiwtMjExMDI4ND
+YxNiwtNDcyOTY1MDM4LDU5ODc3NzY4OSwtMTQ3MTM0MDU3Mywt
+OTMzMjYxOCwtMzA3MDg0ODM5LDE1ODY0NTQ0NzAsMjA4NDYzNT
+Y1OCwtNDk3NDMxODMxLDEwMTQ3MjI3MDksLTI1ODUyMjk1MSw4
+NDM2MDM2OTFdfQ==
 -->
