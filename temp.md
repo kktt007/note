@@ -79,7 +79,7 @@ stability \ stə-ˈbi-lə-tē d
 optical -- \ ˈäp-ti-kəl 发d
 看重音开始:
 前面有清辅，或有r 这样的发声了，后面t不需要停下来.
-前面没怎么
+前面没有有气的发声带出，也没有完全被 m, n 结束，"有音无气状态"， 需要浊化的d继续保持
 
 ##  3.7
 
@@ -1120,11 +1120,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTgyNTI4MTUsLTEzOTUyOTEzMTMsLT
-U3NDE5NjI5NCwxMjUyMTEzNTg4LDIyNzExMzIyNiwtMTg3OTYw
-NjAzNCwtMTIzMjE0NjIyMywtMTA4NDcxNDI5MiwtMjExMDI4ND
-YxNiwtNDcyOTY1MDM4LDU5ODc3NzY4OSwtMTQ3MTM0MDU3Mywt
-OTMzMjYxOCwtMzA3MDg0ODM5LDE1ODY0NTQ0NzAsMjA4NDYzNT
-Y1OCwtNDk3NDMxODMxLDEwMTQ3MjI3MDksLTI1ODUyMjk1MSw4
-NDM2MDM2OTFdfQ==
+eyJoaXN0b3J5IjpbLTYyMjg3OTg1LC0xMzk1MjkxMzEzLC01Nz
+QxOTYyOTQsMTI1MjExMzU4OCwyMjcxMTMyMjYsLTE4Nzk2MDYw
+MzQsLTEyMzIxNDYyMjMsLTEwODQ3MTQyOTIsLTIxMTAyODQ2MT
+YsLTQ3Mjk2NTAzOCw1OTg3Nzc2ODksLTE0NzEzNDA1NzMsLTkz
+MzI2MTgsLTMwNzA4NDgzOSwxNTg2NDU0NDcwLDIwODQ2MzU2NT
+gsLTQ5NzQzMTgzMSwxMDE0NzIyNzA5LC0yNTg1MjI5NTEsODQz
+NjAzNjkxXX0=
 -->
