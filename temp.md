@@ -71,9 +71,11 @@ hospital因为重音在s，所以t算2音节，不算3音节长的
 辅音无气的 m n, t必须发生了，因为没音了
 2音节以上理论要t，看重音的音，清就保持t
 浊就d, digital 或许是因为后面的l,
-facility t
-digital t
-stability d
+facility \ fə-ˈsi-lə-tē t
+digital \ ˈdi-jə-tᵊl t
+priority -- \ prī-ˈȯr-ə-tē --- t
+stability \ stə-ˈbi-lə-tē d
+optical -- \ ˈäp-ti-kəl 发d
 
 ##  3.7
 
@@ -1114,11 +1116,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MjExMzU4OCwyMjcxMTMyMjYsLTE4Nz
-k2MDYwMzQsLTEyMzIxNDYyMjMsLTEwODQ3MTQyOTIsLTIxMTAy
-ODQ2MTYsLTQ3Mjk2NTAzOCw1OTg3Nzc2ODksLTE0NzEzNDA1Nz
-MsLTkzMzI2MTgsLTMwNzA4NDgzOSwxNTg2NDU0NDcwLDIwODQ2
-MzU2NTgsLTQ5NzQzMTgzMSwxMDE0NzIyNzA5LC0yNTg1MjI5NT
-EsODQzNjAzNjkxLC0xOTk4ODQ4MDcwLC0xNDgxNTAwOTA5LC0x
-MzQ3MDY3NDQ4XX0=
+eyJoaXN0b3J5IjpbLTU3NDE5NjI5NCwxMjUyMTEzNTg4LDIyNz
+ExMzIyNiwtMTg3OTYwNjAzNCwtMTIzMjE0NjIyMywtMTA4NDcx
+NDI5MiwtMjExMDI4NDYxNiwtNDcyOTY1MDM4LDU5ODc3NzY4OS
+wtMTQ3MTM0MDU3MywtOTMzMjYxOCwtMzA3MDg0ODM5LDE1ODY0
+NTQ0NzAsMjA4NDYzNTY1OCwtNDk3NDMxODMxLDEwMTQ3MjI3MD
+ksLTI1ODUyMjk1MSw4NDM2MDM2OTEsLTE5OTg4NDgwNzAsLTE0
+ODE1MDA5MDldfQ==
 -->
