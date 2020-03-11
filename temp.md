@@ -156,7 +156,7 @@ gentle mantle pivotal digital retail(有意思，可能是次重音缘故)
 总结:能省则省，但是n后面没音了，为了保证继续能起头发t，太长的音节为了保证t有声，最后的也是t
 t: 有n(用t打破n导致的非元声状态) ， 长的，重音
 d: 前后元音(t和元音是相对存在)，短的，非重音 (stability长的本音出来t，但是重音是b所以还是出不来)
-只有mn才会消音(需要t重新拉起声音)，r不会,f也不会(after)...目前都不会
+只有mn才其实拖出了气了，所以需要t(需要t重新拉起声音)，r不会,f也不会(after)...目前都不会
 hospital因为重音在s，所以t算2音节，不算3音节长的
 看元音，就是d, 
 辅音有气的，s f +t t浊化，配合(2音节经典)
@@ -1215,11 +1215,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTczNTI2MDkwLC0xNDIxNDcwNzM3LDE4Mj
-g1ODA1NzAsNjc3MTIxMTU4LC03NzczMzY0NjUsLTk0NjQzNzc4
-MCwxMjYxODUwNDMzLDg1MTI0MjY1MSw5MjAxMzg2MDksMTIzOT
-M1NTU1LC02MjI4Nzk4NSwtMTM5NTI5MTMxMywtNTc0MTk2Mjk0
-LDEyNTIxMTM1ODgsMjI3MTEzMjI2LC0xODc5NjA2MDM0LC0xMj
-MyMTQ2MjIzLC0xMDg0NzE0MjkyLC0yMTEwMjg0NjE2LC00NzI5
-NjUwMzhdfQ==
+eyJoaXN0b3J5IjpbMTE0NzMzODIyNywtMTQyMTQ3MDczNywxOD
+I4NTgwNTcwLDY3NzEyMTE1OCwtNzc3MzM2NDY1LC05NDY0Mzc3
+ODAsMTI2MTg1MDQzMyw4NTEyNDI2NTEsOTIwMTM4NjA5LDEyMz
+kzNTU1NSwtNjIyODc5ODUsLTEzOTUyOTEzMTMsLTU3NDE5NjI5
+NCwxMjUyMTEzNTg4LDIyNzExMzIyNiwtMTg3OTYwNjAzNCwtMT
+IzMjE0NjIyMywtMTA4NDcxNDI5MiwtMjExMDI4NDYxNiwtNDcy
+OTY1MDM4XX0=
 -->
