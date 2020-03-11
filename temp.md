@@ -160,7 +160,7 @@ d: 前后元音(t和元音是相对存在)，短的，非重音 (stability长的
 hospital因为重音在s，所以t算2音节，不算3音节长的
 看元音，就是d, 
 辅音有气的，s f +t t浊化，配合
-辅音无气的 m n, t必须发生了，因为没音了
+辅音无气的 m n, t必须发生了，因为没音了，要t
 2音节以上理论要t，看重音的音，清就保持t
 浊就d, digital 或许是因为后面的l,或者g出气了
 facility \ fə-ˈsi-lə-tē t
@@ -1215,11 +1215,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyODU4MDU3MCw2NzcxMjExNTgsLTc3Nz
-MzNjQ2NSwtOTQ2NDM3NzgwLDEyNjE4NTA0MzMsODUxMjQyNjUx
-LDkyMDEzODYwOSwxMjM5MzU1NTUsLTYyMjg3OTg1LC0xMzk1Mj
-kxMzEzLC01NzQxOTYyOTQsMTI1MjExMzU4OCwyMjcxMTMyMjYs
-LTE4Nzk2MDYwMzQsLTEyMzIxNDYyMjMsLTEwODQ3MTQyOTIsLT
-IxMTAyODQ2MTYsLTQ3Mjk2NTAzOCw1OTg3Nzc2ODksLTE0NzEz
-NDA1NzNdfQ==
+eyJoaXN0b3J5IjpbLTE0MjE0NzA3MzcsMTgyODU4MDU3MCw2Nz
+cxMjExNTgsLTc3NzMzNjQ2NSwtOTQ2NDM3NzgwLDEyNjE4NTA0
+MzMsODUxMjQyNjUxLDkyMDEzODYwOSwxMjM5MzU1NTUsLTYyMj
+g3OTg1LC0xMzk1MjkxMzEzLC01NzQxOTYyOTQsMTI1MjExMzU4
+OCwyMjcxMTMyMjYsLTE4Nzk2MDYwMzQsLTEyMzIxNDYyMjMsLT
+EwODQ3MTQyOTIsLTIxMTAyODQ2MTYsLTQ3Mjk2NTAzOCw1OTg3
+Nzc2ODldfQ==
 -->
