@@ -159,7 +159,7 @@ d: 前后元音(t和元音是相对存在)，短的，非重音 (stability长的
 只有mn才其实拖出了气了，所以需要t(需要t重新拉起声音)，r不会,f也不会(after)...目前都不会
 hospital因为重音在s，所以t算2音节，不算3音节长的
 看元音，就是d, 
-辅音有气的，s f +t t浊化，配合(2音节经典)
+辅音有气的，s f +t t浊化，因为话这些音引导出浊化结束发音了，配合(2音节经典)
 2音节以上看下面
 辅音无气的 m n, t必须发生了，因为没音了，要t
 2音节以上理论要t，看重音的音，清就保持t
@@ -1216,11 +1216,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTc5NjE1LDExNDczMzgyMjcsLTE0Mj
-E0NzA3MzcsMTgyODU4MDU3MCw2NzcxMjExNTgsLTc3NzMzNjQ2
-NSwtOTQ2NDM3NzgwLDEyNjE4NTA0MzMsODUxMjQyNjUxLDkyMD
-EzODYwOSwxMjM5MzU1NTUsLTYyMjg3OTg1LC0xMzk1MjkxMzEz
-LC01NzQxOTYyOTQsMTI1MjExMzU4OCwyMjcxMTMyMjYsLTE4Nz
-k2MDYwMzQsLTEyMzIxNDYyMjMsLTEwODQ3MTQyOTIsLTIxMTAy
-ODQ2MTZdfQ==
+eyJoaXN0b3J5IjpbLTE0NTExNzA3ODQsMTE0NzMzODIyNywtMT
+QyMTQ3MDczNywxODI4NTgwNTcwLDY3NzEyMTE1OCwtNzc3MzM2
+NDY1LC05NDY0Mzc3ODAsMTI2MTg1MDQzMyw4NTEyNDI2NTEsOT
+IwMTM4NjA5LDEyMzkzNTU1NSwtNjIyODc5ODUsLTEzOTUyOTEz
+MTMsLTU3NDE5NjI5NCwxMjUyMTEzNTg4LDIyNzExMzIyNiwtMT
+g3OTYwNjAzNCwtMTIzMjE0NjIyMywtMTA4NDcxNDI5MiwtMjEx
+MDI4NDYxNl19
 -->
