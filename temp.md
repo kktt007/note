@@ -1,3 +1,58 @@
+## 3.11
+看完福耀，国内税收要继续拓展的人生
+
+wiki词条 familly planning
+
+新闻https://bihu.com/
+类似牛客https://leetcode-cn.com
+算法工程https://blog.csdn.net/m0_37907797/article/details/102661778?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task
+最后，很多人问我都是怎么学习的，那我干脆就把我看过的优质书籍贡献出来：
+
+计算机基础入门推荐：《程序是怎样跑起来的》、《网络是怎样连接的》、《计算机是怎样工作的》
+
+进一步认识计算机网络：《计算机网络:自顶向下》、《图解http》
+
+数据结构+算法入门：《数据结构与算法分析：C语言描述版》，《大话数据结构》、《阿哈算法》
+
+算法进阶：《算法第四版》、《编程之美》、《编程珠玑》
+
+由于我是Java技术栈的，顺便推荐基本Java的书籍，从左到由的顺序看到
+
+Java：《Java核心技术卷1》、《编程思想》、《深入理解Java虚拟机》、《Java编程艺术》
+
+数据库：《mysql必知必会》、《MySQL技术内幕：InnoDB存储引擎》
+
+就先介绍这么多，这些都是最基础最核心滴，希望对那些不知道看什书的同学有所帮助
+————————————————
+版权声明：本文为CSDN博主「帅地」的原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/m0_37907797/article/details/102661778
+
+书籍资源https://blog.csdn.net/JiuZhang_ninechapter/article/details/103670926?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task
+
+英语https://language.chinadaily.com.cn/news_bilingual/
+书籍https://wol.jw.org/cmn-Hans/wol/publication/r23/lp-chs/cl
+
+internationalize \ ˌin-tər-ˈnash-nə-ˌlīz 注意发音 sh和n确实分开的，但是n和l直接链接发音，l承担了2个角色，并且应该省去了ə.
+
+facebook成功的故事https://www.facebook.com/business/success
+
+一本书读懂世界的第一本经济学书
+By 梁小民 https://books.google.ca/books?id=ylC8DwAAQBAJ&pg=PT48&lpg=PT48&dq=%E4%B8%AD%E5%9B%BD%E6%98%AF%E5%88%B6%E5%BA%A6%E5%86%85%E7%BB%8F%E6%B5%8E++%E5%9B%BD%E5%A4%96%E6%98%AF%E6%8E%A2%E7%B4%A2%E7%A7%91%E5%AD%A6%E7%9A%84%E7%BB%8F%E6%B5%8E&source=bl&ots=NzAcBElbE1&sig=ACfU3U1Dzfzrfk4uIOidOFuYL_fKAwZHYg&hl=en&sa=X&ved=2ahUKEwi_-u_qj5HoAhWXr54KHTd_A3sQ6AEwAHoECAkQAQ#v=onepage&q=%E4%B8%AD%E5%9B%BD%E6%98%AF%E5%88%B6%E5%BA%A6%E5%86%85%E7%BB%8F%E6%B5%8E%20%20%E5%9B%BD%E5%A4%96%E6%98%AF%E6%8E%A2%E7%B4%A2%E7%A7%91%E5%AD%A6%E7%9A%84%E7%BB%8F%E6%B5%8E&f=false
+
+medium 文章可以看了
+
+新知识-- https://www.bbc.com/ukchina/simp/vert-cap-44319402
+这是英文原文 --https://www.bbc.com/worklife/article/20180523-why-facebook-will-never-die
+托马教授称之为"惊鸿一瞥"（glamourised glimpses）的心理效应
+
+好的论文，免费的https://www.xzbu.com/
+
+英语连读，来自豆瓣 https://www.douban.com/note/198230208/
+
+
+我的盲区 -- https://www.todayusstock.com/
+
+
 ## 3.10
 laparoscopy -- \ ˌla-pə-ˈrä-skə-pē --注意发音，和t几乎一样，前p发b，后p发p
 the use of a long thin tube put into a cut made in the body in order to examine inside the body or do an operation:
@@ -1158,11 +1213,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NjQzNzc4MCwxMjYxODUwNDMzLDg1MT
-I0MjY1MSw5MjAxMzg2MDksMTIzOTM1NTU1LC02MjI4Nzk4NSwt
-MTM5NTI5MTMxMywtNTc0MTk2Mjk0LDEyNTIxMTM1ODgsMjI3MT
-EzMjI2LC0xODc5NjA2MDM0LC0xMjMyMTQ2MjIzLC0xMDg0NzE0
-MjkyLC0yMTEwMjg0NjE2LC00NzI5NjUwMzgsNTk4Nzc3Njg5LC
-0xNDcxMzQwNTczLC05MzMyNjE4LC0zMDcwODQ4MzksMTU4NjQ1
-NDQ3MF19
+eyJoaXN0b3J5IjpbLTc3NzMzNjQ2NSwtOTQ2NDM3NzgwLDEyNj
+E4NTA0MzMsODUxMjQyNjUxLDkyMDEzODYwOSwxMjM5MzU1NTUs
+LTYyMjg3OTg1LC0xMzk1MjkxMzEzLC01NzQxOTYyOTQsMTI1Mj
+ExMzU4OCwyMjcxMTMyMjYsLTE4Nzk2MDYwMzQsLTEyMzIxNDYy
+MjMsLTEwODQ3MTQyOTIsLTIxMTAyODQ2MTYsLTQ3Mjk2NTAzOC
+w1OTg3Nzc2ODksLTE0NzEzNDA1NzMsLTkzMzI2MTgsLTMwNzA4
+NDgzOV19
 -->
