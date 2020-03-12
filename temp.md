@@ -28,6 +28,7 @@ one or the other of two
 You can go by train or bus – either way it’ll take an hour.
 
 negative  \ ˈne-gə-tiv 发t 遇到n似乎必出t
+### 注意弱化 ə 成 i,次重音也是个标记
 literature \ ˈli-tə-rə-ˌchu̇r 注意发音t浊化d ə弱化成i 似乎2音节单词很特殊，
 
 ## t规则 辅音和辅音就要延续，辅音和元音就要相对。
@@ -1271,11 +1272,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM4MDU1NzMzLC05Mzg4ODE2NjAsMTI0Nz
-cyNzcwMSwxNzM5MjAxNTU4LC0xNDUxMTcwNzg0LDExNDczMzgy
-MjcsLTE0MjE0NzA3MzcsMTgyODU4MDU3MCw2NzcxMjExNTgsLT
-c3NzMzNjQ2NSwtOTQ2NDM3NzgwLDEyNjE4NTA0MzMsODUxMjQy
-NjUxLDkyMDEzODYwOSwxMjM5MzU1NTUsLTYyMjg3OTg1LC0xMz
-k1MjkxMzEzLC01NzQxOTYyOTQsMTI1MjExMzU4OCwyMjcxMTMy
-MjZdfQ==
+eyJoaXN0b3J5IjpbMTcyMTE5MjkzOCw3MzgwNTU3MzMsLTkzOD
+g4MTY2MCwxMjQ3NzI3NzAxLDE3MzkyMDE1NTgsLTE0NTExNzA3
+ODQsMTE0NzMzODIyNywtMTQyMTQ3MDczNywxODI4NTgwNTcwLD
+Y3NzEyMTE1OCwtNzc3MzM2NDY1LC05NDY0Mzc3ODAsMTI2MTg1
+MDQzMyw4NTEyNDI2NTEsOTIwMTM4NjA5LDEyMzkzNTU1NSwtNj
+IyODc5ODUsLTEzOTUyOTEzMTMsLTU3NDE5NjI5NCwxMjUyMTEz
+NTg4XX0=
 -->
