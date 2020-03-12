@@ -31,6 +31,8 @@ negative  \ ˈne-gə-tiv 发t 遇到n似乎必出t
 literature \ ˈli-tə-rə-ˌchu̇r 注意发音t浊化d ə弱化成i 似乎2音节单词很特殊，
 
 ## t规则 辅音和辅音就要延续，辅音和元音就要相对。
+辅音在2音节以内无效，以元音为第一.
+
 和前面是否重音没有关系，是否出气的辅音才有关，和前后直接接触的有关,尤其后面，辅音遇到元音，浊化最佳，
 遇到n r 似乎必出t
 l不出
@@ -40,7 +42,7 @@ l不出
 舌头在前，几乎都出气，可以夸张的验证 
 比如b 出气就是p 了，所以b不出
 
-type of 根据个人理论 连续已经是讲前后当成一个词了，所以 typeof p前后是元音,并且在3音节以内
+type of 根据个人理论 连续已经是讲前后当成一个词了，所以 typeof p前后是元音,并且在3音节以内(保证了辅音不起规则)，
 cup of 
 
 计算机看到 https://www.urbandictionary.com/
@@ -1269,7 +1271,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNzgxOTI5MiwtOTM4ODgxNjYwLDEyND
+eyJoaXN0b3J5IjpbLTEzMzI3NjEwNiwtOTM4ODgxNjYwLDEyND
 c3Mjc3MDEsMTczOTIwMTU1OCwtMTQ1MTE3MDc4NCwxMTQ3MzM4
 MjI3LC0xNDIxNDcwNzM3LDE4Mjg1ODA1NzAsNjc3MTIxMTU4LC
 03NzczMzY0NjUsLTk0NjQzNzc4MCwxMjYxODUwNDMzLDg1MTI0
