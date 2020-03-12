@@ -177,7 +177,7 @@ ambient
 existing or present around you
 ambient sound
 
-atmosphere --\ ˈat-mə-ˌsfir 注意发音 t几乎浊化
+atmosphere --\ ˈat-mə-ˌsfir 注意发音 t完全浊化
 the mixture of gases that surrounds some planets, such as the earth; the air 大气
 the character or mood of a place or situation: the club provided a relaxed and friendly atmosphere for its members.
 
@@ -1298,7 +1298,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NTYzMTgwNSw5MzE3NTUzOTIsLTM1OT
+eyJoaXN0b3J5IjpbMjA4Mjg1MjY1Nyw5MzE3NTUzOTIsLTM1OT
 E0ODMxMiwtOTcyNTM2NDYxLDc4ODMzMjMyNCwxNTc5ODAzMDgw
 LDE3MjExOTI5MzgsNzM4MDU1NzMzLC05Mzg4ODE2NjAsMTI0Nz
 cyNzcwMSwxNzM5MjAxNTU4LC0xNDUxMTcwNzg0LDExNDczMzgy
