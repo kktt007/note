@@ -1,4 +1,17 @@
 ## 3.12
+1．早期借用词--大陆时期
+
+2．第二期借用词--古英语时期
+
+3．第三期借用词--中古英语时期
+中古时期对英语词汇影响最大的是法语，而法语属于罗马语族（又称拉丁语族），是由古拉丁语演变而来，属于拉丁语的分支，因此很难判定哪些词是英语直接从古拉丁语借来的，哪些词是通过法语进入英语的。
+
+4．第四期借用词--文艺复兴之后
+　　文艺复兴时期，欧洲学者们致力于对古典文化的研究。古典语言（拉丁语、希腊语）和古典文学成为教育的主要内容。从十六世纪到十八世纪，文学家、科学家都用拉丁语写论文，如培根（Francis Bacon）、牛顿（Isaac Newton, 1642--1727）的著作便是这样。
+　　据《牛津大词典》的资料，在文艺复兴时期进入英语的外来词有一万二千个以上，其中绝大部分来自法语或拉丁语。这些词大多属于学术性的词汇，例如表示抽象概念的词和科技术语。英语词汇中大部分属于欧洲语言国际性成分的词全部源自这一批拉丁词。
+
+-tion，-sion这些的都是拉丁语；-logy、th、ty这样的往往是希腊语。
+
 [英语中拉丁比例](https://www.douban.com/note/250252677/)
 世界语言谱系分类表](https://web.csulb.edu/~txie/CLERC/sjyypxflb.htm)
 fb: 使用搜索手机常见问题，为潜在客户创建原始内容
@@ -1274,11 +1287,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg4MzMyMzI0LDE1Nzk4MDMwODAsMTcyMT
-E5MjkzOCw3MzgwNTU3MzMsLTkzODg4MTY2MCwxMjQ3NzI3NzAx
-LDE3MzkyMDE1NTgsLTE0NTExNzA3ODQsMTE0NzMzODIyNywtMT
-QyMTQ3MDczNywxODI4NTgwNTcwLDY3NzEyMTE1OCwtNzc3MzM2
-NDY1LC05NDY0Mzc3ODAsMTI2MTg1MDQzMyw4NTEyNDI2NTEsOT
-IwMTM4NjA5LDEyMzkzNTU1NSwtNjIyODc5ODUsLTEzOTUyOTEz
-MTNdfQ==
+eyJoaXN0b3J5IjpbLTk3MjUzNjQ2MSw3ODgzMzIzMjQsMTU3OT
+gwMzA4MCwxNzIxMTkyOTM4LDczODA1NTczMywtOTM4ODgxNjYw
+LDEyNDc3Mjc3MDEsMTczOTIwMTU1OCwtMTQ1MTE3MDc4NCwxMT
+Q3MzM4MjI3LC0xNDIxNDcwNzM3LDE4Mjg1ODA1NzAsNjc3MTIx
+MTU4LC03NzczMzY0NjUsLTk0NjQzNzc4MCwxMjYxODUwNDMzLD
+g1MTI0MjY1MSw5MjAxMzg2MDksMTIzOTM1NTU1LC02MjI4Nzk4
+NV19
 -->
