@@ -42,7 +42,7 @@ l不出
 舌头在前，几乎都出气，可以夸张的验证 
 比如b 出气就是p 了，所以b不出
 
-type of 根据个人理论 连续已经是讲前后当成一个词了，所以 typeof p前后是元音,并且在3音节以内(保证了辅音不起规则)，
+type of 根据个人理论 连续已经是讲前后当成一个词了，所以 typeof p前后是元音,并且在3音节以内(保证了辅音不起规则，元音优先)， 所以p 都是浊化
 cup of 
 
 计算机看到 https://www.urbandictionary.com/
@@ -1271,11 +1271,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzI3NjEwNiwtOTM4ODgxNjYwLDEyND
-c3Mjc3MDEsMTczOTIwMTU1OCwtMTQ1MTE3MDc4NCwxMTQ3MzM4
-MjI3LC0xNDIxNDcwNzM3LDE4Mjg1ODA1NzAsNjc3MTIxMTU4LC
-03NzczMzY0NjUsLTk0NjQzNzc4MCwxMjYxODUwNDMzLDg1MTI0
-MjY1MSw5MjAxMzg2MDksMTIzOTM1NTU1LC02MjI4Nzk4NSwtMT
-M5NTI5MTMxMywtNTc0MTk2Mjk0LDEyNTIxMTM1ODgsMjI3MTEz
-MjI2XX0=
+eyJoaXN0b3J5IjpbNzM4MDU1NzMzLC05Mzg4ODE2NjAsMTI0Nz
+cyNzcwMSwxNzM5MjAxNTU4LC0xNDUxMTcwNzg0LDExNDczMzgy
+MjcsLTE0MjE0NzA3MzcsMTgyODU4MDU3MCw2NzcxMjExNTgsLT
+c3NzMzNjQ2NSwtOTQ2NDM3NzgwLDEyNjE4NTA0MzMsODUxMjQy
+NjUxLDkyMDEzODYwOSwxMjM5MzU1NTUsLTYyMjg3OTg1LC0xMz
+k1MjkxMzEzLC01NzQxOTYyOTQsMTI1MjExMzU4OCwyMjcxMTMy
+MjZdfQ==
 -->
