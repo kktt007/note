@@ -1,4 +1,38 @@
 ## 3.12
+fb: 使用搜索手机常见问题，为潜在客户创建原始内容
+
+pixel -- \ ˈpik-səl k不属于开头重音，所以k略读
+
+how to install a pixel and set up a conversion ad
+n属于气很多的音，t任然不少 以后有n 必出t
+
+### con发音
+condition -- \ kən-ˈdi-shən 注意发音o发ə
+
+refusal n.
+the act of refusing to do or accept sth
+the act of saying that you will not do or accept something:
+Her request for more money met with a refusal.
+
+frustrated 
+annoyed, disappointed, or discouraged:
+You just get so frustrated when everything in your vegetable garden is ripe and then the bugs get at them.
+feeling annoyed or less confident because you cannot achieve what you want:
+Are you feeling frustrated in your present job?
+
+either 
+used in negatives instead of also or too:
+The restaurant has good food, and it’s not expensive either.
+
+one or the other of two
+You can go by train or bus – either way it’ll take an hour.
+
+negative  \ ˈne-gə-tiv 发t 遇到n似乎必出t
+literature \ ˈli-tə-rə-ˌchu̇r 注意发音t浊化d ə弱化成i 似乎2音节单词很特殊，
+
+## t规则 辅音和辅音就要延续，辅音和元音就要相对。
+和前面是否重音没有关系，是否出气的辅音才有关，和前后直接接触的有关,尤其后面，辅音遇到元音，浊化最佳，
+
 计算机看到 https://www.urbandictionary.com/
 https://techterms.com/definition/
 https://en.wiktionary.org/wiki/
@@ -1225,11 +1259,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczOTIwMTU1OCwtMTQ1MTE3MDc4NCwxMT
-Q3MzM4MjI3LC0xNDIxNDcwNzM3LDE4Mjg1ODA1NzAsNjc3MTIx
-MTU4LC03NzczMzY0NjUsLTk0NjQzNzc4MCwxMjYxODUwNDMzLD
-g1MTI0MjY1MSw5MjAxMzg2MDksMTIzOTM1NTU1LC02MjI4Nzk4
-NSwtMTM5NTI5MTMxMywtNTc0MTk2Mjk0LDEyNTIxMTM1ODgsMj
-I3MTEzMjI2LC0xODc5NjA2MDM0LC0xMjMyMTQ2MjIzLC0xMDg0
-NzE0MjkyXX0=
+eyJoaXN0b3J5IjpbLTE4MzY1NjU2MzIsMTczOTIwMTU1OCwtMT
+Q1MTE3MDc4NCwxMTQ3MzM4MjI3LC0xNDIxNDcwNzM3LDE4Mjg1
+ODA1NzAsNjc3MTIxMTU4LC03NzczMzY0NjUsLTk0NjQzNzc4MC
+wxMjYxODUwNDMzLDg1MTI0MjY1MSw5MjAxMzg2MDksMTIzOTM1
+NTU1LC02MjI4Nzk4NSwtMTM5NTI5MTMxMywtNTc0MTk2Mjk0LD
+EyNTIxMTM1ODgsMjI3MTEzMjI2LC0xODc5NjA2MDM0LC0xMjMy
+MTQ2MjIzXX0=
 -->
