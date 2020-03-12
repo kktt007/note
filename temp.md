@@ -1,4 +1,10 @@
 ## 3.12
+
+eng learning mind :https://www.zhihu.com/question/22447974/answer/1071742222
+http://www.foryou.sg/wbn/slot/u401/cart/115cart5.htm
+http://www.xindeng.org/baike/waiyu/fangfa/
+http://www.charity.idv.tw/g/g.htm
+
 单词维基
 https://orthodoxwiki.org/
 https://rationalwiki.org/wiki/
@@ -1292,11 +1298,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1OTE0ODMxMiwtOTcyNTM2NDYxLDc4OD
-MzMjMyNCwxNTc5ODAzMDgwLDE3MjExOTI5MzgsNzM4MDU1NzMz
-LC05Mzg4ODE2NjAsMTI0NzcyNzcwMSwxNzM5MjAxNTU4LC0xND
-UxMTcwNzg0LDExNDczMzgyMjcsLTE0MjE0NzA3MzcsMTgyODU4
-MDU3MCw2NzcxMjExNTgsLTc3NzMzNjQ2NSwtOTQ2NDM3NzgwLD
-EyNjE4NTA0MzMsODUxMjQyNjUxLDkyMDEzODYwOSwxMjM5MzU1
-NTVdfQ==
+eyJoaXN0b3J5IjpbOTMxNzU1MzkyLC0zNTkxNDgzMTIsLTk3Mj
+UzNjQ2MSw3ODgzMzIzMjQsMTU3OTgwMzA4MCwxNzIxMTkyOTM4
+LDczODA1NTczMywtOTM4ODgxNjYwLDEyNDc3Mjc3MDEsMTczOT
+IwMTU1OCwtMTQ1MTE3MDc4NCwxMTQ3MzM4MjI3LC0xNDIxNDcw
+NzM3LDE4Mjg1ODA1NzAsNjc3MTIxMTU4LC03NzczMzY0NjUsLT
+k0NjQzNzc4MCwxMjYxODUwNDMzLDg1MTI0MjY1MSw5MjAxMzg2
+MDldfQ==
 -->
