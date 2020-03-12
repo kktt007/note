@@ -35,6 +35,9 @@ literature \ ˈli-tə-rə-ˌchu̇r 注意发音t浊化d ə弱化成i 似乎2音�
 遇到n r 似乎必出t
 l不出
 
+舌头位置在前面就T : r n
+舌头位置在后面就D : l b
+
 计算机看到 https://www.urbandictionary.com/
 https://techterms.com/definition/
 https://en.wiktionary.org/wiki/
@@ -1261,11 +1264,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NzcyNzcwMSwxNzM5MjAxNTU4LC0xND
-UxMTcwNzg0LDExNDczMzgyMjcsLTE0MjE0NzA3MzcsMTgyODU4
-MDU3MCw2NzcxMjExNTgsLTc3NzMzNjQ2NSwtOTQ2NDM3NzgwLD
-EyNjE4NTA0MzMsODUxMjQyNjUxLDkyMDEzODYwOSwxMjM5MzU1
-NTUsLTYyMjg3OTg1LC0xMzk1MjkxMzEzLC01NzQxOTYyOTQsMT
-I1MjExMzU4OCwyMjcxMTMyMjYsLTE4Nzk2MDYwMzQsLTEyMzIx
-NDYyMjNdfQ==
+eyJoaXN0b3J5IjpbLTkzODg4MTY2MCwxMjQ3NzI3NzAxLDE3Mz
+kyMDE1NTgsLTE0NTExNzA3ODQsMTE0NzMzODIyNywtMTQyMTQ3
+MDczNywxODI4NTgwNTcwLDY3NzEyMTE1OCwtNzc3MzM2NDY1LC
+05NDY0Mzc3ODAsMTI2MTg1MDQzMyw4NTEyNDI2NTEsOTIwMTM4
+NjA5LDEyMzkzNTU1NSwtNjIyODc5ODUsLTEzOTUyOTEzMTMsLT
+U3NDE5NjI5NCwxMjUyMTEzNTg4LDIyNzExMzIyNiwtMTg3OTYw
+NjAzNF19
 -->
