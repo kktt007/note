@@ -37,6 +37,11 @@ l不出
 
 舌头位置在前面就T : r n
 舌头位置在后面就D : l b
+舌头在前，几乎都出气，可以夸张的验证 
+比如b 出气就是p 了，所以b不出
+
+type of 根据个人理论 连续已经是讲前后当成一个词了，所以 typeof p前后是元音,并且在3音节以内
+cup of 
 
 计算机看到 https://www.urbandictionary.com/
 https://techterms.com/definition/
@@ -1264,11 +1269,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzODg4MTY2MCwxMjQ3NzI3NzAxLDE3Mz
-kyMDE1NTgsLTE0NTExNzA3ODQsMTE0NzMzODIyNywtMTQyMTQ3
-MDczNywxODI4NTgwNTcwLDY3NzEyMTE1OCwtNzc3MzM2NDY1LC
-05NDY0Mzc3ODAsMTI2MTg1MDQzMyw4NTEyNDI2NTEsOTIwMTM4
-NjA5LDEyMzkzNTU1NSwtNjIyODc5ODUsLTEzOTUyOTEzMTMsLT
-U3NDE5NjI5NCwxMjUyMTEzNTg4LDIyNzExMzIyNiwtMTg3OTYw
-NjAzNF19
+eyJoaXN0b3J5IjpbMTEyNzgxOTI5MiwtOTM4ODgxNjYwLDEyND
+c3Mjc3MDEsMTczOTIwMTU1OCwtMTQ1MTE3MDc4NCwxMTQ3MzM4
+MjI3LC0xNDIxNDcwNzM3LDE4Mjg1ODA1NzAsNjc3MTIxMTU4LC
+03NzczMzY0NjUsLTk0NjQzNzc4MCwxMjYxODUwNDMzLDg1MTI0
+MjY1MSw5MjAxMzg2MDksMTIzOTM1NTU1LC02MjI4Nzk4NSwtMT
+M5NTI5MTMxMywtNTc0MTk2Mjk0LDEyNTIxMTM1ODgsMjI3MTEz
+MjI2XX0=
 -->
