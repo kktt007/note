@@ -1,4 +1,9 @@
 ## 3.12
+单词维基
+https://orthodoxwiki.org/
+https://rationalwiki.org/wiki/
+https://en.vikidia.org/wiki/
+
 1．早期借用词--大陆时期
 
 2．第二期借用词--古英语时期
@@ -1287,11 +1292,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MjUzNjQ2MSw3ODgzMzIzMjQsMTU3OT
-gwMzA4MCwxNzIxMTkyOTM4LDczODA1NTczMywtOTM4ODgxNjYw
-LDEyNDc3Mjc3MDEsMTczOTIwMTU1OCwtMTQ1MTE3MDc4NCwxMT
-Q3MzM4MjI3LC0xNDIxNDcwNzM3LDE4Mjg1ODA1NzAsNjc3MTIx
-MTU4LC03NzczMzY0NjUsLTk0NjQzNzc4MCwxMjYxODUwNDMzLD
-g1MTI0MjY1MSw5MjAxMzg2MDksMTIzOTM1NTU1LC02MjI4Nzk4
-NV19
+eyJoaXN0b3J5IjpbLTM1OTE0ODMxMiwtOTcyNTM2NDYxLDc4OD
+MzMjMyNCwxNTc5ODAzMDgwLDE3MjExOTI5MzgsNzM4MDU1NzMz
+LC05Mzg4ODE2NjAsMTI0NzcyNzcwMSwxNzM5MjAxNTU4LC0xND
+UxMTcwNzg0LDExNDczMzgyMjcsLTE0MjE0NzA3MzcsMTgyODU4
+MDU3MCw2NzcxMjExNTgsLTc3NzMzNjQ2NSwtOTQ2NDM3NzgwLD
+EyNjE4NTA0MzMsODUxMjQyNjUxLDkyMDEzODYwOSwxMjM5MzU1
+NTVdfQ==
 -->
