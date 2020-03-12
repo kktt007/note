@@ -142,7 +142,7 @@ laparoscopy -- \ ˌla-pə-ˈrä-skə-pē --注意发音，和t几乎一样，前
 the use of a long thin tube put into a cut made in the body in order to examine inside the body or do an operation:
 Typically, patients would prefer laparoscopy to an open surgery.
 
-typically -- \ ˈti-pi-k(ə-)lē p发b, k发k 注意发音， 这个发音很典型 p位于2位，k位于2以上，且签名的是t p有出气，所以k也出气，不浊化
+typically -- \ ˈti-pi-k(ə-)lē p发b, k发k 注意发音， 这个发音很典型 p位于2位，k位于2以上，且前面的是t 有出气，所以k也出气，不浊化,而p主要是第二音节,所以看元音
 
 ```
 d: 
@@ -1298,11 +1298,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMxNzU1MzkyLC0zNTkxNDgzMTIsLTk3Mj
-UzNjQ2MSw3ODgzMzIzMjQsMTU3OTgwMzA4MCwxNzIxMTkyOTM4
-LDczODA1NTczMywtOTM4ODgxNjYwLDEyNDc3Mjc3MDEsMTczOT
-IwMTU1OCwtMTQ1MTE3MDc4NCwxMTQ3MzM4MjI3LC0xNDIxNDcw
-NzM3LDE4Mjg1ODA1NzAsNjc3MTIxMTU4LC03NzczMzY0NjUsLT
-k0NjQzNzc4MCwxMjYxODUwNDMzLDg1MTI0MjY1MSw5MjAxMzg2
-MDldfQ==
+eyJoaXN0b3J5IjpbLTEzODM1OTExOTYsOTMxNzU1MzkyLC0zNT
+kxNDgzMTIsLTk3MjUzNjQ2MSw3ODgzMzIzMjQsMTU3OTgwMzA4
+MCwxNzIxMTkyOTM4LDczODA1NTczMywtOTM4ODgxNjYwLDEyND
+c3Mjc3MDEsMTczOTIwMTU1OCwtMTQ1MTE3MDc4NCwxMTQ3MzM4
+MjI3LC0xNDIxNDcwNzM3LDE4Mjg1ODA1NzAsNjc3MTIxMTU4LC
+03NzczMzY0NjUsLTk0NjQzNzc4MCwxMjYxODUwNDMzLDg1MTI0
+MjY1MV19
 -->
