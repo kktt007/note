@@ -32,6 +32,8 @@ literature \ ˈli-tə-rə-ˌchu̇r 注意发音t浊化d ə弱化成i 似乎2音�
 
 ## t规则 辅音和辅音就要延续，辅音和元音就要相对。
 和前面是否重音没有关系，是否出气的辅音才有关，和前后直接接触的有关,尤其后面，辅音遇到元音，浊化最佳，
+遇到n r 似乎必出t
+l不出
 
 计算机看到 https://www.urbandictionary.com/
 https://techterms.com/definition/
@@ -1259,11 +1261,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzY1NjU2MzIsMTczOTIwMTU1OCwtMT
-Q1MTE3MDc4NCwxMTQ3MzM4MjI3LC0xNDIxNDcwNzM3LDE4Mjg1
-ODA1NzAsNjc3MTIxMTU4LC03NzczMzY0NjUsLTk0NjQzNzc4MC
-wxMjYxODUwNDMzLDg1MTI0MjY1MSw5MjAxMzg2MDksMTIzOTM1
-NTU1LC02MjI4Nzk4NSwtMTM5NTI5MTMxMywtNTc0MTk2Mjk0LD
-EyNTIxMTM1ODgsMjI3MTEzMjI2LC0xODc5NjA2MDM0LC0xMjMy
-MTQ2MjIzXX0=
+eyJoaXN0b3J5IjpbMTI0NzcyNzcwMSwxNzM5MjAxNTU4LC0xND
+UxMTcwNzg0LDExNDczMzgyMjcsLTE0MjE0NzA3MzcsMTgyODU4
+MDU3MCw2NzcxMjExNTgsLTc3NzMzNjQ2NSwtOTQ2NDM3NzgwLD
+EyNjE4NTA0MzMsODUxMjQyNjUxLDkyMDEzODYwOSwxMjM5MzU1
+NTUsLTYyMjg3OTg1LC0xMzk1MjkxMzEzLC01NzQxOTYyOTQsMT
+I1MjExMzU4OCwyMjcxMTMyMjYsLTE4Nzk2MDYwMzQsLTEyMzIx
+NDYyMjNdfQ==
 -->
