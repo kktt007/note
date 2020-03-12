@@ -1,5 +1,5 @@
 ## 3.12
-f
+世界语言谱系分类表](https://web.csulb.edu/~txie/CLERC/sjyypxflb.htm)
 fb: 使用搜索手机常见问题，为潜在客户创建原始内容
 
 pixel -- \ ˈpik-səl k不属于开头重音，所以k略读
@@ -1273,11 +1273,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIxMjI1MTU0LDE3MjExOTI5MzgsNzM4MD
-U1NzMzLC05Mzg4ODE2NjAsMTI0NzcyNzcwMSwxNzM5MjAxNTU4
-LC0xNDUxMTcwNzg0LDExNDczMzgyMjcsLTE0MjE0NzA3MzcsMT
-gyODU4MDU3MCw2NzcxMjExNTgsLTc3NzMzNjQ2NSwtOTQ2NDM3
-NzgwLDEyNjE4NTA0MzMsODUxMjQyNjUxLDkyMDEzODYwOSwxMj
-M5MzU1NTUsLTYyMjg3OTg1LC0xMzk1MjkxMzEzLC01NzQxOTYy
-OTRdfQ==
+eyJoaXN0b3J5IjpbMTU3OTgwMzA4MCwxNzIxMTkyOTM4LDczOD
+A1NTczMywtOTM4ODgxNjYwLDEyNDc3Mjc3MDEsMTczOTIwMTU1
+OCwtMTQ1MTE3MDc4NCwxMTQ3MzM4MjI3LC0xNDIxNDcwNzM3LD
+E4Mjg1ODA1NzAsNjc3MTIxMTU4LC03NzczMzY0NjUsLTk0NjQz
+Nzc4MCwxMjYxODUwNDMzLDg1MTI0MjY1MSw5MjAxMzg2MDksMT
+IzOTM1NTU1LC02MjI4Nzk4NSwtMTM5NTI5MTMxMywtNTc0MTk2
+Mjk0XX0=
 -->
