@@ -72,10 +72,12 @@ l不出
 type of 根据个人理论 连续已经是讲前后当成一个词了，所以 typeof p前后是元音,并且在3音节以内(保证了辅音不起规则，元音优先)， 所以p 都是浊化
 cup of 
 
-计算机看到 https://www.urbandictionary.com/
+计算机词典
+ https://www.urbandictionary.com/
 https://techterms.com/definition/
 https://en.wiktionary.org/wiki/
 https://www.computerhope.com/jargon.htm
+
 新思路，eng-latin词典 https://glosbe.com/en/la/daemon
 https://glosbe.com/en/la/{searchTerms}
 
@@ -1298,11 +1300,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4Mjg1MjY1Nyw5MzE3NTUzOTIsLTM1OT
-E0ODMxMiwtOTcyNTM2NDYxLDc4ODMzMjMyNCwxNTc5ODAzMDgw
-LDE3MjExOTI5MzgsNzM4MDU1NzMzLC05Mzg4ODE2NjAsMTI0Nz
-cyNzcwMSwxNzM5MjAxNTU4LC0xNDUxMTcwNzg0LDExNDczMzgy
-MjcsLTE0MjE0NzA3MzcsMTgyODU4MDU3MCw2NzcxMjExNTgsLT
-c3NzMzNjQ2NSwtOTQ2NDM3NzgwLDEyNjE4NTA0MzMsODUxMjQy
-NjUxXX0=
+eyJoaXN0b3J5IjpbLTExMDQ0MzA0MzcsMjA4Mjg1MjY1Nyw5Mz
+E3NTUzOTIsLTM1OTE0ODMxMiwtOTcyNTM2NDYxLDc4ODMzMjMy
+NCwxNTc5ODAzMDgwLDE3MjExOTI5MzgsNzM4MDU1NzMzLC05Mz
+g4ODE2NjAsMTI0NzcyNzcwMSwxNzM5MjAxNTU4LC0xNDUxMTcw
+Nzg0LDExNDczMzgyMjcsLTE0MjE0NzA3MzcsMTgyODU4MDU3MC
+w2NzcxMjExNTgsLTc3NzMzNjQ2NSwtOTQ2NDM3NzgwLDEyNjE4
+NTA0MzNdfQ==
 -->
