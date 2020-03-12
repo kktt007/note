@@ -1,3 +1,10 @@
+## 3.12
+计算机看到 https://www.urbandictionary.com/
+https://techterms.com/definition/
+https://en.wiktionary.org/wiki/
+https://www.computerhope.com/jargon.htm
+新思路，eng-latin词典 https://glosbe.com/en/la/daemon
+https://glosbe.com/en/la/{searchTerms}
 
 
 ## 3.11
@@ -1218,11 +1225,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY0MDExMjA0LC0xNDUxMTcwNzg0LDExND
-czMzgyMjcsLTE0MjE0NzA3MzcsMTgyODU4MDU3MCw2NzcxMjEx
-NTgsLTc3NzMzNjQ2NSwtOTQ2NDM3NzgwLDEyNjE4NTA0MzMsOD
-UxMjQyNjUxLDkyMDEzODYwOSwxMjM5MzU1NTUsLTYyMjg3OTg1
-LC0xMzk1MjkxMzEzLC01NzQxOTYyOTQsMTI1MjExMzU4OCwyMj
-cxMTMyMjYsLTE4Nzk2MDYwMzQsLTEyMzIxNDYyMjMsLTEwODQ3
-MTQyOTJdfQ==
+eyJoaXN0b3J5IjpbMTczOTIwMTU1OCwtMTQ1MTE3MDc4NCwxMT
+Q3MzM4MjI3LC0xNDIxNDcwNzM3LDE4Mjg1ODA1NzAsNjc3MTIx
+MTU4LC03NzczMzY0NjUsLTk0NjQzNzc4MCwxMjYxODUwNDMzLD
+g1MTI0MjY1MSw5MjAxMzg2MDksMTIzOTM1NTU1LC02MjI4Nzk4
+NSwtMTM5NTI5MTMxMywtNTc0MTk2Mjk0LDEyNTIxMTM1ODgsMj
+I3MTEzMjI2LC0xODc5NjA2MDM0LC0xMjMyMTQ2MjIzLC0xMDg0
+NzE0MjkyXX0=
 -->
