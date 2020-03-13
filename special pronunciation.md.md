@@ -1,4 +1,6 @@
 ## 2音节临近阻碍相对规则和3音节辅音规则
+- n是起阻碍的
+
 chemical 颠覆了我。。只有一种解释，不能有2个爆破音清辅音 p t k 不能同时在一个重音节中，事出有因必有妖
 
 
@@ -39,8 +41,8 @@ footing -\ ˈfu̇-tiŋ t浊化阻碍太明显了
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAxNTQ5NTMxLDE4ODIwNDA4ODUsLTI0NT
-A4NTk4NywtOTI4Nzk4MDc3LDM4MjM0NjI1NCwxODc2NzIwNjQ1
-LC00NTAwNTQ1NDAsLTE1NjE1NDExODksNzM0MzAyODg2LC01OD
-MxMTc2MzddfQ==
+eyJoaXN0b3J5IjpbMjA2Nzk5MjI2NCw5MDE1NDk1MzEsMTg4Mj
+A0MDg4NSwtMjQ1MDg1OTg3LC05Mjg3OTgwNzcsMzgyMzQ2MjU0
+LDE4NzY3MjA2NDUsLTQ1MDA1NDU0MCwtMTU2MTU0MTE4OSw3Mz
+QzMDI4ODYsLTU4MzExNzYzN119
 -->
