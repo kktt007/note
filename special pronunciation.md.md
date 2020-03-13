@@ -1,6 +1,7 @@
 ## 2音节临近阻碍相对规则和3音节辅音规则
 - n是起阻碍的
 
+geographical -- \ ˌjē-​ə-​ˈgra-​fi-​kəl 最后k浊化，理由就是重音的g ，和stability一个原理，多音节只看重音的首辅
 chemical 颠覆了我。。只有一种解释，不能有2个爆破音清辅音 p t k 不能同时在一个重音节中，事出有因必有妖
 
 
@@ -56,10 +57,10 @@ solid --\ ˈsä-ləd ə又成了e的音
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTk0ODk1NzQsNTg1MjkwNDA5LC01NT
-UzNzczOTAsMTk4NTQ5NDIzOSwtMTcxNzgxODc4OCwtMTk1NDY0
-NjkwMCw0NTczNzkxNTksODY2Nzk1MjE1LDkwMTU0OTUzMSwxOD
-gyMDQwODg1LC0yNDUwODU5ODcsLTkyODc5ODA3NywzODIzNDYy
-NTQsMTg3NjcyMDY0NSwtNDUwMDU0NTQwLC0xNTYxNTQxMTg5LD
-czNDMwMjg4NiwtNTgzMTE3NjM3XX0=
+eyJoaXN0b3J5IjpbMTQ1MjE5MDg0MSwtMTAxOTQ4OTU3NCw1OD
+UyOTA0MDksLTU1NTM3NzM5MCwxOTg1NDk0MjM5LC0xNzE3ODE4
+Nzg4LC0xOTU0NjQ2OTAwLDQ1NzM3OTE1OSw4NjY3OTUyMTUsOT
+AxNTQ5NTMxLDE4ODIwNDA4ODUsLTI0NTA4NTk4NywtOTI4Nzk4
+MDc3LDM4MjM0NjI1NCwxODc2NzIwNjQ1LC00NTAwNTQ1NDAsLT
+E1NjE1NDExODksNzM0MzAyODg2LC01ODMxMTc2MzddfQ==
 -->
