@@ -39,7 +39,7 @@ footing -\ ˈfu̇-tiŋ t浊化阻碍太明显了
 
 hexagon --\ ˈhek-sə-ˌgän k浊化,s不变，这个很特别，要么是ks作为下一个音节了。要么是中音出气了，末尾小辅音作废。毕竟K作为爆破音，不能再出了。
 
-history 经典了吧 \ ˈhi-st(ə-)rē s不变t浊，就是sd对比以上，.2音节末尾浊，另外再次注意是pbtdkg 所以，s不遵循2音节规律，开头不变。
+**history 经典了吧 \ ˈhi-st(ə-)rē s不变t浊，就是sd对比以上，.2音节末尾浊，另外再次注意是pbtdkg 所以，s不遵循2音节规律，开头不变。**
 
 ə弱读i目前是n后面较多，可能和舌头上颚有关，前面有i也有关
 
@@ -56,7 +56,7 @@ solid --\ ˈsä-ləd ə又成了e的音
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzExNzMwOTQsNTg1MjkwNDA5LC01NT
+eyJoaXN0b3J5IjpbLTEwMTk0ODk1NzQsNTg1MjkwNDA5LC01NT
 UzNzczOTAsMTk4NTQ5NDIzOSwtMTcxNzgxODc4OCwtMTk1NDY0
 NjkwMCw0NTczNzkxNTksODY2Nzk1MjE1LDkwMTU0OTUzMSwxOD
 gyMDQwODg1LC0yNDUwODU5ODcsLTkyODc5ODA3NywzODIzNDYy
