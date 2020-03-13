@@ -25,13 +25,14 @@ constant -- \ ˈkän(t)-stənt 是后t 发d
 
 完美解释frighten -- \ ˈfrī-tᵊn
 t按照理论是d，遇到n这个特别废气的，直接同化
-
+烂熟于心几个词即可:
+extremity
 
 ə弱读i目前是n后面较多，可能和舌头上颚有关，前面有i也有关
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgyMzQ2MjU0LDE4NzY3MjA2NDUsLTQ1MD
-A1NDU0MCwtMTU2MTU0MTE4OSw3MzQzMDI4ODYsLTU4MzExNzYz
-N119
+eyJoaXN0b3J5IjpbMTQxMzY3NTU1OCwzODIzNDYyNTQsMTg3Nj
+cyMDY0NSwtNDUwMDU0NTQwLC0xNTYxNTQxMTg5LDczNDMwMjg4
+NiwtNTgzMTE3NjM3XX0=
 -->
