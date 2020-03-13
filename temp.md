@@ -1,5 +1,9 @@
 ## 3.12
 
+firm
+trip 
+footing
+
 eng learning mind :https://www.zhihu.com/question/22447974/answer/1071742222
 http://www.foryou.sg/wbn/slot/u401/cart/115cart5.htm
 http://www.xindeng.org/baike/waiyu/fangfa/
@@ -1300,11 +1304,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDQ0MzA0MzcsMjA4Mjg1MjY1Nyw5Mz
-E3NTUzOTIsLTM1OTE0ODMxMiwtOTcyNTM2NDYxLDc4ODMzMjMy
-NCwxNTc5ODAzMDgwLDE3MjExOTI5MzgsNzM4MDU1NzMzLC05Mz
-g4ODE2NjAsMTI0NzcyNzcwMSwxNzM5MjAxNTU4LC0xNDUxMTcw
-Nzg0LDExNDczMzgyMjcsLTE0MjE0NzA3MzcsMTgyODU4MDU3MC
-w2NzcxMjExNTgsLTc3NzMzNjQ2NSwtOTQ2NDM3NzgwLDEyNjE4
-NTA0MzNdfQ==
+eyJoaXN0b3J5IjpbLTE5ODcxODYwMiwtMTEwNDQzMDQzNywyMD
+gyODUyNjU3LDkzMTc1NTM5MiwtMzU5MTQ4MzEyLC05NzI1MzY0
+NjEsNzg4MzMyMzI0LDE1Nzk4MDMwODAsMTcyMTE5MjkzOCw3Mz
+gwNTU3MzMsLTkzODg4MTY2MCwxMjQ3NzI3NzAxLDE3MzkyMDE1
+NTgsLTE0NTExNzA3ODQsMTE0NzMzODIyNywtMTQyMTQ3MDczNy
+wxODI4NTgwNTcwLDY3NzEyMTE1OCwtNzc3MzM2NDY1LC05NDY0
+Mzc3ODBdfQ==
 -->
