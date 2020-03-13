@@ -39,9 +39,11 @@ footing -\ ˈfu̇-tiŋ t浊化阻碍太明显了
 
 ə弱读i目前是n后面较多，可能和舌头上颚有关，前面有i也有关
 
+difficulty -- \ ˈdi-fi-(ˌ)kəl-tē f并不属于爆破音略读范畴，另外fi似乎是fə
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2Nzk5MjI2NCw5MDE1NDk1MzEsMTg4Mj
+eyJoaXN0b3J5IjpbMTMwOTc5MzYzNCw5MDE1NDk1MzEsMTg4Mj
 A0MDg4NSwtMjQ1MDg1OTg3LC05Mjg3OTgwNzcsMzgyMzQ2MjU0
 LDE4NzY3MjA2NDUsLTQ1MDA1NDU0MCwtMTU2MTU0MTE4OSw3Mz
 QzMDI4ODYsLTU4MzExNzYzN119
