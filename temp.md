@@ -1,6 +1,18 @@
 ## 3.12
 thefreedict 和definition这2词典不用
 
+trip 
+to lose your balance because your foot hits against something when you are walking or running, or to cause someone to lose his or her balance: 
+
+rock
+the hard solid substance that forms part of the Earth’s surface
+
+triangular --\ trī-ˈaŋ-gyə-lər
+shaped like a triangle: 
+
+triangle 
+a flat shape with three straight sides:
+
 firm
 trip 
 footing
@@ -1305,11 +1317,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NzY2MzgwMSwtOTYwMDc2NDQxLC0xMT
-A0NDMwNDM3LDIwODI4NTI2NTcsOTMxNzU1MzkyLC0zNTkxNDgz
-MTIsLTk3MjUzNjQ2MSw3ODgzMzIzMjQsMTU3OTgwMzA4MCwxNz
-IxMTkyOTM4LDczODA1NTczMywtOTM4ODgxNjYwLDEyNDc3Mjc3
-MDEsMTczOTIwMTU1OCwtMTQ1MTE3MDc4NCwxMTQ3MzM4MjI3LC
-0xNDIxNDcwNzM3LDE4Mjg1ODA1NzAsNjc3MTIxMTU4LC03Nzcz
-MzY0NjVdfQ==
+eyJoaXN0b3J5IjpbOTI3ODI4MjQxLDEwODc2NjM4MDEsLTk2MD
+A3NjQ0MSwtMTEwNDQzMDQzNywyMDgyODUyNjU3LDkzMTc1NTM5
+MiwtMzU5MTQ4MzEyLC05NzI1MzY0NjEsNzg4MzMyMzI0LDE1Nz
+k4MDMwODAsMTcyMTE5MjkzOCw3MzgwNTU3MzMsLTkzODg4MTY2
+MCwxMjQ3NzI3NzAxLDE3MzkyMDE1NTgsLTE0NTExNzA3ODQsMT
+E0NzMzODIyNywtMTQyMTQ3MDczNywxODI4NTgwNTcwLDY3NzEy
+MTE1OF19
 -->
