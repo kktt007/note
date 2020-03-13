@@ -25,8 +25,10 @@ constant -- \ ˈkän(t)-stənt 是后t 发d
 完美解释frighten -- \ ˈfrī-tᵊn
 t按照理论是d，遇到n这个特别废气的，直接同化
 
+ə弱读i目前是n后面较多，可能和舌头上颚有关
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MDA1NDU0MCwtMTU2MTU0MTE4OSw3Mz
-QzMDI4ODYsLTU4MzExNzYzN119
+eyJoaXN0b3J5IjpbLTE3MzEzMjkxNSwtNDUwMDU0NTQwLC0xNT
+YxNTQxMTg5LDczNDMwMjg4NiwtNTgzMTE3NjM3XX0=
 -->
