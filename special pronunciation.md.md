@@ -31,11 +31,13 @@ specialty --\ ˈspe-shəl-tē 很大声的t，别担心
 
 admit --\ əd-ˈmit 这个d几乎意思一下的,所以才有些许n的感觉，阻碍
 
+accidentally --\ ˌak-sə-ˈdent-lē k ə 不变，t被n同化，很强的阻碍。
+
 ə弱读i目前是n后面较多，可能和舌头上颚有关，前面有i也有关
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NTA4NTk4NywtOTI4Nzk4MDc3LDM4Mj
-M0NjI1NCwxODc2NzIwNjQ1LC00NTAwNTQ1NDAsLTE1NjE1NDEx
-ODksNzM0MzAyODg2LC01ODMxMTc2MzddfQ==
+eyJoaXN0b3J5IjpbMTg4MjA0MDg4NSwtMjQ1MDg1OTg3LC05Mj
+g3OTgwNzcsMzgyMzQ2MjU0LDE4NzY3MjA2NDUsLTQ1MDA1NDU0
+MCwtMTU2MTU0MTE4OSw3MzQzMDI4ODYsLTU4MzExNzYzN119
 -->
