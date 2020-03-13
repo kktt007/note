@@ -37,7 +37,7 @@ accidentally --\ ˌak-sə-ˈdent-lē k ə 不变，t被n同化，很强的阻碍
 
 footing -\ ˈfu̇-tiŋ t浊化阻碍太明显了
 
-hexagon --\ ˈhek-sə-ˌgän k浊化,s不变，这个很特别，要么是ks作为下一个音节了。
+hexagon --\ ˈhek-sə-ˌgän k浊化,s不变，这个很特别，要么是ks作为下一个音节了。要么是中音出气了，末尾小辅音作废。
 
 ə弱读i目前是n后面较多，可能和舌头上颚有关，前面有i也有关
 
@@ -50,9 +50,9 @@ solid --\ ˈsä-ləd ə又成了e的音
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODk1NTYwMjksLTE3MTc4MTg3ODgsLT
-E5NTQ2NDY5MDAsNDU3Mzc5MTU5LDg2Njc5NTIxNSw5MDE1NDk1
-MzEsMTg4MjA0MDg4NSwtMjQ1MDg1OTg3LC05Mjg3OTgwNzcsMz
-gyMzQ2MjU0LDE4NzY3MjA2NDUsLTQ1MDA1NDU0MCwtMTU2MTU0
-MTE4OSw3MzQzMDI4ODYsLTU4MzExNzYzN119
+eyJoaXN0b3J5IjpbLTcxOTc0NzQsLTE3MTc4MTg3ODgsLTE5NT
+Q2NDY5MDAsNDU3Mzc5MTU5LDg2Njc5NTIxNSw5MDE1NDk1MzEs
+MTg4MjA0MDg4NSwtMjQ1MDg1OTg3LC05Mjg3OTgwNzcsMzgyMz
+Q2MjU0LDE4NzY3MjA2NDUsLTQ1MDA1NDU0MCwtMTU2MTU0MTE4
+OSw3MzQzMDI4ODYsLTU4MzExNzYzN119
 -->
