@@ -1,5 +1,5 @@
 ## 3.12
-
+thefreedict 和definition这2词典不用
 firm
 trip 
 footing
@@ -1304,7 +1304,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODcxODYwMiwtMTEwNDQzMDQzNywyMD
+eyJoaXN0b3J5IjpbLTk2MDA3NjQ0MSwtMTEwNDQzMDQzNywyMD
 gyODUyNjU3LDkzMTc1NTM5MiwtMzU5MTQ4MzEyLC05NzI1MzY0
 NjEsNzg4MzMyMzI0LDE1Nzk4MDMwODAsMTcyMTE5MjkzOCw3Mz
 gwNTU3MzMsLTkzODg4MTY2MCwxMjQ3NzI3NzAxLDE3MzkyMDE1
