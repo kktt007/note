@@ -43,11 +43,14 @@ difficulty -- \ ˈdi-fi-(ˌ)kəl-tē f并不属于爆破音略读范畴，另外
 
 - 上面例子看出，看的是重音次重音，一个级别的
 
+solid --\ ˈsä-ləd ə又成了e的音
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU3Mzc5MTU5LDg2Njc5NTIxNSw5MDE1ND
-k1MzEsMTg4MjA0MDg4NSwtMjQ1MDg1OTg3LC05Mjg3OTgwNzcs
-MzgyMzQ2MjU0LDE4NzY3MjA2NDUsLTQ1MDA1NDU0MCwtMTU2MT
-U0MTE4OSw3MzQzMDI4ODYsLTU4MzExNzYzN119
+eyJoaXN0b3J5IjpbLTE5NTQ2NDY5MDAsNDU3Mzc5MTU5LDg2Nj
+c5NTIxNSw5MDE1NDk1MzEsMTg4MjA0MDg4NSwtMjQ1MDg1OTg3
+LC05Mjg3OTgwNzcsMzgyMzQ2MjU0LDE4NzY3MjA2NDUsLTQ1MD
+A1NDU0MCwtMTU2MTU0MTE4OSw3MzQzMDI4ODYsLTU4MzExNzYz
+N119
 -->
