@@ -22,9 +22,11 @@ constant -- \ ˈkän(t)-stənt 是后t 发d
 摩擦和元音同属出气，在辅音位置，扮演引导角色，导致后面辅音同化
 3音节看辅音 那么chemical 只有一种解释，2中强爆破不能同时出现
 
+完美解释frighten -- \ ˈfrī-tᵊn
+t按照理论是d，遇到n这个特别废气的，直接同化
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDM4NjIyMzEsLTE1NjE1NDExODksNz
-M0MzAyODg2LC01ODMxMTc2MzddfQ==
+eyJoaXN0b3J5IjpbLTQ1MDA1NDU0MCwtMTU2MTU0MTE4OSw3Mz
+QzMDI4ODYsLTU4MzExNzYzN119
 -->
