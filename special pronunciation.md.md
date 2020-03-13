@@ -1,4 +1,4 @@
-## 2音节临近规则和3音节辅音规则
+## 2音节临近阻碍相对规则和3音节辅音规则
 chemical 颠覆了我。。只有一种解释，不能有2个爆破音清辅音 p t k 不能同时在一个重音节中，事出有因必有妖
 
 
@@ -35,7 +35,7 @@ admit --\ əd-ˈmit 这个d几乎意思一下的,所以才有些许n的感觉，
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MTcxNTQ5OCwtOTI4Nzk4MDc3LDM4Mj
+eyJoaXN0b3J5IjpbLTI0NTA4NTk4NywtOTI4Nzk4MDc3LDM4Mj
 M0NjI1NCwxODc2NzIwNjQ1LC00NTAwNTQ1NDAsLTE1NjE1NDEx
 ODksNzM0MzAyODg2LC01ODMxMTc2MzddfQ==
 -->
