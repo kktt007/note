@@ -7,6 +7,7 @@
 political --\ pə-ˈli-ti-kəl k阻碍，说明 l也阻碍
 purpose -- \ ˈpər-pəs p阻碍，说明r也阻碍
 ```
+- politics -- \ ˈpä-lə-ˌtiks k还是k,怎么理解，暂且是收尾相连吧，后面没音节了。
 
 chemical 颠覆了我。。只有一种解释，不能有2个爆破音清辅音 p t k 不能同时在一个重音节中，事出有因必有妖
 
@@ -63,11 +64,11 @@ solid --\ ˈsä-ləd ə又成了e的音
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MzAxODcxOSwtOTUzNTcyNTQyLDc1Mj
-cxMjg3NywtMTAxOTQ4OTU3NCw1ODUyOTA0MDksLTU1NTM3NzM5
-MCwxOTg1NDk0MjM5LC0xNzE3ODE4Nzg4LC0xOTU0NjQ2OTAwLD
-Q1NzM3OTE1OSw4NjY3OTUyMTUsOTAxNTQ5NTMxLDE4ODIwNDA4
-ODUsLTI0NTA4NTk4NywtOTI4Nzk4MDc3LDM4MjM0NjI1NCwxOD
-c2NzIwNjQ1LC00NTAwNTQ1NDAsLTE1NjE1NDExODksNzM0MzAy
-ODg2XX0=
+eyJoaXN0b3J5IjpbLTE4MzQ2MDY5MTcsLTk1MzAxODcxOSwtOT
+UzNTcyNTQyLDc1MjcxMjg3NywtMTAxOTQ4OTU3NCw1ODUyOTA0
+MDksLTU1NTM3NzM5MCwxOTg1NDk0MjM5LC0xNzE3ODE4Nzg4LC
+0xOTU0NjQ2OTAwLDQ1NzM3OTE1OSw4NjY3OTUyMTUsOTAxNTQ5
+NTMxLDE4ODIwNDA4ODUsLTI0NTA4NTk4NywtOTI4Nzk4MDc3LD
+M4MjM0NjI1NCwxODc2NzIwNjQ1LC00NTAwNTQ1NDAsLTE1NjE1
+NDExODldfQ==
 -->
