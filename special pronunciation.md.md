@@ -39,6 +39,8 @@ footing -\ ˈfu̇-tiŋ t浊化阻碍太明显了
 
 hexagon --\ ˈhek-sə-ˌgän k浊化,s不变，这个很特别，要么是ks作为下一个音节了。要么是中音出气了，末尾小辅音作废。毕竟K作为爆破音，不能再出了。
 
+history 经典了吧 \ ˈhi-st(ə-)rē s不变t浊，就是sd对比以上，.2音节末尾
+
 ə弱读i目前是n后面较多，可能和舌头上颚有关，前面有i也有关
 
 difficulty -- \ ˈdi-fi-(ˌ)kəl-tē f并不属于爆破音略读范畴，另外fi似乎是fə,这样就解释成i确实是舌尖造成的。 t发d 辅音，əl连同正常发气，未阻碍，所以要相对阻碍。
@@ -46,7 +48,6 @@ difficulty -- \ ˈdi-fi-(ˌ)kəl-tē f并不属于爆破音略读范畴，另外
 attracting --\ ə-ˈtrakt kt 都浊化gd，如果一个元音音节还有辅音，如果可以，一起浊化，才是最匹配2音节规则的。
 最重要的是，语速快，就是要浊的。
 
-history 经典了吧 \ ˈhi-st(ə-)rē s不变t浊，就是sd
 
 - 上面例子看出，看的是重音次重音，一个级别的
 
@@ -55,10 +56,10 @@ solid --\ ˈsä-ləd ə又成了e的音
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTYyNjY2NTMsNTg1MjkwNDA5LC01NT
-UzNzczOTAsMTk4NTQ5NDIzOSwtMTcxNzgxODc4OCwtMTk1NDY0
-NjkwMCw0NTczNzkxNTksODY2Nzk1MjE1LDkwMTU0OTUzMSwxOD
-gyMDQwODg1LC0yNDUwODU5ODcsLTkyODc5ODA3NywzODIzNDYy
-NTQsMTg3NjcyMDY0NSwtNDUwMDU0NTQwLC0xNTYxNTQxMTg5LD
-czNDMwMjg4NiwtNTgzMTE3NjM3XX0=
+eyJoaXN0b3J5IjpbLTQ5OTc3MzIxMyw1ODUyOTA0MDksLTU1NT
+M3NzM5MCwxOTg1NDk0MjM5LC0xNzE3ODE4Nzg4LC0xOTU0NjQ2
+OTAwLDQ1NzM3OTE1OSw4NjY3OTUyMTUsOTAxNTQ5NTMxLDE4OD
+IwNDA4ODUsLTI0NTA4NTk4NywtOTI4Nzk4MDc3LDM4MjM0NjI1
+NCwxODc2NzIwNjQ1LC00NTAwNTQ1NDAsLTE1NjE1NDExODksNz
+M0MzAyODg2LC01ODMxMTc2MzddfQ==
 -->
