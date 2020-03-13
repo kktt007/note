@@ -5,6 +5,7 @@
 
 ```
 political --\ pə-ˈli-ti-kəl k阻碍，说明 l也阻碍
+
 ```
 
 chemical 颠覆了我。。只有一种解释，不能有2个爆破音清辅音 p t k 不能同时在一个重音节中，事出有因必有妖
@@ -62,11 +63,11 @@ solid --\ ˈsä-ləd ə又成了e的音
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MzU3MjU0Miw3NTI3MTI4NzcsLTEwMT
-k0ODk1NzQsNTg1MjkwNDA5LC01NTUzNzczOTAsMTk4NTQ5NDIz
-OSwtMTcxNzgxODc4OCwtMTk1NDY0NjkwMCw0NTczNzkxNTksOD
-Y2Nzk1MjE1LDkwMTU0OTUzMSwxODgyMDQwODg1LC0yNDUwODU5
-ODcsLTkyODc5ODA3NywzODIzNDYyNTQsMTg3NjcyMDY0NSwtND
-UwMDU0NTQwLC0xNTYxNTQxMTg5LDczNDMwMjg4NiwtNTgzMTE3
-NjM3XX0=
+eyJoaXN0b3J5IjpbLTE5MDI2OTkwNTIsLTk1MzU3MjU0Miw3NT
+I3MTI4NzcsLTEwMTk0ODk1NzQsNTg1MjkwNDA5LC01NTUzNzcz
+OTAsMTk4NTQ5NDIzOSwtMTcxNzgxODc4OCwtMTk1NDY0NjkwMC
+w0NTczNzkxNTksODY2Nzk1MjE1LDkwMTU0OTUzMSwxODgyMDQw
+ODg1LC0yNDUwODU5ODcsLTkyODc5ODA3NywzODIzNDYyNTQsMT
+g3NjcyMDY0NSwtNDUwMDU0NTQwLC0xNTYxNTQxMTg5LDczNDMw
+Mjg4Nl19
 -->
