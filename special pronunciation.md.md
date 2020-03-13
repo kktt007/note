@@ -13,7 +13,8 @@ constant -- \ ˈkän(t)-stənt 是后t 发d
 	元音+非爆破 jetty
 	元音+n+爆破. gentle (n属于后辅音) n可能扮演了，次重音角色
 
-最终结论2 音节，属于临近规则。和末尾元音或辅音成相反姿态(元音和摩擦都出气，而且最后还有气，n算无气，或者说出了，最后状态是没有的，导致最后需要来气)
+最终结论2 音节，属于临近规则。和末尾元音或辅音成相反姿态(元音和摩擦都出气，而且最后还有气，n算无气，或者说出了，最后状态是没有的，导致最后需要来气)，
+或者说，元音和摩擦是没有阻碍，n属于有阻碍的，所以，后面的t对应的是有阻碍的，n就对应无阻碍的正常的t
 非爆破为了配合出气，节约气。不节约，没了就需要补气。
 3 音节看重音开始	
 		摩擦...+爆破 facility \ fə-ˈsi-lə-tē t
@@ -25,10 +26,12 @@ constant -- \ ˈkän(t)-stənt 是后t 发d
 完美解释frighten -- \ ˈfrī-tᵊn
 t按照理论是d，遇到n这个特别废气的，直接同化
 
+
 ə弱读i目前是n后面较多，可能和舌头上颚有关，前面有i也有关
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NjcyMDY0NSwtNDUwMDU0NTQwLC0xNT
-YxNTQxMTg5LDczNDMwMjg4NiwtNTgzMTE3NjM3XX0=
+eyJoaXN0b3J5IjpbLTgxMzMwOTM2MCwxODc2NzIwNjQ1LC00NT
+AwNTQ1NDAsLTE1NjE1NDExODksNzM0MzAyODg2LC01ODMxMTc2
+MzddfQ==
 -->
