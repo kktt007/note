@@ -43,6 +43,8 @@ hexagon --\ ˈhek-sə-ˌgän k浊化,s不变，这个很特别，要么是ks作�
 
 difficulty -- \ ˈdi-fi-(ˌ)kəl-tē f并不属于爆破音略读范畴，另外fi似乎是fə,这样就解释成i确实是舌尖造成的。 t发d 辅音，əl连同正常发气，未阻碍，所以要相对阻碍。
 
+attracting --\ ə-ˈtrakt kt 都浊化gd，如果一个元音音节还有辅音
+
 - 上面例子看出，看的是重音次重音，一个级别的
 
 solid --\ ˈsä-ləd ə又成了e的音
@@ -50,9 +52,9 @@ solid --\ ˈsä-ləd ə又成了e的音
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NTQ5NDIzOSwtMTcxNzgxODc4OCwtMT
-k1NDY0NjkwMCw0NTczNzkxNTksODY2Nzk1MjE1LDkwMTU0OTUz
-MSwxODgyMDQwODg1LC0yNDUwODU5ODcsLTkyODc5ODA3NywzOD
-IzNDYyNTQsMTg3NjcyMDY0NSwtNDUwMDU0NTQwLC0xNTYxNTQx
-MTg5LDczNDMwMjg4NiwtNTgzMTE3NjM3XX0=
+eyJoaXN0b3J5IjpbOTY0MjI5ODgzLDE5ODU0OTQyMzksLTE3MT
+c4MTg3ODgsLTE5NTQ2NDY5MDAsNDU3Mzc5MTU5LDg2Njc5NTIx
+NSw5MDE1NDk1MzEsMTg4MjA0MDg4NSwtMjQ1MDg1OTg3LC05Mj
+g3OTgwNzcsMzgyMzQ2MjU0LDE4NzY3MjA2NDUsLTQ1MDA1NDU0
+MCwtMTU2MTU0MTE4OSw3MzQzMDI4ODYsLTU4MzExNzYzN119
 -->
