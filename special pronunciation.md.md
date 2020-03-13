@@ -46,6 +46,7 @@ difficulty -- \ ˈdi-fi-(ˌ)kəl-tē f并不属于爆破音略读范畴，另外
 attracting --\ ə-ˈtrakt kt 都浊化gd，如果一个元音音节还有辅音，如果可以，一起浊化，才是最匹配2音节规则的。
 最重要的是，语速快，就是要浊的。
 
+history 经典了吧 \ ˈhi-st(ə-)rē s
 - 上面例子看出，看的是重音次重音，一个级别的
 
 solid --\ ˈsä-ləd ə又成了e的音
@@ -53,10 +54,10 @@ solid --\ ˈsä-ləd ə又成了e的音
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg1MjkwNDA5LC01NTUzNzczOTAsMTk4NT
-Q5NDIzOSwtMTcxNzgxODc4OCwtMTk1NDY0NjkwMCw0NTczNzkx
-NTksODY2Nzk1MjE1LDkwMTU0OTUzMSwxODgyMDQwODg1LC0yND
-UwODU5ODcsLTkyODc5ODA3NywzODIzNDYyNTQsMTg3NjcyMDY0
-NSwtNDUwMDU0NTQwLC0xNTYxNTQxMTg5LDczNDMwMjg4NiwtNT
-gzMTE3NjM3XX0=
+eyJoaXN0b3J5IjpbMjAxMTU4NDU5OSw1ODUyOTA0MDksLTU1NT
+M3NzM5MCwxOTg1NDk0MjM5LC0xNzE3ODE4Nzg4LC0xOTU0NjQ2
+OTAwLDQ1NzM3OTE1OSw4NjY3OTUyMTUsOTAxNTQ5NTMxLDE4OD
+IwNDA4ODUsLTI0NTA4NTk4NywtOTI4Nzk4MDc3LDM4MjM0NjI1
+NCwxODc2NzIwNjQ1LC00NTAwNTQ1NDAsLTE1NjE1NDExODksNz
+M0MzAyODg2LC01ODMxMTc2MzddfQ==
 -->
