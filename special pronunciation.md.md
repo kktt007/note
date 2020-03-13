@@ -1,11 +1,11 @@
 ## 2音节临近阻碍相对规则和3音节辅音规则
-- n是起阻碍的 l也是
+- n是起阻碍的 l也是r
 
 - geographical -- \ ˌjē-​ə-​ˈgra-​fi-​kəl 最后k浊化，理由就是重音的g ，和stability一个原理，多音节只看重音的首字母。
 
 ```
 political --\ pə-ˈli-ti-kəl k阻碍，说明 l也阻碍
-
+purpose -- \ ˈpər-pəs p阻碍，说明r也阻碍
 ```
 
 chemical 颠覆了我。。只有一种解释，不能有2个爆破音清辅音 p t k 不能同时在一个重音节中，事出有因必有妖
@@ -63,11 +63,11 @@ solid --\ ˈsä-ləd ə又成了e的音
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDI2OTkwNTIsLTk1MzU3MjU0Miw3NT
-I3MTI4NzcsLTEwMTk0ODk1NzQsNTg1MjkwNDA5LC01NTUzNzcz
-OTAsMTk4NTQ5NDIzOSwtMTcxNzgxODc4OCwtMTk1NDY0NjkwMC
-w0NTczNzkxNTksODY2Nzk1MjE1LDkwMTU0OTUzMSwxODgyMDQw
-ODg1LC0yNDUwODU5ODcsLTkyODc5ODA3NywzODIzNDYyNTQsMT
-g3NjcyMDY0NSwtNDUwMDU0NTQwLC0xNTYxNTQxMTg5LDczNDMw
-Mjg4Nl19
+eyJoaXN0b3J5IjpbLTk1MzAxODcxOSwtOTUzNTcyNTQyLDc1Mj
+cxMjg3NywtMTAxOTQ4OTU3NCw1ODUyOTA0MDksLTU1NTM3NzM5
+MCwxOTg1NDk0MjM5LC0xNzE3ODE4Nzg4LC0xOTU0NjQ2OTAwLD
+Q1NzM3OTE1OSw4NjY3OTUyMTUsOTAxNTQ5NTMxLDE4ODIwNDA4
+ODUsLTI0NTA4NTk4NywtOTI4Nzk4MDc3LDM4MjM0NjI1NCwxOD
+c2NzIwNjQ1LC00NTAwNTQ1NDAsLTE1NjE1NDExODksNzM0MzAy
+ODg2XX0=
 -->
