@@ -1,4 +1,10 @@
 ## 3.12
+
+demonym -- \ ˈde-mə-ˌnim
+a word that is a name for someone who comes from a particular place:
+The demonym for Spain is a Spaniard, not "a Spanish".
+Pinoy is an informal demonym referring to Filipinos.
+
 thefreedict 和definition这2词典不用
 
 trip 
@@ -1317,11 +1323,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI3ODI4MjQxLDEwODc2NjM4MDEsLTk2MD
-A3NjQ0MSwtMTEwNDQzMDQzNywyMDgyODUyNjU3LDkzMTc1NTM5
-MiwtMzU5MTQ4MzEyLC05NzI1MzY0NjEsNzg4MzMyMzI0LDE1Nz
-k4MDMwODAsMTcyMTE5MjkzOCw3MzgwNTU3MzMsLTkzODg4MTY2
-MCwxMjQ3NzI3NzAxLDE3MzkyMDE1NTgsLTE0NTExNzA3ODQsMT
-E0NzMzODIyNywtMTQyMTQ3MDczNywxODI4NTgwNTcwLDY3NzEy
-MTE1OF19
+eyJoaXN0b3J5IjpbLTcxMTA3Mjg3OCw5Mjc4MjgyNDEsMTA4Nz
+Y2MzgwMSwtOTYwMDc2NDQxLC0xMTA0NDMwNDM3LDIwODI4NTI2
+NTcsOTMxNzU1MzkyLC0zNTkxNDgzMTIsLTk3MjUzNjQ2MSw3OD
+gzMzIzMjQsMTU3OTgwMzA4MCwxNzIxMTkyOTM4LDczODA1NTcz
+MywtOTM4ODgxNjYwLDEyNDc3Mjc3MDEsMTczOTIwMTU1OCwtMT
+Q1MTE3MDc4NCwxMTQ3MzM4MjI3LC0xNDIxNDcwNzM3LDE4Mjg1
+ODA1NzBdfQ==
 -->
