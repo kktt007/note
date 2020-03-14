@@ -1,6 +1,7 @@
 ## 2音节临近阻碍相对规则和3音节辅音规则
 - n是起阻碍的 l也是，后面不阻碍，
 - r和m不阻碍，后面要阻碍
+以上2规则，在2音节中，扮演元音角色，起反作用规则。
 - 3音节规则，遇到爆破ptk也要浊，智能一个爆破
 
 - geographical -- \ ˌjē-​ə-​ˈgra-​fi-​kəl 最后k浊化，理由就是重音的g ，和stability一个原理，多音节只看重音的首字母。
@@ -69,11 +70,11 @@ solid --\ ˈsä-ləd ə又成了e的音
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NjU4NDU3OSwtNjg5Nzg0OTYzLDE1MD
-c5OTc1MTcsLTk1MzAxODcxOSwtOTUzNTcyNTQyLDc1MjcxMjg3
-NywtMTAxOTQ4OTU3NCw1ODUyOTA0MDksLTU1NTM3NzM5MCwxOT
-g1NDk0MjM5LC0xNzE3ODE4Nzg4LC0xOTU0NjQ2OTAwLDQ1NzM3
-OTE1OSw4NjY3OTUyMTUsOTAxNTQ5NTMxLDE4ODIwNDA4ODUsLT
-I0NTA4NTk4NywtOTI4Nzk4MDc3LDM4MjM0NjI1NCwxODc2NzIw
-NjQ1XX0=
+eyJoaXN0b3J5IjpbMTcyNDE5MTk2MiwxOTc2NTg0NTc5LC02OD
+k3ODQ5NjMsMTUwNzk5NzUxNywtOTUzMDE4NzE5LC05NTM1NzI1
+NDIsNzUyNzEyODc3LC0xMDE5NDg5NTc0LDU4NTI5MDQwOSwtNT
+U1Mzc3MzkwLDE5ODU0OTQyMzksLTE3MTc4MTg3ODgsLTE5NTQ2
+NDY5MDAsNDU3Mzc5MTU5LDg2Njc5NTIxNSw5MDE1NDk1MzEsMT
+g4MjA0MDg4NSwtMjQ1MDg1OTg3LC05Mjg3OTgwNzcsMzgyMzQ2
+MjU0XX0=
 -->
