@@ -4,6 +4,9 @@
 https://www.wikinews.org/
 
 belligerent -- \ bə-ˈlij-rənt
+If someone is belligerent, they're eager to fight
+unfriendly and aggressive
+[only before noun] (formal) (of a country) fighting a war the belligerent countries/states/nations
 
 specify --
 to explain or describe something clearly and exactly: 
@@ -1388,11 +1391,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA2ODM1NjE0LDEwMzQ1MDc5NDAsMTUxNj
-I1MTM1OSwtMjA2OTM2ODE0LC03MTEwNzI4NzgsOTI3ODI4MjQx
-LDEwODc2NjM4MDEsLTk2MDA3NjQ0MSwtMTEwNDQzMDQzNywyMD
-gyODUyNjU3LDkzMTc1NTM5MiwtMzU5MTQ4MzEyLC05NzI1MzY0
-NjEsNzg4MzMyMzI0LDE1Nzk4MDMwODAsMTcyMTE5MjkzOCw3Mz
-gwNTU3MzMsLTkzODg4MTY2MCwxMjQ3NzI3NzAxLDE3MzkyMDE1
-NThdfQ==
+eyJoaXN0b3J5IjpbNDE5OTgwMTYzLDcwNjgzNTYxNCwxMDM0NT
+A3OTQwLDE1MTYyNTEzNTksLTIwNjkzNjgxNCwtNzExMDcyODc4
+LDkyNzgyODI0MSwxMDg3NjYzODAxLC05NjAwNzY0NDEsLTExMD
+Q0MzA0MzcsMjA4Mjg1MjY1Nyw5MzE3NTUzOTIsLTM1OTE0ODMx
+MiwtOTcyNTM2NDYxLDc4ODMzMjMyNCwxNTc5ODAzMDgwLDE3Mj
+ExOTI5MzgsNzM4MDU1NzMzLC05Mzg4ODE2NjAsMTI0NzcyNzcw
+MV19
 -->
