@@ -5,6 +5,15 @@ https://www.wordgamedictionary.com/dictionary/word/
 新闻网站 https://www.alternet.org/
 https://www.wikinews.org/
 
+denote -- to mean something
+The red sign denotes danger.
+- tobe a sign
+- A very high temperature often denotes a serious illness.
+
+form -- 
+- a type of something
+- The car is by far the most popular form of transport.
+
 belligerent -- \ bə-ˈlij-rənt
 If someone is belligerent, they're eager to fight
 unfriendly and aggressive
@@ -1396,11 +1405,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NjUxNjg4NCwxMjEzNDkyMzM4LDQxOT
-k4MDE2Myw3MDY4MzU2MTQsMTAzNDUwNzk0MCwxNTE2MjUxMzU5
-LC0yMDY5MzY4MTQsLTcxMTA3Mjg3OCw5Mjc4MjgyNDEsMTA4Nz
-Y2MzgwMSwtOTYwMDc2NDQxLC0xMTA0NDMwNDM3LDIwODI4NTI2
-NTcsOTMxNzU1MzkyLC0zNTkxNDgzMTIsLTk3MjUzNjQ2MSw3OD
-gzMzIzMjQsMTU3OTgwMzA4MCwxNzIxMTkyOTM4LDczODA1NTcz
-M119
+eyJoaXN0b3J5IjpbMTY4MDg5NDIwMSwxMDg2NTE2ODg0LDEyMT
+M0OTIzMzgsNDE5OTgwMTYzLDcwNjgzNTYxNCwxMDM0NTA3OTQw
+LDE1MTYyNTEzNTksLTIwNjkzNjgxNCwtNzExMDcyODc4LDkyNz
+gyODI0MSwxMDg3NjYzODAxLC05NjAwNzY0NDEsLTExMDQ0MzA0
+MzcsMjA4Mjg1MjY1Nyw5MzE3NTUzOTIsLTM1OTE0ODMxMiwtOT
+cyNTM2NDYxLDc4ODMzMjMyNCwxNTc5ODAzMDgwLDE3MjExOTI5
+MzhdfQ==
 -->
