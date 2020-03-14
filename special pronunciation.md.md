@@ -9,6 +9,7 @@
 political --\ pə-ˈli-ti-kəl k阻碍，说明 l也阻碍
 purpose -- \ ˈpər-pəs p阻碍，说明r不阻碍
 simplify -- \ ˈsim-plə-ˌfī p阻碍发b，验证了m不阻碍
+temporarity -- \ ˌtem-pə-ˈrer-ə-lē p阻碍发b,证明m不阻碍
 ```
 - politics -- \ ˈpä-lə-ˌtiks k还是k,怎么理解，暂且是收尾相连吧，后面没音节了。
 - activity -- \ ak-ˈti-və-tē 最后t阻碍，就是因为，辅音中有一个爆破t存在了，只能一个爆破pkt
@@ -68,11 +69,11 @@ solid --\ ˈsä-ləd ə又成了e的音
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4OTc4NDk2MywxNTA3OTk3NTE3LC05NT
-MwMTg3MTksLTk1MzU3MjU0Miw3NTI3MTI4NzcsLTEwMTk0ODk1
-NzQsNTg1MjkwNDA5LC01NTUzNzczOTAsMTk4NTQ5NDIzOSwtMT
-cxNzgxODc4OCwtMTk1NDY0NjkwMCw0NTczNzkxNTksODY2Nzk1
-MjE1LDkwMTU0OTUzMSwxODgyMDQwODg1LC0yNDUwODU5ODcsLT
-kyODc5ODA3NywzODIzNDYyNTQsMTg3NjcyMDY0NSwtNDUwMDU0
-NTQwXX0=
+eyJoaXN0b3J5IjpbMTk3NjU4NDU3OSwtNjg5Nzg0OTYzLDE1MD
+c5OTc1MTcsLTk1MzAxODcxOSwtOTUzNTcyNTQyLDc1MjcxMjg3
+NywtMTAxOTQ4OTU3NCw1ODUyOTA0MDksLTU1NTM3NzM5MCwxOT
+g1NDk0MjM5LC0xNzE3ODE4Nzg4LC0xOTU0NjQ2OTAwLDQ1NzM3
+OTE1OSw4NjY3OTUyMTUsOTAxNTQ5NTMxLDE4ODIwNDA4ODUsLT
+I0NTA4NTk4NywtOTI4Nzk4MDc3LDM4MjM0NjI1NCwxODc2NzIw
+NjQ1XX0=
 -->
