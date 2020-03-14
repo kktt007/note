@@ -1,5 +1,6 @@
 ## 2音节临近阻碍相对规则和3音节辅音规则
-- n是起阻碍的 l也是r
+- n是起阻碍的 l也是
+- r和m不阻碍
 
 - geographical -- \ ˌjē-​ə-​ˈgra-​fi-​kəl 最后k浊化，理由就是重音的g ，和stability一个原理，多音节只看重音的首字母。
 
@@ -66,7 +67,7 @@ solid --\ ˈsä-ləd ə又成了e的音
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjM3MDg1NywxNTA3OTk3NTE3LC05NT
+eyJoaXN0b3J5IjpbMTUyNzY2NDc3OCwxNTA3OTk3NTE3LC05NT
 MwMTg3MTksLTk1MzU3MjU0Miw3NTI3MTI4NzcsLTEwMTk0ODk1
 NzQsNTg1MjkwNDA5LC01NTUzNzczOTAsMTk4NTQ5NDIzOSwtMT
 cxNzgxODc4OCwtMTk1NDY0NjkwMCw0NTczNzkxNTksODY2Nzk1
