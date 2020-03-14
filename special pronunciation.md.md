@@ -25,7 +25,7 @@ company --\ ˈkəmp-nē  p阻碍，继续验证m不阻碍
 
 chemical 颠覆了我。。只有一种解释，不能有2个爆破音清辅音 p t k 不能同时在一个重音节中，事出有因必有妖
 
-
+Mexico -- \ ˈmek-si-ˌkō k其实是阻碍的，s是不阻碍的。
 
 jetty forvo发音，发d, 对比了gentle 
 如果和末尾辅音n有关系，辅音开头就相同，当然不能同时p k t三种大爆破，辅音末尾，n把气打开了，靠近的辅音一致。
@@ -79,7 +79,7 @@ solid --\ ˈsä-ləd ə又成了e的音
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTk4MDI4OSwtOTA5NTU4NjE1LDE1NT
+eyJoaXN0b3J5IjpbMTYwNjY3MDY0OCwtOTA5NTU4NjE1LDE1NT
 k0MjM3NDQsLTg1NTAyNDcxNyw2MTk4MjI5MDksNjkwMzU1NTUs
 LTEyNjg0MjcyMTcsMTcyNDE5MTk2MiwxOTc2NTg0NTc5LC02OD
 k3ODQ5NjMsMTUwNzk5NzUxNywtOTUzMDE4NzE5LC05NTM1NzI1
