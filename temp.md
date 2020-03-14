@@ -1,5 +1,8 @@
 ## 3.14
 
+新闻网站 https://www.alternet.org/
+https://www.wikinews.org/
+
 specify --
 to explain or describe something clearly and exactly: 
 Please specify the dimensions of the room.
@@ -1383,11 +1386,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNjI1MTM1OSwtMjA2OTM2ODE0LC03MT
-EwNzI4NzgsOTI3ODI4MjQxLDEwODc2NjM4MDEsLTk2MDA3NjQ0
-MSwtMTEwNDQzMDQzNywyMDgyODUyNjU3LDkzMTc1NTM5MiwtMz
-U5MTQ4MzEyLC05NzI1MzY0NjEsNzg4MzMyMzI0LDE1Nzk4MDMw
-ODAsMTcyMTE5MjkzOCw3MzgwNTU3MzMsLTkzODg4MTY2MCwxMj
-Q3NzI3NzAxLDE3MzkyMDE1NTgsLTE0NTExNzA3ODQsMTE0NzMz
-ODIyN119
+eyJoaXN0b3J5IjpbMTAzNDUwNzk0MCwxNTE2MjUxMzU5LC0yMD
+Y5MzY4MTQsLTcxMTA3Mjg3OCw5Mjc4MjgyNDEsMTA4NzY2Mzgw
+MSwtOTYwMDc2NDQxLC0xMTA0NDMwNDM3LDIwODI4NTI2NTcsOT
+MxNzU1MzkyLC0zNTkxNDgzMTIsLTk3MjUzNjQ2MSw3ODgzMzIz
+MjQsMTU3OTgwMzA4MCwxNzIxMTkyOTM4LDczODA1NTczMywtOT
+M4ODgxNjYwLDEyNDc3Mjc3MDEsMTczOTIwMTU1OCwtMTQ1MTE3
+MDc4NF19
 -->
