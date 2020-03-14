@@ -16,6 +16,7 @@ technological \ ˌtek-nə-ˈlä-ji-kəl 前k浊化，后k阻碍，说明l也阻�
 purpose -- \ ˈpər-pəs p阻碍，说明r不阻碍
 simplify -- \ ˈsim-plə-ˌfī p阻碍发b，验证了m不阻碍
 temporarity -- \ ˌtem-pə-ˈrer-ə-lē p阻碍发b,证明m不阻碍
+company --\ ˈkəmp-nē  p阻碍，继续验证m不阻碍
 ```
 - politics -- \ ˈpä-lə-ˌtiks k还是k,怎么理解，暂且是收尾相连吧，后面没音节了。
 - activity -- \ ak-ˈti-və-tē 最后t阻碍，就是因为，辅音中有一个爆破t存在了，只能一个爆破pkt
@@ -77,11 +78,11 @@ solid --\ ˈsä-ləd ə又成了e的音
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1OTQyMzc0NCwtODU1MDI0NzE3LDYxOT
-gyMjkwOSw2OTAzNTU1NSwtMTI2ODQyNzIxNywxNzI0MTkxOTYy
-LDE5NzY1ODQ1NzksLTY4OTc4NDk2MywxNTA3OTk3NTE3LC05NT
-MwMTg3MTksLTk1MzU3MjU0Miw3NTI3MTI4NzcsLTEwMTk0ODk1
-NzQsNTg1MjkwNDA5LC01NTUzNzczOTAsMTk4NTQ5NDIzOSwtMT
-cxNzgxODc4OCwtMTk1NDY0NjkwMCw0NTczNzkxNTksODY2Nzk1
-MjE1XX0=
+eyJoaXN0b3J5IjpbLTkwOTU1ODYxNSwxNTU5NDIzNzQ0LC04NT
+UwMjQ3MTcsNjE5ODIyOTA5LDY5MDM1NTU1LC0xMjY4NDI3MjE3
+LDE3MjQxOTE5NjIsMTk3NjU4NDU3OSwtNjg5Nzg0OTYzLDE1MD
+c5OTc1MTcsLTk1MzAxODcxOSwtOTUzNTcyNTQyLDc1MjcxMjg3
+NywtMTAxOTQ4OTU3NCw1ODUyOTA0MDksLTU1NTM3NzM5MCwxOT
+g1NDk0MjM5LC0xNzE3ODE4Nzg4LC0xOTU0NjQ2OTAwLDQ1NzM3
+OTE1OV19
 -->
