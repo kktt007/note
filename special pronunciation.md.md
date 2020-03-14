@@ -1,6 +1,6 @@
 ## 2音节临近阻碍相对规则和3音节辅音规则
 - n是起阻碍的 l也是，后面不阻碍，
-- r和m不阻碍，后面要阻碍
+- r和m不阻碍，后面要阻碍，以后遇到r,m大胆的拖一点ə
 以上2规则，在2音节中，扮演元音角色，起反作用规则。
 - 3音节规则，遇到爆破 音相同的要浊，不同的不变
 比如k遇到K要浊，t遇到t浊，t遇到K不浊
@@ -73,11 +73,11 @@ solid --\ ˈsä-ləd ə又成了e的音
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjg0MjcyMTcsMTcyNDE5MTk2MiwxOT
-c2NTg0NTc5LC02ODk3ODQ5NjMsMTUwNzk5NzUxNywtOTUzMDE4
-NzE5LC05NTM1NzI1NDIsNzUyNzEyODc3LC0xMDE5NDg5NTc0LD
-U4NTI5MDQwOSwtNTU1Mzc3MzkwLDE5ODU0OTQyMzksLTE3MTc4
-MTg3ODgsLTE5NTQ2NDY5MDAsNDU3Mzc5MTU5LDg2Njc5NTIxNS
-w5MDE1NDk1MzEsMTg4MjA0MDg4NSwtMjQ1MDg1OTg3LC05Mjg3
-OTgwNzddfQ==
+eyJoaXN0b3J5IjpbNjkwMzU1NTUsLTEyNjg0MjcyMTcsMTcyND
+E5MTk2MiwxOTc2NTg0NTc5LC02ODk3ODQ5NjMsMTUwNzk5NzUx
+NywtOTUzMDE4NzE5LC05NTM1NzI1NDIsNzUyNzEyODc3LC0xMD
+E5NDg5NTc0LDU4NTI5MDQwOSwtNTU1Mzc3MzkwLDE5ODU0OTQy
+MzksLTE3MTc4MTg3ODgsLTE5NTQ2NDY5MDAsNDU3Mzc5MTU5LD
+g2Njc5NTIxNSw5MDE1NDk1MzEsMTg4MjA0MDg4NSwtMjQ1MDg1
+OTg3XX0=
 -->
