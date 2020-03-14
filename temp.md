@@ -1,4 +1,38 @@
 ## 3.14
+
+specify --
+to explain or describe something clearly and exactly: 
+Please specify the dimensions of the room.
+
+as
+- Used in comparisons to refer to the extent or degree of something.
+- ‘go as fast as you can’
+
+- preposition
+
+    1Used to refer to the function or character that someone or something has.
+    ‘it came as a shock’
+
+
+extent --\ ik-ˈstent 最后t的不阻碍
+- area or length; amount: 
+ We don't yet know the extent of his injuries (= how bad his injuries are).
+Rosie's teacher was impressed by the extent of her knowledge (= how much she knew).
+The River Nile is over 6,500 6,5000 kilometres in extent (= length).
+
+-the degree to which something happens or is likely to happen:
+She had not realized the extent to which the children had been affected.
+
+refer
+to look at a book or similar record in order to find information and help: 
+
+boom --
+a sudden increase in trade and economic activity; a period of wealth and success
+
+indicate--
+- to show, point, or make clear in another way: 
+- to express an intention, opinion, or wish in an indirect way
+
 vehicle --\ ˈvē-ə-kəl 阻碍
 road vehicles include cars, buses, and trucks.
 
@@ -1349,11 +1383,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjkzNjgxNCwtNzExMDcyODc4LDkyNz
-gyODI0MSwxMDg3NjYzODAxLC05NjAwNzY0NDEsLTExMDQ0MzA0
-MzcsMjA4Mjg1MjY1Nyw5MzE3NTUzOTIsLTM1OTE0ODMxMiwtOT
-cyNTM2NDYxLDc4ODMzMjMyNCwxNTc5ODAzMDgwLDE3MjExOTI5
-MzgsNzM4MDU1NzMzLC05Mzg4ODE2NjAsMTI0NzcyNzcwMSwxNz
-M5MjAxNTU4LC0xNDUxMTcwNzg0LDExNDczMzgyMjcsLTE0MjE0
-NzA3MzddfQ==
+eyJoaXN0b3J5IjpbMTUxNjI1MTM1OSwtMjA2OTM2ODE0LC03MT
+EwNzI4NzgsOTI3ODI4MjQxLDEwODc2NjM4MDEsLTk2MDA3NjQ0
+MSwtMTEwNDQzMDQzNywyMDgyODUyNjU3LDkzMTc1NTM5MiwtMz
+U5MTQ4MzEyLC05NzI1MzY0NjEsNzg4MzMyMzI0LDE1Nzk4MDMw
+ODAsMTcyMTE5MjkzOCw3MzgwNTU3MzMsLTkzODg4MTY2MCwxMj
+Q3NzI3NzAxLDE3MzkyMDE1NTgsLTE0NTExNzA3ODQsMTE0NzMz
+ODIyN119
 -->
