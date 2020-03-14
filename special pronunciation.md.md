@@ -2,7 +2,8 @@
 - n是起阻碍的 l也是，后面不阻碍，
 - r和m不阻碍，后面要阻碍
 以上2规则，在2音节中，扮演元音角色，起反作用规则。
-- 3音节规则，遇到爆破ptk，相同的要浊，不同的
+- 3音节规则，遇到爆破 音相同的要浊，不同的不变
+比如k遇到K要浊，t遇到t浊，t遇到K不浊
 
 - geographical -- \ ˌjē-​ə-​ˈgra-​fi-​kəl 最后k浊化，理由就是重音的g ，和stability一个原理，多音节只看重音的首字母。
 
@@ -72,11 +73,11 @@ solid --\ ˈsä-ləd ə又成了e的音
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MDUzMzc1MCwxNzI0MTkxOTYyLDE5Nz
-Y1ODQ1NzksLTY4OTc4NDk2MywxNTA3OTk3NTE3LC05NTMwMTg3
-MTksLTk1MzU3MjU0Miw3NTI3MTI4NzcsLTEwMTk0ODk1NzQsNT
-g1MjkwNDA5LC01NTUzNzczOTAsMTk4NTQ5NDIzOSwtMTcxNzgx
-ODc4OCwtMTk1NDY0NjkwMCw0NTczNzkxNTksODY2Nzk1MjE1LD
-kwMTU0OTUzMSwxODgyMDQwODg1LC0yNDUwODU5ODcsLTkyODc5
-ODA3N119
+eyJoaXN0b3J5IjpbLTEyNjg0MjcyMTcsMTcyNDE5MTk2MiwxOT
+c2NTg0NTc5LC02ODk3ODQ5NjMsMTUwNzk5NzUxNywtOTUzMDE4
+NzE5LC05NTM1NzI1NDIsNzUyNzEyODc3LC0xMDE5NDg5NTc0LD
+U4NTI5MDQwOSwtNTU1Mzc3MzkwLDE5ODU0OTQyMzksLTE3MTc4
+MTg3ODgsLTE5NTQ2NDY5MDAsNDU3Mzc5MTU5LDg2Njc5NTIxNS
+w5MDE1NDk1MzEsMTg4MjA0MDg4NSwtMjQ1MDg1OTg3LC05Mjg3
+OTgwNzddfQ==
 -->
