@@ -7,6 +7,8 @@
 
 - geographical -- \ ˌjē-​ə-​ˈgra-​fi-​kəl 最后k浊化，理由就是重音的g ，和stability一个原理，多音节只看重音的首字母。
 
+关于mountain t不阻碍，自己发
+certain t阻碍，+n形成强烈阻碍n,没有d
 ```
 political --\ pə-ˈli-ti-kəl k阻碍，说明 l也阻碍
 technological \ ˌtek-nə-ˈlä-ji-kəl 前k浊化，后k阻碍，说明l也阻碍发g
@@ -74,11 +76,11 @@ solid --\ ˈsä-ləd ə又成了e的音
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NTAyNDcxNyw2MTk4MjI5MDksNjkwMz
-U1NTUsLTEyNjg0MjcyMTcsMTcyNDE5MTk2MiwxOTc2NTg0NTc5
-LC02ODk3ODQ5NjMsMTUwNzk5NzUxNywtOTUzMDE4NzE5LC05NT
-M1NzI1NDIsNzUyNzEyODc3LC0xMDE5NDg5NTc0LDU4NTI5MDQw
-OSwtNTU1Mzc3MzkwLDE5ODU0OTQyMzksLTE3MTc4MTg3ODgsLT
-E5NTQ2NDY5MDAsNDU3Mzc5MTU5LDg2Njc5NTIxNSw5MDE1NDk1
-MzFdfQ==
+eyJoaXN0b3J5IjpbLTg3OTQ1NzM5NywtODU1MDI0NzE3LDYxOT
+gyMjkwOSw2OTAzNTU1NSwtMTI2ODQyNzIxNywxNzI0MTkxOTYy
+LDE5NzY1ODQ1NzksLTY4OTc4NDk2MywxNTA3OTk3NTE3LC05NT
+MwMTg3MTksLTk1MzU3MjU0Miw3NTI3MTI4NzcsLTEwMTk0ODk1
+NzQsNTg1MjkwNDA5LC01NTUzNzczOTAsMTk4NTQ5NDIzOSwtMT
+cxNzgxODc4OCwtMTk1NDY0NjkwMCw0NTczNzkxNTksODY2Nzk1
+MjE1XX0=
 -->
