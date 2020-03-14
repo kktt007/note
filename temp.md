@@ -5,6 +5,11 @@ https://www.wordgamedictionary.com/dictionary/word/
 新闻网站 https://www.alternet.org/
 https://www.wikinews.org/
 
+unbiased -- \ ˌən-ˈbī-əst
+fair in the way that you describe or treat a situation
+
+able to judge fairly because you are not influenced by your own opinions:
+
 denote -- to mean something
 The red sign denotes danger.
 - tobe a sign
@@ -1405,11 +1410,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MDg5NDIwMSwxMDg2NTE2ODg0LDEyMT
-M0OTIzMzgsNDE5OTgwMTYzLDcwNjgzNTYxNCwxMDM0NTA3OTQw
-LDE1MTYyNTEzNTksLTIwNjkzNjgxNCwtNzExMDcyODc4LDkyNz
-gyODI0MSwxMDg3NjYzODAxLC05NjAwNzY0NDEsLTExMDQ0MzA0
-MzcsMjA4Mjg1MjY1Nyw5MzE3NTUzOTIsLTM1OTE0ODMxMiwtOT
-cyNTM2NDYxLDc4ODMzMjMyNCwxNTc5ODAzMDgwLDE3MjExOTI5
-MzhdfQ==
+eyJoaXN0b3J5IjpbLTE1MTYzMTQ0MjMsMTY4MDg5NDIwMSwxMD
+g2NTE2ODg0LDEyMTM0OTIzMzgsNDE5OTgwMTYzLDcwNjgzNTYx
+NCwxMDM0NTA3OTQwLDE1MTYyNTEzNTksLTIwNjkzNjgxNCwtNz
+ExMDcyODc4LDkyNzgyODI0MSwxMDg3NjYzODAxLC05NjAwNzY0
+NDEsLTExMDQ0MzA0MzcsMjA4Mjg1MjY1Nyw5MzE3NTUzOTIsLT
+M1OTE0ODMxMiwtOTcyNTM2NDYxLDc4ODMzMjMyNCwxNTc5ODAz
+MDgwXX0=
 -->
