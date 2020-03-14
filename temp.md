@@ -3,6 +3,8 @@
 新闻网站 https://www.alternet.org/
 https://www.wikinews.org/
 
+belligerent -- \ bə-ˈlij-rənt
+
 specify --
 to explain or describe something clearly and exactly: 
 Please specify the dimensions of the room.
@@ -1386,11 +1388,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNDUwNzk0MCwxNTE2MjUxMzU5LC0yMD
-Y5MzY4MTQsLTcxMTA3Mjg3OCw5Mjc4MjgyNDEsMTA4NzY2Mzgw
-MSwtOTYwMDc2NDQxLC0xMTA0NDMwNDM3LDIwODI4NTI2NTcsOT
-MxNzU1MzkyLC0zNTkxNDgzMTIsLTk3MjUzNjQ2MSw3ODgzMzIz
-MjQsMTU3OTgwMzA4MCwxNzIxMTkyOTM4LDczODA1NTczMywtOT
-M4ODgxNjYwLDEyNDc3Mjc3MDEsMTczOTIwMTU1OCwtMTQ1MTE3
-MDc4NF19
+eyJoaXN0b3J5IjpbNzA2ODM1NjE0LDEwMzQ1MDc5NDAsMTUxNj
+I1MTM1OSwtMjA2OTM2ODE0LC03MTEwNzI4NzgsOTI3ODI4MjQx
+LDEwODc2NjM4MDEsLTk2MDA3NjQ0MSwtMTEwNDQzMDQzNywyMD
+gyODUyNjU3LDkzMTc1NTM5MiwtMzU5MTQ4MzEyLC05NzI1MzY0
+NjEsNzg4MzMyMzI0LDE1Nzk4MDMwODAsMTcyMTE5MjkzOCw3Mz
+gwNTU3MzMsLTkzODg4MTY2MCwxMjQ3NzI3NzAxLDE3MzkyMDE1
+NThdfQ==
 -->
