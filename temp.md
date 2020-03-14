@@ -33,6 +33,9 @@ She had not realized the extent to which the children had been affected.
 
 refer
 to look at a book or similar record in order to find information and help: 
+- refer to somebody/something (as something)
+to mention or speak about someone or something
+- to look at something or ask a person for information
 
 boom --
 a sudden increase in trade and economic activity; a period of wealth and success
@@ -1391,11 +1394,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE5OTgwMTYzLDcwNjgzNTYxNCwxMDM0NT
-A3OTQwLDE1MTYyNTEzNTksLTIwNjkzNjgxNCwtNzExMDcyODc4
-LDkyNzgyODI0MSwxMDg3NjYzODAxLC05NjAwNzY0NDEsLTExMD
-Q0MzA0MzcsMjA4Mjg1MjY1Nyw5MzE3NTUzOTIsLTM1OTE0ODMx
-MiwtOTcyNTM2NDYxLDc4ODMzMjMyNCwxNTc5ODAzMDgwLDE3Mj
-ExOTI5MzgsNzM4MDU1NzMzLC05Mzg4ODE2NjAsMTI0NzcyNzcw
-MV19
+eyJoaXN0b3J5IjpbMTIxMzQ5MjMzOCw0MTk5ODAxNjMsNzA2OD
+M1NjE0LDEwMzQ1MDc5NDAsMTUxNjI1MTM1OSwtMjA2OTM2ODE0
+LC03MTEwNzI4NzgsOTI3ODI4MjQxLDEwODc2NjM4MDEsLTk2MD
+A3NjQ0MSwtMTEwNDQzMDQzNywyMDgyODUyNjU3LDkzMTc1NTM5
+MiwtMzU5MTQ4MzEyLC05NzI1MzY0NjEsNzg4MzMyMzI0LDE1Nz
+k4MDMwODAsMTcyMTE5MjkzOCw3MzgwNTU3MzMsLTkzODg4MTY2
+MF19
 -->
