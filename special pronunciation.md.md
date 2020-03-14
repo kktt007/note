@@ -2,7 +2,7 @@
 - n是起阻碍的 l也是，后面不阻碍，
 - r和m不阻碍，后面要阻碍
 以上2规则，在2音节中，扮演元音角色，起反作用规则。
-- 3音节规则，遇到爆破ptk也要浊，智能一个爆破
+- 3音节规则，遇到爆破ptk，相同的要浊，不同的
 
 - geographical -- \ ˌjē-​ə-​ˈgra-​fi-​kəl 最后k浊化，理由就是重音的g ，和stability一个原理，多音节只看重音的首字母。
 
@@ -16,6 +16,7 @@ temporarity -- \ ˌtem-pə-ˈrer-ə-lē p阻碍发b,证明m不阻碍
 - activity -- \ ak-ˈti-və-tē 最后t阻碍，就是因为，辅音中有一个爆破t存在了，只能一个爆破pkt
 
 chemical 颠覆了我。。只有一种解释，不能有2个爆破音清辅音 p t k 不能同时在一个重音节中，事出有因必有妖
+
 
 
 jetty forvo发音，发d, 对比了gentle 
@@ -70,11 +71,11 @@ solid --\ ˈsä-ləd ə又成了e的音
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNDE5MTk2MiwxOTc2NTg0NTc5LC02OD
-k3ODQ5NjMsMTUwNzk5NzUxNywtOTUzMDE4NzE5LC05NTM1NzI1
-NDIsNzUyNzEyODc3LC0xMDE5NDg5NTc0LDU4NTI5MDQwOSwtNT
-U1Mzc3MzkwLDE5ODU0OTQyMzksLTE3MTc4MTg3ODgsLTE5NTQ2
-NDY5MDAsNDU3Mzc5MTU5LDg2Njc5NTIxNSw5MDE1NDk1MzEsMT
-g4MjA0MDg4NSwtMjQ1MDg1OTg3LC05Mjg3OTgwNzcsMzgyMzQ2
-MjU0XX0=
+eyJoaXN0b3J5IjpbNzU1NTQxNDU5LDE3MjQxOTE5NjIsMTk3Nj
+U4NDU3OSwtNjg5Nzg0OTYzLDE1MDc5OTc1MTcsLTk1MzAxODcx
+OSwtOTUzNTcyNTQyLDc1MjcxMjg3NywtMTAxOTQ4OTU3NCw1OD
+UyOTA0MDksLTU1NTM3NzM5MCwxOTg1NDk0MjM5LC0xNzE3ODE4
+Nzg4LC0xOTU0NjQ2OTAwLDQ1NzM3OTE1OSw4NjY3OTUyMTUsOT
+AxNTQ5NTMxLDE4ODIwNDA4ODUsLTI0NTA4NTk4NywtOTI4Nzk4
+MDc3XX0=
 -->
