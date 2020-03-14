@@ -14,6 +14,7 @@ pattern比较拗口，但还是规则
 political --\ pə-ˈli-ti-kəl k阻碍，说明 l也阻碍
 technological \ ˌtek-nə-ˈlä-ji-kəl 前k浊化，后k阻碍，说明l也阻碍发g
 purpose -- \ ˈpər-pəs p阻碍，说明r不阻碍
+order -- 
 simplify -- \ ˈsim-plə-ˌfī p阻碍发b，验证了m不阻碍
 temporarity -- \ ˌtem-pə-ˈrer-ə-lē p阻碍发b,证明m不阻碍
 company --\ ˈkəmp-nē  p阻碍，继续验证m不阻碍
@@ -78,11 +79,11 @@ solid --\ ˈsä-ləd ə又成了e的音
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwOTU1ODYxNSwxNTU5NDIzNzQ0LC04NT
-UwMjQ3MTcsNjE5ODIyOTA5LDY5MDM1NTU1LC0xMjY4NDI3MjE3
-LDE3MjQxOTE5NjIsMTk3NjU4NDU3OSwtNjg5Nzg0OTYzLDE1MD
-c5OTc1MTcsLTk1MzAxODcxOSwtOTUzNTcyNTQyLDc1MjcxMjg3
-NywtMTAxOTQ4OTU3NCw1ODUyOTA0MDksLTU1NTM3NzM5MCwxOT
-g1NDk0MjM5LC0xNzE3ODE4Nzg4LC0xOTU0NjQ2OTAwLDQ1NzM3
-OTE1OV19
+eyJoaXN0b3J5IjpbLTE0MTk4MDI4OSwtOTA5NTU4NjE1LDE1NT
+k0MjM3NDQsLTg1NTAyNDcxNyw2MTk4MjI5MDksNjkwMzU1NTUs
+LTEyNjg0MjcyMTcsMTcyNDE5MTk2MiwxOTc2NTg0NTc5LC02OD
+k3ODQ5NjMsMTUwNzk5NzUxNywtOTUzMDE4NzE5LC05NTM1NzI1
+NDIsNzUyNzEyODc3LC0xMDE5NDg5NTc0LDU4NTI5MDQwOSwtNT
+U1Mzc3MzkwLDE5ODU0OTQyMzksLTE3MTc4MTg3ODgsLTE5NTQ2
+NDY5MDBdfQ==
 -->
