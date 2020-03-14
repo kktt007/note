@@ -9,7 +9,7 @@
 
 ```
 political --\ pə-ˈli-ti-kəl k阻碍，说明 l也阻碍
-technological \ ˌtek-nə-ˈlä-ji-kəl 前k浊化，后k阻碍，说明l也阻碍
+technological \ ˌtek-nə-ˈlä-ji-kəl 前k浊化，后k阻碍，说明l也阻碍发g
 purpose -- \ ˈpər-pəs p阻碍，说明r不阻碍
 simplify -- \ ˈsim-plə-ˌfī p阻碍发b，验证了m不阻碍
 temporarity -- \ ˌtem-pə-ˈrer-ə-lē p阻碍发b,证明m不阻碍
@@ -74,11 +74,11 @@ solid --\ ˈsä-ləd ə又成了e的音
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE5ODIyOTA5LDY5MDM1NTU1LC0xMjY4ND
-I3MjE3LDE3MjQxOTE5NjIsMTk3NjU4NDU3OSwtNjg5Nzg0OTYz
-LDE1MDc5OTc1MTcsLTk1MzAxODcxOSwtOTUzNTcyNTQyLDc1Mj
-cxMjg3NywtMTAxOTQ4OTU3NCw1ODUyOTA0MDksLTU1NTM3NzM5
-MCwxOTg1NDk0MjM5LC0xNzE3ODE4Nzg4LC0xOTU0NjQ2OTAwLD
-Q1NzM3OTE1OSw4NjY3OTUyMTUsOTAxNTQ5NTMxLDE4ODIwNDA4
-ODVdfQ==
+eyJoaXN0b3J5IjpbLTg1NTAyNDcxNyw2MTk4MjI5MDksNjkwMz
+U1NTUsLTEyNjg0MjcyMTcsMTcyNDE5MTk2MiwxOTc2NTg0NTc5
+LC02ODk3ODQ5NjMsMTUwNzk5NzUxNywtOTUzMDE4NzE5LC05NT
+M1NzI1NDIsNzUyNzEyODc3LC0xMDE5NDg5NTc0LDU4NTI5MDQw
+OSwtNTU1Mzc3MzkwLDE5ODU0OTQyMzksLTE3MTc4MTg3ODgsLT
+E5NTQ2NDY5MDAsNDU3Mzc5MTU5LDg2Njc5NTIxNSw5MDE1NDk1
+MzFdfQ==
 -->
