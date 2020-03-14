@@ -1,3 +1,29 @@
+## 3.14
+vehicle --\ ˈvē-ə-kəl 阻碍
+road vehicles include cars, buses, and trucks.
+
+fare
+the money that you pay for a journey in a vehicle such as a bus or train
+train fares are going up again.
+
+forward -- \ ˈfȯr-wərd 注意重音 adj.
+towards the direction that is in front of you.
+forward motion/movement
+
+towards the future
+i always look forward, not back.
+
+progress v.
+to improve or develop in skills, knowledge, etc.
+My spanish never really progressed beyond the stage of being able to  orderdrinks at the bar.
+
+- n.
+- movement to an improved or more developed state, or to a forward position.
+- I'm not making much progress my Spanish.
+
+Technological progress has been so rapid over the last few years.
+rapid -- \ ˈra-pəd 完全符合规则，p阻碍，ə不弱化，因为没有舌尖位置
+
 ## 3.12
 
 demonym -- \ ˈde-mə-ˌnim
@@ -1323,11 +1349,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMTA3Mjg3OCw5Mjc4MjgyNDEsMTA4Nz
-Y2MzgwMSwtOTYwMDc2NDQxLC0xMTA0NDMwNDM3LDIwODI4NTI2
-NTcsOTMxNzU1MzkyLC0zNTkxNDgzMTIsLTk3MjUzNjQ2MSw3OD
-gzMzIzMjQsMTU3OTgwMzA4MCwxNzIxMTkyOTM4LDczODA1NTcz
-MywtOTM4ODgxNjYwLDEyNDc3Mjc3MDEsMTczOTIwMTU1OCwtMT
-Q1MTE3MDc4NCwxMTQ3MzM4MjI3LC0xNDIxNDcwNzM3LDE4Mjg1
-ODA1NzBdfQ==
+eyJoaXN0b3J5IjpbLTIwNjkzNjgxNCwtNzExMDcyODc4LDkyNz
+gyODI0MSwxMDg3NjYzODAxLC05NjAwNzY0NDEsLTExMDQ0MzA0
+MzcsMjA4Mjg1MjY1Nyw5MzE3NTUzOTIsLTM1OTE0ODMxMiwtOT
+cyNTM2NDYxLDc4ODMzMjMyNCwxNTc5ODAzMDgwLDE3MjExOTI5
+MzgsNzM4MDU1NzMzLC05Mzg4ODE2NjAsMTI0NzcyNzcwMSwxNz
+M5MjAxNTU4LC0xNDUxMTcwNzg0LDExNDczMzgyMjcsLTE0MjE0
+NzA3MzddfQ==
 -->
