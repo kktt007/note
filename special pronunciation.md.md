@@ -3,7 +3,7 @@
 - r和m不阻碍，后面要阻碍，以后遇到r,m大胆的拖一点ə
 以上2规则，在2音节中，扮演元音角色，起反作用规则。
 - 3音节规则，遇到爆破 音相同的要浊，不同的不变
-比如k遇到K要浊，t遇到t浊，t遇到K不浊
+比如k遇到K要浊，t遇到t浊，t遇到K不浊,不能重复原则.
 
 - geographical -- \ ˌjē-​ə-​ˈgra-​fi-​kəl 最后k浊化，理由就是重音的g ，和stability一个原理，多音节只看重音的首字母。
 
@@ -80,11 +80,11 @@ solid --\ ˈsä-ləd ə又成了e的音
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzOTc2Mjg5OSwtOTA5NTU4NjE1LDE1NT
-k0MjM3NDQsLTg1NTAyNDcxNyw2MTk4MjI5MDksNjkwMzU1NTUs
-LTEyNjg0MjcyMTcsMTcyNDE5MTk2MiwxOTc2NTg0NTc5LC02OD
-k3ODQ5NjMsMTUwNzk5NzUxNywtOTUzMDE4NzE5LC05NTM1NzI1
-NDIsNzUyNzEyODc3LC0xMDE5NDg5NTc0LDU4NTI5MDQwOSwtNT
-U1Mzc3MzkwLDE5ODU0OTQyMzksLTE3MTc4MTg3ODgsLTE5NTQ2
-NDY5MDBdfQ==
+eyJoaXN0b3J5IjpbMjY0NDQ1NDAzLDEyMzk3NjI4OTksLTkwOT
+U1ODYxNSwxNTU5NDIzNzQ0LC04NTUwMjQ3MTcsNjE5ODIyOTA5
+LDY5MDM1NTU1LC0xMjY4NDI3MjE3LDE3MjQxOTE5NjIsMTk3Nj
+U4NDU3OSwtNjg5Nzg0OTYzLDE1MDc5OTc1MTcsLTk1MzAxODcx
+OSwtOTUzNTcyNTQyLDc1MjcxMjg3NywtMTAxOTQ4OTU3NCw1OD
+UyOTA0MDksLTU1NTM3NzM5MCwxOTg1NDk0MjM5LC0xNzE3ODE4
+Nzg4XX0=
 -->
