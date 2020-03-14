@@ -1,6 +1,6 @@
 ## 3.14
 英语词典https://mnemonicdictionary.com/
-
+https://www.wordgamedictionary.com/dictionary/word/
 
 新闻网站 https://www.alternet.org/
 https://www.wikinews.org/
@@ -1396,7 +1396,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NjQ3OTEzNiwxMjEzNDkyMzM4LDQxOT
+eyJoaXN0b3J5IjpbMTA4NjUxNjg4NCwxMjEzNDkyMzM4LDQxOT
 k4MDE2Myw3MDY4MzU2MTQsMTAzNDUwNzk0MCwxNTE2MjUxMzU5
 LC0yMDY5MzY4MTQsLTcxMTA3Mjg3OCw5Mjc4MjgyNDEsMTA4Nz
 Y2MzgwMSwtOTYwMDc2NDQxLC0xMTA0NDMwNDM3LDIwODI4NTI2
