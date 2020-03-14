@@ -14,6 +14,7 @@ temporarity -- \ ˌtem-pə-ˈrer-ə-lē p阻碍发b,证明m不阻碍
 ```
 - politics -- \ ˈpä-lə-ˌtiks k还是k,怎么理解，暂且是收尾相连吧，后面没音节了。
 - activity -- \ ak-ˈti-və-tē 最后t阻碍，就是因为，辅音中有一个爆破t存在了，只能一个爆破pkt
+- creditor -- \ ˈkre-di-tər , tttttt
 
 chemical 颠覆了我。。只有一种解释，不能有2个爆破音清辅音 p t k 不能同时在一个重音节中，事出有因必有妖
 
@@ -71,11 +72,11 @@ solid --\ ˈsä-ləd ə又成了e的音
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU1NTQxNDU5LDE3MjQxOTE5NjIsMTk3Nj
-U4NDU3OSwtNjg5Nzg0OTYzLDE1MDc5OTc1MTcsLTk1MzAxODcx
-OSwtOTUzNTcyNTQyLDc1MjcxMjg3NywtMTAxOTQ4OTU3NCw1OD
-UyOTA0MDksLTU1NTM3NzM5MCwxOTg1NDk0MjM5LC0xNzE3ODE4
-Nzg4LC0xOTU0NjQ2OTAwLDQ1NzM3OTE1OSw4NjY3OTUyMTUsOT
-AxNTQ5NTMxLDE4ODIwNDA4ODUsLTI0NTA4NTk4NywtOTI4Nzk4
-MDc3XX0=
+eyJoaXN0b3J5IjpbLTU2MDUzMzc1MCwxNzI0MTkxOTYyLDE5Nz
+Y1ODQ1NzksLTY4OTc4NDk2MywxNTA3OTk3NTE3LC05NTMwMTg3
+MTksLTk1MzU3MjU0Miw3NTI3MTI4NzcsLTEwMTk0ODk1NzQsNT
+g1MjkwNDA5LC01NTUzNzczOTAsMTk4NTQ5NDIzOSwtMTcxNzgx
+ODc4OCwtMTk1NDY0NjkwMCw0NTczNzkxNTksODY2Nzk1MjE1LD
+kwMTU0OTUzMSwxODgyMDQwODg1LC0yNDUwODU5ODcsLTkyODc5
+ODA3N119
 -->
