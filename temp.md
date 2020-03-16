@@ -1,3 +1,25 @@
+## 3.16
+conditional -- \ kən-ˈdish-nəl
+
+subject
+a thing or person that is being discussed, described, or dealt with
+
+conversation
+a talk between two or more people, usually a private and informal on
+
+finite
+
+clause
+ a group of words that includes a subject and a verb, and forms a sentence or part of a sentence
+
+definite
+clearly decided and specific
+We haven’t arranged a definite date for our visit yet.
+
+
+https://mp3.pm/
+https://www.dailywritingtips.com/
+
 ## 3.14
 英语词典https://mnemonicdictionary.com/
 https://www.wordgamedictionary.com/dictionary/word/
@@ -1410,11 +1432,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTYzMTQ0MjMsMTY4MDg5NDIwMSwxMD
-g2NTE2ODg0LDEyMTM0OTIzMzgsNDE5OTgwMTYzLDcwNjgzNTYx
-NCwxMDM0NTA3OTQwLDE1MTYyNTEzNTksLTIwNjkzNjgxNCwtNz
-ExMDcyODc4LDkyNzgyODI0MSwxMDg3NjYzODAxLC05NjAwNzY0
-NDEsLTExMDQ0MzA0MzcsMjA4Mjg1MjY1Nyw5MzE3NTUzOTIsLT
-M1OTE0ODMxMiwtOTcyNTM2NDYxLDc4ODMzMjMyNCwxNTc5ODAz
-MDgwXX0=
+eyJoaXN0b3J5IjpbMTUyNzIzMzU4LC0xNTE2MzE0NDIzLDE2OD
+A4OTQyMDEsMTA4NjUxNjg4NCwxMjEzNDkyMzM4LDQxOTk4MDE2
+Myw3MDY4MzU2MTQsMTAzNDUwNzk0MCwxNTE2MjUxMzU5LC0yMD
+Y5MzY4MTQsLTcxMTA3Mjg3OCw5Mjc4MjgyNDEsMTA4NzY2Mzgw
+MSwtOTYwMDc2NDQxLC0xMTA0NDMwNDM3LDIwODI4NTI2NTcsOT
+MxNzU1MzkyLC0zNTkxNDgzMTIsLTk3MjUzNjQ2MSw3ODgzMzIz
+MjRdfQ==
 -->
