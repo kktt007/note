@@ -1,3 +1,55 @@
+## 3.17
+词典http://www.photo-dictionary.com/
+
+a team had a string of 13 wins last season
+
+i was confronted by a string of questions.
+
+travel up
+
+go up
+- move upward
+
+to be built
+
+New office buildings are going up everywhere.
+
+(British English, formal) to arrive at a university, especially Oxford or Cambridge, at the beginning of a term or in order to begin your studies
+She went up (to Oxford) in 2008.
+
+to go from one place to another, especially further north or to a city or large town from a smaller place
+
+When are you next going up to Scotland?
+
+trip up
+
+moor
+to tie a boat so that it stays in the same place:
+We moored further up the river.
+We moored the boat to a large tree root.
+
+mooring
+a place where a boat or ship is moored. 
+
+construction
+the work of building or making something, especially buildings, bridges, etc.:
+
+structure
+the way in which the parts of a system or object are arranged or organized, or a system arranged in this way: 
+
+fasten --\ ˈfa-sᵊn
+
+tie
+to fasten something in a particular place using something such as rope
+
+reconstructive --\ ˌrē-kən-ˈstrəkt ə重音
+Reconstructive medical treatment involves changing the shape of part of a person's body, either because it has been badly damaged or to improve someone's appearance
+After the accident, he underwent reconstructive surgery to rebuild his face.
+
+undergo 
+to experience something that is unpleasant or something that involves a change:
+She underwent an operation on a tumour in her left lung last year.
+
 ## 3.16
 conditional -- \ kən-ˈdish-nəl
 
@@ -1432,11 +1484,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNzIzMzU4LC0xNTE2MzE0NDIzLDE2OD
-A4OTQyMDEsMTA4NjUxNjg4NCwxMjEzNDkyMzM4LDQxOTk4MDE2
-Myw3MDY4MzU2MTQsMTAzNDUwNzk0MCwxNTE2MjUxMzU5LC0yMD
-Y5MzY4MTQsLTcxMTA3Mjg3OCw5Mjc4MjgyNDEsMTA4NzY2Mzgw
-MSwtOTYwMDc2NDQxLC0xMTA0NDMwNDM3LDIwODI4NTI2NTcsOT
-MxNzU1MzkyLC0zNTkxNDgzMTIsLTk3MjUzNjQ2MSw3ODgzMzIz
-MjRdfQ==
+eyJoaXN0b3J5IjpbMTE0ODE4NTUwNiwxNTI3MjMzNTgsLTE1MT
+YzMTQ0MjMsMTY4MDg5NDIwMSwxMDg2NTE2ODg0LDEyMTM0OTIz
+MzgsNDE5OTgwMTYzLDcwNjgzNTYxNCwxMDM0NTA3OTQwLDE1MT
+YyNTEzNTksLTIwNjkzNjgxNCwtNzExMDcyODc4LDkyNzgyODI0
+MSwxMDg3NjYzODAxLC05NjAwNzY0NDEsLTExMDQ0MzA0MzcsMj
+A4Mjg1MjY1Nyw5MzE3NTUzOTIsLTM1OTE0ODMxMiwtOTcyNTM2
+NDYxXX0=
 -->
