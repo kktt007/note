@@ -1,3 +1,90 @@
+### 3.18
+https://www.bbc.co.uk/learningenglish/oromo/course/english-you-need/unit-1
+Unit 1: English You Need
+Exams, news, pronunciation, teachers' tips, learners' questions
+
+论坛https://www.englishforums.com/English/
+https://www.englishforums.com/English/GeneralEnglishVocabularyIdiom-Questions/Forum29.htm
+
+看新闻，学英语单词
+https://www.ul.com/news
+https://www.msn.com/ 每个版块都值得看标题
+https://www.cnbc.com/
+https://www.kickstarter.com/
+http://todaynews.com/business/
+https://www.nbcnews.com/
+
+propose \ prə-ˈpōz
+to offer or suggest a possible plan or action for other people to consider
+- She proposed a boycott of the meeting.
+
+take part in
+to be involved in an activit with other people.
+
+
+boycott
+to refuse to buy a product or take part in an activity as a way of expressing strong disapproval.
+the union called on its members to boycott the meeting.
+
+call on
+
+activity --\ ak-ˈti-və-tē
+
+constitution --\ ˌkän(t)-stə-ˈtü-shən
+a set of basic rules and principles for an organization that control how it operates
+Some members were proposing changes to the club’s constitution.
+
+written --\ ˈri-tᵊn 注意发音i不再是write里的发音了 t适用规则，并且注意n
+
+possible --\ ˈpä-sə-bəl s不变，说明，非爆破音不适用规则
+
+proposal
+a formal suggestion, plan, or idea, often a written one.
+Management has made proposal to cap overtime.
+
+revision --\ ri-ˈvi-zhən 
+the process of changing, improving, or making additions to sth such as a plan, law, or piece of writing
+He intends to undertake a major revision of the constitution.
+
+cap
+a limit on the amount of money that can be charged or spent in connection with a particular activity: 
+
+charged
+(of arguments or subjects) causing strong feelings and differences of opinion or, more generally, filled with emotion or excitement:
+Abortion is a highly charged issue.
+He spoke in a voice charged with emotion.
+
+accuse
+to say that someone has done something wrong or illegal: 
+
+charge
+to ask an amount of money for something, especially a service or activity: 
+an official statement accusing someone of committing a crime.
+He is now likely to face a murder charge.
+She's been charged with murder.
+
+commit
+commit yourself
+to express an opinion or to make a decision that you tell people about:
+to do something illegal or something that is considered wrong:
+He was sent to prison for a crime that he didn't commit.
+
+quirk --\ ˈkwərk 这个没有被重音影响，所以似乎距离超过2就不算了
+
+prominent
+Important; famous.
+‘she was a prominent member of the city council’
+
+council --\ ˈkau̇n(t)-səl
+a group of people elected or chosen to make decisions or give advice on a particular subject, to represent a particular group of people, or to run a particular organization: 
+
+represent
+to speak, act, or be present officially for another person or people:
+They chose a famous barrister to represent them in court.
+
+reserve
+I reserve judgment on this issue (= I won't give an opinion on it now) until we have more information.
+
 ## 3.17
 词典http://www.photo-dictionary.com/
 
@@ -1484,11 +1571,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0ODE4NTUwNiwxNTI3MjMzNTgsLTE1MT
-YzMTQ0MjMsMTY4MDg5NDIwMSwxMDg2NTE2ODg0LDEyMTM0OTIz
-MzgsNDE5OTgwMTYzLDcwNjgzNTYxNCwxMDM0NTA3OTQwLDE1MT
-YyNTEzNTksLTIwNjkzNjgxNCwtNzExMDcyODc4LDkyNzgyODI0
-MSwxMDg3NjYzODAxLC05NjAwNzY0NDEsLTExMDQ0MzA0MzcsMj
-A4Mjg1MjY1Nyw5MzE3NTUzOTIsLTM1OTE0ODMxMiwtOTcyNTM2
-NDYxXX0=
+eyJoaXN0b3J5IjpbMTc5ODI5NDcyLDE1MjcyMzM1OCwtMTUxNj
+MxNDQyMywxNjgwODk0MjAxLDEwODY1MTY4ODQsMTIxMzQ5MjMz
+OCw0MTk5ODAxNjMsNzA2ODM1NjE0LDEwMzQ1MDc5NDAsMTUxNj
+I1MTM1OSwtMjA2OTM2ODE0LC03MTEwNzI4NzgsOTI3ODI4MjQx
+LDEwODc2NjM4MDEsLTk2MDA3NjQ0MSwtMTEwNDQzMDQzNywyMD
+gyODUyNjU3LDkzMTc1NTM5MiwtMzU5MTQ4MzEyLC05NzI1MzY0
+NjFdfQ==
 -->
