@@ -1,3 +1,22 @@
+http://man7.org/linux/man-pages/index.html
+https://www.freebsd.org/cgi/man.cgi?manpath=
+https://www.manpagez.com/man/
+http://man.he.net/
+https://helpmanual.io/
+https://freeze.sh/
+https://sarata.com/manpages/
+https://www.tutorialspoint.com/unix_commands/
+https://ss64.com/bash/
+https://linux.die.net/man/
+http://linuxcommand.sourceforge.net/index.php
+http://www.skrenta.com/rt/man/
+https://www.ner2.com/category/linux/
+https://www.systutorials.com/docs/linux/man/
+https://ftp.gnu.org/old-gnu/Manuals/coreutils-4.5.4/html_chapter/coreutils_30.html#SEC187
+
+https://linux.cn/article-10355-1.html
+https://www.linux.org/
+
 ### 3.18
 https://www.bbc.co.uk/learningenglish/oromo/course/english-you-need/unit-1
 Unit 1: English You Need
@@ -1571,11 +1590,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5ODI5NDcyLDE1MjcyMzM1OCwtMTUxNj
-MxNDQyMywxNjgwODk0MjAxLDEwODY1MTY4ODQsMTIxMzQ5MjMz
-OCw0MTk5ODAxNjMsNzA2ODM1NjE0LDEwMzQ1MDc5NDAsMTUxNj
-I1MTM1OSwtMjA2OTM2ODE0LC03MTEwNzI4NzgsOTI3ODI4MjQx
-LDEwODc2NjM4MDEsLTk2MDA3NjQ0MSwtMTEwNDQzMDQzNywyMD
-gyODUyNjU3LDkzMTc1NTM5MiwtMzU5MTQ4MzEyLC05NzI1MzY0
-NjFdfQ==
+eyJoaXN0b3J5IjpbMjE5ODU0MDAzLDE3OTgyOTQ3MiwxNTI3Mj
+MzNTgsLTE1MTYzMTQ0MjMsMTY4MDg5NDIwMSwxMDg2NTE2ODg0
+LDEyMTM0OTIzMzgsNDE5OTgwMTYzLDcwNjgzNTYxNCwxMDM0NT
+A3OTQwLDE1MTYyNTEzNTksLTIwNjkzNjgxNCwtNzExMDcyODc4
+LDkyNzgyODI0MSwxMDg3NjYzODAxLC05NjAwNzY0NDEsLTExMD
+Q0MzA0MzcsMjA4Mjg1MjY1Nyw5MzE3NTUzOTIsLTM1OTE0ODMx
+Ml19
 -->
