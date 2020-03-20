@@ -1,3 +1,73 @@
+### 3.20
+转战98五笔
+
+https://wubi98.gitee.io/download/2019/01/01/001.98wb.html
+https://github.com/yanhuacuo/98wubi-tables
+http://98wb.ys168.com/
+http://www.98wubi.com/
+http://www.aardio.com/
+
+词源网站
+https://onelook.com/?w=climatology&ls=a
+https://rhymezone.com/r/d=-ology
+https://wordinfo.info/results?searchString=climatology
+https://www.wordsmyth.net
+
+类似网站
+google搜索 related:nospace.com
+https://siteslike.com
+https://www.similarsites.com/
+https://www.similarweb.com
+https://www.similarsitesearch.com
+https://www.findsimilarsites.com
+https://spymetrics.ru/en
+https://siteslike.com
+
+这个不错的搜索,比如搜索archlinux install
+http://www.kartoo.com/
+
+in charge of
+responsible for something or someone:
+Who’s in charge here?
+The teacher put me in charge of organizing the project.
+charge of:
+There is a charge of £50 if you are over a week late with your payment.
+charge for:
+There is no charge for using the library.
+
+moderator
+someone who is in charge of a discussion, meeting etc between people with different opinions
+
+mental
+Stress can affect both your physical and mental health.
+It is clear that mental activity does not stop when we’re asleep.
+
+disorder
+a state of untidiness or lack of organization:
+The whole office was in a state of disorder.
+
+untidy
+Not arranged neatly and in order.
+‘the place was dreadfully untidy’
+
+psychology
+The mental characteristics or attitude of a person or group.
+
+prisoner
+a person who is kept in prison as a punishment: 
+
+punish
+to cause people who have done something wrong or committed a crime to suffer by making them do something they don’t want to do or sending them to prison:
+She was punished for being late to school.
+
+conscious --\ ˈkän(t)-shəs注意tsh形成ch
+to notice that a particular thing or person exists or is present:
+My tooth doesn't exactly hurt, but I'm conscious of it (= I can feel it) all the time.
+
+congition
+the use of conscious mental processes: 
+
+### 3.19
 http://man7.org/linux/man-pages/index.html
 https://www.freebsd.org/cgi/man.cgi?manpath=
 https://www.manpagez.com/man/
@@ -1590,11 +1660,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE5ODU0MDAzLDE3OTgyOTQ3MiwxNTI3Mj
-MzNTgsLTE1MTYzMTQ0MjMsMTY4MDg5NDIwMSwxMDg2NTE2ODg0
-LDEyMTM0OTIzMzgsNDE5OTgwMTYzLDcwNjgzNTYxNCwxMDM0NT
-A3OTQwLDE1MTYyNTEzNTksLTIwNjkzNjgxNCwtNzExMDcyODc4
-LDkyNzgyODI0MSwxMDg3NjYzODAxLC05NjAwNzY0NDEsLTExMD
-Q0MzA0MzcsMjA4Mjg1MjY1Nyw5MzE3NTUzOTIsLTM1OTE0ODMx
-Ml19
+eyJoaXN0b3J5IjpbODQ1OTg1NDc2LDIxOTg1NDAwMywxNzk4Mj
+k0NzIsMTUyNzIzMzU4LC0xNTE2MzE0NDIzLDE2ODA4OTQyMDEs
+MTA4NjUxNjg4NCwxMjEzNDkyMzM4LDQxOTk4MDE2Myw3MDY4Mz
+U2MTQsMTAzNDUwNzk0MCwxNTE2MjUxMzU5LC0yMDY5MzY4MTQs
+LTcxMTA3Mjg3OCw5Mjc4MjgyNDEsMTA4NzY2MzgwMSwtOTYwMD
+c2NDQxLC0xMTA0NDMwNDM3LDIwODI4NTI2NTcsOTMxNzU1Mzky
+XX0=
 -->
