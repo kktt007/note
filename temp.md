@@ -1,4 +1,19 @@
 ## 3.21
+英语论坛https://forum.wordreference.com/forums/english-only.6/
+
+reserve
+investigation investigator
+qualification
+distincion
+utilized
+well-being
+cotage
+extent
+sort of
+manner
+ideal
+informal
+expert
 
 extravagant --\ ik-ˈstra-vi-gənt i确实都是ə的音
 ```
@@ -1703,11 +1718,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc1MDE4OTE2LC0xNzM4OTE5NjI0LC0zNz
-c5ODk0NDMsODQ1OTg1NDc2LDIxOTg1NDAwMywxNzk4Mjk0NzIs
-MTUyNzIzMzU4LC0xNTE2MzE0NDIzLDE2ODA4OTQyMDEsMTA4Nj
-UxNjg4NCwxMjEzNDkyMzM4LDQxOTk4MDE2Myw3MDY4MzU2MTQs
-MTAzNDUwNzk0MCwxNTE2MjUxMzU5LC0yMDY5MzY4MTQsLTcxMT
-A3Mjg3OCw5Mjc4MjgyNDEsMTA4NzY2MzgwMSwtOTYwMDc2NDQx
-XX0=
+eyJoaXN0b3J5IjpbNjg1NTQ1MjU3LDg3NTAxODkxNiwtMTczOD
+kxOTYyNCwtMzc3OTg5NDQzLDg0NTk4NTQ3NiwyMTk4NTQwMDMs
+MTc5ODI5NDcyLDE1MjcyMzM1OCwtMTUxNjMxNDQyMywxNjgwOD
+k0MjAxLDEwODY1MTY4ODQsMTIxMzQ5MjMzOCw0MTk5ODAxNjMs
+NzA2ODM1NjE0LDEwMzQ1MDc5NDAsMTUxNjI1MTM1OSwtMjA2OT
+M2ODE0LC03MTEwNzI4NzgsOTI3ODI4MjQxLDEwODc2NjM4MDFd
+fQ==
 -->
