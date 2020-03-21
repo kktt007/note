@@ -1,4 +1,17 @@
 ## 3.21
+```
+affinity --\ ə-ˈfi-nə-tē 符合2音节爆破音规律tt
+A spontaneous or natural liking or sympathy for someone or something.
+‘he has an affinity for the music of Berlioz’
+
+attractive --\ ə-ˈtrak-tiv kt当成1个略读配上一个浊化阻碍音，属于1个辅看待
+
+associated -- \ ə-ˈsō-shē-ˌā-təd 最后发音dit
+
+painting -- \ ˈpān-tiŋ m-w是阻碍的，但是forvo是符合规律的
+
+priority -- \ prī-ˈȯr-ə-tē m-w 不符合，forvo完全符合3音节规律，所以音标也是有区域标准的
+```
 cease --\ ˈsēs
 to stop something:
 Whether the protests will cease remains to be seen.
@@ -1688,11 +1701,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3Nzk4OTQ0Myw4NDU5ODU0NzYsMjE5OD
-U0MDAzLDE3OTgyOTQ3MiwxNTI3MjMzNTgsLTE1MTYzMTQ0MjMs
-MTY4MDg5NDIwMSwxMDg2NTE2ODg0LDEyMTM0OTIzMzgsNDE5OT
-gwMTYzLDcwNjgzNTYxNCwxMDM0NTA3OTQwLDE1MTYyNTEzNTks
-LTIwNjkzNjgxNCwtNzExMDcyODc4LDkyNzgyODI0MSwxMDg3Nj
-YzODAxLC05NjAwNzY0NDEsLTExMDQ0MzA0MzcsMjA4Mjg1MjY1
-N119
+eyJoaXN0b3J5IjpbLTE3Mzg5MTk2MjQsLTM3Nzk4OTQ0Myw4ND
+U5ODU0NzYsMjE5ODU0MDAzLDE3OTgyOTQ3MiwxNTI3MjMzNTgs
+LTE1MTYzMTQ0MjMsMTY4MDg5NDIwMSwxMDg2NTE2ODg0LDEyMT
+M0OTIzMzgsNDE5OTgwMTYzLDcwNjgzNTYxNCwxMDM0NTA3OTQw
+LDE1MTYyNTEzNTksLTIwNjkzNjgxNCwtNzExMDcyODc4LDkyNz
+gyODI0MSwxMDg3NjYzODAxLC05NjAwNzY0NDEsLTExMDQ0MzA0
+MzddfQ==
 -->
