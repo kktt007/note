@@ -1,6 +1,6 @@
 ## 3.21
 
-
+extravagant --\ ik-ˈstra-vi-gənt i确实都是ə的音
 ```
 affinity --\ ə-ˈfi-nə-tē 符合2音节爆破音规律tt
 A spontaneous or natural liking or sympathy for someone or something.
@@ -1703,7 +1703,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI5ODgwMDg0LC0xNzM4OTE5NjI0LC0zNz
+eyJoaXN0b3J5IjpbODc1MDE4OTE2LC0xNzM4OTE5NjI0LC0zNz
 c5ODk0NDMsODQ1OTg1NDc2LDIxOTg1NDAwMywxNzk4Mjk0NzIs
 MTUyNzIzMzU4LC0xNTE2MzE0NDIzLDE2ODA4OTQyMDEsMTA4Nj
 UxNjg4NCwxMjEzNDkyMzM4LDQxOTk4MDE2Myw3MDY4MzU2MTQs
