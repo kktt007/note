@@ -1,4 +1,6 @@
 ## 3.21
+
+
 ```
 affinity --\ ə-ˈfi-nə-tē 符合2音节爆破音规律tt
 A spontaneous or natural liking or sympathy for someone or something.
@@ -1701,11 +1703,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzg5MTk2MjQsLTM3Nzk4OTQ0Myw4ND
-U5ODU0NzYsMjE5ODU0MDAzLDE3OTgyOTQ3MiwxNTI3MjMzNTgs
-LTE1MTYzMTQ0MjMsMTY4MDg5NDIwMSwxMDg2NTE2ODg0LDEyMT
-M0OTIzMzgsNDE5OTgwMTYzLDcwNjgzNTYxNCwxMDM0NTA3OTQw
-LDE1MTYyNTEzNTksLTIwNjkzNjgxNCwtNzExMDcyODc4LDkyNz
-gyODI0MSwxMDg3NjYzODAxLC05NjAwNzY0NDEsLTExMDQ0MzA0
-MzddfQ==
+eyJoaXN0b3J5IjpbMzI5ODgwMDg0LC0xNzM4OTE5NjI0LC0zNz
+c5ODk0NDMsODQ1OTg1NDc2LDIxOTg1NDAwMywxNzk4Mjk0NzIs
+MTUyNzIzMzU4LC0xNTE2MzE0NDIzLDE2ODA4OTQyMDEsMTA4Nj
+UxNjg4NCwxMjEzNDkyMzM4LDQxOTk4MDE2Myw3MDY4MzU2MTQs
+MTAzNDUwNzk0MCwxNTE2MjUxMzU5LC0yMDY5MzY4MTQsLTcxMT
+A3Mjg3OCw5Mjc4MjgyNDEsMTA4NzY2MzgwMSwtOTYwMDc2NDQx
+XX0=
 -->
