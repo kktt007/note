@@ -1,3 +1,31 @@
+## 3.21
+cease --\ ˈsēs
+to stop something:
+Whether the protests will cease remains to be seen.
+The company has decided to cease all UK operations after this year.
+
+https://www.infoq.cn/
+https://golangdocs.com/
+https://www.golang-book.com/books/intro
+https://www.codecademy.com/learn/learn-go
+https://www.codecademy.com/learn/learn-go
+
+查看网络服务
+journalctl -bu NetworkMananger.service
+
+udiskie
+kde可能有kio这样的，属于kf5，所以kf5必装
+kdenetwork-filesharing: Windows File and printer sharing for KDE，所以
+
+### kf5
+### kdebase
+### kdesdk
+### kdeutils
+### kdenetwork必装(kdenetwork-filesharing  	kio-extras krdc krfb signon-kwallet-extension	zeroconf-ioslave)
+
+- kdegraphics
+
+
 ### 3.20
 转战98五笔
 
@@ -1660,11 +1688,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ1OTg1NDc2LDIxOTg1NDAwMywxNzk4Mj
-k0NzIsMTUyNzIzMzU4LC0xNTE2MzE0NDIzLDE2ODA4OTQyMDEs
-MTA4NjUxNjg4NCwxMjEzNDkyMzM4LDQxOTk4MDE2Myw3MDY4Mz
-U2MTQsMTAzNDUwNzk0MCwxNTE2MjUxMzU5LC0yMDY5MzY4MTQs
-LTcxMTA3Mjg3OCw5Mjc4MjgyNDEsMTA4NzY2MzgwMSwtOTYwMD
-c2NDQxLC0xMTA0NDMwNDM3LDIwODI4NTI2NTcsOTMxNzU1Mzky
-XX0=
+eyJoaXN0b3J5IjpbLTM3Nzk4OTQ0Myw4NDU5ODU0NzYsMjE5OD
+U0MDAzLDE3OTgyOTQ3MiwxNTI3MjMzNTgsLTE1MTYzMTQ0MjMs
+MTY4MDg5NDIwMSwxMDg2NTE2ODg0LDEyMTM0OTIzMzgsNDE5OT
+gwMTYzLDcwNjgzNTYxNCwxMDM0NTA3OTQwLDE1MTYyNTEzNTks
+LTIwNjkzNjgxNCwtNzExMDcyODc4LDkyNzgyODI0MSwxMDg3Nj
+YzODAxLC05NjAwNzY0NDEsLTExMDQ0MzA0MzcsMjA4Mjg1MjY1
+N119
 -->
