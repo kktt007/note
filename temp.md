@@ -8,6 +8,11 @@ https://www.thoughtco.com/history-and-culture-4133356
 - fibreglass
 a strong light material made from glass [fibres](https://www.oxfordlearnersdictionaries.com/definition/english/fibre#fibre_topg_1 "fibres definition") and plastic, used for making boats, etc.
 
+- repose
+a [calm](https://www.macmillandictionary.com/us/dictionary/british/calm_1 "calm") or [relaxed](https://www.macmillandictionary.com/us/dictionary/british/relaxed "relaxed") [state](https://www.macmillandictionary.com/us/dictionary/british/state_1 "state")
+
+- requiescat -- \ ˌre-kwē-ˈe-ˌskät
+
 - playback
 the use of a machine to show pictures or play sounds that were recorded earlier
 
@@ -1762,11 +1767,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkyOTk4ODY0LC04OTI4ODQ3MzUsLTExMz
-Q1Njg2MzcsNjg1NTQ1MjU3LDg3NTAxODkxNiwtMTczODkxOTYy
-NCwtMzc3OTg5NDQzLDg0NTk4NTQ3NiwyMTk4NTQwMDMsMTc5OD
-I5NDcyLDE1MjcyMzM1OCwtMTUxNjMxNDQyMywxNjgwODk0MjAx
-LDEwODY1MTY4ODQsMTIxMzQ5MjMzOCw0MTk5ODAxNjMsNzA2OD
-M1NjE0LDEwMzQ1MDc5NDAsMTUxNjI1MTM1OSwtMjA2OTM2ODE0
+eyJoaXN0b3J5IjpbLTU2MTg0ODIwMCwzOTI5OTg4NjQsLTg5Mj
+g4NDczNSwtMTEzNDU2ODYzNyw2ODU1NDUyNTcsODc1MDE4OTE2
+LC0xNzM4OTE5NjI0LC0zNzc5ODk0NDMsODQ1OTg1NDc2LDIxOT
+g1NDAwMywxNzk4Mjk0NzIsMTUyNzIzMzU4LC0xNTE2MzE0NDIz
+LDE2ODA4OTQyMDEsMTA4NjUxNjg4NCwxMjEzNDkyMzM4LDQxOT
+k4MDE2Myw3MDY4MzU2MTQsMTAzNDUwNzk0MCwxNTE2MjUxMzU5
 XX0=
 -->
