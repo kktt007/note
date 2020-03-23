@@ -1,6 +1,8 @@
 ### 3.23
 这词典不错，还有视频https://www.englishlearner.com/dictionary/
 
+https://www.latin-is-simple.com/en/vocabulary/phrase/1656/
+
 https://www.thoughtco.com/history-and-culture-4133356
 
 - fibreglass
@@ -1760,11 +1762,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4Nzc0MTYwMCwtODkyODg0NzM1LC0xMT
-M0NTY4NjM3LDY4NTU0NTI1Nyw4NzUwMTg5MTYsLTE3Mzg5MTk2
-MjQsLTM3Nzk4OTQ0Myw4NDU5ODU0NzYsMjE5ODU0MDAzLDE3OT
-gyOTQ3MiwxNTI3MjMzNTgsLTE1MTYzMTQ0MjMsMTY4MDg5NDIw
-MSwxMDg2NTE2ODg0LDEyMTM0OTIzMzgsNDE5OTgwMTYzLDcwNj
-gzNTYxNCwxMDM0NTA3OTQwLDE1MTYyNTEzNTksLTIwNjkzNjgx
-NF19
+eyJoaXN0b3J5IjpbMzkyOTk4ODY0LC04OTI4ODQ3MzUsLTExMz
+Q1Njg2MzcsNjg1NTQ1MjU3LDg3NTAxODkxNiwtMTczODkxOTYy
+NCwtMzc3OTg5NDQzLDg0NTk4NTQ3NiwyMTk4NTQwMDMsMTc5OD
+I5NDcyLDE1MjcyMzM1OCwtMTUxNjMxNDQyMywxNjgwODk0MjAx
+LDEwODY1MTY4ODQsMTIxMzQ5MjMzOCw0MTk5ODAxNjMsNzA2OD
+M1NjE0LDEwMzQ1MDc5NDAsMTUxNjI1MTM1OSwtMjA2OTM2ODE0
+XX0=
 -->
