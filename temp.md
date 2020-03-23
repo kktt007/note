@@ -1,6 +1,7 @@
 ### 3.23
 这词典不错，还有视频https://www.englishlearner.com/dictionary/
 
+https://www.wordsmyth.net/
 
 https://www.latin-is-simple.com/en/vocabulary/phrase/1656/
 
@@ -1768,11 +1769,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkyMTU4OTUwLC01NjE4NDgyMDAsMzkyOT
-k4ODY0LC04OTI4ODQ3MzUsLTExMzQ1Njg2MzcsNjg1NTQ1MjU3
-LDg3NTAxODkxNiwtMTczODkxOTYyNCwtMzc3OTg5NDQzLDg0NT
-k4NTQ3NiwyMTk4NTQwMDMsMTc5ODI5NDcyLDE1MjcyMzM1OCwt
-MTUxNjMxNDQyMywxNjgwODk0MjAxLDEwODY1MTY4ODQsMTIxMz
-Q5MjMzOCw0MTk5ODAxNjMsNzA2ODM1NjE0LDEwMzQ1MDc5NDBd
-fQ==
+eyJoaXN0b3J5IjpbLTIwODQzNTI1MjEsLTU2MTg0ODIwMCwzOT
+I5OTg4NjQsLTg5Mjg4NDczNSwtMTEzNDU2ODYzNyw2ODU1NDUy
+NTcsODc1MDE4OTE2LC0xNzM4OTE5NjI0LC0zNzc5ODk0NDMsOD
+Q1OTg1NDc2LDIxOTg1NDAwMywxNzk4Mjk0NzIsMTUyNzIzMzU4
+LC0xNTE2MzE0NDIzLDE2ODA4OTQyMDEsMTA4NjUxNjg4NCwxMj
+EzNDkyMzM4LDQxOTk4MDE2Myw3MDY4MzU2MTQsMTAzNDUwNzk0
+MF19
 -->
