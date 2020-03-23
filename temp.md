@@ -3,7 +3,8 @@
 
 https://www.thoughtco.com/history-and-culture-4133356
 
--
+- fibreglass
+a strong light material made from glass [fibres](https://www.oxfordlearnersdictionaries.com/definition/english/fibre#fibre_topg_1 "fibres definition") and plastic, used for making boats, etc.
 
 - playback
 the use of a machine to show pictures or play sounds that were recorded earlier
@@ -1759,7 +1760,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MzI2MjYyMCwtODkyODg0NzM1LC0xMT
+eyJoaXN0b3J5IjpbMTM4Nzc0MTYwMCwtODkyODg0NzM1LC0xMT
 M0NTY4NjM3LDY4NTU0NTI1Nyw4NzUwMTg5MTYsLTE3Mzg5MTk2
 MjQsLTM3Nzk4OTQ0Myw4NDU5ODU0NzYsMjE5ODU0MDAzLDE3OT
 gyOTQ3MiwxNTI3MjMzNTgsLTE1MTYzMTQ0MjMsMTY4MDg5NDIw
