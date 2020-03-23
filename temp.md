@@ -1,6 +1,8 @@
 ### 3.23
 这词典不错，还有视频https://www.englishlearner.com/dictionary/
 
+https://www.thoughtco.com/history-and-culture-4133356
+
 - playback
 the use of a machine to show pictures or play sounds that were recorded earlier
 
@@ -1755,11 +1757,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzQ1Njg2MzcsNjg1NTQ1MjU3LDg3NT
-AxODkxNiwtMTczODkxOTYyNCwtMzc3OTg5NDQzLDg0NTk4NTQ3
-NiwyMTk4NTQwMDMsMTc5ODI5NDcyLDE1MjcyMzM1OCwtMTUxNj
-MxNDQyMywxNjgwODk0MjAxLDEwODY1MTY4ODQsMTIxMzQ5MjMz
-OCw0MTk5ODAxNjMsNzA2ODM1NjE0LDEwMzQ1MDc5NDAsMTUxNj
-I1MTM1OSwtMjA2OTM2ODE0LC03MTEwNzI4NzgsOTI3ODI4MjQx
-XX0=
+eyJoaXN0b3J5IjpbLTg5Mjg4NDczNSwtMTEzNDU2ODYzNyw2OD
+U1NDUyNTcsODc1MDE4OTE2LC0xNzM4OTE5NjI0LC0zNzc5ODk0
+NDMsODQ1OTg1NDc2LDIxOTg1NDAwMywxNzk4Mjk0NzIsMTUyNz
+IzMzU4LC0xNTE2MzE0NDIzLDE2ODA4OTQyMDEsMTA4NjUxNjg4
+NCwxMjEzNDkyMzM4LDQxOTk4MDE2Myw3MDY4MzU2MTQsMTAzND
+UwNzk0MCwxNTE2MjUxMzU5LC0yMDY5MzY4MTQsLTcxMTA3Mjg3
+OF19
 -->
