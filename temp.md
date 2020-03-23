@@ -3,7 +3,8 @@
 
 https://www.wordsmyth.net/
 
-近义词https://www.macmillanthesaurus.com/
+近义词
+https://www.macmillanthesaurus.com/
 
 
 https://www.latin-is-simple.com/en/vocabulary/phrase/1656/
@@ -1772,7 +1773,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4Nzk3Njg2NiwtNTYxODQ4MjAwLDM5Mj
+eyJoaXN0b3J5IjpbMTQzNTg2MTEwOCwtNTYxODQ4MjAwLDM5Mj
 k5ODg2NCwtODkyODg0NzM1LC0xMTM0NTY4NjM3LDY4NTU0NTI1
 Nyw4NzUwMTg5MTYsLTE3Mzg5MTk2MjQsLTM3Nzk4OTQ0Myw4ND
 U5ODU0NzYsMjE5ODU0MDAzLDE3OTgyOTQ3MiwxNTI3MjMzNTgs
