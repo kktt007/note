@@ -3,6 +3,9 @@
 
 https://www.wordsmyth.net/
 
+近义词https://www.macmillanthesaurus.com/
+
+
 https://www.latin-is-simple.com/en/vocabulary/phrase/1656/
 
 https://www.thoughtco.com/history-and-culture-4133356
@@ -1769,11 +1772,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODQzNTI1MjEsLTU2MTg0ODIwMCwzOT
-I5OTg4NjQsLTg5Mjg4NDczNSwtMTEzNDU2ODYzNyw2ODU1NDUy
-NTcsODc1MDE4OTE2LC0xNzM4OTE5NjI0LC0zNzc5ODk0NDMsOD
-Q1OTg1NDc2LDIxOTg1NDAwMywxNzk4Mjk0NzIsMTUyNzIzMzU4
-LC0xNTE2MzE0NDIzLDE2ODA4OTQyMDEsMTA4NjUxNjg4NCwxMj
-EzNDkyMzM4LDQxOTk4MDE2Myw3MDY4MzU2MTQsMTAzNDUwNzk0
-MF19
+eyJoaXN0b3J5IjpbMTA4Nzk3Njg2NiwtNTYxODQ4MjAwLDM5Mj
+k5ODg2NCwtODkyODg0NzM1LC0xMTM0NTY4NjM3LDY4NTU0NTI1
+Nyw4NzUwMTg5MTYsLTE3Mzg5MTk2MjQsLTM3Nzk4OTQ0Myw4ND
+U5ODU0NzYsMjE5ODU0MDAzLDE3OTgyOTQ3MiwxNTI3MjMzNTgs
+LTE1MTYzMTQ0MjMsMTY4MDg5NDIwMSwxMDg2NTE2ODg0LDEyMT
+M0OTIzMzgsNDE5OTgwMTYzLDcwNjgzNTYxNCwxMDM0NTA3OTQw
+XX0=
 -->
