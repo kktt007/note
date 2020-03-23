@@ -53,6 +53,42 @@ clear and noticeable
 - steady
 Firmly fixed, supported, or balanced; not shaking or moving.
 
+词典 http://foldoc.org/
+比如PERM 是permission
+
+- MANDATORY -- \ ˈman-də-ˌtȯr-ē
+In 1991, the British government made it mandatory to wear rear seat belts in cars.
+Mandatory arguments to long options are mandatory for short options too.
+
+- PRESERVE -- \ pri-ˈzərv
+to preserve the environment
+
+PRESERVE VS PROTECT
+
+protect: (1) to keep someone or something safe from harm, damage, or illness
+(2) to help the industry and trade of your own country by taxing or restricting foreign goods
+
+preserve: (1) to save something or someone from being harmed or destroyed.
+e.g., We must encourage the planting of new trees and preserve our existing woodlands
+
+- INTERACTIVE
+An interactive system or computer program is designed to involve the user in the exchange of information:
+an interactive game/video
+
+involving communication between people:
+interactive teaching methods
+
+- VERBOSE --\ (ˌ)vər-ˈbōs 
+using or containing more words than are necessary:
+a verbose explanation/report/speech/style
+
+- CURVE 
+a line that bends continuously and has no straight parts: 
+
+- PERM --\ ˈpərm
+A hairstyle produced by setting the hair in waves or curls and then treating it with chemicals so that the style lasts for several months.
+
+
 ## 3.21
 英语论坛https://forum.wordreference.com/forums/english-only.6/
 
@@ -1773,11 +1809,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNTg2MTEwOCwtNTYxODQ4MjAwLDM5Mj
-k5ODg2NCwtODkyODg0NzM1LC0xMTM0NTY4NjM3LDY4NTU0NTI1
-Nyw4NzUwMTg5MTYsLTE3Mzg5MTk2MjQsLTM3Nzk4OTQ0Myw4ND
-U5ODU0NzYsMjE5ODU0MDAzLDE3OTgyOTQ3MiwxNTI3MjMzNTgs
-LTE1MTYzMTQ0MjMsMTY4MDg5NDIwMSwxMDg2NTE2ODg0LDEyMT
-M0OTIzMzgsNDE5OTgwMTYzLDcwNjgzNTYxNCwxMDM0NTA3OTQw
-XX0=
+eyJoaXN0b3J5IjpbMjQwMzEyNTczLDE0MzU4NjExMDgsLTU2MT
+g0ODIwMCwzOTI5OTg4NjQsLTg5Mjg4NDczNSwtMTEzNDU2ODYz
+Nyw2ODU1NDUyNTcsODc1MDE4OTE2LC0xNzM4OTE5NjI0LC0zNz
+c5ODk0NDMsODQ1OTg1NDc2LDIxOTg1NDAwMywxNzk4Mjk0NzIs
+MTUyNzIzMzU4LC0xNTE2MzE0NDIzLDE2ODA4OTQyMDEsMTA4Nj
+UxNjg4NCwxMjEzNDkyMzM4LDQxOTk4MDE2Myw3MDY4MzU2MTRd
+fQ==
 -->
