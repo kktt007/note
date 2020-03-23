@@ -1,3 +1,39 @@
+这词典不错，还有视频https://www.englishlearner.com/dictionary/
+
+- playback
+the use of a machine to show pictures or play sounds that were recorded earlier
+
+We recorded the show for later playback.
+
+- continuous
+continuing without stopping or being interrupted
+
+a continuous flow of water
+
+- the continuous movement of a line of vehicles or people
+
+The new system should speed up the traffic flow.
+
+- a substance that can flow, has no fixed shape, and is not a solid or a gas
+
+a glass of colourless liquid
+
+The detergent is available as a powder or a liquid.
+
+- fluid (注意sepecially a liquid)
+A substance that has no fixed shape and yields easily to external pressure; a gas or (especially) a liquid.
+‘we all need several glasses of fluid a day’
+
+- reversal
+A substance that has no fixed shape and yields easily to external pressure; a gas or (especially) a liquid.
+‘we all need several glasses of fluid a day’
+
+- marked
+clear and noticeable
+
+- steady
+Firmly fixed, supported, or balanced; not shaking or moving.
+
 ## 3.21
 英语论坛https://forum.wordreference.com/forums/english-only.6/
 
@@ -1718,11 +1754,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg1NTQ1MjU3LDg3NTAxODkxNiwtMTczOD
-kxOTYyNCwtMzc3OTg5NDQzLDg0NTk4NTQ3NiwyMTk4NTQwMDMs
-MTc5ODI5NDcyLDE1MjcyMzM1OCwtMTUxNjMxNDQyMywxNjgwOD
-k0MjAxLDEwODY1MTY4ODQsMTIxMzQ5MjMzOCw0MTk5ODAxNjMs
-NzA2ODM1NjE0LDEwMzQ1MDc5NDAsMTUxNjI1MTM1OSwtMjA2OT
-M2ODE0LC03MTEwNzI4NzgsOTI3ODI4MjQxLDEwODc2NjM4MDFd
+eyJoaXN0b3J5IjpbLTI0NTAyNzExMiw2ODU1NDUyNTcsODc1MD
+E4OTE2LC0xNzM4OTE5NjI0LC0zNzc5ODk0NDMsODQ1OTg1NDc2
+LDIxOTg1NDAwMywxNzk4Mjk0NzIsMTUyNzIzMzU4LC0xNTE2Mz
+E0NDIzLDE2ODA4OTQyMDEsMTA4NjUxNjg4NCwxMjEzNDkyMzM4
+LDQxOTk4MDE2Myw3MDY4MzU2MTQsMTAzNDUwNzk0MCwxNTE2Mj
+UxMzU5LC0yMDY5MzY4MTQsLTcxMTA3Mjg3OCw5Mjc4MjgyNDFd
 fQ==
 -->
