@@ -40,6 +40,40 @@ http://www.lighterra.com/papers/videoencodingh264/
 
 分辨率/2.8 就是建议码率 M/S
 
+不错的词典
+http://www.finedictionary.com/durra.html
+
+https://www.wordnik.com/
+
+medical词典
+http://meddict.org/
+http://www.irishhealth.com/search.html
+https://www.healthdictionary.org/
+
+retiree
+a person who has stopped working in regular paid employment because of their age
+
+- invest
+You have all invested significant amounts of time and energy in making this project the success that it is.
+
+- severe
+ If the pain becomes severe, you may wish to contact a doctor.
+severe learning difficulties
+
+- among --\ ə-ˈməŋ
+
+- place
+to put something in a particular position: 
+
+- disengage --\ ˌdis-in-ˈgāj 注意发音，s不需要按规则，原音
+to become physically separated from something, or to make two things become physically separated:
+The door was disengaged from one of its hinges.
+
+- perform
+to do an action or piece of work:
+Computers can perform a variety of tasks.
+to entertain people by dancing, singing, acting, or playing music
+
 ### 3.23
 
 https://linux.cn/article-11422-1.html
@@ -1854,11 +1888,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3Nzc5OTM3OSwyODAzNDQ4NjAsMTg0OT
-k0MTk5NCwyNDAzMTI1NzMsMTQzNTg2MTEwOCwtNTYxODQ4MjAw
-LDM5Mjk5ODg2NCwtODkyODg0NzM1LC0xMTM0NTY4NjM3LDY4NT
-U0NTI1Nyw4NzUwMTg5MTYsLTE3Mzg5MTk2MjQsLTM3Nzk4OTQ0
-Myw4NDU5ODU0NzYsMjE5ODU0MDAzLDE3OTgyOTQ3MiwxNTI3Mj
-MzNTgsLTE1MTYzMTQ0MjMsMTY4MDg5NDIwMSwxMDg2NTE2ODg0
-XX0=
+eyJoaXN0b3J5IjpbLTEwNzU4ODg5ODIsMTM3Nzc5OTM3OSwyOD
+AzNDQ4NjAsMTg0OTk0MTk5NCwyNDAzMTI1NzMsMTQzNTg2MTEw
+OCwtNTYxODQ4MjAwLDM5Mjk5ODg2NCwtODkyODg0NzM1LC0xMT
+M0NTY4NjM3LDY4NTU0NTI1Nyw4NzUwMTg5MTYsLTE3Mzg5MTk2
+MjQsLTM3Nzk4OTQ0Myw4NDU5ODU0NzYsMjE5ODU0MDAzLDE3OT
+gyOTQ3MiwxNTI3MjMzNTgsLTE1MTYzMTQ0MjMsMTY4MDg5NDIw
+MV19
 -->
