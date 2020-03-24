@@ -74,6 +74,15 @@ to do an action or piece of work:
 Computers can perform a variety of tasks.
 to entertain people by dancing, singing, acting, or playing music
 
+- dramatic -- \ drə-ˈma-tik 
+sudden, very great and often surprising
+There has been a dramatic rise in reported crime.
+
+- plunge
+move or fall suddenly and often a long way forward, down, or into something:
+We ran down to the beach and plunged into the sea.
+
+
 ### 3.23
 
 https://linux.cn/article-11422-1.html
@@ -1888,11 +1897,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzU4ODg5ODIsMTM3Nzc5OTM3OSwyOD
-AzNDQ4NjAsMTg0OTk0MTk5NCwyNDAzMTI1NzMsMTQzNTg2MTEw
-OCwtNTYxODQ4MjAwLDM5Mjk5ODg2NCwtODkyODg0NzM1LC0xMT
-M0NTY4NjM3LDY4NTU0NTI1Nyw4NzUwMTg5MTYsLTE3Mzg5MTk2
-MjQsLTM3Nzk4OTQ0Myw4NDU5ODU0NzYsMjE5ODU0MDAzLDE3OT
-gyOTQ3MiwxNTI3MjMzNTgsLTE1MTYzMTQ0MjMsMTY4MDg5NDIw
-MV19
+eyJoaXN0b3J5IjpbNzQxMTcyMzMxLC0xMDc1ODg4OTgyLDEzNz
+c3OTkzNzksMjgwMzQ0ODYwLDE4NDk5NDE5OTQsMjQwMzEyNTcz
+LDE0MzU4NjExMDgsLTU2MTg0ODIwMCwzOTI5OTg4NjQsLTg5Mj
+g4NDczNSwtMTEzNDU2ODYzNyw2ODU1NDUyNTcsODc1MDE4OTE2
+LC0xNzM4OTE5NjI0LC0zNzc5ODk0NDMsODQ1OTg1NDc2LDIxOT
+g1NDAwMywxNzk4Mjk0NzIsMTUyNzIzMzU4LC0xNTE2MzE0NDIz
+XX0=
 -->
