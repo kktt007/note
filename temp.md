@@ -21,6 +21,25 @@ The report emphasizes the need for economic stability.
 - disorder
 an untidy state
 
+- 帧率英文为Frame Rate，单位Frame Per Second（FPS），某些情况简称FPS，指视频每秒包含的帧数。
+视频帧率最低设置为24帧，这和人眼的反应速度有关，当帧率低于这个数值时，人眼就会感觉到明显的卡顿。
+
+通常视频的帧率设置为30FPS，
+
+- 比特率，英文为Bit Rate，是指每秒传送的比特(bit)数。[1]
+单位为bps(Bit Per Second)
+比特率越高，传送的数据越大
+在视频领域,比特率常翻译为码率
+比特率是影响视频清晰度的一个重要参数
+比特率决定了视频大小 
+当比特率越大，视频清晰度就越高。其影响存在边际效应递减现象，并且存在上限（视频原始数据的画质）
+
+https://blog.csdn.net/benkaoya/article/details/79558896
+网上这篇文章「Video Encoding Settings for H.264 Excellence」，就针对H.264视频编码，测试了不同视频分辨率下的码率阈值。
+http://www.lighterra.com/papers/videoencodingh264/
+
+分辨率/2.8 就是建议码率 M/S
+
 ### 3.23
 
 https://linux.cn/article-11422-1.html
@@ -1835,11 +1854,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgwMzQ0ODYwLDE4NDk5NDE5OTQsMjQwMz
-EyNTczLDE0MzU4NjExMDgsLTU2MTg0ODIwMCwzOTI5OTg4NjQs
-LTg5Mjg4NDczNSwtMTEzNDU2ODYzNyw2ODU1NDUyNTcsODc1MD
-E4OTE2LC0xNzM4OTE5NjI0LC0zNzc5ODk0NDMsODQ1OTg1NDc2
-LDIxOTg1NDAwMywxNzk4Mjk0NzIsMTUyNzIzMzU4LC0xNTE2Mz
-E0NDIzLDE2ODA4OTQyMDEsMTA4NjUxNjg4NCwxMjEzNDkyMzM4
+eyJoaXN0b3J5IjpbMTM3Nzc5OTM3OSwyODAzNDQ4NjAsMTg0OT
+k0MTk5NCwyNDAzMTI1NzMsMTQzNTg2MTEwOCwtNTYxODQ4MjAw
+LDM5Mjk5ODg2NCwtODkyODg0NzM1LC0xMTM0NTY4NjM3LDY4NT
+U0NTI1Nyw4NzUwMTg5MTYsLTE3Mzg5MTk2MjQsLTM3Nzk4OTQ0
+Myw4NDU5ODU0NzYsMjE5ODU0MDAzLDE3OTgyOTQ3MiwxNTI3Mj
+MzNTgsLTE1MTYzMTQ0MjMsMTY4MDg5NDIwMSwxMDg2NTE2ODg0
 XX0=
 -->
