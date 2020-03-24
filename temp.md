@@ -1,4 +1,25 @@
+### 3.24
+词典https://findwords.info/term/
+https://www.abbreviations.com
+https://www.spellzone.com/dictionary/
+https://diffsense.com/diff
+https://topmeaning.com/english
 
+- breadth --\ ˈbretth
+the distance from one side to another
+
+- monospaced --/ˈmɑː.noʊ/
+ (Printing, Lithography & Bookbinding) (of printed material) having been printed in a font in which all characters have the same breadth
+
+- confusion -- \ kən-ˈfyü-zhən
+To avoid confusion, the twins never wore the same chothes.
+
+- emphasize --\ ˈem(p)-fə-ˌsīz
+To give special importance to sth.
+The report emphasizes the need for economic stability.
+
+- disorder
+an untidy state
 
 ### 3.23
 
@@ -1814,11 +1835,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MjQyNTMzMCwxODQ5OTQxOTk0LDI0MD
-MxMjU3MywxNDM1ODYxMTA4LC01NjE4NDgyMDAsMzkyOTk4ODY0
-LC04OTI4ODQ3MzUsLTExMzQ1Njg2MzcsNjg1NTQ1MjU3LDg3NT
-AxODkxNiwtMTczODkxOTYyNCwtMzc3OTg5NDQzLDg0NTk4NTQ3
-NiwyMTk4NTQwMDMsMTc5ODI5NDcyLDE1MjcyMzM1OCwtMTUxNj
-MxNDQyMywxNjgwODk0MjAxLDEwODY1MTY4ODQsMTIxMzQ5MjMz
-OF19
+eyJoaXN0b3J5IjpbMjgwMzQ0ODYwLDE4NDk5NDE5OTQsMjQwMz
+EyNTczLDE0MzU4NjExMDgsLTU2MTg0ODIwMCwzOTI5OTg4NjQs
+LTg5Mjg4NDczNSwtMTEzNDU2ODYzNyw2ODU1NDUyNTcsODc1MD
+E4OTE2LC0xNzM4OTE5NjI0LC0zNzc5ODk0NDMsODQ1OTg1NDc2
+LDIxOTg1NDAwMywxNzk4Mjk0NzIsMTUyNzIzMzU4LC0xNTE2Mz
+E0NDIzLDE2ODA4OTQyMDEsMTA4NjUxNjg4NCwxMjEzNDkyMzM4
+XX0=
 -->
