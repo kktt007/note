@@ -10,7 +10,7 @@ https://www.sinoss.net/uploadfile/2010/1119/20101119101947411.pdf
 单词对比网站，有图片
 https://www.askdifference.com/cereal-vs-grain/
 
-- 
+- characterization --\ ˌker-ik-t(ə-)rə-ˈzā-shən 听多遍发现i偏向ə,后面ə是对的，因为第一次误听成i
 
 - bran --\ ˈbran 糠
 - the outside of the grain of a cereal such as wheat or oats
@@ -1946,11 +1946,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NTU4MzY0OCwxNTU1NDA5NDkxLC0xOD
-kwMzg0NTE3LC04Nzk5NTU1NTAsLTEwNjU3MTQxODgsNzQxMTcy
-MzMxLC0xMDc1ODg4OTgyLDEzNzc3OTkzNzksMjgwMzQ0ODYwLD
-E4NDk5NDE5OTQsMjQwMzEyNTczLDE0MzU4NjExMDgsLTU2MTg0
-ODIwMCwzOTI5OTg4NjQsLTg5Mjg4NDczNSwtMTEzNDU2ODYzNy
-w2ODU1NDUyNTcsODc1MDE4OTE2LC0xNzM4OTE5NjI0LC0zNzc5
-ODk0NDNdfQ==
+eyJoaXN0b3J5IjpbOTMyMDMxMjE2LDE1NTU0MDk0OTEsLTE4OT
+AzODQ1MTcsLTg3OTk1NTU1MCwtMTA2NTcxNDE4OCw3NDExNzIz
+MzEsLTEwNzU4ODg5ODIsMTM3Nzc5OTM3OSwyODAzNDQ4NjAsMT
+g0OTk0MTk5NCwyNDAzMTI1NzMsMTQzNTg2MTEwOCwtNTYxODQ4
+MjAwLDM5Mjk5ODg2NCwtODkyODg0NzM1LC0xMTM0NTY4NjM3LD
+Y4NTU0NTI1Nyw4NzUwMTg5MTYsLTE3Mzg5MTk2MjQsLTM3Nzk4
+OTQ0M119
 -->
