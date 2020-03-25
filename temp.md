@@ -13,6 +13,8 @@ linux学习网站
 https://www.guru99.com/file-permissions.html
 https://opensource.com/article/19/6/understanding-linux-permissions
 https://opensource.com/article/19/8/understanding-file-paths-linux
+https://opensource.com/article/19/3/move-your-dotfiles-version-control
+https://www.linux-laptop.net/
 
 学习，英语，论文 相关
 https://www.lunwenspace.com/m/view.php?aid=4178
@@ -1970,11 +1972,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDA1ODY1MzksLTY1OTAxMDU2Niw5Mz
-IwMzEyMTYsMTU1NTQwOTQ5MSwtMTg5MDM4NDUxNywtODc5OTU1
-NTUwLC0xMDY1NzE0MTg4LDc0MTE3MjMzMSwtMTA3NTg4ODk4Mi
-wxMzc3Nzk5Mzc5LDI4MDM0NDg2MCwxODQ5OTQxOTk0LDI0MDMx
-MjU3MywxNDM1ODYxMTA4LC01NjE4NDgyMDAsMzkyOTk4ODY0LC
-04OTI4ODQ3MzUsLTExMzQ1Njg2MzcsNjg1NTQ1MjU3LDg3NTAx
-ODkxNl19
+eyJoaXN0b3J5IjpbNzkwNTY5NzM1LC0xNDQwNTg2NTM5LC02NT
+kwMTA1NjYsOTMyMDMxMjE2LDE1NTU0MDk0OTEsLTE4OTAzODQ1
+MTcsLTg3OTk1NTU1MCwtMTA2NTcxNDE4OCw3NDExNzIzMzEsLT
+EwNzU4ODg5ODIsMTM3Nzc5OTM3OSwyODAzNDQ4NjAsMTg0OTk0
+MTk5NCwyNDAzMTI1NzMsMTQzNTg2MTEwOCwtNTYxODQ4MjAwLD
+M5Mjk5ODg2NCwtODkyODg0NzM1LC0xMTM0NTY4NjM3LDY4NTU0
+NTI1N119
 -->
