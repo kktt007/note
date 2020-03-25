@@ -10,6 +10,8 @@ https://www.sinoss.net/uploadfile/2010/1119/20101119101947411.pdf
 单词对比网站，有图片
 https://www.askdifference.com/cereal-vs-grain/
 
+- 
+
 - bran --\ ˈbran 糠
 - the outside of the grain of a cereal such as wheat or oats
 	- grain
@@ -1944,7 +1946,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMzUxMzgzMywxNTU1NDA5NDkxLC0xOD
+eyJoaXN0b3J5IjpbLTI4NTU4MzY0OCwxNTU1NDA5NDkxLC0xOD
 kwMzg0NTE3LC04Nzk5NTU1NTAsLTEwNjU3MTQxODgsNzQxMTcy
 MzMxLC0xMDc1ODg4OTgyLDEzNzc3OTkzNzksMjgwMzQ0ODYwLD
 E4NDk5NDE5OTQsMjQwMzEyNTczLDE0MzU4NjExMDgsLTU2MTg0
