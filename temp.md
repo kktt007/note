@@ -3,7 +3,7 @@
 单词对比网站，有图片
 https://www.askdifference.com/cereal-vs-grain/
 
-- bran --\ ˈbran
+- bran --\ ˈbran 糠
 - the outside of the grain of a cereal such as wheat or oats
 	- grain
 	- the seeds from crops such as wheat, rice, or barley that are used for food
@@ -27,6 +27,7 @@ https://www.askdifference.com/cereal-vs-grain/
 		- one of various types of grass that produce grains that can be eaten or are used to make flour or bread. wheat, barley and rye are all cereals
 		- A grain used for food, such as wheat, oats, or corn
 		- a food that is made from grain and eaten with milk, especially in the morning
+
 
 ### 3.24
 词典https://findwords.info/term/
@@ -1927,11 +1928,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjU3MTQxODgsNzQxMTcyMzMxLC0xMD
-c1ODg4OTgyLDEzNzc3OTkzNzksMjgwMzQ0ODYwLDE4NDk5NDE5
-OTQsMjQwMzEyNTczLDE0MzU4NjExMDgsLTU2MTg0ODIwMCwzOT
-I5OTg4NjQsLTg5Mjg4NDczNSwtMTEzNDU2ODYzNyw2ODU1NDUy
-NTcsODc1MDE4OTE2LC0xNzM4OTE5NjI0LC0zNzc5ODk0NDMsOD
-Q1OTg1NDc2LDIxOTg1NDAwMywxNzk4Mjk0NzIsMTUyNzIzMzU4
-XX0=
+eyJoaXN0b3J5IjpbLTg3OTk1NTU1MCwtMTA2NTcxNDE4OCw3ND
+ExNzIzMzEsLTEwNzU4ODg5ODIsMTM3Nzc5OTM3OSwyODAzNDQ4
+NjAsMTg0OTk0MTk5NCwyNDAzMTI1NzMsMTQzNTg2MTEwOCwtNT
+YxODQ4MjAwLDM5Mjk5ODg2NCwtODkyODg0NzM1LC0xMTM0NTY4
+NjM3LDY4NTU0NTI1Nyw4NzUwMTg5MTYsLTE3Mzg5MTk2MjQsLT
+M3Nzk4OTQ0Myw4NDU5ODU0NzYsMjE5ODU0MDAzLDE3OTgyOTQ3
+Ml19
 -->
