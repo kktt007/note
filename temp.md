@@ -15,7 +15,7 @@ https://www.askdifference.com/cereal-vs-grain/
 			- food crops
 
 		- barley
-		-a plant that produces grain used for making food, beer, and whisky
+		- a plant that produces grain used for making food, beer, and whisky
 
 		- wheat
 		- a tall plant that produces grain for making bread and other foods
@@ -1927,11 +1927,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIwODc2ODAyLDc0MTE3MjMzMSwtMTA3NT
-g4ODk4MiwxMzc3Nzk5Mzc5LDI4MDM0NDg2MCwxODQ5OTQxOTk0
-LDI0MDMxMjU3MywxNDM1ODYxMTA4LC01NjE4NDgyMDAsMzkyOT
-k4ODY0LC04OTI4ODQ3MzUsLTExMzQ1Njg2MzcsNjg1NTQ1MjU3
-LDg3NTAxODkxNiwtMTczODkxOTYyNCwtMzc3OTg5NDQzLDg0NT
-k4NTQ3NiwyMTk4NTQwMDMsMTc5ODI5NDcyLDE1MjcyMzM1OF19
-
+eyJoaXN0b3J5IjpbLTEwNjU3MTQxODgsNzQxMTcyMzMxLC0xMD
+c1ODg4OTgyLDEzNzc3OTkzNzksMjgwMzQ0ODYwLDE4NDk5NDE5
+OTQsMjQwMzEyNTczLDE0MzU4NjExMDgsLTU2MTg0ODIwMCwzOT
+I5OTg4NjQsLTg5Mjg4NDczNSwtMTEzNDU2ODYzNyw2ODU1NDUy
+NTcsODc1MDE4OTE2LC0xNzM4OTE5NjI0LC0zNzc5ODk0NDMsOD
+Q1OTg1NDc2LDIxOTg1NDAwMywxNzk4Mjk0NzIsMTUyNzIzMzU4
+XX0=
 -->
