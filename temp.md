@@ -1,4 +1,18 @@
 ### 3.25
+- compression
+the act of pressing something into a smaller space or putting pressure on it from different sides until it gets smaller:
+
+- decompressive \ ˌdē-kəm-ˈpres-iv
+
+- decompress
+To relieve of pressure or compression.
+to make an unpleasant feeling, such as pain or worry, less strong:
+She was given a shot of morphine to relieve the pain.
+
+linux学习网站
+https://www.guru99.com/file-permissions.html
+https://opensource.com/article/19/6/understanding-linux-permissions
+https://opensource.com/article/19/8/understanding-file-paths-linux
 
 学习，英语，论文 相关
 https://www.lunwenspace.com/m/view.php?aid=4178
@@ -1956,11 +1970,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1OTAxMDU2Niw5MzIwMzEyMTYsMTU1NT
-QwOTQ5MSwtMTg5MDM4NDUxNywtODc5OTU1NTUwLC0xMDY1NzE0
-MTg4LDc0MTE3MjMzMSwtMTA3NTg4ODk4MiwxMzc3Nzk5Mzc5LD
-I4MDM0NDg2MCwxODQ5OTQxOTk0LDI0MDMxMjU3MywxNDM1ODYx
-MTA4LC01NjE4NDgyMDAsMzkyOTk4ODY0LC04OTI4ODQ3MzUsLT
-ExMzQ1Njg2MzcsNjg1NTQ1MjU3LDg3NTAxODkxNiwtMTczODkx
-OTYyNF19
+eyJoaXN0b3J5IjpbLTE0NDA1ODY1MzksLTY1OTAxMDU2Niw5Mz
+IwMzEyMTYsMTU1NTQwOTQ5MSwtMTg5MDM4NDUxNywtODc5OTU1
+NTUwLC0xMDY1NzE0MTg4LDc0MTE3MjMzMSwtMTA3NTg4ODk4Mi
+wxMzc3Nzk5Mzc5LDI4MDM0NDg2MCwxODQ5OTQxOTk0LDI0MDMx
+MjU3MywxNDM1ODYxMTA4LC01NjE4NDgyMDAsMzkyOTk4ODY0LC
+04OTI4ODQ3MzUsLTExMzQ1Njg2MzcsNjg1NTQ1MjU3LDg3NTAx
+ODkxNl19
 -->
