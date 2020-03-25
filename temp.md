@@ -28,6 +28,15 @@ https://www.askdifference.com/cereal-vs-grain/
 		- A grain used for food, such as wheat, oats, or corn
 		- a food that is made from grain and eaten with milk, especially in the morning
 
+- nerve
+- a group of long, thin fibres (= structures like threads) that carry information or instructions between the brain and other parts of the body:
+
+- the courage or confidence necessary to do something difficult, unpleasant, or rude
+- She was a bundle of nerves (= very nervous) before the audition.
+
+- audition \ ȯ-ˈdi-shən
+- a short performance given by an actor, a singer, etc., so that somebody can decide whether they are suitable to act in a play, sing in a concert, etc.
+
 
 ### 3.24
 词典https://findwords.info/term/
@@ -1928,11 +1937,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3OTk1NTU1MCwtMTA2NTcxNDE4OCw3ND
-ExNzIzMzEsLTEwNzU4ODg5ODIsMTM3Nzc5OTM3OSwyODAzNDQ4
-NjAsMTg0OTk0MTk5NCwyNDAzMTI1NzMsMTQzNTg2MTEwOCwtNT
-YxODQ4MjAwLDM5Mjk5ODg2NCwtODkyODg0NzM1LC0xMTM0NTY4
-NjM3LDY4NTU0NTI1Nyw4NzUwMTg5MTYsLTE3Mzg5MTk2MjQsLT
-M3Nzk4OTQ0Myw4NDU5ODU0NzYsMjE5ODU0MDAzLDE3OTgyOTQ3
-Ml19
+eyJoaXN0b3J5IjpbLTE4OTAzODQ1MTcsLTg3OTk1NTU1MCwtMT
+A2NTcxNDE4OCw3NDExNzIzMzEsLTEwNzU4ODg5ODIsMTM3Nzc5
+OTM3OSwyODAzNDQ4NjAsMTg0OTk0MTk5NCwyNDAzMTI1NzMsMT
+QzNTg2MTEwOCwtNTYxODQ4MjAwLDM5Mjk5ODg2NCwtODkyODg0
+NzM1LC0xMTM0NTY4NjM3LDY4NTU0NTI1Nyw4NzUwMTg5MTYsLT
+E3Mzg5MTk2MjQsLTM3Nzk4OTQ0Myw4NDU5ODU0NzYsMjE5ODU0
+MDAzXX0=
 -->
