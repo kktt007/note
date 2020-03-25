@@ -11,6 +11,16 @@ https://www.sinoss.net/uploadfile/2010/1119/20101119101947411.pdf
 https://www.askdifference.com/cereal-vs-grain/
 
 - characterization --\ ˌker-ik-t(ə-)rə-ˈzā-shən 听多遍发现i偏向ə,后面ə是对的，因为第一次误听成i
+- the way that people are represented in a film, play, or book so that they seem real and natural:
+The plots in her books are very strong but there's almost no characterization.
+The film's characterization of the artist as a complete drunk has annoyed a lot of people.
+the way that a writer makes characters in a book or play seem real
+
+    a work of comic brilliance and masterly characterization
+
+- a description of the most typical or important characteristics of someone or something:
+I don’t agree with your characterization of my home town as a boring place to live.
+
 
 - bran --\ ˈbran 糠
 - the outside of the grain of a cereal such as wheat or oats
@@ -1946,11 +1956,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMyMDMxMjE2LDE1NTU0MDk0OTEsLTE4OT
-AzODQ1MTcsLTg3OTk1NTU1MCwtMTA2NTcxNDE4OCw3NDExNzIz
-MzEsLTEwNzU4ODg5ODIsMTM3Nzc5OTM3OSwyODAzNDQ4NjAsMT
-g0OTk0MTk5NCwyNDAzMTI1NzMsMTQzNTg2MTEwOCwtNTYxODQ4
-MjAwLDM5Mjk5ODg2NCwtODkyODg0NzM1LC0xMTM0NTY4NjM3LD
-Y4NTU0NTI1Nyw4NzUwMTg5MTYsLTE3Mzg5MTk2MjQsLTM3Nzk4
-OTQ0M119
+eyJoaXN0b3J5IjpbLTY1OTAxMDU2Niw5MzIwMzEyMTYsMTU1NT
+QwOTQ5MSwtMTg5MDM4NDUxNywtODc5OTU1NTUwLC0xMDY1NzE0
+MTg4LDc0MTE3MjMzMSwtMTA3NTg4ODk4MiwxMzc3Nzk5Mzc5LD
+I4MDM0NDg2MCwxODQ5OTQxOTk0LDI0MDMxMjU3MywxNDM1ODYx
+MTA4LC01NjE4NDgyMDAsMzkyOTk4ODY0LC04OTI4ODQ3MzUsLT
+ExMzQ1Njg2MzcsNjg1NTQ1MjU3LDg3NTAxODkxNiwtMTczODkx
+OTYyNF19
 -->
