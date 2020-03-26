@@ -1,5 +1,8 @@
 ### 3.26
 比如experience 这个词，要理解，就必须会从句子中提炼
+the things that have happened to you that influence the way you think and behave
+
+-   Experience has taught me that life can be very unfair.
 
 解释帮你找一条路线，大致的轮廓
 例句帮你找到这个词的感觉，所包含的内涵
@@ -2029,11 +2032,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NDg5MTAyMyw3OTA1Njk3MzUsLTE0ND
-A1ODY1MzksLTY1OTAxMDU2Niw5MzIwMzEyMTYsMTU1NTQwOTQ5
-MSwtMTg5MDM4NDUxNywtODc5OTU1NTUwLC0xMDY1NzE0MTg4LD
-c0MTE3MjMzMSwtMTA3NTg4ODk4MiwxMzc3Nzk5Mzc5LDI4MDM0
-NDg2MCwxODQ5OTQxOTk0LDI0MDMxMjU3MywxNDM1ODYxMTA4LC
-01NjE4NDgyMDAsMzkyOTk4ODY0LC04OTI4ODQ3MzUsLTExMzQ1
-Njg2MzddfQ==
+eyJoaXN0b3J5IjpbOTUzMTExODc5LDc5MDU2OTczNSwtMTQ0MD
+U4NjUzOSwtNjU5MDEwNTY2LDkzMjAzMTIxNiwxNTU1NDA5NDkx
+LC0xODkwMzg0NTE3LC04Nzk5NTU1NTAsLTEwNjU3MTQxODgsNz
+QxMTcyMzMxLC0xMDc1ODg4OTgyLDEzNzc3OTkzNzksMjgwMzQ0
+ODYwLDE4NDk5NDE5OTQsMjQwMzEyNTczLDE0MzU4NjExMDgsLT
+U2MTg0ODIwMCwzOTI5OTg4NjQsLTg5Mjg4NDczNSwtMTEzNDU2
+ODYzN119
 -->
