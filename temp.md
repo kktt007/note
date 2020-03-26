@@ -3,7 +3,9 @@
 the things that have happened to you that influence the way you think and behave
 
 -   Experience has taught me that life can be very unfair.
+the knowledge and skill that you have gained through doing something for a period of time; the process of gaining this
 
+    My lack of practical experience was a disadvantage.
 解释帮你找一条路线，大致的轮廓
 例句帮你找到这个词的感觉，所包含的内涵
 一定要根据例句，找到画面感，不能靠想象。1个肯定不够，至少3个对比过，来找到，对比，确定他的真正内涵。
@@ -2032,11 +2034,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUzMTExODc5LDc5MDU2OTczNSwtMTQ0MD
-U4NjUzOSwtNjU5MDEwNTY2LDkzMjAzMTIxNiwxNTU1NDA5NDkx
-LC0xODkwMzg0NTE3LC04Nzk5NTU1NTAsLTEwNjU3MTQxODgsNz
-QxMTcyMzMxLC0xMDc1ODg4OTgyLDEzNzc3OTkzNzksMjgwMzQ0
-ODYwLDE4NDk5NDE5OTQsMjQwMzEyNTczLDE0MzU4NjExMDgsLT
-U2MTg0ODIwMCwzOTI5OTg4NjQsLTg5Mjg4NDczNSwtMTEzNDU2
-ODYzN119
+eyJoaXN0b3J5IjpbLTU5OTM0MTEwMiw5NTMxMTE4NzksNzkwNT
+Y5NzM1LC0xNDQwNTg2NTM5LC02NTkwMTA1NjYsOTMyMDMxMjE2
+LDE1NTU0MDk0OTEsLTE4OTAzODQ1MTcsLTg3OTk1NTU1MCwtMT
+A2NTcxNDE4OCw3NDExNzIzMzEsLTEwNzU4ODg5ODIsMTM3Nzc5
+OTM3OSwyODAzNDQ4NjAsMTg0OTk0MTk5NCwyNDAzMTI1NzMsMT
+QzNTg2MTEwOCwtNTYxODQ4MjAwLDM5Mjk5ODg2NCwtODkyODg0
+NzM1XX0=
 -->
