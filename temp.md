@@ -1,3 +1,57 @@
+解释帮你找一条路线，大致的轮廓
+例句帮你找到这个词的感觉，所包含的内涵
+一定要根据例句，找到画面感，不能靠想象。1个肯定不够，至少3个对比过，来找到，对比，确定他的真正内涵。
+必须在茫茫中找到最真的那个，而不被干扰
+
+https://baike.baidu.com/item/%E5%A4%A7%E5%AD%A6%E4%B8%93%E4%B8%9A/3632681
+
+noun [singular] (informal) Idioms synonym countable, uncountable "Word Family" (in adjectives) topics
+
+产品分析http://www.woshipm.com/
+mechanical 
+The plane appeared to have crashed because of a mechanical problem.
+without thinking about what you are doing, especially because you do something often:
+He gave a mechanical response.
+
+
+mechanics
+the particular way something works or happens:
+the goals are the same, but the mechanics for achieveing the goals differ greatly.
+
+physically 
+Special holidays are available for physically handicapped/disabled people (= those lacking the full use of part of their body).
+
+AVAILABLE
+If someone is available, the have enough time to do something.
+Are you available Thursday morning for for a conference call?
+
+differ
+The twins look alike, but they differ in temperament.
+
+universe --\ ˈyü-nə-ˌvərs ə基本是i,发ə也不错，看习惯和个人表达
+the whole of space and everything in it, including the earth, the planets and the stars
+
+temperament --\ ˈtem-p(ə-)rə-mənt 根据规则，确实p是b
+a person’s or an animal’s nature as shown in the way they behave or react to situations or people
+
+    to have an artistic temperament
+
+
+conservation
+the protection of the natural environment
+to be interested in wildlife conversation
+
+nature
+the usual way that a person or an animal behaves that is part of their character
+
+usual
+that happens or is done most of the time of in most cases
+
+
+qualified
+having passed the exams or completed the training that are necessary in order to do a particular job; having the experience to do a particular job
+a qualified teacher/doctor
+
 ### 3.25
 - compression
 the act of pressing something into a smaller space or putting pressure on it from different sides until it gets smaller:
@@ -1972,11 +2026,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkwNTY5NzM1LC0xNDQwNTg2NTM5LC02NT
-kwMTA1NjYsOTMyMDMxMjE2LDE1NTU0MDk0OTEsLTE4OTAzODQ1
-MTcsLTg3OTk1NTU1MCwtMTA2NTcxNDE4OCw3NDExNzIzMzEsLT
-EwNzU4ODg5ODIsMTM3Nzc5OTM3OSwyODAzNDQ4NjAsMTg0OTk0
-MTk5NCwyNDAzMTI1NzMsMTQzNTg2MTEwOCwtNTYxODQ4MjAwLD
-M5Mjk5ODg2NCwtODkyODg0NzM1LC0xMTM0NTY4NjM3LDY4NTU0
-NTI1N119
+eyJoaXN0b3J5IjpbMTM1MDE2MTIxMiw3OTA1Njk3MzUsLTE0ND
+A1ODY1MzksLTY1OTAxMDU2Niw5MzIwMzEyMTYsMTU1NTQwOTQ5
+MSwtMTg5MDM4NDUxNywtODc5OTU1NTUwLC0xMDY1NzE0MTg4LD
+c0MTE3MjMzMSwtMTA3NTg4ODk4MiwxMzc3Nzk5Mzc5LDI4MDM0
+NDg2MCwxODQ5OTQxOTk0LDI0MDMxMjU3MywxNDM1ODYxMTA4LC
+01NjE4NDgyMDAsMzkyOTk4ODY0LC04OTI4ODQ3MzUsLTExMzQ1
+Njg2MzddfQ==
 -->
