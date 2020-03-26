@@ -1,3 +1,6 @@
+### 3.26
+比如experience 这个词，要理解，就必须会从句子中提炼
+
 解释帮你找一条路线，大致的轮廓
 例句帮你找到这个词的感觉，所包含的内涵
 一定要根据例句，找到画面感，不能靠想象。1个肯定不够，至少3个对比过，来找到，对比，确定他的真正内涵。
@@ -2026,7 +2029,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MDE2MTIxMiw3OTA1Njk3MzUsLTE0ND
+eyJoaXN0b3J5IjpbMjA4NDg5MTAyMyw3OTA1Njk3MzUsLTE0ND
 A1ODY1MzksLTY1OTAxMDU2Niw5MzIwMzEyMTYsMTU1NTQwOTQ5
 MSwtMTg5MDM4NDUxNywtODc5OTU1NTUwLC0xMDY1NzE0MTg4LD
 c0MTE3MjMzMSwtMTA3NTg4ODk4MiwxMzc3Nzk5Mzc5LDI4MDM0
