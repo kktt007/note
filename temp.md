@@ -1,4 +1,64 @@
+### 3.27 
+http://www.finedictionary.com
 
+https://www.englishpractice.com/topics/common-mistakes/page/2/
+
+https://www.thoughtco.com/esl-4133095
+
+https://pronuncian.com/
+
+http://www.antimoon.com/
+https://thesoundofenglish.org/audio/
+
+the sound of english pronunciation
+
+ex-在词首有三种发音：［igz］［iks］或［eks］
+
+基本规律是：
+
+1.以“ex”开头的单词，不管其后为何音素，只要第一个音节为重读或次重读的，“ex”发［eks］
+2.以“ex”开头的单词，其重音落在第二个音节上，且其后为元音音素的，“ex”发［igz］
+3.以“ex”开头的单词，其重音落在第二个音节上，且其后为辅音音素的，“ek”发［iks］
+
+
+explanation
+\ ˌek-splə-ˈnā-shən
+
+- pronounce --\ prə-ˈnau̇n(t)s
+- The ‘b’ in lamb is not pronounced.
+- I hesitate to pronounce judgement in such a case.
+
+- tongue --\ ˈtəŋ noun. verb. 
+
+- vowel --\ ˈvau̇(-ə)l
+- a letter that represents a sound produced in this way:
+The vowels in English are a, e, i, o, and u.
+- a speech sound produced by humans when the breath flows out through the mouth without being blocked by the teeth, tongue, or lips:
+A short vowel is a short sound as in the word "cup".
+A long vowel is a long sound as in the word "shoe".
+
+- consonant --\ ˈkän(t)-s(ə-)nənt
+- a speech sound produced by human beings when the breath that flows out through the mouth is blocked by the teeth, tongue, or lips
+
+
+- speech
+the language used when talking:
+Some expressions are used more in speech than in writing.
+
+- flow
+- to move in one direction, especially continuously and easily: 
+- Many short rivers flow into the Pacific Ocean.
+
+- swallow
+- to cause food, drink, pills, etc. to move from your mouth into your stomach by using the muscles of your throat: 
+
+- flesh
+- The soft part of the body of a person or animal that is between the skin and the bones, or the soft inside part of a fruit or vegetable
+
+- adverb
+- a word that adds more information about place, time, manner, cause or degree to a verb, an adjective, a phrase or another adverb
+
+    In ‘speak kindly’, ‘incredibly deep’, ‘just in time’ and ‘too quickly’, ‘kindly’, ‘incredibly’, ‘just’ and ‘too’ are all adverbs.
 
 ### 3.26
 比如experience 这个词，要理解，就必须会从句子中提炼
@@ -2038,7 +2098,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMTUwODUxLDk1MzExMTg3OSw3OTA1Nj
+eyJoaXN0b3J5IjpbMzg1Nzk5MzczLDk1MzExMTg3OSw3OTA1Nj
 k3MzUsLTE0NDA1ODY1MzksLTY1OTAxMDU2Niw5MzIwMzEyMTYs
 MTU1NTQwOTQ5MSwtMTg5MDM4NDUxNywtODc5OTU1NTUwLC0xMD
 Y1NzE0MTg4LDc0MTE3MjMzMSwtMTA3NTg4ODk4MiwxMzc3Nzk5
