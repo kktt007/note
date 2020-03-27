@@ -1,4 +1,9 @@
 ### 3.27 
+
+- outbreak 
+- a sudden appearance of something, esp. of a disease or something else dangerous or unpleasant:
+- an outbreak of cholera
+- the outbreak of war
 http://www.finedictionary.com
 
 https://www.englishpractice.com/topics/common-mistakes/page/2/
@@ -2098,11 +2103,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg1Nzk5MzczLDk1MzExMTg3OSw3OTA1Nj
-k3MzUsLTE0NDA1ODY1MzksLTY1OTAxMDU2Niw5MzIwMzEyMTYs
-MTU1NTQwOTQ5MSwtMTg5MDM4NDUxNywtODc5OTU1NTUwLC0xMD
-Y1NzE0MTg4LDc0MTE3MjMzMSwtMTA3NTg4ODk4MiwxMzc3Nzk5
-Mzc5LDI4MDM0NDg2MCwxODQ5OTQxOTk0LDI0MDMxMjU3MywxND
-M1ODYxMTA4LC01NjE4NDgyMDAsMzkyOTk4ODY0LC04OTI4ODQ3
-MzVdfQ==
+eyJoaXN0b3J5IjpbLTE3MTE3Mjc1MDUsMzg1Nzk5MzczLDk1Mz
+ExMTg3OSw3OTA1Njk3MzUsLTE0NDA1ODY1MzksLTY1OTAxMDU2
+Niw5MzIwMzEyMTYsMTU1NTQwOTQ5MSwtMTg5MDM4NDUxNywtOD
+c5OTU1NTUwLC0xMDY1NzE0MTg4LDc0MTE3MjMzMSwtMTA3NTg4
+ODk4MiwxMzc3Nzk5Mzc5LDI4MDM0NDg2MCwxODQ5OTQxOTk0LD
+I0MDMxMjU3MywxNDM1ODYxMTA4LC01NjE4NDgyMDAsMzkyOTk4
+ODY0XX0=
 -->
