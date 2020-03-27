@@ -1,4 +1,25 @@
 ### 3.27 
+- bother
+- to make the effort to do something: 
+- to spend time and/or energy doing something
+
+    ‘Shall I wait?’ ‘No, don't bother’.
+- I don't know why I bother! Nobody ever listens!
+
+- to make someone feel worried or upset:
+Does it bother you that he's out so much of the time?
+
+- effort
+- an attempt to do something especially when it is difficult to do
+- Please make an effort to be on time.
+
+- affort -- \ ə-ˈfekt
+
+- effort -- \ i-ˈfekt
+
+Affect is usually a verb, meaning to influence or act upon. 
+Effect is usually a noun, meaning the result of an action.
+
 
 - outbreak 
 - a sudden appearance of something, esp. of a disease or something else dangerous or unpleasant:
@@ -2103,11 +2124,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTE3Mjc1MDUsMzg1Nzk5MzczLDk1Mz
-ExMTg3OSw3OTA1Njk3MzUsLTE0NDA1ODY1MzksLTY1OTAxMDU2
-Niw5MzIwMzEyMTYsMTU1NTQwOTQ5MSwtMTg5MDM4NDUxNywtOD
-c5OTU1NTUwLC0xMDY1NzE0MTg4LDc0MTE3MjMzMSwtMTA3NTg4
-ODk4MiwxMzc3Nzk5Mzc5LDI4MDM0NDg2MCwxODQ5OTQxOTk0LD
-I0MDMxMjU3MywxNDM1ODYxMTA4LC01NjE4NDgyMDAsMzkyOTk4
-ODY0XX0=
+eyJoaXN0b3J5IjpbLTE1OTk2OTg1ODMsLTE3MTE3Mjc1MDUsMz
+g1Nzk5MzczLDk1MzExMTg3OSw3OTA1Njk3MzUsLTE0NDA1ODY1
+MzksLTY1OTAxMDU2Niw5MzIwMzEyMTYsMTU1NTQwOTQ5MSwtMT
+g5MDM4NDUxNywtODc5OTU1NTUwLC0xMDY1NzE0MTg4LDc0MTE3
+MjMzMSwtMTA3NTg4ODk4MiwxMzc3Nzk5Mzc5LDI4MDM0NDg2MC
+wxODQ5OTQxOTk0LDI0MDMxMjU3MywxNDM1ODYxMTA4LC01NjE4
+NDgyMDBdfQ==
 -->
