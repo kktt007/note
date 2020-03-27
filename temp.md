@@ -1,4 +1,6 @@
 ### 3.27 
+- polish \ ˈpä-lish
+to rub something using a piece of cloth or brush to clean it and make it shine:
 
 https://www.mingyantong.com/tags/22813
 
@@ -2127,11 +2129,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk4MTQzNzk0LC0xNTk5Njk4NTgzLC0xNz
-ExNzI3NTA1LDM4NTc5OTM3Myw5NTMxMTE4NzksNzkwNTY5NzM1
-LC0xNDQwNTg2NTM5LC02NTkwMTA1NjYsOTMyMDMxMjE2LDE1NT
-U0MDk0OTEsLTE4OTAzODQ1MTcsLTg3OTk1NTU1MCwtMTA2NTcx
-NDE4OCw3NDExNzIzMzEsLTEwNzU4ODg5ODIsMTM3Nzc5OTM3OS
-wyODAzNDQ4NjAsMTg0OTk0MTk5NCwyNDAzMTI1NzMsMTQzNTg2
-MTEwOF19
+eyJoaXN0b3J5IjpbLTcxNDQyMjY2LDc5ODE0Mzc5NCwtMTU5OT
+Y5ODU4MywtMTcxMTcyNzUwNSwzODU3OTkzNzMsOTUzMTExODc5
+LDc5MDU2OTczNSwtMTQ0MDU4NjUzOSwtNjU5MDEwNTY2LDkzMj
+AzMTIxNiwxNTU1NDA5NDkxLC0xODkwMzg0NTE3LC04Nzk5NTU1
+NTAsLTEwNjU3MTQxODgsNzQxMTcyMzMxLC0xMDc1ODg4OTgyLD
+EzNzc3OTkzNzksMjgwMzQ0ODYwLDE4NDk5NDE5OTQsMjQwMzEy
+NTczXX0=
 -->
