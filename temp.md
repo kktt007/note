@@ -1,5 +1,9 @@
 ### 3.28
 
+larry selinker 石化现象
+
+http://blog.sciencenet.cn/home.php?mod=space&uid=39731
+
 "word" + news / article 去寻找或直接google里建议查找经典的词
 
 这词典有意思
@@ -2231,11 +2235,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4ODE5MDcyMSwtNTYyMjkzODg5LDc5OD
-E0Mzc5NCwtMTU5OTY5ODU4MywtMTcxMTcyNzUwNSwzODU3OTkz
-NzMsOTUzMTExODc5LDc5MDU2OTczNSwtMTQ0MDU4NjUzOSwtNj
-U5MDEwNTY2LDkzMjAzMTIxNiwxNTU1NDA5NDkxLC0xODkwMzg0
-NTE3LC04Nzk5NTU1NTAsLTEwNjU3MTQxODgsNzQxMTcyMzMxLC
-0xMDc1ODg4OTgyLDEzNzc3OTkzNzksMjgwMzQ0ODYwLDE4NDk5
-NDE5OTRdfQ==
+eyJoaXN0b3J5IjpbLTE5NjYzMDM5NjgsLTk4ODE5MDcyMSwtNT
+YyMjkzODg5LDc5ODE0Mzc5NCwtMTU5OTY5ODU4MywtMTcxMTcy
+NzUwNSwzODU3OTkzNzMsOTUzMTExODc5LDc5MDU2OTczNSwtMT
+Q0MDU4NjUzOSwtNjU5MDEwNTY2LDkzMjAzMTIxNiwxNTU1NDA5
+NDkxLC0xODkwMzg0NTE3LC04Nzk5NTU1NTAsLTEwNjU3MTQxOD
+gsNzQxMTcyMzMxLC0xMDc1ODg4OTgyLDEzNzc3OTkzNzksMjgw
+MzQ0ODYwXX0=
 -->
