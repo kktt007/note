@@ -1,5 +1,7 @@
 ### 3.28
 
+"word" + news / article 去寻找或直接google里建议查找经典的词
+
 这词典有意思
 https://www.mathsisfun.com/definitions/deviation.html
 http://www.businessdictionary.com/definition/deviation.html
@@ -9,7 +11,7 @@ http://www.businessdictionary.com/definition/deviation.html
 - center \ ˈsen-tər UK centre
 - She's the centre of attention everywhere she goes.
  Standard Deviation vs. Average Deviation
-"word" + news / article 去
+
 
 - REMOTE
 - They live in a remote corner of Scotland, miles from the nearest shop.
@@ -2229,11 +2231,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODYyOTk0NzcsLTU2MjI5Mzg4OSw3OT
-gxNDM3OTQsLTE1OTk2OTg1ODMsLTE3MTE3Mjc1MDUsMzg1Nzk5
-MzczLDk1MzExMTg3OSw3OTA1Njk3MzUsLTE0NDA1ODY1MzksLT
-Y1OTAxMDU2Niw5MzIwMzEyMTYsMTU1NTQwOTQ5MSwtMTg5MDM4
-NDUxNywtODc5OTU1NTUwLC0xMDY1NzE0MTg4LDc0MTE3MjMzMS
-wtMTA3NTg4ODk4MiwxMzc3Nzk5Mzc5LDI4MDM0NDg2MCwxODQ5
-OTQxOTk0XX0=
+eyJoaXN0b3J5IjpbLTk4ODE5MDcyMSwtNTYyMjkzODg5LDc5OD
+E0Mzc5NCwtMTU5OTY5ODU4MywtMTcxMTcyNzUwNSwzODU3OTkz
+NzMsOTUzMTExODc5LDc5MDU2OTczNSwtMTQ0MDU4NjUzOSwtNj
+U5MDEwNTY2LDkzMjAzMTIxNiwxNTU1NDA5NDkxLC0xODkwMzg0
+NTE3LC04Nzk5NTU1NTAsLTEwNjU3MTQxODgsNzQxMTcyMzMxLC
+0xMDc1ODg4OTgyLDEzNzc3OTkzNzksMjgwMzQ0ODYwLDE4NDk5
+NDE5OTRdfQ==
 -->
