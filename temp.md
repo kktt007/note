@@ -1,4 +1,11 @@
 ### 3.28
+
+这词典有意思
+https://www.mathsisfun.com/definitions/deviation.html
+http://www.businessdictionary.com/definition/deviation.html
+
+- deviation  \ ˌdē-vē-ˈā-shən
+- a variation that deviates from the standard or norm
 - center \ ˈsen-tər UK centre
 - She's the centre of attention everywhere she goes.
 
@@ -2220,11 +2227,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MjI5Mzg4OSw3OTgxNDM3OTQsLTE1OT
-k2OTg1ODMsLTE3MTE3Mjc1MDUsMzg1Nzk5MzczLDk1MzExMTg3
-OSw3OTA1Njk3MzUsLTE0NDA1ODY1MzksLTY1OTAxMDU2Niw5Mz
-IwMzEyMTYsMTU1NTQwOTQ5MSwtMTg5MDM4NDUxNywtODc5OTU1
-NTUwLC0xMDY1NzE0MTg4LDc0MTE3MjMzMSwtMTA3NTg4ODk4Mi
-wxMzc3Nzk5Mzc5LDI4MDM0NDg2MCwxODQ5OTQxOTk0LDI0MDMx
-MjU3M119
+eyJoaXN0b3J5IjpbLTEyODUzMjkyMDAsLTU2MjI5Mzg4OSw3OT
+gxNDM3OTQsLTE1OTk2OTg1ODMsLTE3MTE3Mjc1MDUsMzg1Nzk5
+MzczLDk1MzExMTg3OSw3OTA1Njk3MzUsLTE0NDA1ODY1MzksLT
+Y1OTAxMDU2Niw5MzIwMzEyMTYsMTU1NTQwOTQ5MSwtMTg5MDM4
+NDUxNywtODc5OTU1NTUwLC0xMDY1NzE0MTg4LDc0MTE3MjMzMS
+wtMTA3NTg4ODk4MiwxMzc3Nzk5Mzc5LDI4MDM0NDg2MCwxODQ5
+OTQxOTk0XX0=
 -->
