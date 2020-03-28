@@ -8,6 +8,7 @@ http://www.businessdictionary.com/definition/deviation.html
 - a variation that deviates from the standard or norm
 - center \ ˈsen-tər UK centre
 - She's the centre of attention everywhere she goes.
+ Standard Deviation vs. Average Deviation
 
 - REMOTE
 - They live in a remote corner of Scotland, miles from the nearest shop.
@@ -2227,7 +2228,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODUzMjkyMDAsLTU2MjI5Mzg4OSw3OT
+eyJoaXN0b3J5IjpbLTE0MjM1NTYyNjcsLTU2MjI5Mzg4OSw3OT
 gxNDM3OTQsLTE1OTk2OTg1ODMsLTE3MTE3Mjc1MDUsMzg1Nzk5
 MzczLDk1MzExMTg3OSw3OTA1Njk3MzUsLTE0NDA1ODY1MzksLT
 Y1OTAxMDU2Niw5MzIwMzEyMTYsMTU1NTQwOTQ5MSwtMTg5MDM4
