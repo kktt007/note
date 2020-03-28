@@ -1,3 +1,92 @@
+### 3.28
+- center \ ˈsen-tər UK centre
+- She's the centre of attention everywhere she goes.
+
+- REMOTE
+- They live in a remote corner of Scotland, miles from the nearest shop.
+
+- review
+- Please rate and review your purchase on our website.
+-to look again at something you have studied, especially in order to prepare for an exam
+
+- semester \ sə-ˈme-stər 
+- one of the periods into which a year is divided at a college or university, especially in the US and Australia:
+the first/second semester
+
+- college
+- a university where students can study for a degree after they have left school
+- She's now in her first year of college.
+
+- university -- \ ˌyü-nə-ˈvər-sə-tē 注意发音ə后面发,i ，其他不变
+
+- qualification -- \ ˌkwä-lə-fə-ˈkā-shən 都是ə
+- an official record showing that you have finished a training course or have the necessary skills, etc.:
+You'll never get a good job if you don't have any qualifications.
+-  an exam that you have passed or a course of study that you have successfully completed
+
+    academic/educational/professional/vocational qualifications
+
+- activity
+-  a thing that somebody does in order to achieve a particular aim
+
+    criminal/terrorist/illegal activities
+
+- squash \ ˈskwäsh
+- to push yourself, a person, or thing into a small space:
+The room was so full you couldn't squash another person in.
+-  We all squashed into the back of the car.
+- The tomatoes at the bottom of the bag had been squashed.
+
+- crush 
+- The car was completely crushed under the truck.
+-  to press something so hard that it is damaged or injured, or loses its shape
+
+- hard
+- Ooh, you're a hard woman, Elaine!
+
+- gentle
+- calm, kind, or soft; not violent or severe: 
+
+- severe
+- extremely bad or serious
+
+    His injuries are severe.
+- severe weather/storms
+
+- steep 
+- rising or falling quickly, not gradually
+
+    a steep hill/slope
+    a steep climb/descent/drop
+    a steep flight of stairs
+
+- informal. He wants to move in here with us? That’s a bit steep!
+
+- climb \ ˈklīm 注意b，不发音 verb.
+
+- noun. an act or process of climbing: 
+- We were very tired after our climb.
+- It's a steep climb to the top of the mountain, but the view is worth it.
+
+- violent
+- The more violent scenes in the film were cut when it was shown on television.
+- He yells a lot but I don't think he's ever been physically violent towards her.
+
+- event \ i-ˈvent 
+
+- yell 
+- The child yelled out in pain.
+
+- essential \ i-ˈsen(t)-shəl
+- connected with the most important aspect or basic nature of somebody/something synonym fundamental
+
+    The essential difference between Sara and me is in our attitude to money.
+- an essential element/ingredient/component of something
+
+- as if/ as thogh
+- in a way that makes it seem that something is true or that something is happening
+- said to show that you do not believe something is possible:
+"Did you get a raise?" "As if!"
 
 
 ### 3.27 
@@ -2131,11 +2220,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE2NDY2NTYyLDc5ODE0Mzc5NCwtMTU5OT
-Y5ODU4MywtMTcxMTcyNzUwNSwzODU3OTkzNzMsOTUzMTExODc5
-LDc5MDU2OTczNSwtMTQ0MDU4NjUzOSwtNjU5MDEwNTY2LDkzMj
-AzMTIxNiwxNTU1NDA5NDkxLC0xODkwMzg0NTE3LC04Nzk5NTU1
-NTAsLTEwNjU3MTQxODgsNzQxMTcyMzMxLC0xMDc1ODg4OTgyLD
-EzNzc3OTkzNzksMjgwMzQ0ODYwLDE4NDk5NDE5OTQsMjQwMzEy
-NTczXX0=
+eyJoaXN0b3J5IjpbLTU2MjI5Mzg4OSw3OTgxNDM3OTQsLTE1OT
+k2OTg1ODMsLTE3MTE3Mjc1MDUsMzg1Nzk5MzczLDk1MzExMTg3
+OSw3OTA1Njk3MzUsLTE0NDA1ODY1MzksLTY1OTAxMDU2Niw5Mz
+IwMzEyMTYsMTU1NTQwOTQ5MSwtMTg5MDM4NDUxNywtODc5OTU1
+NTUwLC0xMDY1NzE0MTg4LDc0MTE3MjMzMSwtMTA3NTg4ODk4Mi
+wxMzc3Nzk5Mzc5LDI4MDM0NDg2MCwxODQ5OTQxOTk0LDI0MDMx
+MjU3M119
 -->
