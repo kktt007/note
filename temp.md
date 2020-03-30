@@ -7,7 +7,14 @@ https://www.2daygeek.com/category/linux-commands/
 - a short description of the contents of something such as a film or book
 
 - execute \ ˈek-si-ˌkyüt k也阻碍，s正常，注意发音
-- 
+- to make a [computer](https://dictionary.cambridge.org/dictionary/english/computer "computer") [program](https://dictionary.cambridge.org/dictionary/english/program "program") or [instruction](https://dictionary.cambridge.org/dictionary/english/instruction "instruction") [work](https://dictionary.cambridge.org/dictionary/english/work "work"):
+
+- punish
+- to cause someone who has done something wrong or committed a crime to suffer, 
+
+- suffer
+- to experience physical or mental pain:
+I think he suffered a lot when his wife left him.
 
 总结一个音节，气出完，需要阻碍，元音末尾，几乎是阻碍，轻声的。
 
@@ -2256,11 +2263,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NDY3MjQ3LDI3MDY5NzYyMiwtMjAwMz
-EzNjE4Niw3NTMwNzkwNjYsLTk4ODE5MDcyMSwtNTYyMjkzODg5
-LDc5ODE0Mzc5NCwtMTU5OTY5ODU4MywtMTcxMTcyNzUwNSwzOD
-U3OTkzNzMsOTUzMTExODc5LDc5MDU2OTczNSwtMTQ0MDU4NjUz
-OSwtNjU5MDEwNTY2LDkzMjAzMTIxNiwxNTU1NDA5NDkxLC0xOD
-kwMzg0NTE3LC04Nzk5NTU1NTAsLTEwNjU3MTQxODgsNzQxMTcy
-MzMxXX0=
+eyJoaXN0b3J5IjpbMTg0NTAxOTcyOSwyNzA2OTc2MjIsLTIwMD
+MxMzYxODYsNzUzMDc5MDY2LC05ODgxOTA3MjEsLTU2MjI5Mzg4
+OSw3OTgxNDM3OTQsLTE1OTk2OTg1ODMsLTE3MTE3Mjc1MDUsMz
+g1Nzk5MzczLDk1MzExMTg3OSw3OTA1Njk3MzUsLTE0NDA1ODY1
+MzksLTY1OTAxMDU2Niw5MzIwMzEyMTYsMTU1NTQwOTQ5MSwtMT
+g5MDM4NDUxNywtODc5OTU1NTUwLC0xMDY1NzE0MTg4LDc0MTE3
+MjMzMV19
 -->
