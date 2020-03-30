@@ -1,6 +1,22 @@
 ### 3.30
 https://www.2daygeek.com/category/linux-commands/
 
+- exit \ ˈeg-zət
+
+- synopsis \ sə-ˈnäp-səs p阻碍，注意发音
+- a short description of the contents of something such as a film or book
+
+- execute \ ˈek-si-ˌkyüt k也阻碍，s正常，注意发音
+
+总结一个音节，气出完，需要阻碍，元音末尾，几乎是阻碍，轻声的。
+
+the door through which you might leave a building or large vehicle, or the act of leaving something, especially a theatre stage: 
+
+- miscellaneous  \ ˌmi-sə-ˈlā-nē-əs
+
+
+- library  \ ˈlī-ˌbrer-ē 
+
 ### 3.28
 
 larry selinker 石化现象
@@ -2238,11 +2254,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUzMDc5MDY2LC05ODgxOTA3MjEsLTU2Mj
-I5Mzg4OSw3OTgxNDM3OTQsLTE1OTk2OTg1ODMsLTE3MTE3Mjc1
-MDUsMzg1Nzk5MzczLDk1MzExMTg3OSw3OTA1Njk3MzUsLTE0ND
-A1ODY1MzksLTY1OTAxMDU2Niw5MzIwMzEyMTYsMTU1NTQwOTQ5
-MSwtMTg5MDM4NDUxNywtODc5OTU1NTUwLC0xMDY1NzE0MTg4LD
-c0MTE3MjMzMSwtMTA3NTg4ODk4MiwxMzc3Nzk5Mzc5LDI4MDM0
-NDg2MF19
+eyJoaXN0b3J5IjpbLTIwMDMxMzYxODYsNzUzMDc5MDY2LC05OD
+gxOTA3MjEsLTU2MjI5Mzg4OSw3OTgxNDM3OTQsLTE1OTk2OTg1
+ODMsLTE3MTE3Mjc1MDUsMzg1Nzk5MzczLDk1MzExMTg3OSw3OT
+A1Njk3MzUsLTE0NDA1ODY1MzksLTY1OTAxMDU2Niw5MzIwMzEy
+MTYsMTU1NTQwOTQ5MSwtMTg5MDM4NDUxNywtODc5OTU1NTUwLC
+0xMDY1NzE0MTg4LDc0MTE3MjMzMSwtMTA3NTg4ODk4MiwxMzc3
+Nzk5Mzc5XX0=
 -->
