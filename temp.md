@@ -16,6 +16,10 @@ https://www.2daygeek.com/category/linux-commands/
 - execute \ ˈek-si-ˌkyüt k也阻碍，s正常，注意发音
 - to make a [computer](https://dictionary.cambridge.org/dictionary/english/computer "computer") [program](https://dictionary.cambridge.org/dictionary/english/program "program") or [instruction](https://dictionary.cambridge.org/dictionary/english/instruction "instruction") [work](https://dictionary.cambridge.org/dictionary/english/work "work"):
 
+- routine
+a usual or fixed way of doing things:
+There's no set/fixed routine at work - every day is different.
+
 - punish
 - to cause someone who has done something wrong or committed a crime to suffer, 
 
@@ -2277,11 +2281,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NzA3MjE1OCwtMTA2NDE3MDQ2MywxNT
-cwMzYzNzQ0LC0xODU0MTkzNTg0LC0zNzYxOTY1MDcsMTg0NTAx
-OTcyOSwyNzA2OTc2MjIsLTIwMDMxMzYxODYsNzUzMDc5MDY2LC
-05ODgxOTA3MjEsLTU2MjI5Mzg4OSw3OTgxNDM3OTQsLTE1OTk2
-OTg1ODMsLTE3MTE3Mjc1MDUsMzg1Nzk5MzczLDk1MzExMTg3OS
-w3OTA1Njk3MzUsLTE0NDA1ODY1MzksLTY1OTAxMDU2Niw5MzIw
-MzEyMTZdfQ==
+eyJoaXN0b3J5IjpbMTc3MjkyMjU0LC0yODcwNzIxNTgsLTEwNj
+QxNzA0NjMsMTU3MDM2Mzc0NCwtMTg1NDE5MzU4NCwtMzc2MTk2
+NTA3LDE4NDUwMTk3MjksMjcwNjk3NjIyLC0yMDAzMTM2MTg2LD
+c1MzA3OTA2NiwtOTg4MTkwNzIxLC01NjIyOTM4ODksNzk4MTQz
+Nzk0LC0xNTk5Njk4NTgzLC0xNzExNzI3NTA1LDM4NTc5OTM3My
+w5NTMxMTE4NzksNzkwNTY5NzM1LC0xNDQwNTg2NTM5LC02NTkw
+MTA1NjZdfQ==
 -->
