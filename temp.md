@@ -7,6 +7,7 @@ https://www.2daygeek.com/category/linux-commands/
 - a short description of the contents of something such as a film or book
 
 - execute \ ˈek-si-ˌkyüt k也阻碍，s正常，注意发音
+- 
 
 总结一个音节，气出完，需要阻碍，元音末尾，几乎是阻碍，轻声的。
 
@@ -2255,11 +2256,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcwNjk3NjIyLC0yMDAzMTM2MTg2LDc1Mz
-A3OTA2NiwtOTg4MTkwNzIxLC01NjIyOTM4ODksNzk4MTQzNzk0
-LC0xNTk5Njk4NTgzLC0xNzExNzI3NTA1LDM4NTc5OTM3Myw5NT
-MxMTE4NzksNzkwNTY5NzM1LC0xNDQwNTg2NTM5LC02NTkwMTA1
-NjYsOTMyMDMxMjE2LDE1NTU0MDk0OTEsLTE4OTAzODQ1MTcsLT
-g3OTk1NTU1MCwtMTA2NTcxNDE4OCw3NDExNzIzMzEsLTEwNzU4
-ODg5ODJdfQ==
+eyJoaXN0b3J5IjpbLTQ0NDY3MjQ3LDI3MDY5NzYyMiwtMjAwMz
+EzNjE4Niw3NTMwNzkwNjYsLTk4ODE5MDcyMSwtNTYyMjkzODg5
+LDc5ODE0Mzc5NCwtMTU5OTY5ODU4MywtMTcxMTcyNzUwNSwzOD
+U3OTkzNzMsOTUzMTExODc5LDc5MDU2OTczNSwtMTQ0MDU4NjUz
+OSwtNjU5MDEwNTY2LDkzMjAzMTIxNiwxNTU1NDA5NDkxLC0xOD
+kwMzg0NTE3LC04Nzk5NTU1NTAsLTEwNjU3MTQxODgsNzQxMTcy
+MzMxXX0=
 -->
