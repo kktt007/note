@@ -2,6 +2,7 @@
 
 能查看各种包在各种发行版的软件
 https://repology.org/project/fcitx-table-extra/versions
+能看到上游:https://packages.aosc.io/packages/fcitx-table-extra
 
 查单词网站
 https://www.wordreference.com/definition/
@@ -2285,11 +2286,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjIzOTQ4NywxNzcyOTIyNTQsLTI4Nz
-A3MjE1OCwtMTA2NDE3MDQ2MywxNTcwMzYzNzQ0LC0xODU0MTkz
-NTg0LC0zNzYxOTY1MDcsMTg0NTAxOTcyOSwyNzA2OTc2MjIsLT
-IwMDMxMzYxODYsNzUzMDc5MDY2LC05ODgxOTA3MjEsLTU2MjI5
-Mzg4OSw3OTgxNDM3OTQsLTE1OTk2OTg1ODMsLTE3MTE3Mjc1MD
-UsMzg1Nzk5MzczLDk1MzExMTg3OSw3OTA1Njk3MzUsLTE0NDA1
-ODY1MzldfQ==
+eyJoaXN0b3J5IjpbOTM2MDgzNTgwLC0xMzYyMzk0ODcsMTc3Mj
+kyMjU0LC0yODcwNzIxNTgsLTEwNjQxNzA0NjMsMTU3MDM2Mzc0
+NCwtMTg1NDE5MzU4NCwtMzc2MTk2NTA3LDE4NDUwMTk3MjksMj
+cwNjk3NjIyLC0yMDAzMTM2MTg2LDc1MzA3OTA2NiwtOTg4MTkw
+NzIxLC01NjIyOTM4ODksNzk4MTQzNzk0LC0xNTk5Njk4NTgzLC
+0xNzExNzI3NTA1LDM4NTc5OTM3Myw5NTMxMTE4NzksNzkwNTY5
+NzM1XX0=
 -->
