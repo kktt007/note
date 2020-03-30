@@ -27,6 +27,10 @@ the door through which you might leave a building or large vehicle, or the act o
 - library  \ ˈlī-ˌbrer-ē 
 - a building, room, or organization that has a collection, especially of books, for people to read or borrow, usually without payment
 
+- convention
+- a large formal meeting of people who do a particular job or have a similar interest, or a large meeting for a political party: 
+- the national Democratic convention
+
 - prisoner \ ˈpriz-nər 注意发音，n确实承前启后
 
 ### 3.28
@@ -2266,11 +2270,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NjE5NjUwNywxODQ1MDE5NzI5LDI3MD
-Y5NzYyMiwtMjAwMzEzNjE4Niw3NTMwNzkwNjYsLTk4ODE5MDcy
-MSwtNTYyMjkzODg5LDc5ODE0Mzc5NCwtMTU5OTY5ODU4MywtMT
-cxMTcyNzUwNSwzODU3OTkzNzMsOTUzMTExODc5LDc5MDU2OTcz
-NSwtMTQ0MDU4NjUzOSwtNjU5MDEwNTY2LDkzMjAzMTIxNiwxNT
-U1NDA5NDkxLC0xODkwMzg0NTE3LC04Nzk5NTU1NTAsLTEwNjU3
-MTQxODhdfQ==
+eyJoaXN0b3J5IjpbLTE4NTQxOTM1ODQsLTM3NjE5NjUwNywxOD
+Q1MDE5NzI5LDI3MDY5NzYyMiwtMjAwMzEzNjE4Niw3NTMwNzkw
+NjYsLTk4ODE5MDcyMSwtNTYyMjkzODg5LDc5ODE0Mzc5NCwtMT
+U5OTY5ODU4MywtMTcxMTcyNzUwNSwzODU3OTkzNzMsOTUzMTEx
+ODc5LDc5MDU2OTczNSwtMTQ0MDU4NjUzOSwtNjU5MDEwNTY2LD
+kzMjAzMTIxNiwxNTU1NDA5NDkxLC0xODkwMzg0NTE3LC04Nzk5
+NTU1NTBdfQ==
 -->
