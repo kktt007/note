@@ -6,7 +6,7 @@ https://www.wordwebonline.com/
 
 https://www.2daygeek.com/category/linux-commands/
 
-- author \ ˈȯ-thər th是驻华一
+- author \ ˈȯ-thər th是ð 美音里th θ 都部分音标显示的
 
 - exit \ ˈeg-zət
 
@@ -2277,11 +2277,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjQxNzA0NjMsMTU3MDM2Mzc0NCwtMT
-g1NDE5MzU4NCwtMzc2MTk2NTA3LDE4NDUwMTk3MjksMjcwNjk3
-NjIyLC0yMDAzMTM2MTg2LDc1MzA3OTA2NiwtOTg4MTkwNzIxLC
-01NjIyOTM4ODksNzk4MTQzNzk0LC0xNTk5Njk4NTgzLC0xNzEx
-NzI3NTA1LDM4NTc5OTM3Myw5NTMxMTE4NzksNzkwNTY5NzM1LC
-0xNDQwNTg2NTM5LC02NTkwMTA1NjYsOTMyMDMxMjE2LDE1NTU0
-MDk0OTFdfQ==
+eyJoaXN0b3J5IjpbLTI4NzA3MjE1OCwtMTA2NDE3MDQ2MywxNT
+cwMzYzNzQ0LC0xODU0MTkzNTg0LC0zNzYxOTY1MDcsMTg0NTAx
+OTcyOSwyNzA2OTc2MjIsLTIwMDMxMzYxODYsNzUzMDc5MDY2LC
+05ODgxOTA3MjEsLTU2MjI5Mzg4OSw3OTgxNDM3OTQsLTE1OTk2
+OTg1ODMsLTE3MTE3Mjc1MDUsMzg1Nzk5MzczLDk1MzExMTg3OS
+w3OTA1Njk3MzUsLTE0NDA1ODY1MzksLTY1OTAxMDU2Niw5MzIw
+MzEyMTZdfQ==
 -->
