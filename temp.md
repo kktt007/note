@@ -21,9 +21,12 @@ I think he suffered a lot when his wife left him.
 the door through which you might leave a building or large vehicle, or the act of leaving something, especially a theatre stage: 
 
 - miscellaneous  \ ˌmi-sə-ˈlā-nē-əs
+- consisting of a [mixture](https://dictionary.cambridge.org/dictionary/english/mixture "mixture") of [various](https://dictionary.cambridge.org/dictionary/english/various "various") things that are not usually [connected](https://dictionary.cambridge.org/dictionary/english/connected "connected") with each other:
 
 
 - library  \ ˈlī-ˌbrer-ē 
+- a building, room, or organization that has a collection, especially of books, for people to read or borrow, usually without payment
+
 - prisoner \ ˈpriz-nər 注意发音，n确实承前启后
 
 ### 3.28
@@ -2263,11 +2266,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NTAxOTcyOSwyNzA2OTc2MjIsLTIwMD
-MxMzYxODYsNzUzMDc5MDY2LC05ODgxOTA3MjEsLTU2MjI5Mzg4
-OSw3OTgxNDM3OTQsLTE1OTk2OTg1ODMsLTE3MTE3Mjc1MDUsMz
-g1Nzk5MzczLDk1MzExMTg3OSw3OTA1Njk3MzUsLTE0NDA1ODY1
-MzksLTY1OTAxMDU2Niw5MzIwMzEyMTYsMTU1NTQwOTQ5MSwtMT
-g5MDM4NDUxNywtODc5OTU1NTUwLC0xMDY1NzE0MTg4LDc0MTE3
-MjMzMV19
+eyJoaXN0b3J5IjpbLTM3NjE5NjUwNywxODQ1MDE5NzI5LDI3MD
+Y5NzYyMiwtMjAwMzEzNjE4Niw3NTMwNzkwNjYsLTk4ODE5MDcy
+MSwtNTYyMjkzODg5LDc5ODE0Mzc5NCwtMTU5OTY5ODU4MywtMT
+cxMTcyNzUwNSwzODU3OTkzNzMsOTUzMTExODc5LDc5MDU2OTcz
+NSwtMTQ0MDU4NjUzOSwtNjU5MDEwNTY2LDkzMjAzMTIxNiwxNT
+U1NDA5NDkxLC0xODkwMzg0NTE3LC04Nzk5NTU1NTAsLTEwNjU3
+MTQxODhdfQ==
 -->
