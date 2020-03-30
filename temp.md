@@ -1,5 +1,7 @@
 ### 3.30
 
+能查看各种包在各种发行版的软件
+https://repology.org/project/fcitx-table-extra/versions
 
 查单词网站
 https://www.wordreference.com/definition/
@@ -2283,7 +2285,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMTEyNjk4MiwxNzcyOTIyNTQsLTI4Nz
+eyJoaXN0b3J5IjpbLTEzNjIzOTQ4NywxNzcyOTIyNTQsLTI4Nz
 A3MjE1OCwtMTA2NDE3MDQ2MywxNTcwMzYzNzQ0LC0xODU0MTkz
 NTg0LC0zNzYxOTY1MDcsMTg0NTAxOTcyOSwyNzA2OTc2MjIsLT
 IwMDMxMzYxODYsNzUzMDc5MDY2LC05ODgxOTA3MjEsLTU2MjI5
