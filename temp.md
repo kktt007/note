@@ -16,7 +16,7 @@ the door through which you might leave a building or large vehicle, or the act o
 
 
 - library  \ ˈlī-ˌbrer-ē 
-- p
+- prisoner \ ˈpriz-nər 注意发音，n确实承前启后
 
 ### 3.28
 
@@ -2255,11 +2255,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDg1NjY0OTMsLTIwMDMxMzYxODYsNz
-UzMDc5MDY2LC05ODgxOTA3MjEsLTU2MjI5Mzg4OSw3OTgxNDM3
-OTQsLTE1OTk2OTg1ODMsLTE3MTE3Mjc1MDUsMzg1Nzk5MzczLD
-k1MzExMTg3OSw3OTA1Njk3MzUsLTE0NDA1ODY1MzksLTY1OTAx
-MDU2Niw5MzIwMzEyMTYsMTU1NTQwOTQ5MSwtMTg5MDM4NDUxNy
-wtODc5OTU1NTUwLC0xMDY1NzE0MTg4LDc0MTE3MjMzMSwtMTA3
-NTg4ODk4Ml19
+eyJoaXN0b3J5IjpbMjcwNjk3NjIyLC0yMDAzMTM2MTg2LDc1Mz
+A3OTA2NiwtOTg4MTkwNzIxLC01NjIyOTM4ODksNzk4MTQzNzk0
+LC0xNTk5Njk4NTgzLC0xNzExNzI3NTA1LDM4NTc5OTM3Myw5NT
+MxMTE4NzksNzkwNTY5NzM1LC0xNDQwNTg2NTM5LC02NTkwMTA1
+NjYsOTMyMDMxMjE2LDE1NTU0MDk0OTEsLTE4OTAzODQ1MTcsLT
+g3OTk1NTU1MCwtMTA2NTcxNDE4OCw3NDExNzIzMzEsLTEwNzU4
+ODg5ODJdfQ==
 -->
