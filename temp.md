@@ -6,7 +6,7 @@ https://www.wordwebonline.com/
 
 https://www.2daygeek.com/category/linux-commands/
 
-
+- author \ ˈȯ-thər th是驻华一
 
 - exit \ ˈeg-zət
 
@@ -2277,11 +2277,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAyMDk5NzE2LDE1NzAzNjM3NDQsLTE4NT
-QxOTM1ODQsLTM3NjE5NjUwNywxODQ1MDE5NzI5LDI3MDY5NzYy
-MiwtMjAwMzEzNjE4Niw3NTMwNzkwNjYsLTk4ODE5MDcyMSwtNT
-YyMjkzODg5LDc5ODE0Mzc5NCwtMTU5OTY5ODU4MywtMTcxMTcy
-NzUwNSwzODU3OTkzNzMsOTUzMTExODc5LDc5MDU2OTczNSwtMT
-Q0MDU4NjUzOSwtNjU5MDEwNTY2LDkzMjAzMTIxNiwxNTU1NDA5
-NDkxXX0=
+eyJoaXN0b3J5IjpbLTEwNjQxNzA0NjMsMTU3MDM2Mzc0NCwtMT
+g1NDE5MzU4NCwtMzc2MTk2NTA3LDE4NDUwMTk3MjksMjcwNjk3
+NjIyLC0yMDAzMTM2MTg2LDc1MzA3OTA2NiwtOTg4MTkwNzIxLC
+01NjIyOTM4ODksNzk4MTQzNzk0LC0xNTk5Njk4NTgzLC0xNzEx
+NzI3NTA1LDM4NTc5OTM3Myw5NTMxMTE4NzksNzkwNTY5NzM1LC
+0xNDQwNTg2NTM5LC02NTkwMTA1NjYsOTMyMDMxMjE2LDE1NTU0
+MDk0OTFdfQ==
 -->
