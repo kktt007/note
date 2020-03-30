@@ -1,4 +1,8 @@
 ### 3.30
+查单词网站
+https://www.wordreference.com/definition/
+https://www.englishlearner.com/
+https://www.wordwebonline.com/
 https://www.2daygeek.com/category/linux-commands/
 
 - exit \ ˈeg-zət
@@ -2270,11 +2274,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTQxOTM1ODQsLTM3NjE5NjUwNywxOD
-Q1MDE5NzI5LDI3MDY5NzYyMiwtMjAwMzEzNjE4Niw3NTMwNzkw
-NjYsLTk4ODE5MDcyMSwtNTYyMjkzODg5LDc5ODE0Mzc5NCwtMT
-U5OTY5ODU4MywtMTcxMTcyNzUwNSwzODU3OTkzNzMsOTUzMTEx
-ODc5LDc5MDU2OTczNSwtMTQ0MDU4NjUzOSwtNjU5MDEwNTY2LD
-kzMjAzMTIxNiwxNTU1NDA5NDkxLC0xODkwMzg0NTE3LC04Nzk5
-NTU1NTBdfQ==
+eyJoaXN0b3J5IjpbMTQ1OTY2MTY4MiwtMTg1NDE5MzU4NCwtMz
+c2MTk2NTA3LDE4NDUwMTk3MjksMjcwNjk3NjIyLC0yMDAzMTM2
+MTg2LDc1MzA3OTA2NiwtOTg4MTkwNzIxLC01NjIyOTM4ODksNz
+k4MTQzNzk0LC0xNTk5Njk4NTgzLC0xNzExNzI3NTA1LDM4NTc5
+OTM3Myw5NTMxMTE4NzksNzkwNTY5NzM1LC0xNDQwNTg2NTM5LC
+02NTkwMTA1NjYsOTMyMDMxMjE2LDE1NTU0MDk0OTEsLTE4OTAz
+ODQ1MTddfQ==
 -->
