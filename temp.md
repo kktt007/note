@@ -1,6 +1,7 @@
 ### 3.30
 
 能查看各种包在各种发行版的软件
+https://pkgs.org/
 https://repology.org/project/fcitx-table-extra/versions
 能看到上游:https://packages.aosc.io/packages/fcitx-table-extra
 
@@ -2286,11 +2287,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM2MDgzNTgwLC0xMzYyMzk0ODcsMTc3Mj
-kyMjU0LC0yODcwNzIxNTgsLTEwNjQxNzA0NjMsMTU3MDM2Mzc0
-NCwtMTg1NDE5MzU4NCwtMzc2MTk2NTA3LDE4NDUwMTk3MjksMj
-cwNjk3NjIyLC0yMDAzMTM2MTg2LDc1MzA3OTA2NiwtOTg4MTkw
-NzIxLC01NjIyOTM4ODksNzk4MTQzNzk0LC0xNTk5Njk4NTgzLC
-0xNzExNzI3NTA1LDM4NTc5OTM3Myw5NTMxMTE4NzksNzkwNTY5
-NzM1XX0=
+eyJoaXN0b3J5IjpbNTQ1MzQyOTg1LDkzNjA4MzU4MCwtMTM2Mj
+M5NDg3LDE3NzI5MjI1NCwtMjg3MDcyMTU4LC0xMDY0MTcwNDYz
+LDE1NzAzNjM3NDQsLTE4NTQxOTM1ODQsLTM3NjE5NjUwNywxOD
+Q1MDE5NzI5LDI3MDY5NzYyMiwtMjAwMzEzNjE4Niw3NTMwNzkw
+NjYsLTk4ODE5MDcyMSwtNTYyMjkzODg5LDc5ODE0Mzc5NCwtMT
+U5OTY5ODU4MywtMTcxMTcyNzUwNSwzODU3OTkzNzMsOTUzMTEx
+ODc5XX0=
 -->
