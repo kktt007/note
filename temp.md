@@ -2,7 +2,7 @@
 dictionary \ ˈdik-shə-ˌner-ē 以后作为典型发音n n 
 
 whatsoever \ ˌ(h)wät-sə-ˈwe-vər t略读，s后面ə 发ou，不解，可能是自然连读产生的。
-
+importance \ im-ˈpȯr-tᵊn(t)s t可发阻碍或稍微明显点的d，后一个(t)和s相连，以前以为是不用读，现在才知道是和s连读ts
 https://www.zhihu.com/question/20165553
 今天想了一个胆量，问题，居然看到马云，我不昨晚刚看吗，还有
 斯蒂芬·克拉申(Stephen D. Krashen)的第二语言习理论，我不刚看完没多久吗。
@@ -2301,11 +2301,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMzI4ODY3MSwtMjk5ODIxMTM2LDE2Nj
-Q4ODMzODEsLTIwNzYwODE4MTgsNTQ1MzQyOTg1LDkzNjA4MzU4
-MCwtMTM2MjM5NDg3LDE3NzI5MjI1NCwtMjg3MDcyMTU4LC0xMD
-Y0MTcwNDYzLDE1NzAzNjM3NDQsLTE4NTQxOTM1ODQsLTM3NjE5
-NjUwNywxODQ1MDE5NzI5LDI3MDY5NzYyMiwtMjAwMzEzNjE4Ni
-w3NTMwNzkwNjYsLTk4ODE5MDcyMSwtNTYyMjkzODg5LDc5ODE0
-Mzc5NF19
+eyJoaXN0b3J5IjpbMTk4NDIyMDE5LDE5MzMyODg2NzEsLTI5OT
+gyMTEzNiwxNjY0ODgzMzgxLC0yMDc2MDgxODE4LDU0NTM0Mjk4
+NSw5MzYwODM1ODAsLTEzNjIzOTQ4NywxNzcyOTIyNTQsLTI4Nz
+A3MjE1OCwtMTA2NDE3MDQ2MywxNTcwMzYzNzQ0LC0xODU0MTkz
+NTg0LC0zNzYxOTY1MDcsMTg0NTAxOTcyOSwyNzA2OTc2MjIsLT
+IwMDMxMzYxODYsNzUzMDc5MDY2LC05ODgxOTA3MjEsLTU2MjI5
+Mzg4OV19
 -->
