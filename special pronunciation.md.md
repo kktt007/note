@@ -10,7 +10,6 @@ optical -- \ ˈäp-ti-kəl 发d g 阻碍 阻碍，第一音节出气明显，p�
 
 2音节 active -- \ ˈak-tiv k也是阻碍的，t在forvo中也是阻碍的(虽然在m-w不阻碍)，以末尾整体状态参考，出气，所以，k相反，阻碍
 
-
 - n是起阻碍的 l也是，后面不阻碍，
 - r和m不阻碍，后面要阻碍，以后遇到r,m大胆的拖一点ə
 以上2规则，在2音节中，扮演元音角色，起反作用规则。
@@ -92,11 +91,11 @@ solid --\ ˈsä-ləd ə又成了e的音
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTU1NDAwMDgsLTIwMjY1NDQwMTUsLT
-c0ODgxNTgyNCwyNjQ0NDU0MDMsMTIzOTc2Mjg5OSwtOTA5NTU4
-NjE1LDE1NTk0MjM3NDQsLTg1NTAyNDcxNyw2MTk4MjI5MDksNj
-kwMzU1NTUsLTEyNjg0MjcyMTcsMTcyNDE5MTk2MiwxOTc2NTg0
-NTc5LC02ODk3ODQ5NjMsMTUwNzk5NzUxNywtOTUzMDE4NzE5LC
-05NTM1NzI1NDIsNzUyNzEyODc3LC0xMDE5NDg5NTc0LDU4NTI5
-MDQwOV19
+eyJoaXN0b3J5IjpbMjAyMzIzNzU0LC0yMDI2NTQ0MDE1LC03ND
+g4MTU4MjQsMjY0NDQ1NDAzLDEyMzk3NjI4OTksLTkwOTU1ODYx
+NSwxNTU5NDIzNzQ0LC04NTUwMjQ3MTcsNjE5ODIyOTA5LDY5MD
+M1NTU1LC0xMjY4NDI3MjE3LDE3MjQxOTE5NjIsMTk3NjU4NDU3
+OSwtNjg5Nzg0OTYzLDE1MDc5OTc1MTcsLTk1MzAxODcxOSwtOT
+UzNTcyNTQyLDc1MjcxMjg3NywtMTAxOTQ4OTU3NCw1ODUyOTA0
+MDldfQ==
 -->
