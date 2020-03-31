@@ -8,7 +8,7 @@ optical -- \ ˈäp-ti-kəl 发d g 阻碍 阻碍，第一音节出气明显，p�
 1. 没有辅音，看第二个 同化
 2. 看末尾辅音，同化，
 
-2音节 active -- \ ˈak-tiv k也是阻碍的，t在forvo中也是阻碍的(虽然在m-w不阻碍)，以末尾整体状态参考，出气，所以，k相反，阻碍
+2音节整体 active -- \ ˈak-tiv k也是阻碍的，t在forvo中也是阻碍的(虽然在m-w不阻碍)，以末尾整体状态参考，出气，所以，k相反，阻碍
 
 - n是起阻碍的 l也是，后面不阻碍，
 - r和m不阻碍，后面要阻碍，以后遇到r,m大胆的拖一点ə
@@ -91,11 +91,11 @@ solid --\ ˈsä-ləd ə又成了e的音
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMzY3NTQxOSwyMDIzMjM3NTQsLTIwMj
-Y1NDQwMTUsLTc0ODgxNTgyNCwyNjQ0NDU0MDMsMTIzOTc2Mjg5
-OSwtOTA5NTU4NjE1LDE1NTk0MjM3NDQsLTg1NTAyNDcxNyw2MT
-k4MjI5MDksNjkwMzU1NTUsLTEyNjg0MjcyMTcsMTcyNDE5MTk2
-MiwxOTc2NTg0NTc5LC02ODk3ODQ5NjMsMTUwNzk5NzUxNywtOT
-UzMDE4NzE5LC05NTM1NzI1NDIsNzUyNzEyODc3LC0xMDE5NDg5
-NTc0XX0=
+eyJoaXN0b3J5IjpbLTE0NDI5NzE5NDAsMTMwMzY3NTQxOSwyMD
+IzMjM3NTQsLTIwMjY1NDQwMTUsLTc0ODgxNTgyNCwyNjQ0NDU0
+MDMsMTIzOTc2Mjg5OSwtOTA5NTU4NjE1LDE1NTk0MjM3NDQsLT
+g1NTAyNDcxNyw2MTk4MjI5MDksNjkwMzU1NTUsLTEyNjg0Mjcy
+MTcsMTcyNDE5MTk2MiwxOTc2NTg0NTc5LC02ODk3ODQ5NjMsMT
+UwNzk5NzUxNywtOTUzMDE4NzE5LC05NTM1NzI1NDIsNzUyNzEy
+ODc3XX0=
 -->
