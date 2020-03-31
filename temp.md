@@ -1,4 +1,5 @@
 ### 3.31
+dictionary \ ˈdik-shə-ˌner-ē 以后作为典型发音n n 
 https://www.zhihu.com/question/20165553
 今天想了一个胆量，问题，居然看到马云，我不昨晚刚看吗，还有
 斯蒂芬·克拉申(Stephen D. Krashen)的第二语言习理论，我不刚看完没多久吗。
@@ -2295,11 +2296,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NDg4MzM4MSwtMjA3NjA4MTgxOCw1ND
-UzNDI5ODUsOTM2MDgzNTgwLC0xMzYyMzk0ODcsMTc3MjkyMjU0
-LC0yODcwNzIxNTgsLTEwNjQxNzA0NjMsMTU3MDM2Mzc0NCwtMT
-g1NDE5MzU4NCwtMzc2MTk2NTA3LDE4NDUwMTk3MjksMjcwNjk3
-NjIyLC0yMDAzMTM2MTg2LDc1MzA3OTA2NiwtOTg4MTkwNzIxLC
-01NjIyOTM4ODksNzk4MTQzNzk0LC0xNTk5Njk4NTgzLC0xNzEx
-NzI3NTA1XX0=
+eyJoaXN0b3J5IjpbLTI5OTgyMTEzNiwxNjY0ODgzMzgxLC0yMD
+c2MDgxODE4LDU0NTM0Mjk4NSw5MzYwODM1ODAsLTEzNjIzOTQ4
+NywxNzcyOTIyNTQsLTI4NzA3MjE1OCwtMTA2NDE3MDQ2MywxNT
+cwMzYzNzQ0LC0xODU0MTkzNTg0LC0zNzYxOTY1MDcsMTg0NTAx
+OTcyOSwyNzA2OTc2MjIsLTIwMDMxMzYxODYsNzUzMDc5MDY2LC
+05ODgxOTA3MjEsLTU2MjI5Mzg4OSw3OTgxNDM3OTQsLTE1OTk2
+OTg1ODNdfQ==
 -->
