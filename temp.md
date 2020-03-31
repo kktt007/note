@@ -1,4 +1,6 @@
 ### 3.31
+今天才知道这么久的发音，不仅为了自己，也是为了更好的解决听力问题。
+
 dictionary \ ˈdik-shə-ˌner-ē 以后作为典型发音n n 
 
 whatsoever \ ˌ(h)wät-sə-ˈwe-vər t略读，s后面ə 发ou，不解，可能是自然连读产生的。
@@ -2305,11 +2307,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDc3MzMxNDksLTk0NTI2MzAzMSwxOT
-MzMjg4NjcxLC0yOTk4MjExMzYsMTY2NDg4MzM4MSwtMjA3NjA4
-MTgxOCw1NDUzNDI5ODUsOTM2MDgzNTgwLC0xMzYyMzk0ODcsMT
-c3MjkyMjU0LC0yODcwNzIxNTgsLTEwNjQxNzA0NjMsMTU3MDM2
-Mzc0NCwtMTg1NDE5MzU4NCwtMzc2MTk2NTA3LDE4NDUwMTk3Mj
-ksMjcwNjk3NjIyLC0yMDAzMTM2MTg2LDc1MzA3OTA2NiwtOTg4
-MTkwNzIxXX0=
+eyJoaXN0b3J5IjpbNTAzNjE1MTIwLC05NDUyNjMwMzEsMTkzMz
+I4ODY3MSwtMjk5ODIxMTM2LDE2NjQ4ODMzODEsLTIwNzYwODE4
+MTgsNTQ1MzQyOTg1LDkzNjA4MzU4MCwtMTM2MjM5NDg3LDE3Nz
+I5MjI1NCwtMjg3MDcyMTU4LC0xMDY0MTcwNDYzLDE1NzAzNjM3
+NDQsLTE4NTQxOTM1ODQsLTM3NjE5NjUwNywxODQ1MDE5NzI5LD
+I3MDY5NzYyMiwtMjAwMzEzNjE4Niw3NTMwNzkwNjYsLTk4ODE5
+MDcyMV19
 -->
