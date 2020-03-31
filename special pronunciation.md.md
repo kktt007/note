@@ -2,7 +2,7 @@
 
 working 形成了新词，所以k阻碍，
 3音节 元音+1+t 元音属出气，最后的t同样出，元音和擦音爆破同理
-2音节 active -- \ ˈak-tiv k也是阻碍的，所以t也是不阻碍的
+2音节 active -- \ ˈak-tiv k也是阻碍的，t在forvo中也是阻碍的(虽然在m-w不阻碍)
 
 - n是起阻碍的 l也是，后面不阻碍，
 - r和m不阻碍，后面要阻碍，以后遇到r,m大胆的拖一点ə
@@ -85,11 +85,11 @@ solid --\ ˈsä-ləd ə又成了e的音
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0ODgxNTgyNCwyNjQ0NDU0MDMsMTIzOT
-c2Mjg5OSwtOTA5NTU4NjE1LDE1NTk0MjM3NDQsLTg1NTAyNDcx
-Nyw2MTk4MjI5MDksNjkwMzU1NTUsLTEyNjg0MjcyMTcsMTcyND
-E5MTk2MiwxOTc2NTg0NTc5LC02ODk3ODQ5NjMsMTUwNzk5NzUx
-NywtOTUzMDE4NzE5LC05NTM1NzI1NDIsNzUyNzEyODc3LC0xMD
-E5NDg5NTc0LDU4NTI5MDQwOSwtNTU1Mzc3MzkwLDE5ODU0OTQy
-MzldfQ==
+eyJoaXN0b3J5IjpbMTMzOTYwNDU0NSwtNzQ4ODE1ODI0LDI2ND
+Q0NTQwMywxMjM5NzYyODk5LC05MDk1NTg2MTUsMTU1OTQyMzc0
+NCwtODU1MDI0NzE3LDYxOTgyMjkwOSw2OTAzNTU1NSwtMTI2OD
+QyNzIxNywxNzI0MTkxOTYyLDE5NzY1ODQ1NzksLTY4OTc4NDk2
+MywxNTA3OTk3NTE3LC05NTMwMTg3MTksLTk1MzU3MjU0Miw3NT
+I3MTI4NzcsLTEwMTk0ODk1NzQsNTg1MjkwNDA5LC01NTUzNzcz
+OTBdfQ==
 -->
