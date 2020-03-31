@@ -1,5 +1,9 @@
 ### 3.31
+A negative sentence or phrase is one that contains a word such as "not", "no", "never", or "nothing":
+"I've never seen him in my life" is a negative sentence.
 
+capability
+These tests are beyond the capability of an average twelve-year-old.
 
 authority \ ə-ˈthȯr-ə-tē t的发音在对th的理解，如果偏向出气就是t,偏向少气，t发d亦可
 今天才知道这么久的发音，不仅为了自己，也是为了更好的解决听力问题。谢谢
@@ -2310,11 +2314,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzU5Mjg5ODcsMTkwMzk2MDI1NywtOT
-Q1MjYzMDMxLDE5MzMyODg2NzEsLTI5OTgyMTEzNiwxNjY0ODgz
-MzgxLC0yMDc2MDgxODE4LDU0NTM0Mjk4NSw5MzYwODM1ODAsLT
-EzNjIzOTQ4NywxNzcyOTIyNTQsLTI4NzA3MjE1OCwtMTA2NDE3
-MDQ2MywxNTcwMzYzNzQ0LC0xODU0MTkzNTg0LC0zNzYxOTY1MD
-csMTg0NTAxOTcyOSwyNzA2OTc2MjIsLTIwMDMxMzYxODYsNzUz
-MDc5MDY2XX0=
+eyJoaXN0b3J5IjpbLTc3MTU4ODQ0LC0xOTc1OTI4OTg3LDE5MD
+M5NjAyNTcsLTk0NTI2MzAzMSwxOTMzMjg4NjcxLC0yOTk4MjEx
+MzYsMTY2NDg4MzM4MSwtMjA3NjA4MTgxOCw1NDUzNDI5ODUsOT
+M2MDgzNTgwLC0xMzYyMzk0ODcsMTc3MjkyMjU0LC0yODcwNzIx
+NTgsLTEwNjQxNzA0NjMsMTU3MDM2Mzc0NCwtMTg1NDE5MzU4NC
+wtMzc2MTk2NTA3LDE4NDUwMTk3MjksMjcwNjk3NjIyLC0yMDAz
+MTM2MTg2XX0=
 -->
