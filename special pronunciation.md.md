@@ -92,16 +92,16 @@ attracting --\ ə-ˈtrakt kt 都浊化gd，如果一个元音音节还有辅音�
 
 solid --\ ˈsä-ləd ə又成了e的音
 
-典型 没有辅音的元音，
-express \ ik-ˈspres 遇到这样，ks 辅音合并原则
+典型 没有辅音的元音，而且不属于爆破音的辅音开头，这里是S
+express \ ik-ˈspres 遇到这样，s不属于爆破音，ks 辅音合并原则，
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDYwMTc1ODMsNTc4NzU1MTc3LC0xND
-QzMDU3Mzk1LC0yMTE0MzQ1OTkwLC0yMDMzMzc4NjA0LDEzMDM2
-NzU0MTksMjAyMzIzNzU0LC0yMDI2NTQ0MDE1LC03NDg4MTU4Mj
-QsMjY0NDQ1NDAzLDEyMzk3NjI4OTksLTkwOTU1ODYxNSwxNTU5
-NDIzNzQ0LC04NTUwMjQ3MTcsNjE5ODIyOTA5LDY5MDM1NTU1LC
-0xMjY4NDI3MjE3LDE3MjQxOTE5NjIsMTk3NjU4NDU3OSwtNjg5
-Nzg0OTYzXX0=
+eyJoaXN0b3J5IjpbNTM2NTg0NDUsNTc4NzU1MTc3LC0xNDQzMD
+U3Mzk1LC0yMTE0MzQ1OTkwLC0yMDMzMzc4NjA0LDEzMDM2NzU0
+MTksMjAyMzIzNzU0LC0yMDI2NTQ0MDE1LC03NDg4MTU4MjQsMj
+Y0NDQ1NDAzLDEyMzk3NjI4OTksLTkwOTU1ODYxNSwxNTU5NDIz
+NzQ0LC04NTUwMjQ3MTcsNjE5ODIyOTA5LDY5MDM1NTU1LC0xMj
+Y4NDI3MjE3LDE3MjQxOTE5NjIsMTk3NjU4NDU3OSwtNjg5Nzg0
+OTYzXX0=
 -->
