@@ -1,5 +1,8 @@
 ## 2音节临近阻碍相对规则和3音节辅音规则同化
 
+2音节整体相反规则
+3音节统一按没有辅音状态，阻碍
+
 working 形成了新词，所以k阻碍，
 3音节 元音+1+t 元音属出气，最后的t同样出，元音和擦音爆破同理，如果元音后有辅音，看辅音是否阻碍，反正以首音节，末尾状态为参考，同化
  priority -- \ prī-ˈȯr-ə-tē d  阻碍forvo (m-w理论参考，整体相同)
@@ -7,7 +10,7 @@ optical -- \ ˈäp-ti-kəl 发d g 阻碍 阻碍，第一音节出气明显，p�
 ，k主要参考辅音，
 1. 没有辅音，看第二个 同化
 2. 看末尾辅音，同化，
-3. 或者说没有辅音，所以第三音节统一按
+3. 或者说没有辅音，所以第三音节统一按没有辅音状态，阻碍
 
 2音节整体相反规则 active -- \ ˈak-tiv k也是阻碍的，t在forvo中也是阻碍的(虽然在m-w不阻碍)，以末尾整体状态参考，出气，所以，k相反，阻碍
 
@@ -92,11 +95,11 @@ solid --\ ˈsä-ləd ə又成了e的音
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc0Mjk5ODE2LDEzMDM2NzU0MTksMjAyMz
-IzNzU0LC0yMDI2NTQ0MDE1LC03NDg4MTU4MjQsMjY0NDQ1NDAz
-LDEyMzk3NjI4OTksLTkwOTU1ODYxNSwxNTU5NDIzNzQ0LC04NT
-UwMjQ3MTcsNjE5ODIyOTA5LDY5MDM1NTU1LC0xMjY4NDI3MjE3
-LDE3MjQxOTE5NjIsMTk3NjU4NDU3OSwtNjg5Nzg0OTYzLDE1MD
-c5OTc1MTcsLTk1MzAxODcxOSwtOTUzNTcyNTQyLDc1MjcxMjg3
-N119
+eyJoaXN0b3J5IjpbLTIwMzMzNzg2MDQsMTMwMzY3NTQxOSwyMD
+IzMjM3NTQsLTIwMjY1NDQwMTUsLTc0ODgxNTgyNCwyNjQ0NDU0
+MDMsMTIzOTc2Mjg5OSwtOTA5NTU4NjE1LDE1NTk0MjM3NDQsLT
+g1NTAyNDcxNyw2MTk4MjI5MDksNjkwMzU1NTUsLTEyNjg0Mjcy
+MTcsMTcyNDE5MTk2MiwxOTc2NTg0NTc5LC02ODk3ODQ5NjMsMT
+UwNzk5NzUxNywtOTUzMDE4NzE5LC05NTM1NzI1NDIsNzUyNzEy
+ODc3XX0=
 -->
