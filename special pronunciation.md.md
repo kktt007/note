@@ -1,4 +1,6 @@
 ## 2音节临近阻碍相对规则和3音节辅音规则
+
+working 形成了新词，所以k
 - n是起阻碍的 l也是，后面不阻碍，
 - r和m不阻碍，后面要阻碍，以后遇到r,m大胆的拖一点ə
 以上2规则，在2音节中，扮演元音角色，起反作用规则。
@@ -80,11 +82,11 @@ solid --\ ˈsä-ləd ə又成了e的音
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY0NDQ1NDAzLDEyMzk3NjI4OTksLTkwOT
-U1ODYxNSwxNTU5NDIzNzQ0LC04NTUwMjQ3MTcsNjE5ODIyOTA5
-LDY5MDM1NTU1LC0xMjY4NDI3MjE3LDE3MjQxOTE5NjIsMTk3Nj
-U4NDU3OSwtNjg5Nzg0OTYzLDE1MDc5OTc1MTcsLTk1MzAxODcx
-OSwtOTUzNTcyNTQyLDc1MjcxMjg3NywtMTAxOTQ4OTU3NCw1OD
-UyOTA0MDksLTU1NTM3NzM5MCwxOTg1NDk0MjM5LC0xNzE3ODE4
-Nzg4XX0=
+eyJoaXN0b3J5IjpbMjExMTEwOTc1MywyNjQ0NDU0MDMsMTIzOT
+c2Mjg5OSwtOTA5NTU4NjE1LDE1NTk0MjM3NDQsLTg1NTAyNDcx
+Nyw2MTk4MjI5MDksNjkwMzU1NTUsLTEyNjg0MjcyMTcsMTcyND
+E5MTk2MiwxOTc2NTg0NTc5LC02ODk3ODQ5NjMsMTUwNzk5NzUx
+NywtOTUzMDE4NzE5LC05NTM1NzI1NDIsNzUyNzEyODc3LC0xMD
+E5NDg5NTc0LDU4NTI5MDQwOSwtNTU1Mzc3MzkwLDE5ODU0OTQy
+MzldfQ==
 -->
