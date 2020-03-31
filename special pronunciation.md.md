@@ -1,6 +1,6 @@
 ## 2音节临近阻碍相对规则和3音节辅音规则同化
 
-2音节整体相反规则
+2音节看末尾相反规则(出气)
 3音节统一按没有辅音状态，阻碍
 
 working 形成了新词，所以k阻碍，
@@ -95,11 +95,11 @@ solid --\ ˈsä-ləd ə又成了e的音
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzMzNzg2MDQsMTMwMzY3NTQxOSwyMD
-IzMjM3NTQsLTIwMjY1NDQwMTUsLTc0ODgxNTgyNCwyNjQ0NDU0
-MDMsMTIzOTc2Mjg5OSwtOTA5NTU4NjE1LDE1NTk0MjM3NDQsLT
-g1NTAyNDcxNyw2MTk4MjI5MDksNjkwMzU1NTUsLTEyNjg0Mjcy
-MTcsMTcyNDE5MTk2MiwxOTc2NTg0NTc5LC02ODk3ODQ5NjMsMT
-UwNzk5NzUxNywtOTUzMDE4NzE5LC05NTM1NzI1NDIsNzUyNzEy
-ODc3XX0=
+eyJoaXN0b3J5IjpbLTE1NzA2NTA0MzgsLTIwMzMzNzg2MDQsMT
+MwMzY3NTQxOSwyMDIzMjM3NTQsLTIwMjY1NDQwMTUsLTc0ODgx
+NTgyNCwyNjQ0NDU0MDMsMTIzOTc2Mjg5OSwtOTA5NTU4NjE1LD
+E1NTk0MjM3NDQsLTg1NTAyNDcxNyw2MTk4MjI5MDksNjkwMzU1
+NTUsLTEyNjg0MjcyMTcsMTcyNDE5MTk2MiwxOTc2NTg0NTc5LC
+02ODk3ODQ5NjMsMTUwNzk5NzUxNywtOTUzMDE4NzE5LC05NTM1
+NzI1NDJdfQ==
 -->
