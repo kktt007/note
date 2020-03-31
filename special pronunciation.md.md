@@ -1,7 +1,8 @@
 ## 2音节临近阻碍相对规则和3音节辅音规则
 
 working 形成了新词，所以k阻碍，
-元音+1+t 元音属出气
+元音+1+t 元音属出气，最后的t同样出，元音和擦音爆破同理
+
 - n是起阻碍的 l也是，后面不阻碍，
 - r和m不阻碍，后面要阻碍，以后遇到r,m大胆的拖一点ə
 以上2规则，在2音节中，扮演元音角色，起反作用规则。
@@ -83,7 +84,7 @@ solid --\ ˈsä-ləd ə又成了e的音
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1OTE4NjAxMiwyNjQ0NDU0MDMsMTIzOT
+eyJoaXN0b3J5IjpbMTA5Njk4ODM2MCwyNjQ0NDU0MDMsMTIzOT
 c2Mjg5OSwtOTA5NTU4NjE1LDE1NTk0MjM3NDQsLTg1NTAyNDcx
 Nyw2MTk4MjI5MDksNjkwMzU1NTUsLTEyNjg0MjcyMTcsMTcyND
 E5MTk2MiwxOTc2NTg0NTc5LC02ODk3ODQ5NjMsMTUwNzk5NzUx
