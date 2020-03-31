@@ -6,7 +6,7 @@ importance \ im-ˈpȯr-tᵊn(t)s t可发阻碍或稍微明显点的d，后一个
 
 preventing \ pri-ˈvent forvo发音，很完美验证了t的2音节规律 
 m r / l n 这个挺重要的分类
-
+written \ ˈri-tᵊn 不用怀疑，质疑经验t确实阻碍到和n同化了，rin
 https://www.zhihu.com/question/20165553
 今天想了一个胆量，问题，居然看到马云，我不昨晚刚看吗，还有
 斯蒂芬·克拉申(Stephen D. Krashen)的第二语言习理论，我不刚看完没多久吗。
@@ -2305,11 +2305,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NTI2MzAzMSwxOTMzMjg4NjcxLC0yOT
-k4MjExMzYsMTY2NDg4MzM4MSwtMjA3NjA4MTgxOCw1NDUzNDI5
-ODUsOTM2MDgzNTgwLC0xMzYyMzk0ODcsMTc3MjkyMjU0LC0yOD
-cwNzIxNTgsLTEwNjQxNzA0NjMsMTU3MDM2Mzc0NCwtMTg1NDE5
-MzU4NCwtMzc2MTk2NTA3LDE4NDUwMTk3MjksMjcwNjk3NjIyLC
-0yMDAzMTM2MTg2LDc1MzA3OTA2NiwtOTg4MTkwNzIxLC01NjIy
-OTM4ODldfQ==
+eyJoaXN0b3J5IjpbLTE2MDc3MzMxNDksLTk0NTI2MzAzMSwxOT
+MzMjg4NjcxLC0yOTk4MjExMzYsMTY2NDg4MzM4MSwtMjA3NjA4
+MTgxOCw1NDUzNDI5ODUsOTM2MDgzNTgwLC0xMzYyMzk0ODcsMT
+c3MjkyMjU0LC0yODcwNzIxNTgsLTEwNjQxNzA0NjMsMTU3MDM2
+Mzc0NCwtMTg1NDE5MzU4NCwtMzc2MTk2NTA3LDE4NDUwMTk3Mj
+ksMjcwNjk3NjIyLC0yMDAzMTM2MTg2LDc1MzA3OTA2NiwtOTg4
+MTkwNzIxXX0=
 -->
