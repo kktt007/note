@@ -7,6 +7,8 @@ https://www.zhihu.com/question/20165553
 突然想到KPI，很重要...
 《学会提问》《批判性思维》《批判性思维工具》《好好讲道理》《孙子兵法》
 
+
+
 ### 3.30
 
 能查看各种包在各种发行版的软件
@@ -2296,11 +2298,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5OTgyMTEzNiwxNjY0ODgzMzgxLC0yMD
-c2MDgxODE4LDU0NTM0Mjk4NSw5MzYwODM1ODAsLTEzNjIzOTQ4
-NywxNzcyOTIyNTQsLTI4NzA3MjE1OCwtMTA2NDE3MDQ2MywxNT
-cwMzYzNzQ0LC0xODU0MTkzNTg0LC0zNzYxOTY1MDcsMTg0NTAx
-OTcyOSwyNzA2OTc2MjIsLTIwMDMxMzYxODYsNzUzMDc5MDY2LC
-05ODgxOTA3MjEsLTU2MjI5Mzg4OSw3OTgxNDM3OTQsLTE1OTk2
-OTg1ODNdfQ==
+eyJoaXN0b3J5IjpbNjc4NjI3MzQwLC0yOTk4MjExMzYsMTY2ND
+g4MzM4MSwtMjA3NjA4MTgxOCw1NDUzNDI5ODUsOTM2MDgzNTgw
+LC0xMzYyMzk0ODcsMTc3MjkyMjU0LC0yODcwNzIxNTgsLTEwNj
+QxNzA0NjMsMTU3MDM2Mzc0NCwtMTg1NDE5MzU4NCwtMzc2MTk2
+NTA3LDE4NDUwMTk3MjksMjcwNjk3NjIyLC0yMDAzMTM2MTg2LD
+c1MzA3OTA2NiwtOTg4MTkwNzIxLC01NjIyOTM4ODksNzk4MTQz
+Nzk0XX0=
 -->
