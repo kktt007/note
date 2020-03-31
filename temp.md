@@ -4,6 +4,8 @@ dictionary \ ˈdik-shə-ˌner-ē 以后作为典型发音n n
 whatsoever \ ˌ(h)wät-sə-ˈwe-vər t略读，s后面ə 发ou，不解，可能是自然连读产生的。
 importance \ im-ˈpȯr-tᵊn(t)s t可发阻碍或稍微明显点的d，后一个(t)和s相连，以前以为是不用读，现在才知道是和s连读ts
 
+preventing \ pri-ˈvent forvo发音，很完美验证了t的2音节规律 
+m r / l n 这个挺重要的分类
 
 https://www.zhihu.com/question/20165553
 今天想了一个胆量，问题，居然看到马云，我不昨晚刚看吗，还有
@@ -2303,11 +2305,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg2Nzc4MDIzLDE5MzMyODg2NzEsLTI5OT
-gyMTEzNiwxNjY0ODgzMzgxLC0yMDc2MDgxODE4LDU0NTM0Mjk4
-NSw5MzYwODM1ODAsLTEzNjIzOTQ4NywxNzcyOTIyNTQsLTI4Nz
-A3MjE1OCwtMTA2NDE3MDQ2MywxNTcwMzYzNzQ0LC0xODU0MTkz
-NTg0LC0zNzYxOTY1MDcsMTg0NTAxOTcyOSwyNzA2OTc2MjIsLT
-IwMDMxMzYxODYsNzUzMDc5MDY2LC05ODgxOTA3MjEsLTU2MjI5
-Mzg4OV19
+eyJoaXN0b3J5IjpbLTk0NTI2MzAzMSwxOTMzMjg4NjcxLC0yOT
+k4MjExMzYsMTY2NDg4MzM4MSwtMjA3NjA4MTgxOCw1NDUzNDI5
+ODUsOTM2MDgzNTgwLC0xMzYyMzk0ODcsMTc3MjkyMjU0LC0yOD
+cwNzIxNTgsLTEwNjQxNzA0NjMsMTU3MDM2Mzc0NCwtMTg1NDE5
+MzU4NCwtMzc2MTk2NTA3LDE4NDUwMTk3MjksMjcwNjk3NjIyLC
+0yMDAzMTM2MTg2LDc1MzA3OTA2NiwtOTg4MTkwNzIxLC01NjIy
+OTM4ODldfQ==
 -->
