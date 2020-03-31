@@ -2,7 +2,7 @@
 
 working 形成了新词，所以k阻碍，
 3音节 元音+1+t 元音属出气，最后的t同样出，元音和擦音爆破同理，如果元音后有辅音，看辅音是否阻碍，反正以首音节，末尾状态为参考，同化
- priority -- \ prī-ˈȯr-ə-tē t  出 出
+ priority -- \ prī-ˈȯr-ə-tē d  阻碍forvo (m-w理论参考)
 optical -- \ ˈäp-ti-kəl 发d g 阻碍 阻碍，第一音节出气明显，p很轻，p,b都无所谓，重点是词音节基本出气，多以t相反，阻碍
 ，k主要参考辅音，
 1. 没有辅音，看第二个 同化
@@ -91,11 +91,11 @@ solid --\ ˈsä-ləd ə又成了e的音
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMzIzNzU0LC0yMDI2NTQ0MDE1LC03ND
-g4MTU4MjQsMjY0NDQ1NDAzLDEyMzk3NjI4OTksLTkwOTU1ODYx
-NSwxNTU5NDIzNzQ0LC04NTUwMjQ3MTcsNjE5ODIyOTA5LDY5MD
-M1NTU1LC0xMjY4NDI3MjE3LDE3MjQxOTE5NjIsMTk3NjU4NDU3
-OSwtNjg5Nzg0OTYzLDE1MDc5OTc1MTcsLTk1MzAxODcxOSwtOT
-UzNTcyNTQyLDc1MjcxMjg3NywtMTAxOTQ4OTU3NCw1ODUyOTA0
-MDldfQ==
+eyJoaXN0b3J5IjpbMTMwMzY3NTQxOSwyMDIzMjM3NTQsLTIwMj
+Y1NDQwMTUsLTc0ODgxNTgyNCwyNjQ0NDU0MDMsMTIzOTc2Mjg5
+OSwtOTA5NTU4NjE1LDE1NTk0MjM3NDQsLTg1NTAyNDcxNyw2MT
+k4MjI5MDksNjkwMzU1NTUsLTEyNjg0MjcyMTcsMTcyNDE5MTk2
+MiwxOTc2NTg0NTc5LC02ODk3ODQ5NjMsMTUwNzk5NzUxNywtOT
+UzMDE4NzE5LC05NTM1NzI1NDIsNzUyNzEyODc3LC0xMDE5NDg5
+NTc0XX0=
 -->
