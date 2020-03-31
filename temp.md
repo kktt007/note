@@ -1,5 +1,5 @@
 ### 3.31
-今天才知道这么久的发音，不仅为了自己，也是为了更好的解决听力问题。
+今天才知道这么久的发音，不仅为了自己，也是为了更好的解决听力问题。谢谢
 
 dictionary \ ˈdik-shə-ˌner-ē 以后作为典型发音n n 
 
@@ -2307,7 +2307,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAzNjE1MTIwLC05NDUyNjMwMzEsMTkzMz
+eyJoaXN0b3J5IjpbNjMwMzY1MDcyLC05NDUyNjMwMzEsMTkzMz
 I4ODY3MSwtMjk5ODIxMTM2LDE2NjQ4ODMzODEsLTIwNzYwODE4
 MTgsNTQ1MzQyOTg1LDkzNjA4MzU4MCwtMTM2MjM5NDg3LDE3Nz
 I5MjI1NCwtMjg3MDcyMTU4LC0xMDY0MTcwNDYzLDE1NzAzNjM3
