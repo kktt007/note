@@ -4,6 +4,7 @@ https://www.zhihu.com/question/20165553
 斯蒂芬·克拉申(Stephen D. Krashen)的第二语言习理论，我不刚看完没多久吗。
 一个有价值的问题，有人能够这样去看，要学习。
 突然想到KPI，很重要...
+《学会提问》《批判性思维》《批判性思维工具》《好好讲道理》《孙子兵法》
 
 ### 3.30
 
@@ -2294,11 +2295,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzYwODE4MTgsNTQ1MzQyOTg1LDkzNj
-A4MzU4MCwtMTM2MjM5NDg3LDE3NzI5MjI1NCwtMjg3MDcyMTU4
-LC0xMDY0MTcwNDYzLDE1NzAzNjM3NDQsLTE4NTQxOTM1ODQsLT
-M3NjE5NjUwNywxODQ1MDE5NzI5LDI3MDY5NzYyMiwtMjAwMzEz
-NjE4Niw3NTMwNzkwNjYsLTk4ODE5MDcyMSwtNTYyMjkzODg5LD
-c5ODE0Mzc5NCwtMTU5OTY5ODU4MywtMTcxMTcyNzUwNSwzODU3
-OTkzNzNdfQ==
+eyJoaXN0b3J5IjpbMTY2NDg4MzM4MSwtMjA3NjA4MTgxOCw1ND
+UzNDI5ODUsOTM2MDgzNTgwLC0xMzYyMzk0ODcsMTc3MjkyMjU0
+LC0yODcwNzIxNTgsLTEwNjQxNzA0NjMsMTU3MDM2Mzc0NCwtMT
+g1NDE5MzU4NCwtMzc2MTk2NTA3LDE4NDUwMTk3MjksMjcwNjk3
+NjIyLC0yMDAzMTM2MTg2LDc1MzA3OTA2NiwtOTg4MTkwNzIxLC
+01NjIyOTM4ODksNzk4MTQzNzk0LC0xNTk5Njk4NTgzLC0xNzEx
+NzI3NTA1XX0=
 -->
