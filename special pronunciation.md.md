@@ -7,6 +7,7 @@ optical -- \ ˈäp-ti-kəl 发d g 阻碍 阻碍，第一音节出气明显，p�
 ，k主要参考辅音，
 1. 没有辅音，看第二个 同化
 2. 看末尾辅音，同化，
+3. 或者说没有辅音，所以第三音节统一按
 
 2音节整体相反规则 active -- \ ˈak-tiv k也是阻碍的，t在forvo中也是阻碍的(虽然在m-w不阻碍)，以末尾整体状态参考，出气，所以，k相反，阻碍
 
@@ -91,11 +92,11 @@ solid --\ ˈsä-ləd ə又成了e的音
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODM0MzQwMjcsMTMwMzY3NTQxOSwyMD
-IzMjM3NTQsLTIwMjY1NDQwMTUsLTc0ODgxNTgyNCwyNjQ0NDU0
-MDMsMTIzOTc2Mjg5OSwtOTA5NTU4NjE1LDE1NTk0MjM3NDQsLT
-g1NTAyNDcxNyw2MTk4MjI5MDksNjkwMzU1NTUsLTEyNjg0Mjcy
-MTcsMTcyNDE5MTk2MiwxOTc2NTg0NTc5LC02ODk3ODQ5NjMsMT
-UwNzk5NzUxNywtOTUzMDE4NzE5LC05NTM1NzI1NDIsNzUyNzEy
-ODc3XX0=
+eyJoaXN0b3J5IjpbOTc0Mjk5ODE2LDEzMDM2NzU0MTksMjAyMz
+IzNzU0LC0yMDI2NTQ0MDE1LC03NDg4MTU4MjQsMjY0NDQ1NDAz
+LDEyMzk3NjI4OTksLTkwOTU1ODYxNSwxNTU5NDIzNzQ0LC04NT
+UwMjQ3MTcsNjE5ODIyOTA5LDY5MDM1NTU1LC0xMjY4NDI3MjE3
+LDE3MjQxOTE5NjIsMTk3NjU4NDU3OSwtNjg5Nzg0OTYzLDE1MD
+c5OTc1MTcsLTk1MzAxODcxOSwtOTUzNTcyNTQyLDc1MjcxMjg3
+N119
 -->
