@@ -1,3 +1,9 @@
+### 3.31
+https://www.zhihu.com/question/20165553
+今天想了一个胆量，问题，居然看到马云，我不昨晚刚看吗，还有
+斯蒂芬·克拉申(Stephen D. Krashen)的第二语言习理论，我不刚看完没多久吗。
+一个有价值的问题，有人能够这样去看，要学习。
+
 ### 3.30
 
 能查看各种包在各种发行版的软件
@@ -2287,11 +2293,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ1MzQyOTg1LDkzNjA4MzU4MCwtMTM2Mj
-M5NDg3LDE3NzI5MjI1NCwtMjg3MDcyMTU4LC0xMDY0MTcwNDYz
-LDE1NzAzNjM3NDQsLTE4NTQxOTM1ODQsLTM3NjE5NjUwNywxOD
-Q1MDE5NzI5LDI3MDY5NzYyMiwtMjAwMzEzNjE4Niw3NTMwNzkw
-NjYsLTk4ODE5MDcyMSwtNTYyMjkzODg5LDc5ODE0Mzc5NCwtMT
-U5OTY5ODU4MywtMTcxMTcyNzUwNSwzODU3OTkzNzMsOTUzMTEx
-ODc5XX0=
+eyJoaXN0b3J5IjpbLTE2MDEwODIxMDgsNTQ1MzQyOTg1LDkzNj
+A4MzU4MCwtMTM2MjM5NDg3LDE3NzI5MjI1NCwtMjg3MDcyMTU4
+LC0xMDY0MTcwNDYzLDE1NzAzNjM3NDQsLTE4NTQxOTM1ODQsLT
+M3NjE5NjUwNywxODQ1MDE5NzI5LDI3MDY5NzYyMiwtMjAwMzEz
+NjE4Niw3NTMwNzkwNjYsLTk4ODE5MDcyMSwtNTYyMjkzODg5LD
+c5ODE0Mzc5NCwtMTU5OTY5ODU4MywtMTcxMTcyNzUwNSwzODU3
+OTkzNzNdfQ==
 -->
