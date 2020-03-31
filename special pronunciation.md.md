@@ -1,7 +1,7 @@
 ## 2音节临近阻碍相对规则和3音节辅音规则
 
 working 形成了新词，所以k阻碍，
-3音节 元音+1+t 元音属出气，最后的t同样出，元音和擦音爆破同理
+3音节 元音+1+t 元音属出气，最后的t同样出，元音和擦音爆破同理 priority -- \ prī-ˈȯr-ə-tē t 
 2音节 active -- \ ˈak-tiv k也是阻碍的，t在forvo中也是阻碍的(虽然在m-w不阻碍)
 
 - n是起阻碍的 l也是，后面不阻碍，
@@ -85,11 +85,11 @@ solid --\ ˈsä-ləd ə又成了e的音
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzOTYwNDU0NSwtNzQ4ODE1ODI0LDI2ND
-Q0NTQwMywxMjM5NzYyODk5LC05MDk1NTg2MTUsMTU1OTQyMzc0
-NCwtODU1MDI0NzE3LDYxOTgyMjkwOSw2OTAzNTU1NSwtMTI2OD
-QyNzIxNywxNzI0MTkxOTYyLDE5NzY1ODQ1NzksLTY4OTc4NDk2
-MywxNTA3OTk3NTE3LC05NTMwMTg3MTksLTk1MzU3MjU0Miw3NT
-I3MTI4NzcsLTEwMTk0ODk1NzQsNTg1MjkwNDA5LC01NTUzNzcz
-OTBdfQ==
+eyJoaXN0b3J5IjpbNTQxMzI1Njk4LC03NDg4MTU4MjQsMjY0ND
+Q1NDAzLDEyMzk3NjI4OTksLTkwOTU1ODYxNSwxNTU5NDIzNzQ0
+LC04NTUwMjQ3MTcsNjE5ODIyOTA5LDY5MDM1NTU1LC0xMjY4ND
+I3MjE3LDE3MjQxOTE5NjIsMTk3NjU4NDU3OSwtNjg5Nzg0OTYz
+LDE1MDc5OTc1MTcsLTk1MzAxODcxOSwtOTUzNTcyNTQyLDc1Mj
+cxMjg3NywtMTAxOTQ4OTU3NCw1ODUyOTA0MDksLTU1NTM3NzM5
+MF19
 -->
