@@ -1,4 +1,5 @@
 ### 3.31
+authority \ ə-ˈthȯr-ə-tē t的发音在对th的理解，如果偏向出气就是t,偏向少气，t发d亦可
 今天才知道这么久的发音，不仅为了自己，也是为了更好的解决听力问题。谢谢
 
 dictionary \ ˈdik-shə-ˌner-ē 以后作为典型发音n n 
@@ -2307,11 +2308,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMwMzY1MDcyLC05NDUyNjMwMzEsMTkzMz
-I4ODY3MSwtMjk5ODIxMTM2LDE2NjQ4ODMzODEsLTIwNzYwODE4
-MTgsNTQ1MzQyOTg1LDkzNjA4MzU4MCwtMTM2MjM5NDg3LDE3Nz
-I5MjI1NCwtMjg3MDcyMTU4LC0xMDY0MTcwNDYzLDE1NzAzNjM3
-NDQsLTE4NTQxOTM1ODQsLTM3NjE5NjUwNywxODQ1MDE5NzI5LD
-I3MDY5NzYyMiwtMjAwMzEzNjE4Niw3NTMwNzkwNjYsLTk4ODE5
-MDcyMV19
+eyJoaXN0b3J5IjpbMTkwMzk2MDI1NywtOTQ1MjYzMDMxLDE5Mz
+MyODg2NzEsLTI5OTgyMTEzNiwxNjY0ODgzMzgxLC0yMDc2MDgx
+ODE4LDU0NTM0Mjk4NSw5MzYwODM1ODAsLTEzNjIzOTQ4NywxNz
+cyOTIyNTQsLTI4NzA3MjE1OCwtMTA2NDE3MDQ2MywxNTcwMzYz
+NzQ0LC0xODU0MTkzNTg0LC0zNzYxOTY1MDcsMTg0NTAxOTcyOS
+wyNzA2OTc2MjIsLTIwMDMxMzYxODYsNzUzMDc5MDY2LC05ODgx
+OTA3MjFdfQ==
 -->
