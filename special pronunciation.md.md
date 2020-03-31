@@ -8,7 +8,7 @@ optical -- \ ˈäp-ti-kəl 发d g 阻碍 阻碍，第一音节出气明显，p�
 1. 没有辅音，看第二个 同化
 2. 看末尾辅音，同化，
 
-2音节 active -- \ ˈak-tiv k也是阻碍的，t在forvo中也是阻碍的(虽然在m-w不阻碍)，以末尾整体状态参考，
+2音节 active -- \ ˈak-tiv k也是阻碍的，t在forvo中也是阻碍的(虽然在m-w不阻碍)，以末尾整体状态参考，出气，所以，k相反，阻碍
 
 
 - n是起阻碍的 l也是，后面不阻碍，
@@ -92,7 +92,7 @@ solid --\ ˈsä-ləd ə又成了e的音
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTc5NjI4NjksLTIwMjY1NDQwMTUsLT
+eyJoaXN0b3J5IjpbLTE2OTU1NDAwMDgsLTIwMjY1NDQwMTUsLT
 c0ODgxNTgyNCwyNjQ0NDU0MDMsMTIzOTc2Mjg5OSwtOTA5NTU4
 NjE1LDE1NTk0MjM3NDQsLTg1NTAyNDcxNyw2MTk4MjI5MDksNj
 kwMzU1NTUsLTEyNjg0MjcyMTcsMTcyNDE5MTk2MiwxOTc2NTg0
