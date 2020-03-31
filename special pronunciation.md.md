@@ -92,14 +92,16 @@ attracting --\ ə-ˈtrakt kt 都浊化gd，如果一个元音音节还有辅音�
 
 solid --\ ˈsä-ləd ə又成了e的音
 
+典型 没有辅音的元音，
+express \ ik-ˈspres 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc4NzU1MTc3LC0xNDQzMDU3Mzk1LC0yMT
-E0MzQ1OTkwLC0yMDMzMzc4NjA0LDEzMDM2NzU0MTksMjAyMzIz
-NzU0LC0yMDI2NTQ0MDE1LC03NDg4MTU4MjQsMjY0NDQ1NDAzLD
-EyMzk3NjI4OTksLTkwOTU1ODYxNSwxNTU5NDIzNzQ0LC04NTUw
-MjQ3MTcsNjE5ODIyOTA5LDY5MDM1NTU1LC0xMjY4NDI3MjE3LD
-E3MjQxOTE5NjIsMTk3NjU4NDU3OSwtNjg5Nzg0OTYzLDE1MDc5
-OTc1MTddfQ==
+eyJoaXN0b3J5IjpbMTE0NDkxODM0LDU3ODc1NTE3NywtMTQ0Mz
+A1NzM5NSwtMjExNDM0NTk5MCwtMjAzMzM3ODYwNCwxMzAzNjc1
+NDE5LDIwMjMyMzc1NCwtMjAyNjU0NDAxNSwtNzQ4ODE1ODI0LD
+I2NDQ0NTQwMywxMjM5NzYyODk5LC05MDk1NTg2MTUsMTU1OTQy
+Mzc0NCwtODU1MDI0NzE3LDYxOTgyMjkwOSw2OTAzNTU1NSwtMT
+I2ODQyNzIxNywxNzI0MTkxOTYyLDE5NzY1ODQ1NzksLTY4OTc4
+NDk2M119
 -->
