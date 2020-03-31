@@ -1,4 +1,4 @@
-## 2音节临近阻碍相对规则和3音节辅音规则
+## 2音节临近阻碍相对规则和3音节辅音规则同化
 
 working 形成了新词，所以k阻碍，
 3音节 元音+1+t 元音属出气，最后的t同样出，元音和擦音爆破同理，如果元音后有辅音，看辅音是否阻碍，反正以首音节，末尾状态为参考，同化
@@ -88,7 +88,7 @@ solid --\ ˈsä-ləd ə又成了e的音
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzMwMTMzMzcsLTc0ODgxNTgyNCwyNj
+eyJoaXN0b3J5IjpbLTIwMjY1NDQwMTUsLTc0ODgxNTgyNCwyNj
 Q0NDU0MDMsMTIzOTc2Mjg5OSwtOTA5NTU4NjE1LDE1NTk0MjM3
 NDQsLTg1NTAyNDcxNyw2MTk4MjI5MDksNjkwMzU1NTUsLTEyNj
 g0MjcyMTcsMTcyNDE5MTk2MiwxOTc2NTg0NTc5LC02ODk3ODQ5
