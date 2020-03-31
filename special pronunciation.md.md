@@ -1,7 +1,7 @@
 ## 2音节临近阻碍相对规则和3音节辅音规则同化
 一切变化都是爆破音范畴
 2音节看末尾相反规则(出气与否相反)，如果元音(算出)，下一个阻碍
-3音节统一按没有辅音状态，阻碍
+3音节元音开头统一按没有辅音状态，第三音节阻碍
 
 working 形成了新词，所以k阻碍，
 3音节 元音+1+t 元音属出气，最后的t同样出，元音和擦音爆破同理，如果元音后有辅音，看辅音是否阻碍，反正以首音节，末尾状态为参考，同化
@@ -95,7 +95,7 @@ solid --\ ˈsä-ləd ə又成了e的音
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDQ5Mjk5ODcsLTIxMTQzNDU5OTAsLT
+eyJoaXN0b3J5IjpbLTE0NDMwNTczOTUsLTIxMTQzNDU5OTAsLT
 IwMzMzNzg2MDQsMTMwMzY3NTQxOSwyMDIzMjM3NTQsLTIwMjY1
 NDQwMTUsLTc0ODgxNTgyNCwyNjQ0NDU0MDMsMTIzOTc2Mjg5OS
 wtOTA5NTU4NjE1LDE1NTk0MjM3NDQsLTg1NTAyNDcxNyw2MTk4
