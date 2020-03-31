@@ -1,4 +1,6 @@
 ### 3.31
+
+
 authority \ ə-ˈthȯr-ə-tē t的发音在对th的理解，如果偏向出气就是t,偏向少气，t发d亦可
 今天才知道这么久的发音，不仅为了自己，也是为了更好的解决听力问题。谢谢
 
@@ -2308,11 +2310,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMzk2MDI1NywtOTQ1MjYzMDMxLDE5Mz
-MyODg2NzEsLTI5OTgyMTEzNiwxNjY0ODgzMzgxLC0yMDc2MDgx
-ODE4LDU0NTM0Mjk4NSw5MzYwODM1ODAsLTEzNjIzOTQ4NywxNz
-cyOTIyNTQsLTI4NzA3MjE1OCwtMTA2NDE3MDQ2MywxNTcwMzYz
-NzQ0LC0xODU0MTkzNTg0LC0zNzYxOTY1MDcsMTg0NTAxOTcyOS
-wyNzA2OTc2MjIsLTIwMDMxMzYxODYsNzUzMDc5MDY2LC05ODgx
-OTA3MjFdfQ==
+eyJoaXN0b3J5IjpbLTE5NzU5Mjg5ODcsMTkwMzk2MDI1NywtOT
+Q1MjYzMDMxLDE5MzMyODg2NzEsLTI5OTgyMTEzNiwxNjY0ODgz
+MzgxLC0yMDc2MDgxODE4LDU0NTM0Mjk4NSw5MzYwODM1ODAsLT
+EzNjIzOTQ4NywxNzcyOTIyNTQsLTI4NzA3MjE1OCwtMTA2NDE3
+MDQ2MywxNTcwMzYzNzQ0LC0xODU0MTkzNTg0LC0zNzYxOTY1MD
+csMTg0NTAxOTcyOSwyNzA2OTc2MjIsLTIwMDMxMzYxODYsNzUz
+MDc5MDY2XX0=
 -->
