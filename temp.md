@@ -1,5 +1,8 @@
 ### 3.31
 dictionary \ ˈdik-shə-ˌner-ē 以后作为典型发音n n 
+
+whatsoever \ ˌ(h)wät-sə-ˈwe-vər t略读，s后面ə 发ou，不解，可能是自然连读产生的。
+
 https://www.zhihu.com/question/20165553
 今天想了一个胆量，问题，居然看到马云，我不昨晚刚看吗，还有
 斯蒂芬·克拉申(Stephen D. Krashen)的第二语言习理论，我不刚看完没多久吗。
@@ -2298,11 +2301,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc4NjI3MzQwLC0yOTk4MjExMzYsMTY2ND
-g4MzM4MSwtMjA3NjA4MTgxOCw1NDUzNDI5ODUsOTM2MDgzNTgw
-LC0xMzYyMzk0ODcsMTc3MjkyMjU0LC0yODcwNzIxNTgsLTEwNj
-QxNzA0NjMsMTU3MDM2Mzc0NCwtMTg1NDE5MzU4NCwtMzc2MTk2
-NTA3LDE4NDUwMTk3MjksMjcwNjk3NjIyLC0yMDAzMTM2MTg2LD
-c1MzA3OTA2NiwtOTg4MTkwNzIxLC01NjIyOTM4ODksNzk4MTQz
-Nzk0XX0=
+eyJoaXN0b3J5IjpbMTkzMzI4ODY3MSwtMjk5ODIxMTM2LDE2Nj
+Q4ODMzODEsLTIwNzYwODE4MTgsNTQ1MzQyOTg1LDkzNjA4MzU4
+MCwtMTM2MjM5NDg3LDE3NzI5MjI1NCwtMjg3MDcyMTU4LC0xMD
+Y0MTcwNDYzLDE1NzAzNjM3NDQsLTE4NTQxOTM1ODQsLTM3NjE5
+NjUwNywxODQ1MDE5NzI5LDI3MDY5NzYyMiwtMjAwMzEzNjE4Ni
+w3NTMwNzkwNjYsLTk4ODE5MDcyMSwtNTYyMjkzODg5LDc5ODE0
+Mzc5NF19
 -->
