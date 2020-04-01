@@ -1,3 +1,40 @@
+### 4.1
+## words
+- sort
+- He's the sort of person who only cares about money.
+
+- variety (of something) 
+- several different sorts of the same thing
+- This tool can be used in a variety of ways.
+
+- form
+	- a type or variety of something
+	- Swimming is one of the best forms of exercise.
+
+	-  the particular way something is, seems, looks or is presented
+	- The disease can take several different forms.
+
+	- to make or be something
+	- This information formed the basis of the report.
+
+- individual
+	- a person considered separately rather than as part of a group
+	- There is no single individual who is to blame.
+
+## 发音纠正
+- particular \ pər-ˈti-kyə-lər 发音纠正
+
+- variety \ və-ˈrī-ə-tē 发音纠正 t也可以发阻碍，可能因为第二音节没有辅音，导致t算第二个，ī-ə 算一个元音组合了
+
+##phrase
+A Huge Thanks
+
+
+english news:
+https://www.sciencedaily.com/
+
+
+
 ### 3.31
 A negative sentence or phrase is one that contains a word such as "not", "no", "never", or "nothing":
 "I've never seen him in my life" is a negative sentence.
@@ -2314,11 +2351,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MTU4ODQ0LC0xOTc1OTI4OTg3LDE5MD
-M5NjAyNTcsLTk0NTI2MzAzMSwxOTMzMjg4NjcxLC0yOTk4MjEx
-MzYsMTY2NDg4MzM4MSwtMjA3NjA4MTgxOCw1NDUzNDI5ODUsOT
-M2MDgzNTgwLC0xMzYyMzk0ODcsMTc3MjkyMjU0LC0yODcwNzIx
-NTgsLTEwNjQxNzA0NjMsMTU3MDM2Mzc0NCwtMTg1NDE5MzU4NC
-wtMzc2MTk2NTA3LDE4NDUwMTk3MjksMjcwNjk3NjIyLC0yMDAz
-MTM2MTg2XX0=
+eyJoaXN0b3J5IjpbLTM1ODc0OTIxMCwtMTk3NTkyODk4NywxOT
+AzOTYwMjU3LC05NDUyNjMwMzEsMTkzMzI4ODY3MSwtMjk5ODIx
+MTM2LDE2NjQ4ODMzODEsLTIwNzYwODE4MTgsNTQ1MzQyOTg1LD
+kzNjA4MzU4MCwtMTM2MjM5NDg3LDE3NzI5MjI1NCwtMjg3MDcy
+MTU4LC0xMDY0MTcwNDYzLDE1NzAzNjM3NDQsLTE4NTQxOTM1OD
+QsLTM3NjE5NjUwNywxODQ1MDE5NzI5LDI3MDY5NzYyMiwtMjAw
+MzEzNjE4Nl19
 -->
