@@ -1,4 +1,41 @@
 ### 4.1
+
+## 规律
+一、 记忆规律（次量原理）
+人类的记忆跟你花的时间没有关系，是跟你打交道的次数有关系，通过科学研究发祥，跟一个字打交道165次左右，就可以终生不忘，这就叫做记忆的次量原理。
+应该同一个事物165次吧
+
+语言是习得的，不是死记硬背知识点学会的
+
+自古以来，我们的古人就是直接学唐诗宋词，诸子百家，经史子集的。文化和智慧的东西都学会了，语言说话顺便就学会了。相反很长时间都在学一些肤浅的东西，是在大量的浪费孩子的时间、能力和智慧。
+
+第四，光学几句干巴巴的英文不行。不要总是把阅读的目的放在提高英文上，阅读首先是吸收知识，吸收知识的过程中自然而然就吸收了语言。
+感觉就像吃饭吃菜，分开就难，很神奇，合理组合，达到最好的状态
+
+王佐良
+
+通过文化来学习语言
+
+通过文化来学习语言，语言也会学得更好。
+
+语言之有魅力，风格之值得研究，主要是因为后面有一个大的精神世界：但这两者又必须艺术地融合在一起，因此语言表达力同思想洞察力又是互相促进的。
+
+文体，风格的研究是有实际用途的，它可以使我们更深入地观察英语的性能，看到英语的长处，短处，以及我们在学习英语时应该特别注意或警惕的地方。因为英语一方面不难使用，一方面又在不小心或过分小心的使用者面前布满了陷阱。
+
+此处感觉禅意十足
+
+要理解一国的文化就要读些历史，文学，包括诗和散文作品。我国古时儿童入私塾读书，开始读《三字经》，《千字文》，《百家姓》，此外还要读《千家诗》或《唐诗三百首》，也就是要蒙童及早地接触我国传统文化的意思
+
+多一点理解，了解更前面的东西，或许对现在才会豁然开朗。进化关系，所以看看美国经典，传统 ，更前的作品
+
+简易读物对打好基础极有用，要多读。一是数量要多，至少读四十本。
+
+“精读”和“泛读
+当我看到这个的时候，我知道了，道理差不多，但是不同语言有他固有的东西，只能一切从他里面寻找。不能用中文的思维来指导，这样又错过了英文的机会，每次都是错过最重要的机会。
+
+作者：WinKey英启在线英语
+链接：https://www.jianshu.com/p/689e2a0a1a05
+
 ## words
 - sort
 - He's the sort of person who only cares about money.
@@ -2351,11 +2388,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1ODc0OTIxMCwtMTk3NTkyODk4NywxOT
-AzOTYwMjU3LC05NDUyNjMwMzEsMTkzMzI4ODY3MSwtMjk5ODIx
-MTM2LDE2NjQ4ODMzODEsLTIwNzYwODE4MTgsNTQ1MzQyOTg1LD
-kzNjA4MzU4MCwtMTM2MjM5NDg3LDE3NzI5MjI1NCwtMjg3MDcy
-MTU4LC0xMDY0MTcwNDYzLDE1NzAzNjM3NDQsLTE4NTQxOTM1OD
-QsLTM3NjE5NjUwNywxODQ1MDE5NzI5LDI3MDY5NzYyMiwtMjAw
-MzEzNjE4Nl19
+eyJoaXN0b3J5IjpbLTEwNDA5NDM4NzQsLTM1ODc0OTIxMCwtMT
+k3NTkyODk4NywxOTAzOTYwMjU3LC05NDUyNjMwMzEsMTkzMzI4
+ODY3MSwtMjk5ODIxMTM2LDE2NjQ4ODMzODEsLTIwNzYwODE4MT
+gsNTQ1MzQyOTg1LDkzNjA4MzU4MCwtMTM2MjM5NDg3LDE3NzI5
+MjI1NCwtMjg3MDcyMTU4LC0xMDY0MTcwNDYzLDE1NzAzNjM3ND
+QsLTE4NTQxOTM1ODQsLTM3NjE5NjUwNywxODQ1MDE5NzI5LDI3
+MDY5NzYyMl19
 -->
