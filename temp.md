@@ -36,6 +36,18 @@
 作者：WinKey英启在线英语
 链接：https://www.jianshu.com/p/689e2a0a1a05
 
+- stuff
+	- This wine is good stuff.
+
+- stick
+	- Her wet clothes were sticking to her body.
+
+- sticky
+	- made of or covered with a substance that stays attached to any surface it touches: 
+	- The dough should be soft but not sticky.
+
+### kids english learning
+
 ## words
 - sort
 - He's the sort of person who only cares about money.
@@ -2388,11 +2400,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDA5NDM4NzQsLTM1ODc0OTIxMCwtMT
-k3NTkyODk4NywxOTAzOTYwMjU3LC05NDUyNjMwMzEsMTkzMzI4
-ODY3MSwtMjk5ODIxMTM2LDE2NjQ4ODMzODEsLTIwNzYwODE4MT
-gsNTQ1MzQyOTg1LDkzNjA4MzU4MCwtMTM2MjM5NDg3LDE3NzI5
-MjI1NCwtMjg3MDcyMTU4LC0xMDY0MTcwNDYzLDE1NzAzNjM3ND
-QsLTE4NTQxOTM1ODQsLTM3NjE5NjUwNywxODQ1MDE5NzI5LDI3
-MDY5NzYyMl19
+eyJoaXN0b3J5IjpbLTIwMjQ0NTIyMzAsLTEwNDA5NDM4NzQsLT
+M1ODc0OTIxMCwtMTk3NTkyODk4NywxOTAzOTYwMjU3LC05NDUy
+NjMwMzEsMTkzMzI4ODY3MSwtMjk5ODIxMTM2LDE2NjQ4ODMzOD
+EsLTIwNzYwODE4MTgsNTQ1MzQyOTg1LDkzNjA4MzU4MCwtMTM2
+MjM5NDg3LDE3NzI5MjI1NCwtMjg3MDcyMTU4LC0xMDY0MTcwND
+YzLDE1NzAzNjM3NDQsLTE4NTQxOTM1ODQsLTM3NjE5NjUwNywx
+ODQ1MDE5NzI5XX0=
 -->
