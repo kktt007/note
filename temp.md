@@ -1,5 +1,10 @@
 ### 4.1
 
+kids crosswor book
+
+原来有很多东西，阅读，语音，只是很小，太小一块了。
+https://www.bestappsforkids.com/ 
+
 ## 规律
 一、 记忆规律（次量原理）
 人类的记忆跟你花的时间没有关系，是跟你打交道的次数有关系，通过科学研究发祥，跟一个字打交道165次左右，就可以终生不忘，这就叫做记忆的次量原理。
@@ -2400,11 +2405,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjQ0NTIyMzAsLTEwNDA5NDM4NzQsLT
-M1ODc0OTIxMCwtMTk3NTkyODk4NywxOTAzOTYwMjU3LC05NDUy
-NjMwMzEsMTkzMzI4ODY3MSwtMjk5ODIxMTM2LDE2NjQ4ODMzOD
-EsLTIwNzYwODE4MTgsNTQ1MzQyOTg1LDkzNjA4MzU4MCwtMTM2
-MjM5NDg3LDE3NzI5MjI1NCwtMjg3MDcyMTU4LC0xMDY0MTcwND
-YzLDE1NzAzNjM3NDQsLTE4NTQxOTM1ODQsLTM3NjE5NjUwNywx
-ODQ1MDE5NzI5XX0=
+eyJoaXN0b3J5IjpbLTc5MzExMzE5NCwtMjAyNDQ1MjIzMCwtMT
+A0MDk0Mzg3NCwtMzU4NzQ5MjEwLC0xOTc1OTI4OTg3LDE5MDM5
+NjAyNTcsLTk0NTI2MzAzMSwxOTMzMjg4NjcxLC0yOTk4MjExMz
+YsMTY2NDg4MzM4MSwtMjA3NjA4MTgxOCw1NDUzNDI5ODUsOTM2
+MDgzNTgwLC0xMzYyMzk0ODcsMTc3MjkyMjU0LC0yODcwNzIxNT
+gsLTEwNjQxNzA0NjMsMTU3MDM2Mzc0NCwtMTg1NDE5MzU4NCwt
+Mzc2MTk2NTA3XX0=
 -->
