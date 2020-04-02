@@ -1,4 +1,5 @@
 ### 4.2
+发音新规则，3音节，非重音，似乎看第二个辅音的同化，
 - century noun. \ ˈsen(t)-sh(ə-)rē 注意发音 (t)-sh 成
 - somewhat
 	- to some degree
@@ -2518,11 +2519,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDk1ODYwODUsLTE4MDU3MTg2NjEsLT
-E5NTkyODE4OTcsLTc5MzExMzE5NCwtMjAyNDQ1MjIzMCwtMTA0
-MDk0Mzg3NCwtMzU4NzQ5MjEwLC0xOTc1OTI4OTg3LDE5MDM5Nj
-AyNTcsLTk0NTI2MzAzMSwxOTMzMjg4NjcxLC0yOTk4MjExMzYs
-MTY2NDg4MzM4MSwtMjA3NjA4MTgxOCw1NDUzNDI5ODUsOTM2MD
-gzNTgwLC0xMzYyMzk0ODcsMTc3MjkyMjU0LC0yODcwNzIxNTgs
-LTEwNjQxNzA0NjNdfQ==
+eyJoaXN0b3J5IjpbLTg3NzY5Mjg0NywtMjA0OTU4NjA4NSwtMT
+gwNTcxODY2MSwtMTk1OTI4MTg5NywtNzkzMTEzMTk0LC0yMDI0
+NDUyMjMwLC0xMDQwOTQzODc0LC0zNTg3NDkyMTAsLTE5NzU5Mj
+g5ODcsMTkwMzk2MDI1NywtOTQ1MjYzMDMxLDE5MzMyODg2NzEs
+LTI5OTgyMTEzNiwxNjY0ODgzMzgxLC0yMDc2MDgxODE4LDU0NT
+M0Mjk4NSw5MzYwODM1ODAsLTEzNjIzOTQ4NywxNzcyOTIyNTQs
+LTI4NzA3MjE1OF19
 -->
