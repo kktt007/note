@@ -8,7 +8,7 @@ vehicle \ ˈvē-ə-kəl  k阻碍
 american \ ə-ˈmer-ə-kən k不阻碍
 priority \ prī-ˈȯr-ə-tē t 不阻碍
 
-发音新规则，3音节，非重音，似乎看第二个音节有关，无辅音，则扮演有的角色，不阻碍，其余形式同2音节规律
+发音新规则，3音节，非重音，似乎看第二个音节的r有关，无辅音，则扮演有的角色，不阻碍，其余形式同2音节规律
 
 - century noun. \ ˈsen(t)-sh(ə-)rē 注意发音 (t)-sh 成
 - somewhat
@@ -2529,11 +2529,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzA1MjQ4MTgsLTY3MTEwNjY3NywxMj
-Q4NzIwNTUxLC04Nzc2OTI4NDcsLTIwNDk1ODYwODUsLTE4MDU3
-MTg2NjEsLTE5NTkyODE4OTcsLTc5MzExMzE5NCwtMjAyNDQ1Mj
-IzMCwtMTA0MDk0Mzg3NCwtMzU4NzQ5MjEwLC0xOTc1OTI4OTg3
-LDE5MDM5NjAyNTcsLTk0NTI2MzAzMSwxOTMzMjg4NjcxLC0yOT
-k4MjExMzYsMTY2NDg4MzM4MSwtMjA3NjA4MTgxOCw1NDUzNDI5
-ODUsOTM2MDgzNTgwXX0=
+eyJoaXN0b3J5IjpbMjM0NzYwOTg4LC02NzExMDY2NzcsMTI0OD
+cyMDU1MSwtODc3NjkyODQ3LC0yMDQ5NTg2MDg1LC0xODA1NzE4
+NjYxLC0xOTU5MjgxODk3LC03OTMxMTMxOTQsLTIwMjQ0NTIyMz
+AsLTEwNDA5NDM4NzQsLTM1ODc0OTIxMCwtMTk3NTkyODk4Nywx
+OTAzOTYwMjU3LC05NDUyNjMwMzEsMTkzMzI4ODY3MSwtMjk5OD
+IxMTM2LDE2NjQ4ODMzODEsLTIwNzYwODE4MTgsNTQ1MzQyOTg1
+LDkzNjA4MzU4MF19
 -->
