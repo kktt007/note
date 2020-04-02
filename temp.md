@@ -6,7 +6,7 @@ surgical \ ˈsər-ji-kəl k 阻碍
 vehicle \ ˈvē-ə-kəl  k阻碍
 priority \ prī-ˈȯr-ə-tē t 阻碍
 
-american \ ə-ˈmer-ə-kən k不阻碍
+american \ ə-ˈmer-ə-kən 阻碍
 
 
 发音新规则，3音节，非重音，似乎看第二个音节的r有关，无辅音，则扮演有的角色，不阻碍，其余形式同2音节规律
@@ -2530,11 +2530,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMDU5OTI4MSwyMzQ3NjA5ODgsLTY3MT
-EwNjY3NywxMjQ4NzIwNTUxLC04Nzc2OTI4NDcsLTIwNDk1ODYw
-ODUsLTE4MDU3MTg2NjEsLTE5NTkyODE4OTcsLTc5MzExMzE5NC
-wtMjAyNDQ1MjIzMCwtMTA0MDk0Mzg3NCwtMzU4NzQ5MjEwLC0x
-OTc1OTI4OTg3LDE5MDM5NjAyNTcsLTk0NTI2MzAzMSwxOTMzMj
-g4NjcxLC0yOTk4MjExMzYsMTY2NDg4MzM4MSwtMjA3NjA4MTgx
-OCw1NDUzNDI5ODVdfQ==
+eyJoaXN0b3J5IjpbNTAyMDQ5OTk3LDIzNDc2MDk4OCwtNjcxMT
+A2Njc3LDEyNDg3MjA1NTEsLTg3NzY5Mjg0NywtMjA0OTU4NjA4
+NSwtMTgwNTcxODY2MSwtMTk1OTI4MTg5NywtNzkzMTEzMTk0LC
+0yMDI0NDUyMjMwLC0xMDQwOTQzODc0LC0zNTg3NDkyMTAsLTE5
+NzU5Mjg5ODcsMTkwMzk2MDI1NywtOTQ1MjYzMDMxLDE5MzMyOD
+g2NzEsLTI5OTgyMTEzNiwxNjY0ODgzMzgxLC0yMDc2MDgxODE4
+LDU0NTM0Mjk4NV19
 -->
