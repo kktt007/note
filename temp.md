@@ -1,3 +1,102 @@
+### 4.2
+- century noun. \ ˈsen(t)-sh(ə-)rē 注意发音 (t)-sh 成
+- somewhat
+	- to some degree
+	- I was somewhat surprised to see him.
+
+- motive \ ˈmō-tiv noun.
+	-  a reason for doing something
+
+	- There seemed to be no motive for the murder.
+
+- desire \ di-ˈzī(-ə)r noun.
+	- a strong with to have or do something
+		- He now had enough money to satisfy all his desires.
+
+- satisfy
+	-  to provide what is wanted, needed or asked for
+		- The food wasn't enough to satisfy his hunger.
+		- The education system must satisfy the needs of all children.
+
+- announcement \ ə-ˈnau̇n(t)-smənt
+	- noun.
+	- a spoken or written statement that informs people about something
+		- We welcome the recent announcement by the Government.
+
+- inform 
+	- to tell somebody about something, especially in an official way
+
+- defeat
+	- failure to win or to be sueecssful
+		- failure: The success or failure
+	- They suffered a narrow defeat in the final.
+		- narrow
+			- only just achieved or avoided
+			- a narrow victory
+
+- 纠正发音
+
+- maintain \ mān-ˈtān
+
+- sceond \ ˈse-kənd k阻碍
+
+- assurance \ ə-ˈshu̇r-ən(t)s 遇到ce ts连读
+
+- notification  \ ˌnō-tə-fə-ˈkā-shən noun.
+	- official information of something; the act of giving or receiving this 
+
+information
+		- You should receive (a) notification of our decision in the next week.	
+		- decision \ di-ˈsi-zhən m-w音标不准。。
+
+- profit \ ˈprä-fət
+- benefit \ ˈbe-nə-ˌfit  中介，重音部分i音标变为i 非重音自然嘴型，似乎3音节更需要，可能次重音和词源有关
+
+- admit \ əd-ˈmit
+	- verb.
+	- to agree that something is true, especially when you are unhappy, sorry, or surprised about it
+	- Why don't you just admit defeat (= recognize that you cannot do something) and let someone else try?
+
+
+https://www.investopedia.com/terms/p/profit.asp
+https://blog.talaera.com/business-emails-phrases
+google 提问的思路
+http://www.learnersdictionary.com/qa/how-are-you-in-an-email
+
+不错的学习
+https://elt.oup.com/?cc=us&selLanguage=en
+https://www.grammarly.com/blog/i-hope-youre-doing-well/
+https://www.businesswritingblog.com/business_writing/2012/07/opening-sentences-for-global-email.html
+
+
+
+提出正确的问题比得到正确答案更重要
+https://www.hbrchina.org/2018-03-12/5924.html#
+https://www.zreading.cn/archives/5585.html
+这三个场景里，提问比答案重要[提问篇2] - 小王的文章 - 知乎
+https://zhuanlan.zhihu.com/p/108417362
+https://blog.just4fun.site/post/%E5%B0%91%E5%84%BF%E7%BC%96%E7%A8%8B/asking-the-right-question-is-more-important-than-getting-the-right-answer/
+英文引用
+https://lemire.me/blog/2018/12/06/asking-the-right-question-is-more-important-than-getting-the-right-answer/
+
+因此，要找到好的问题，你必须与材料保持一定距离。如果你认为我将“好问题”定义为“秘密”或“高度原创”的问题，这应该是没有争议的。
+
+我们的思维倾向于根据我们学到的模式来构建一切。花两年时间学习马克思主义，每一个问题对你来说都会成为马克思主义的问题。你很难在框架之外提出新的问题。
+
+不要误会我的意思：聪明的人往往更有创造力，其他一切都是平等的……但是，在知识渊博和被锁在思维的框架里之间存在差异。
+
+## key: 对我来说一个重要的词:  思想枷锁
+
+我们怎么能问更好的问题呢？
+
+    注意周围的事物并改变你的世界观(看待世界的方式)。弗莱明(Fleming)是如何发现青霉素的？他注意到一些侵入他肮脏的实验室的霉菌似乎会杀死细菌。他当时问了正确的问题。
+    耐心点。据报道，爱因斯坦曾经说过，“并不是我多聪明，只不过是因为我在问题里待了更久。” 你在一个问题上花的时间越长，就越有可能找到有趣的问题。（参见Forthmann et al. 2018）错过这些重要问题的最简单方法是将它们视为无趣的并且继续过快前进。
+    保持身体活跃，去散步。将自己束缚在桌子上可能会适得其反。我曾经认为，作为一个全力以赴的知识分子是最好的路线，但我现在相信我是非常错误的。我平日几乎每天早上都在外面散步。（见Oppezzo and Schwartz，2014）。
+    不要太社交。对顺从的社会压力会引发强烈的本能反应。对抗牛群是艰难的。因此，你最好不要过多地了解牛群的位置。具体而言，花几天独处。 Bernstein et al.（2018）建议间歇性的社交互动，而不是持续的互动，以避免个人探索的减少。
+    多问问题。如果你想善于提供正确的答案，训练自己多回答问题。如果你想善于提问，那就多问问题。
+    总是质疑自己的想法和工作。
+
+
 ### 4.1
 http://www.kidsenglishbooks.com/sleepingbeauty
 https://www.fluentu.com/blog/english/english-children-books/
@@ -2419,11 +2518,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDU3MTg2NjEsLTE5NTkyODE4OTcsLT
-c5MzExMzE5NCwtMjAyNDQ1MjIzMCwtMTA0MDk0Mzg3NCwtMzU4
-NzQ5MjEwLC0xOTc1OTI4OTg3LDE5MDM5NjAyNTcsLTk0NTI2Mz
-AzMSwxOTMzMjg4NjcxLC0yOTk4MjExMzYsMTY2NDg4MzM4MSwt
-MjA3NjA4MTgxOCw1NDUzNDI5ODUsOTM2MDgzNTgwLC0xMzYyMz
-k0ODcsMTc3MjkyMjU0LC0yODcwNzIxNTgsLTEwNjQxNzA0NjMs
-MTU3MDM2Mzc0NF19
+eyJoaXN0b3J5IjpbLTIwNDk1ODYwODUsLTE4MDU3MTg2NjEsLT
+E5NTkyODE4OTcsLTc5MzExMzE5NCwtMjAyNDQ1MjIzMCwtMTA0
+MDk0Mzg3NCwtMzU4NzQ5MjEwLC0xOTc1OTI4OTg3LDE5MDM5Nj
+AyNTcsLTk0NTI2MzAzMSwxOTMzMjg4NjcxLC0yOTk4MjExMzYs
+MTY2NDg4MzM4MSwtMjA3NjA4MTgxOCw1NDUzNDI5ODUsOTM2MD
+gzNTgwLC0xMzYyMzk0ODcsMTc3MjkyMjU0LC0yODcwNzIxNTgs
+LTEwNjQxNzA0NjNdfQ==
 -->
