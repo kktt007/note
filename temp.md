@@ -1,6 +1,12 @@
 ### 4.2
+electricity \ i-ˌlek-ˈtri-sə-tē t阻碍
+chemical  \ ˈke-mi-kəl  k 阻碍
+alternative \ ȯl-ˈtər-nə-tiv t阻碍
 
-发音新规则，3音节，非重音，似乎看第二个辅音的同化，
+american \ ə-ˈmer-ə-kən k不阻碍
+priority \ prī-ˈȯr-ə-tē t 不阻碍
+
+发音新规则，3音节，非重音，似乎看第二个音节有关，
 - century noun. \ ˈsen(t)-sh(ə-)rē 注意发音 (t)-sh 成
 - somewhat
 	- to some degree
@@ -2520,7 +2526,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5Mjc5MTQ4OSwtODc3NjkyODQ3LC0yMD
+eyJoaXN0b3J5IjpbMTE4MTg2OTI4MiwtODc3NjkyODQ3LC0yMD
 Q5NTg2MDg1LC0xODA1NzE4NjYxLC0xOTU5MjgxODk3LC03OTMx
 MTMxOTQsLTIwMjQ0NTIyMzAsLTEwNDA5NDM4NzQsLTM1ODc0OT
 IxMCwtMTk3NTkyODk4NywxOTAzOTYwMjU3LC05NDUyNjMwMzEs
