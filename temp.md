@@ -6,7 +6,7 @@ surgical \ ˈsər-ji-kəl k 阻碍
 vehicle \ ˈvē-ə-kəl  k阻碍
 priority \ prī-ˈȯr-ə-tē t 阻碍
 
-american \ ə-ˈmer-ə-kən 阻碍
+american \ ə-ˈmer-ə-kən 阻碍 , 也可不阻碍
 
 
 发音新规则，3音节，非重音，似乎看第二个音节的r有关，无辅音，则扮演有的角色，不阻碍，其余形式同2音节规律
@@ -2530,7 +2530,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAyMDQ5OTk3LDIzNDc2MDk4OCwtNjcxMT
+eyJoaXN0b3J5IjpbODE1OTU0Njk2LDIzNDc2MDk4OCwtNjcxMT
 A2Njc3LDEyNDg3MjA1NTEsLTg3NzY5Mjg0NywtMjA0OTU4NjA4
 NSwtMTgwNTcxODY2MSwtMTk1OTI4MTg5NywtNzkzMTEzMTk0LC
 0yMDI0NDUyMjMwLC0xMDQwOTQzODc0LC0zNTg3NDkyMTAsLTE5
