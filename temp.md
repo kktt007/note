@@ -3,6 +3,7 @@ electricity \ i-ˌlek-ˈtri-sə-tē t阻碍
 chemical  \ ˈke-mi-kəl  k 阻碍
 alternative \ ȯl-ˈtər-nə-tiv t阻碍
 surgical \ ˈsər-ji-kəl k 阻碍
+vehicle \ ˈvē-ə-kəl  k阻碍
 
 american \ ə-ˈmer-ə-kən k不阻碍
 priority \ prī-ˈȯr-ə-tē t 不阻碍
@@ -2528,11 +2529,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MTEwNjY3NywxMjQ4NzIwNTUxLC04Nz
-c2OTI4NDcsLTIwNDk1ODYwODUsLTE4MDU3MTg2NjEsLTE5NTky
-ODE4OTcsLTc5MzExMzE5NCwtMjAyNDQ1MjIzMCwtMTA0MDk0Mz
-g3NCwtMzU4NzQ5MjEwLC0xOTc1OTI4OTg3LDE5MDM5NjAyNTcs
-LTk0NTI2MzAzMSwxOTMzMjg4NjcxLC0yOTk4MjExMzYsMTY2ND
-g4MzM4MSwtMjA3NjA4MTgxOCw1NDUzNDI5ODUsOTM2MDgzNTgw
-LC0xMzYyMzk0ODddfQ==
+eyJoaXN0b3J5IjpbLTEwMzA1MjQ4MTgsLTY3MTEwNjY3NywxMj
+Q4NzIwNTUxLC04Nzc2OTI4NDcsLTIwNDk1ODYwODUsLTE4MDU3
+MTg2NjEsLTE5NTkyODE4OTcsLTc5MzExMzE5NCwtMjAyNDQ1Mj
+IzMCwtMTA0MDk0Mzg3NCwtMzU4NzQ5MjEwLC0xOTc1OTI4OTg3
+LDE5MDM5NjAyNTcsLTk0NTI2MzAzMSwxOTMzMjg4NjcxLC0yOT
+k4MjExMzYsMTY2NDg4MzM4MSwtMjA3NjA4MTgxOCw1NDUzNDI5
+ODUsOTM2MDgzNTgwXX0=
 -->
