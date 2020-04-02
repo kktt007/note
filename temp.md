@@ -4,9 +4,10 @@ chemical  \ ˈke-mi-kəl  k 阻碍
 alternative \ ȯl-ˈtər-nə-tiv t阻碍
 surgical \ ˈsər-ji-kəl k 阻碍
 vehicle \ ˈvē-ə-kəl  k阻碍
+priority \ prī-ˈȯr-ə-tē t 阻碍
 
 american \ ə-ˈmer-ə-kən k不阻碍
-priority \ prī-ˈȯr-ə-tē t 不阻碍
+
 
 发音新规则，3音节，非重音，似乎看第二个音节的r有关，无辅音，则扮演有的角色，不阻碍，其余形式同2音节规律
 
@@ -2529,11 +2530,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM0NzYwOTg4LC02NzExMDY2NzcsMTI0OD
-cyMDU1MSwtODc3NjkyODQ3LC0yMDQ5NTg2MDg1LC0xODA1NzE4
-NjYxLC0xOTU5MjgxODk3LC03OTMxMTMxOTQsLTIwMjQ0NTIyMz
-AsLTEwNDA5NDM4NzQsLTM1ODc0OTIxMCwtMTk3NTkyODk4Nywx
-OTAzOTYwMjU3LC05NDUyNjMwMzEsMTkzMzI4ODY3MSwtMjk5OD
-IxMTM2LDE2NjQ4ODMzODEsLTIwNzYwODE4MTgsNTQ1MzQyOTg1
-LDkzNjA4MzU4MF19
+eyJoaXN0b3J5IjpbLTUzMDU5OTI4MSwyMzQ3NjA5ODgsLTY3MT
+EwNjY3NywxMjQ4NzIwNTUxLC04Nzc2OTI4NDcsLTIwNDk1ODYw
+ODUsLTE4MDU3MTg2NjEsLTE5NTkyODE4OTcsLTc5MzExMzE5NC
+wtMjAyNDQ1MjIzMCwtMTA0MDk0Mzg3NCwtMzU4NzQ5MjEwLC0x
+OTc1OTI4OTg3LDE5MDM5NjAyNTcsLTk0NTI2MzAzMSwxOTMzMj
+g4NjcxLC0yOTk4MjExMzYsMTY2NDg4MzM4MSwtMjA3NjA4MTgx
+OCw1NDUzNDI5ODVdfQ==
 -->
