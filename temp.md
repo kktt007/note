@@ -8,6 +8,11 @@
 	- how large, important, serious, etc. something is
 	- We don't know the extent of his injuries at this point.
 
+
+- break
+	- to stop doing something for a while, especially when it is time to eat or have a drink
+		- break for something Let's break for lunch.
+
 一个有价值的问题，包含于另一个有价值的体系。所以我找到了youtube 
 channel: Gerry English Expressions
 "Speaking like a native speaker - t to d (flap t) - N. American Pronunciation"
@@ -2574,11 +2579,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQwODIzMjg3LC00NDU4OTMyMCwtNDIyNj
-Y4MzAsMTY2MzMzMjYwLC04NDE3MjEwMTgsLTE3OTM1MjAyOTcs
-LTE0NDQzNTcxMjYsMjM0NzYwOTg4LC02NzExMDY2NzcsMTI0OD
-cyMDU1MSwtODc3NjkyODQ3LC0yMDQ5NTg2MDg1LC0xODA1NzE4
-NjYxLC0xOTU5MjgxODk3LC03OTMxMTMxOTQsLTIwMjQ0NTIyMz
-AsLTEwNDA5NDM4NzQsLTM1ODc0OTIxMCwtMTk3NTkyODk4Nywx
-OTAzOTYwMjU3XX0=
+eyJoaXN0b3J5IjpbMzIzMzUwMTcsNzQwODIzMjg3LC00NDU4OT
+MyMCwtNDIyNjY4MzAsMTY2MzMzMjYwLC04NDE3MjEwMTgsLTE3
+OTM1MjAyOTcsLTE0NDQzNTcxMjYsMjM0NzYwOTg4LC02NzExMD
+Y2NzcsMTI0ODcyMDU1MSwtODc3NjkyODQ3LC0yMDQ5NTg2MDg1
+LC0xODA1NzE4NjYxLC0xOTU5MjgxODk3LC03OTMxMTMxOTQsLT
+IwMjQ0NTIyMzAsLTEwNDA5NDM4NzQsLTM1ODc0OTIxMCwtMTk3
+NTkyODk4N119
 -->
