@@ -1,5 +1,5 @@
 ### 4.3
-
+- exquisite \ ek-ˈskwi-zət 比较典型的发音，egsgui... s不变，k阻碍
 - check-up
 	- an examination of somebody/something, especially a medical one to make sure that you are healthy
 
@@ -2603,11 +2603,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzM5NzIwMDgsMTgzODkxNzYzMSwxNT
-YxMTkxNjc5LDc0MDgyMzI4NywtNDQ1ODkzMjAsLTQyMjY2ODMw
-LDE2NjMzMzI2MCwtODQxNzIxMDE4LC0xNzkzNTIwMjk3LC0xND
-Q0MzU3MTI2LDIzNDc2MDk4OCwtNjcxMTA2Njc3LDEyNDg3MjA1
-NTEsLTg3NzY5Mjg0NywtMjA0OTU4NjA4NSwtMTgwNTcxODY2MS
-wtMTk1OTI4MTg5NywtNzkzMTEzMTk0LC0yMDI0NDUyMjMwLC0x
-MDQwOTQzODc0XX0=
+eyJoaXN0b3J5IjpbLTU2NjYyNzIxMiwxODM4OTE3NjMxLDE1Nj
+ExOTE2NzksNzQwODIzMjg3LC00NDU4OTMyMCwtNDIyNjY4MzAs
+MTY2MzMzMjYwLC04NDE3MjEwMTgsLTE3OTM1MjAyOTcsLTE0ND
+QzNTcxMjYsMjM0NzYwOTg4LC02NzExMDY2NzcsMTI0ODcyMDU1
+MSwtODc3NjkyODQ3LC0yMDQ5NTg2MDg1LC0xODA1NzE4NjYxLC
+0xOTU5MjgxODk3LC03OTMxMTMxOTQsLTIwMjQ0NTIyMzAsLTEw
+NDA5NDM4NzRdfQ==
 -->
