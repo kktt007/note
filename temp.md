@@ -10,8 +10,8 @@
 
 
 - break
-	- to stop doing something for a while, especially when it is time to eat or have a drink
-		- break for something Let's break for lunch.
+	1. to stop doing something for a while, especially when it is time to eat or have a drink
+	- break for something Let's break for lunch.
 
 一个有价值的问题，包含于另一个有价值的体系。所以我找到了youtube 
 channel: Gerry English Expressions
@@ -2579,11 +2579,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIzMzUwMTcsNzQwODIzMjg3LC00NDU4OT
-MyMCwtNDIyNjY4MzAsMTY2MzMzMjYwLC04NDE3MjEwMTgsLTE3
-OTM1MjAyOTcsLTE0NDQzNTcxMjYsMjM0NzYwOTg4LC02NzExMD
-Y2NzcsMTI0ODcyMDU1MSwtODc3NjkyODQ3LC0yMDQ5NTg2MDg1
-LC0xODA1NzE4NjYxLC0xOTU5MjgxODk3LC03OTMxMTMxOTQsLT
-IwMjQ0NTIyMzAsLTEwNDA5NDM4NzQsLTM1ODc0OTIxMCwtMTk3
-NTkyODk4N119
+eyJoaXN0b3J5IjpbMTU2MTE5MTY3OSw3NDA4MjMyODcsLTQ0NT
+g5MzIwLC00MjI2NjgzMCwxNjYzMzMyNjAsLTg0MTcyMTAxOCwt
+MTc5MzUyMDI5NywtMTQ0NDM1NzEyNiwyMzQ3NjA5ODgsLTY3MT
+EwNjY3NywxMjQ4NzIwNTUxLC04Nzc2OTI4NDcsLTIwNDk1ODYw
+ODUsLTE4MDU3MTg2NjEsLTE5NTkyODE4OTcsLTc5MzExMzE5NC
+wtMjAyNDQ1MjIzMCwtMTA0MDk0Mzg3NCwtMzU4NzQ5MjEwLC0x
+OTc1OTI4OTg3XX0=
 -->
