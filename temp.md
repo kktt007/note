@@ -2,6 +2,9 @@
 - exquisite \ ek-ˈskwi-zət 比较典型的发音，egs gui... s不变，k阻碍
 - Her wedding dress was absolutely exquisite.
 
+- sensitive
+	- She is very sensitive to other people's feelings.
+
 - check-up
 	- an examination of somebody/something, especially a medical one to make sure that you are healthy
 
@@ -2605,7 +2608,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzUxMDcwNTUsMTAwMTI4NTM2OCwtNT
+eyJoaXN0b3J5IjpbLTE1MzQ0MzA0MTIsMTAwMTI4NTM2OCwtNT
 Y2NjI3MjEyLDE4Mzg5MTc2MzEsMTU2MTE5MTY3OSw3NDA4MjMy
 ODcsLTQ0NTg5MzIwLC00MjI2NjgzMCwxNjYzMzMyNjAsLTg0MT
 cyMTAxOCwtMTc5MzUyMDI5NywtMTQ0NDM1NzEyNiwyMzQ3NjA5
