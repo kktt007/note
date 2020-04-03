@@ -1,4 +1,15 @@
 ### 4.3
+- check-up
+	- an examination of somebody/something, especially a medical one to make sure that you are healthy
+
+    to go for/to have a check-up
+- check up on 
+	- to make sure that somebody is doing what they should be doing
+		- My parents are always checking up on me.
+
+	- to find out if something is true or correct
+		- I need to check up on a few things before I can decide.
+
 - remarkable \ ri-ˈmär-kə-blē
 	- unusual or surprising in a way that causes people to take notice
 	-  The area is remarkable for its scenery.
@@ -2591,11 +2602,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzODkxNzYzMSwxNTYxMTkxNjc5LDc0MD
-gyMzI4NywtNDQ1ODkzMjAsLTQyMjY2ODMwLDE2NjMzMzI2MCwt
-ODQxNzIxMDE4LC0xNzkzNTIwMjk3LC0xNDQ0MzU3MTI2LDIzND
-c2MDk4OCwtNjcxMTA2Njc3LDEyNDg3MjA1NTEsLTg3NzY5Mjg0
-NywtMjA0OTU4NjA4NSwtMTgwNTcxODY2MSwtMTk1OTI4MTg5Ny
-wtNzkzMTEzMTk0LC0yMDI0NDUyMjMwLC0xMDQwOTQzODc0LC0z
-NTg3NDkyMTBdfQ==
+eyJoaXN0b3J5IjpbLTIwOTA2MDMxMCwxODM4OTE3NjMxLDE1Nj
+ExOTE2NzksNzQwODIzMjg3LC00NDU4OTMyMCwtNDIyNjY4MzAs
+MTY2MzMzMjYwLC04NDE3MjEwMTgsLTE3OTM1MjAyOTcsLTE0ND
+QzNTcxMjYsMjM0NzYwOTg4LC02NzExMDY2NzcsMTI0ODcyMDU1
+MSwtODc3NjkyODQ3LC0yMDQ5NTg2MDg1LC0xODA1NzE4NjYxLC
+0xOTU5MjgxODk3LC03OTMxMTMxOTQsLTIwMjQ0NTIyMzAsLTEw
+NDA5NDM4NzRdfQ==
 -->
