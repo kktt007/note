@@ -1,7 +1,7 @@
 ### 4.3
 
 一个有价值的问题，包含于另一个有价值的体系。所以我找到了youtube 
-Gerry English Expressions
+channel: Gerry English Expressions
 "Speaking like a native speaker - t to d (flap t) - N. American Pronunciation"
 
 
@@ -2566,11 +2566,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5OTM2OTU0MywtNDQ1ODkzMjAsLTQyMj
-Y2ODMwLDE2NjMzMzI2MCwtODQxNzIxMDE4LC0xNzkzNTIwMjk3
-LC0xNDQ0MzU3MTI2LDIzNDc2MDk4OCwtNjcxMTA2Njc3LDEyND
-g3MjA1NTEsLTg3NzY5Mjg0NywtMjA0OTU4NjA4NSwtMTgwNTcx
-ODY2MSwtMTk1OTI4MTg5NywtNzkzMTEzMTk0LC0yMDI0NDUyMj
-MwLC0xMDQwOTQzODc0LC0zNTg3NDkyMTAsLTE5NzU5Mjg5ODcs
-MTkwMzk2MDI1N119
+eyJoaXN0b3J5IjpbLTIwMzk1ODcyMTAsLTQ0NTg5MzIwLC00Mj
+I2NjgzMCwxNjYzMzMyNjAsLTg0MTcyMTAxOCwtMTc5MzUyMDI5
+NywtMTQ0NDM1NzEyNiwyMzQ3NjA5ODgsLTY3MTEwNjY3NywxMj
+Q4NzIwNTUxLC04Nzc2OTI4NDcsLTIwNDk1ODYwODUsLTE4MDU3
+MTg2NjEsLTE5NTkyODE4OTcsLTc5MzExMzE5NCwtMjAyNDQ1Mj
+IzMCwtMTA0MDk0Mzg3NCwtMzU4NzQ5MjEwLC0xOTc1OTI4OTg3
+LDE5MDM5NjAyNTddfQ==
 -->
