@@ -1,5 +1,8 @@
 ### 4.3
 ## search engine
+类似网站
+https://spymetrics.ru/en
+http://www.topsimilarsites.com/
 
 [查英语很好](https://www.wolframalpha.com)
 [boardreader牛逼](https://boardreader.com)
@@ -914,6 +917,7 @@ https://www.similarweb.com
 https://www.similarsitesearch.com
 https://www.findsimilarsites.com
 https://spymetrics.ru/en
+http://www.topsimilarsites.com/
 
 这个不错的搜索,比如搜索archlinux install
 http://www.kartoo.com/
@@ -2552,11 +2556,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MzMzMjYwLC04NDE3MjEwMTgsLTE3OT
-M1MjAyOTcsLTE0NDQzNTcxMjYsMjM0NzYwOTg4LC02NzExMDY2
-NzcsMTI0ODcyMDU1MSwtODc3NjkyODQ3LC0yMDQ5NTg2MDg1LC
-0xODA1NzE4NjYxLC0xOTU5MjgxODk3LC03OTMxMTMxOTQsLTIw
-MjQ0NTIyMzAsLTEwNDA5NDM4NzQsLTM1ODc0OTIxMCwtMTk3NT
-kyODk4NywxOTAzOTYwMjU3LC05NDUyNjMwMzEsMTkzMzI4ODY3
-MSwtMjk5ODIxMTM2XX0=
+eyJoaXN0b3J5IjpbLTE4NDkwNjk2ODQsMTY2MzMzMjYwLC04ND
+E3MjEwMTgsLTE3OTM1MjAyOTcsLTE0NDQzNTcxMjYsMjM0NzYw
+OTg4LC02NzExMDY2NzcsMTI0ODcyMDU1MSwtODc3NjkyODQ3LC
+0yMDQ5NTg2MDg1LC0xODA1NzE4NjYxLC0xOTU5MjgxODk3LC03
+OTMxMTMxOTQsLTIwMjQ0NTIyMzAsLTEwNDA5NDM4NzQsLTM1OD
+c0OTIxMCwtMTk3NTkyODk4NywxOTAzOTYwMjU3LC05NDUyNjMw
+MzEsMTkzMzI4ODY3MV19
 -->
