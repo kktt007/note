@@ -5,6 +5,10 @@
 - sensitive
 	- She is very sensitive to other people's feelings.
 
+- debut \ ˈdā-ˌbyü
+	- the first public appearance of a performer or sports player
+
+	- He will make his debut for the first team this week.
 - check-up
 	- an examination of somebody/something, especially a medical one to make sure that you are healthy
 
@@ -2608,11 +2612,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzQ0MzA0MTIsMTAwMTI4NTM2OCwtNT
-Y2NjI3MjEyLDE4Mzg5MTc2MzEsMTU2MTE5MTY3OSw3NDA4MjMy
-ODcsLTQ0NTg5MzIwLC00MjI2NjgzMCwxNjYzMzMyNjAsLTg0MT
-cyMTAxOCwtMTc5MzUyMDI5NywtMTQ0NDM1NzEyNiwyMzQ3NjA5
-ODgsLTY3MTEwNjY3NywxMjQ4NzIwNTUxLC04Nzc2OTI4NDcsLT
-IwNDk1ODYwODUsLTE4MDU3MTg2NjEsLTE5NTkyODE4OTcsLTc5
-MzExMzE5NF19
+eyJoaXN0b3J5IjpbLTg5ODI5MjU1NywxMDAxMjg1MzY4LC01Nj
+Y2MjcyMTIsMTgzODkxNzYzMSwxNTYxMTkxNjc5LDc0MDgyMzI4
+NywtNDQ1ODkzMjAsLTQyMjY2ODMwLDE2NjMzMzI2MCwtODQxNz
+IxMDE4LC0xNzkzNTIwMjk3LC0xNDQ0MzU3MTI2LDIzNDc2MDk4
+OCwtNjcxMTA2Njc3LDEyNDg3MjA1NTEsLTg3NzY5Mjg0NywtMj
+A0OTU4NjA4NSwtMTgwNTcxODY2MSwtMTk1OTI4MTg5NywtNzkz
+MTEzMTk0XX0=
 -->
