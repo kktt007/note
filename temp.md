@@ -1,6 +1,12 @@
 ### 4.3
 ## search engine
 
+[查英语很好](https://www.wolframalpha.com)
+[boardreader牛逼](https://boardreader.com)
+[ecosia](https://www.ecosia.org/)
+[mojeek](https://www.mojeek.com)
+[discretesearch](https://www.discretesearch.com)
+[search.carrot2.org](https://search.carrot2.org)
 [searchencrypt](https://searchencrypt.com/)
 
 [kartoo](http://www.kartoo.com/)
@@ -2546,11 +2552,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NzE1MDIyMCwtODQxNzIxMDE4LC0xNz
-kzNTIwMjk3LC0xNDQ0MzU3MTI2LDIzNDc2MDk4OCwtNjcxMTA2
-Njc3LDEyNDg3MjA1NTEsLTg3NzY5Mjg0NywtMjA0OTU4NjA4NS
-wtMTgwNTcxODY2MSwtMTk1OTI4MTg5NywtNzkzMTEzMTk0LC0y
-MDI0NDUyMjMwLC0xMDQwOTQzODc0LC0zNTg3NDkyMTAsLTE5Nz
-U5Mjg5ODcsMTkwMzk2MDI1NywtOTQ1MjYzMDMxLDE5MzMyODg2
-NzEsLTI5OTgyMTEzNl19
+eyJoaXN0b3J5IjpbMTY2MzMzMjYwLC04NDE3MjEwMTgsLTE3OT
+M1MjAyOTcsLTE0NDQzNTcxMjYsMjM0NzYwOTg4LC02NzExMDY2
+NzcsMTI0ODcyMDU1MSwtODc3NjkyODQ3LC0yMDQ5NTg2MDg1LC
+0xODA1NzE4NjYxLC0xOTU5MjgxODk3LC03OTMxMTMxOTQsLTIw
+MjQ0NTIyMzAsLTEwNDA5NDM4NzQsLTM1ODc0OTIxMCwtMTk3NT
+kyODk4NywxOTAzOTYwMjU3LC05NDUyNjMwMzEsMTkzMzI4ODY3
+MSwtMjk5ODIxMTM2XX0=
 -->
