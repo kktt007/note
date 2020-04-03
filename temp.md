@@ -891,7 +891,6 @@ https://www.similarweb.com
 https://www.similarsitesearch.com
 https://www.findsimilarsites.com
 https://spymetrics.ru/en
-https://siteslike.com
 
 这个不错的搜索,比如搜索archlinux install
 http://www.kartoo.com/
@@ -2530,11 +2529,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDQzNTcxMjYsMjM0NzYwOTg4LC02Nz
-ExMDY2NzcsMTI0ODcyMDU1MSwtODc3NjkyODQ3LC0yMDQ5NTg2
-MDg1LC0xODA1NzE4NjYxLC0xOTU5MjgxODk3LC03OTMxMTMxOT
-QsLTIwMjQ0NTIyMzAsLTEwNDA5NDM4NzQsLTM1ODc0OTIxMCwt
-MTk3NTkyODk4NywxOTAzOTYwMjU3LC05NDUyNjMwMzEsMTkzMz
-I4ODY3MSwtMjk5ODIxMTM2LDE2NjQ4ODMzODEsLTIwNzYwODE4
-MTgsNTQ1MzQyOTg1XX0=
+eyJoaXN0b3J5IjpbLTE3OTM1MjAyOTcsLTE0NDQzNTcxMjYsMj
+M0NzYwOTg4LC02NzExMDY2NzcsMTI0ODcyMDU1MSwtODc3Njky
+ODQ3LC0yMDQ5NTg2MDg1LC0xODA1NzE4NjYxLC0xOTU5MjgxOD
+k3LC03OTMxMTMxOTQsLTIwMjQ0NTIyMzAsLTEwNDA5NDM4NzQs
+LTM1ODc0OTIxMCwtMTk3NTkyODk4NywxOTAzOTYwMjU3LC05ND
+UyNjMwMzEsMTkzMzI4ODY3MSwtMjk5ODIxMTM2LDE2NjQ4ODMz
+ODEsLTIwNzYwODE4MThdfQ==
 -->
