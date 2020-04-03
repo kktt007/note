@@ -1,5 +1,6 @@
 ### 4.3
-
+- remarkable \ ri-ˈmär-kə-blē
+- 
 一个有价值的问题，包含于另一个有价值的体系。所以我找到了youtube 
 channel: Gerry English Expressions
 "Speaking like a native speaker - t to d (flap t) - N. American Pronunciation"
@@ -2566,7 +2567,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzk1ODcyMTAsLTQ0NTg5MzIwLC00Mj
+eyJoaXN0b3J5IjpbLTE4MTY3NDk2NzQsLTQ0NTg5MzIwLC00Mj
 I2NjgzMCwxNjYzMzMyNjAsLTg0MTcyMTAxOCwtMTc5MzUyMDI5
 NywtMTQ0NDM1NzEyNiwyMzQ3NjA5ODgsLTY3MTEwNjY3NywxMj
 Q4NzIwNTUxLC04Nzc2OTI4NDcsLTIwNDk1ODYwODUsLTE4MDU3
