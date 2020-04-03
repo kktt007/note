@@ -1,5 +1,7 @@
 ### 4.3
 - exquisite \ ek-ˈskwi-zət 比较典型的发音，egs gui... s不变，k阻碍
+- Her wedding dress was absolutely exquisite.
+
 - check-up
 	- an examination of somebody/something, especially a medical one to make sure that you are healthy
 
@@ -2603,11 +2605,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMTI4NTM2OCwtNTY2NjI3MjEyLDE4Mz
-g5MTc2MzEsMTU2MTE5MTY3OSw3NDA4MjMyODcsLTQ0NTg5MzIw
-LC00MjI2NjgzMCwxNjYzMzMyNjAsLTg0MTcyMTAxOCwtMTc5Mz
-UyMDI5NywtMTQ0NDM1NzEyNiwyMzQ3NjA5ODgsLTY3MTEwNjY3
-NywxMjQ4NzIwNTUxLC04Nzc2OTI4NDcsLTIwNDk1ODYwODUsLT
-E4MDU3MTg2NjEsLTE5NTkyODE4OTcsLTc5MzExMzE5NCwtMjAy
-NDQ1MjIzMF19
+eyJoaXN0b3J5IjpbLTE4NzUxMDcwNTUsMTAwMTI4NTM2OCwtNT
+Y2NjI3MjEyLDE4Mzg5MTc2MzEsMTU2MTE5MTY3OSw3NDA4MjMy
+ODcsLTQ0NTg5MzIwLC00MjI2NjgzMCwxNjYzMzMyNjAsLTg0MT
+cyMTAxOCwtMTc5MzUyMDI5NywtMTQ0NDM1NzEyNiwyMzQ3NjA5
+ODgsLTY3MTEwNjY3NywxMjQ4NzIwNTUxLC04Nzc2OTI4NDcsLT
+IwNDk1ODYwODUsLTE4MDU3MTg2NjEsLTE5NTkyODE4OTcsLTc5
+MzExMzE5NF19
 -->
