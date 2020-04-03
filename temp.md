@@ -1,3 +1,19 @@
+### 4.3
+## search engine
+[searchencrypt](https://searchencrypt.com/)
+
+[kartoo](http://www.kartoo.com/)
+
+[search.myway](https://search.myway.com)
+
+[lycos](http://www.lycos.com/)
+
+[yippy](https://www.yippy.com/)
+
+### 导航
+[alvista](https://alvista.com/)
+
+
 ### 4.2
 electricity \ i-ˌlek-ˈtri-sə-tē t阻碍
 chemical  \ ˈke-mi-kəl  k 阻碍
@@ -2529,11 +2545,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTM1MjAyOTcsLTE0NDQzNTcxMjYsMj
-M0NzYwOTg4LC02NzExMDY2NzcsMTI0ODcyMDU1MSwtODc3Njky
-ODQ3LC0yMDQ5NTg2MDg1LC0xODA1NzE4NjYxLC0xOTU5MjgxOD
-k3LC03OTMxMTMxOTQsLTIwMjQ0NTIyMzAsLTEwNDA5NDM4NzQs
-LTM1ODc0OTIxMCwtMTk3NTkyODk4NywxOTAzOTYwMjU3LC05ND
-UyNjMwMzEsMTkzMzI4ODY3MSwtMjk5ODIxMTM2LDE2NjQ4ODMz
-ODEsLTIwNzYwODE4MThdfQ==
+eyJoaXN0b3J5IjpbLTg0MTcyMTAxOCwtMTc5MzUyMDI5NywtMT
+Q0NDM1NzEyNiwyMzQ3NjA5ODgsLTY3MTEwNjY3NywxMjQ4NzIw
+NTUxLC04Nzc2OTI4NDcsLTIwNDk1ODYwODUsLTE4MDU3MTg2Nj
+EsLTE5NTkyODE4OTcsLTc5MzExMzE5NCwtMjAyNDQ1MjIzMCwt
+MTA0MDk0Mzg3NCwtMzU4NzQ5MjEwLC0xOTc1OTI4OTg3LDE5MD
+M5NjAyNTcsLTk0NTI2MzAzMSwxOTMzMjg4NjcxLC0yOTk4MjEx
+MzYsMTY2NDg4MzM4MV19
 -->
