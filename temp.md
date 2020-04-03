@@ -8,6 +8,18 @@
 	- how large, important, serious, etc. something is
 	- We don't know the extent of his injuries at this point.
 
+- break
+	- to stop doing something for a while, especially when it is time to eat or have a drink
+		- break for something Let's break for lunch.
+
+- catch up
+	1. to reach the same level or standard as somebody who was better or more advanced
+	- After missing a term through illness, he had to work hard to catch up with the others.
+
+- advanced \ əd-ˈvan(t)st 注意发音 tst
+	1. having the most modern and recently developed ideas, methods, etc.
+	- Sweden has a reputation for advanced and stylish design.
+
 
 - break
 	1. to stop doing something for a while, especially when it is time to eat or have a drink
@@ -2579,11 +2591,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MTE5MTY3OSw3NDA4MjMyODcsLTQ0NT
-g5MzIwLC00MjI2NjgzMCwxNjYzMzMyNjAsLTg0MTcyMTAxOCwt
-MTc5MzUyMDI5NywtMTQ0NDM1NzEyNiwyMzQ3NjA5ODgsLTY3MT
-EwNjY3NywxMjQ4NzIwNTUxLC04Nzc2OTI4NDcsLTIwNDk1ODYw
-ODUsLTE4MDU3MTg2NjEsLTE5NTkyODE4OTcsLTc5MzExMzE5NC
-wtMjAyNDQ1MjIzMCwtMTA0MDk0Mzg3NCwtMzU4NzQ5MjEwLC0x
-OTc1OTI4OTg3XX0=
+eyJoaXN0b3J5IjpbMTgzODkxNzYzMSwxNTYxMTkxNjc5LDc0MD
+gyMzI4NywtNDQ1ODkzMjAsLTQyMjY2ODMwLDE2NjMzMzI2MCwt
+ODQxNzIxMDE4LC0xNzkzNTIwMjk3LC0xNDQ0MzU3MTI2LDIzND
+c2MDk4OCwtNjcxMTA2Njc3LDEyNDg3MjA1NTEsLTg3NzY5Mjg0
+NywtMjA0OTU4NjA4NSwtMTgwNTcxODY2MSwtMTk1OTI4MTg5Ny
+wtNzkzMTEzMTk0LC0yMDI0NDUyMjMwLC0xMDQwOTQzODc0LC0z
+NTg3NDkyMTBdfQ==
 -->
