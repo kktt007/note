@@ -1,4 +1,16 @@
+## 4.7
+句子 
+https://searchsentences.com/words/conformity-in-a-sentence
+https://github.com/SpaceVim/SpaceVim/blob/master/docs/cn/documentation.md
 
+- conformity \ kən-ˈfȯr-mə-tē
+We must act in conformity with local regulations
+
+significant 
+Your work has shown a significant improvement.
+The drug has had no significant effect on stopping the spread of the disease
+
+ regulations
 
 ### 4.3
 - exquisite \ ek-ˈskwi-zət 比较典型的发音，egs gui... s不变，k阻碍
@@ -2614,7 +2626,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjk0MTc1ODUsMTAwMTI4NTM2OCwtNT
+eyJoaXN0b3J5IjpbLTEzMjM3MzM3NDEsMTAwMTI4NTM2OCwtNT
 Y2NjI3MjEyLDE4Mzg5MTc2MzEsMTU2MTE5MTY3OSw3NDA4MjMy
 ODcsLTQ0NTg5MzIwLC00MjI2NjgzMCwxNjYzMzMyNjAsLTg0MT
 cyMTAxOCwtMTc5MzUyMDI5NywtMTQ0NDM1NzEyNiwyMzQ3NjA5
