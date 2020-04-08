@@ -1,4 +1,123 @@
-##
+### 4.8
+类似github某个主题的索引
+
+https://awesomeopensource.com/projects/vim-colorscheme
+
+  
+
+https://www.definitions.net/definition/pattern
+
+  
+
+- general
+
+- my general impression of the place was good.
+
+- In general, men are taller than women.
+
+- So , apart from the bad ankle, how are you in general?
+
+  
+
+- format \ ˈfȯr-ˌmat 注意重音
+
+- a pattern, plan, or arrangement:
+
+- The meeting will have the usual format - introductory session, group work and then a time for reporting back.
+
+  
+
+- bring out
+
+- to produce a new product and start to sell it
+
+- The next year they brought out a low-priced car to compete with Ford.
+
+  
+
+- regular \ ˈre-gyə-lər
+
+- She writes a regular column for a national newspaper.
+
+- He was a regular visitor to her house.
+
+- The key to good anti-virus software is regular updates.
+
+- We also hold a regular monthly meeting.
+
+  
+
+- column \ ˈkä-ləm
+
+- a regular newspaper or magazine article on a particular subject or by a particular journalist
+
+- He writes a weekly column for the Daily News.
+
+- a part of a newspaper, magazine or website that appears regularly and deals with a particular subject or is written by a particular writer
+
+- the left-hand column
+
+- a column of text
+
+  
+
+- sitizen noun.
+
+- When you're old, people treat you like a second-class citizen.
+
+  
+  
+
+- ordinary
+
+- normal or average, and not unusual or special
+
+- It was just an ordinary Saturday morning.
+
+- an ordinary sort of day
+
+- sort
+
+- a group or type of people or things that are similar in a particular way
+
+- sort of somebody/something ‘What sort of music do you like?’ ‘Oh, all sorts.’
+
+- a particular type of person
+
+- My brother would never cheat on his wife; he's not that sort.
+
+  
+
+- investigate \ in-ˈve-stə-ˌgāt
+
+  
+  
+
+- emerge
+
+  
+
+- pattern
+
+- noun.
+
+- she stared at a flower pattern on the wall.
+
+  
+
+- a series of actions or events that together show how things normally happen or are done
+
+- Patterns of employment in urban areas are different from those in the countryside.
+
+  
+  
+
+- employment
+
+- the state of being employed or having a job
+
+- the occupation for which you are paid
+
 
 ## 4.7
 句子 
@@ -2628,11 +2747,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM0MzA2MzE5LDEwMDEyODUzNjgsLTU2Nj
-YyNzIxMiwxODM4OTE3NjMxLDE1NjExOTE2NzksNzQwODIzMjg3
-LC00NDU4OTMyMCwtNDIyNjY4MzAsMTY2MzMzMjYwLC04NDE3Mj
-EwMTgsLTE3OTM1MjAyOTcsLTE0NDQzNTcxMjYsMjM0NzYwOTg4
-LC02NzExMDY2NzcsMTI0ODcyMDU1MSwtODc3NjkyODQ3LC0yMD
-Q5NTg2MDg1LC0xODA1NzE4NjYxLC0xOTU5MjgxODk3LC03OTMx
-MTMxOTRdfQ==
+eyJoaXN0b3J5IjpbLTE3MzE1MjUxOTksMTAwMTI4NTM2OCwtNT
+Y2NjI3MjEyLDE4Mzg5MTc2MzEsMTU2MTE5MTY3OSw3NDA4MjMy
+ODcsLTQ0NTg5MzIwLC00MjI2NjgzMCwxNjYzMzMyNjAsLTg0MT
+cyMTAxOCwtMTc5MzUyMDI5NywtMTQ0NDM1NzEyNiwyMzQ3NjA5
+ODgsLTY3MTEwNjY3NywxMjQ4NzIwNTUxLC04Nzc2OTI4NDcsLT
+IwNDk1ODYwODUsLTE4MDU3MTg2NjEsLTE5NTkyODE4OTcsLTc5
+MzExMzE5NF19
 -->
