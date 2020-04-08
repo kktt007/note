@@ -6,6 +6,7 @@ https://www.jianshu.com/p/50d5b6cfd73b
 
 技巧https://blog.csdn.net/GSH_Hello_World/article/details/71479932
 
+% 指匹配整个文件，s 是置换的意思，$ 代表匹配行尾的内容，最后的 g 则表示每行中匹配到的内容都要置换。
 
 ### 4.8
 类似github某个主题的索引
@@ -2756,7 +2757,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUyMzQ3MDE0LC0xNzMxNTI1MTk5LDEwMD
+eyJoaXN0b3J5IjpbNTkwMjEyNTYyLC0xNzMxNTI1MTk5LDEwMD
 EyODUzNjgsLTU2NjYyNzIxMiwxODM4OTE3NjMxLDE1NjExOTE2
 NzksNzQwODIzMjg3LC00NDU4OTMyMCwtNDIyNjY4MzAsMTY2Mz
 MzMjYwLC04NDE3MjEwMTgsLTE3OTM1MjAyOTcsLTE0NDQzNTcx
