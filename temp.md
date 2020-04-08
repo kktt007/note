@@ -2,6 +2,9 @@
 多行添加
 https://my.oschina.net/u/1459307/blog/1859598/print
 多行同列直接编辑
+https://www.jianshu.com/p/50d5b6cfd73b
+
+技巧https://blog.csdn.net/GSH_Hello_World/article/details/71479932
 
 
 ### 4.8
@@ -2753,11 +2756,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MTM0OTEzMywtMTczMTUyNTE5OSwxMD
-AxMjg1MzY4LC01NjY2MjcyMTIsMTgzODkxNzYzMSwxNTYxMTkx
-Njc5LDc0MDgyMzI4NywtNDQ1ODkzMjAsLTQyMjY2ODMwLDE2Nj
-MzMzI2MCwtODQxNzIxMDE4LC0xNzkzNTIwMjk3LC0xNDQ0MzU3
-MTI2LDIzNDc2MDk4OCwtNjcxMTA2Njc3LDEyNDg3MjA1NTEsLT
-g3NzY5Mjg0NywtMjA0OTU4NjA4NSwtMTgwNTcxODY2MSwtMTk1
-OTI4MTg5N119
+eyJoaXN0b3J5IjpbNTUyMzQ3MDE0LC0xNzMxNTI1MTk5LDEwMD
+EyODUzNjgsLTU2NjYyNzIxMiwxODM4OTE3NjMxLDE1NjExOTE2
+NzksNzQwODIzMjg3LC00NDU4OTMyMCwtNDIyNjY4MzAsMTY2Mz
+MzMjYwLC04NDE3MjEwMTgsLTE3OTM1MjAyOTcsLTE0NDQzNTcx
+MjYsMjM0NzYwOTg4LC02NzExMDY2NzcsMTI0ODcyMDU1MSwtOD
+c3NjkyODQ3LC0yMDQ5NTg2MDg1LC0xODA1NzE4NjYxLC0xOTU5
+MjgxODk3XX0=
 -->
