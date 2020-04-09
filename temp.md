@@ -44,6 +44,11 @@ https://sinonimos-online.com/english/
 https://reversedictionary.org/
 https://www.wordreference.com/synonyms/
 
+
+∞ 17 世纪 英国数学家沃利斯(John Wallis
+神学、医学、天文、数学
+[中国哲学](http://www.guoxue.com/lwtj/index_sb.htm)
+
 ### 4.8
 类似github某个主题的索引
 
@@ -2793,11 +2798,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODI2MjU5NTIsLTU4NTExMDY1LDEwMz
-M5NjU1NjYsNTkwMjEyNTYyLC0xNzMxNTI1MTk5LDEwMDEyODUz
-NjgsLTU2NjYyNzIxMiwxODM4OTE3NjMxLDE1NjExOTE2NzksNz
-QwODIzMjg3LC00NDU4OTMyMCwtNDIyNjY4MzAsMTY2MzMzMjYw
-LC04NDE3MjEwMTgsLTE3OTM1MjAyOTcsLTE0NDQzNTcxMjYsMj
-M0NzYwOTg4LC02NzExMDY2NzcsMTI0ODcyMDU1MSwtODc3Njky
-ODQ3XX0=
+eyJoaXN0b3J5IjpbLTY4MDA5MjAzOCwtMTE4MjYyNTk1MiwtNT
+g1MTEwNjUsMTAzMzk2NTU2Niw1OTAyMTI1NjIsLTE3MzE1MjUx
+OTksMTAwMTI4NTM2OCwtNTY2NjI3MjEyLDE4Mzg5MTc2MzEsMT
+U2MTE5MTY3OSw3NDA4MjMyODcsLTQ0NTg5MzIwLC00MjI2Njgz
+MCwxNjYzMzMyNjAsLTg0MTcyMTAxOCwtMTc5MzUyMDI5NywtMT
+Q0NDM1NzEyNiwyMzQ3NjA5ODgsLTY3MTEwNjY3NywxMjQ4NzIw
+NTUxXX0=
 -->
