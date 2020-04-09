@@ -11,6 +11,38 @@ https://www.jianshu.com/p/50d5b6cfd73b
 
 % 指匹配整个文件，s 是置换的意思，$ 代表匹配行尾的内容，最后的 g 则表示每行中匹配到的内容都要置换。
 
+- [fox](https://portapps.io/app/phyrox-portable/)
+- [waterfox browser](https://www.waterfox.net/download/)
+- [firefox portable](https://www.firefox-usb.com/)
+
+### palemoon key KKTTch..7
+k-76ymt-g73td-8wgbv-svwjk-sjfga
+
+- She lived with her partner
+
+- sense
+	- He has as very good sense of directinon.
+
+- sexual \ ˈsek-sh(ə-)wəl  k阻碍到省略
+
+write down/ record
+
+thesaurus \ thi-ˈsȯr-əs
+
+idioms
+
+synonym \ ˈsi-nə-ˌnim 
+
+acronyms  \ ˈa-krə-ˌnim
+
+统一短语词典 https://synonym.wordhippo.com/
+https://synonym.tech/write_down
+https://thesaurus.plus/synonyms/write_down
+https://www.powerthesaurus.org
+https://sinonimos-online.com/english/
+https://reversedictionary.org/
+https://www.wordreference.com/synonyms/
+
 ### 4.8
 类似github某个主题的索引
 
@@ -2760,11 +2792,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMzk2NTU2Niw1OTAyMTI1NjIsLTE3Mz
-E1MjUxOTksMTAwMTI4NTM2OCwtNTY2NjI3MjEyLDE4Mzg5MTc2
-MzEsMTU2MTE5MTY3OSw3NDA4MjMyODcsLTQ0NTg5MzIwLC00Mj
-I2NjgzMCwxNjYzMzMyNjAsLTg0MTcyMTAxOCwtMTc5MzUyMDI5
-NywtMTQ0NDM1NzEyNiwyMzQ3NjA5ODgsLTY3MTEwNjY3NywxMj
-Q4NzIwNTUxLC04Nzc2OTI4NDcsLTIwNDk1ODYwODUsLTE4MDU3
-MTg2NjFdfQ==
+eyJoaXN0b3J5IjpbLTU4NTExMDY1LDEwMzM5NjU1NjYsNTkwMj
+EyNTYyLC0xNzMxNTI1MTk5LDEwMDEyODUzNjgsLTU2NjYyNzIx
+MiwxODM4OTE3NjMxLDE1NjExOTE2NzksNzQwODIzMjg3LC00ND
+U4OTMyMCwtNDIyNjY4MzAsMTY2MzMzMjYwLC04NDE3MjEwMTgs
+LTE3OTM1MjAyOTcsLTE0NDQzNTcxMjYsMjM0NzYwOTg4LC02Nz
+ExMDY2NzcsMTI0ODcyMDU1MSwtODc3NjkyODQ3LC0yMDQ5NTg2
+MDg1XX0=
 -->
