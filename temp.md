@@ -73,6 +73,19 @@ http://www.sun0moon.com/me/index00.htm
 	- reduction
 	-  an act of making something less or smaller; the state of being made less or smaller
 	
+	- ampere / amp \ ˈam-ˌpir
+	-  the unit for measuring electric current
+
+	- magnitude
+	- the great size or importance of something; the degree to which something is large or important
+	- We did not realize the magnitude of the problem.
+	- (uncountable) great size, importance, or effect
+	- We hadn’t grasped the magnitude of the task we were facing.
+
+
+	- grasp
+	- to understand something completely
+	-  They failed to grasp the importance of his words.
 	```
 
 ### 4.8
@@ -2824,11 +2837,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjYyOTg2NDksMjA3ODgwMDM5NywtMT
-A5ODQxMjE2OSwtMTE4MjYyNTk1MiwtNTg1MTEwNjUsMTAzMzk2
-NTU2Niw1OTAyMTI1NjIsLTE3MzE1MjUxOTksMTAwMTI4NTM2OC
-wtNTY2NjI3MjEyLDE4Mzg5MTc2MzEsMTU2MTE5MTY3OSw3NDA4
-MjMyODcsLTQ0NTg5MzIwLC00MjI2NjgzMCwxNjYzMzMyNjAsLT
-g0MTcyMTAxOCwtMTc5MzUyMDI5NywtMTQ0NDM1NzEyNiwyMzQ3
-NjA5ODhdfQ==
+eyJoaXN0b3J5IjpbOTY5MTU2NDAyLC0yMDI2Mjk4NjQ5LDIwNz
+g4MDAzOTcsLTEwOTg0MTIxNjksLTExODI2MjU5NTIsLTU4NTEx
+MDY1LDEwMzM5NjU1NjYsNTkwMjEyNTYyLC0xNzMxNTI1MTk5LD
+EwMDEyODUzNjgsLTU2NjYyNzIxMiwxODM4OTE3NjMxLDE1NjEx
+OTE2NzksNzQwODIzMjg3LC00NDU4OTMyMCwtNDIyNjY4MzAsMT
+Y2MzMzMjYwLC04NDE3MjEwMTgsLTE3OTM1MjAyOTcsLTE0NDQz
+NTcxMjZdfQ==
 -->
