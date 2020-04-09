@@ -47,7 +47,8 @@ https://www.wordreference.com/synonyms/
 
 ∞ 17 世纪 英国数学家沃利斯(John Wallis
 神学、医学、天文、数学
-[中国哲学](http://www.guoxue.com/lwtj/index_sb.htm)
+[中国哲学](http://www.guoxue.com/lwtj/content/zhoujianming_zgzxtjjhl.htm)
+
 
 ### 4.8
 类似github某个主题的索引
@@ -2798,7 +2799,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MDA5MjAzOCwtMTE4MjYyNTk1MiwtNT
+eyJoaXN0b3J5IjpbMTc5NzgyNTI1MywtMTE4MjYyNTk1MiwtNT
 g1MTEwNjUsMTAzMzk2NTU2Niw1OTAyMTI1NjIsLTE3MzE1MjUx
 OTksMTAwMTI4NTM2OCwtNTY2NjI3MjEyLDE4Mzg5MTc2MzEsMT
 U2MTE5MTY3OSw3NDA4MjMyODcsLTQ0NTg5MzIwLC00MjI2Njgz
