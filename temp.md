@@ -51,6 +51,17 @@ https://www.wordreference.com/synonyms/
 http://www.sun0moon.com/me/index00.htm
 
 
+- flow rate
+	```
+	- flow
+	- the steady and continuous movement of something/somebody in one direction
+	- to control the direction of flow
+
+	- the continuous production or supply of something	
+	- We are looking to improve data flow by up to 50%.
+	
+	```
+
 ### 4.8
 类似github某个主题的索引
 
@@ -2800,11 +2811,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTg0MTIxNjksLTExODI2MjU5NTIsLT
-U4NTExMDY1LDEwMzM5NjU1NjYsNTkwMjEyNTYyLC0xNzMxNTI1
-MTk5LDEwMDEyODUzNjgsLTU2NjYyNzIxMiwxODM4OTE3NjMxLD
-E1NjExOTE2NzksNzQwODIzMjg3LC00NDU4OTMyMCwtNDIyNjY4
-MzAsMTY2MzMzMjYwLC04NDE3MjEwMTgsLTE3OTM1MjAyOTcsLT
-E0NDQzNTcxMjYsMjM0NzYwOTg4LC02NzExMDY2NzcsMTI0ODcy
-MDU1MV19
+eyJoaXN0b3J5IjpbMjA3ODgwMDM5NywtMTA5ODQxMjE2OSwtMT
+E4MjYyNTk1MiwtNTg1MTEwNjUsMTAzMzk2NTU2Niw1OTAyMTI1
+NjIsLTE3MzE1MjUxOTksMTAwMTI4NTM2OCwtNTY2NjI3MjEyLD
+E4Mzg5MTc2MzEsMTU2MTE5MTY3OSw3NDA4MjMyODcsLTQ0NTg5
+MzIwLC00MjI2NjgzMCwxNjYzMzMyNjAsLTg0MTcyMTAxOCwtMT
+c5MzUyMDI5NywtMTQ0NDM1NzEyNiwyMzQ3NjA5ODgsLTY3MTEw
+NjY3N119
 -->
