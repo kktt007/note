@@ -22,6 +22,7 @@ k-76ymt-g73td-8wgbv-svwjk-sjfga
 
 - sense
 	- He has as very good sense of directinon.
+	- There's no sense in (= it is not sensible) worrying about it now.
 
 - sexual \ ˈsek-sh(ə-)wəl  k阻碍到省略
 
@@ -2792,11 +2793,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NTExMDY1LDEwMzM5NjU1NjYsNTkwMj
-EyNTYyLC0xNzMxNTI1MTk5LDEwMDEyODUzNjgsLTU2NjYyNzIx
-MiwxODM4OTE3NjMxLDE1NjExOTE2NzksNzQwODIzMjg3LC00ND
-U4OTMyMCwtNDIyNjY4MzAsMTY2MzMzMjYwLC04NDE3MjEwMTgs
-LTE3OTM1MjAyOTcsLTE0NDQzNTcxMjYsMjM0NzYwOTg4LC02Nz
-ExMDY2NzcsMTI0ODcyMDU1MSwtODc3NjkyODQ3LC0yMDQ5NTg2
-MDg1XX0=
+eyJoaXN0b3J5IjpbLTExODI2MjU5NTIsLTU4NTExMDY1LDEwMz
+M5NjU1NjYsNTkwMjEyNTYyLC0xNzMxNTI1MTk5LDEwMDEyODUz
+NjgsLTU2NjYyNzIxMiwxODM4OTE3NjMxLDE1NjExOTE2NzksNz
+QwODIzMjg3LC00NDU4OTMyMCwtNDIyNjY4MzAsMTY2MzMzMjYw
+LC04NDE3MjEwMTgsLTE3OTM1MjAyOTcsLTE0NDQzNTcxMjYsMj
+M0NzYwOTg4LC02NzExMDY2NzcsMTI0ODcyMDU1MSwtODc3Njky
+ODQ3XX0=
 -->
