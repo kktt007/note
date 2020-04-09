@@ -48,6 +48,7 @@ https://www.wordreference.com/synonyms/
 ∞ 17 世纪 英国数学家沃利斯(John Wallis
 神学、医学、天文、数学
 [中国哲学](http://www.guoxue.com/lwtj/content/zhoujianming_zgzxtjjhl.htm)
+http://www.sun0moon.com/me/index00.htm
 
 
 ### 4.8
@@ -2799,11 +2800,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NzgyNTI1MywtMTE4MjYyNTk1MiwtNT
-g1MTEwNjUsMTAzMzk2NTU2Niw1OTAyMTI1NjIsLTE3MzE1MjUx
-OTksMTAwMTI4NTM2OCwtNTY2NjI3MjEyLDE4Mzg5MTc2MzEsMT
-U2MTE5MTY3OSw3NDA4MjMyODcsLTQ0NTg5MzIwLC00MjI2Njgz
-MCwxNjYzMzMyNjAsLTg0MTcyMTAxOCwtMTc5MzUyMDI5NywtMT
-Q0NDM1NzEyNiwyMzQ3NjA5ODgsLTY3MTEwNjY3NywxMjQ4NzIw
-NTUxXX0=
+eyJoaXN0b3J5IjpbLTEwOTg0MTIxNjksLTExODI2MjU5NTIsLT
+U4NTExMDY1LDEwMzM5NjU1NjYsNTkwMjEyNTYyLC0xNzMxNTI1
+MTk5LDEwMDEyODUzNjgsLTU2NjYyNzIxMiwxODM4OTE3NjMxLD
+E1NjExOTE2NzksNzQwODIzMjg3LC00NDU4OTMyMCwtNDIyNjY4
+MzAsMTY2MzMzMjYwLC04NDE3MjEwMTgsLTE3OTM1MjAyOTcsLT
+E0NDQzNTcxMjYsMjM0NzYwOTg4LC02NzExMDY2NzcsMTI0ODcy
+MDU1MV19
 -->
