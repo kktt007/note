@@ -59,6 +59,19 @@ http://www.sun0moon.com/me/index00.htm
 
 	- the continuous production or supply of something	
 	- We are looking to improve data flow by up to 50%.
+	- positive
+	- good or useful
+	- His family have been a very positive influence on him.
+
+	- rate
+	- a measurement of the speed at which something happens
+	- At the rate you work, you'll never finish!
+
+	- a measurement of the number of times something happens or something does something during a particular period
+	- We have seen a reduction in the crime rate over the last 12 months.
+
+	- reduction
+	-  an act of making something less or smaller; the state of being made less or smaller
 	
 	```
 
@@ -2811,11 +2824,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3ODgwMDM5NywtMTA5ODQxMjE2OSwtMT
-E4MjYyNTk1MiwtNTg1MTEwNjUsMTAzMzk2NTU2Niw1OTAyMTI1
-NjIsLTE3MzE1MjUxOTksMTAwMTI4NTM2OCwtNTY2NjI3MjEyLD
-E4Mzg5MTc2MzEsMTU2MTE5MTY3OSw3NDA4MjMyODcsLTQ0NTg5
-MzIwLC00MjI2NjgzMCwxNjYzMzMyNjAsLTg0MTcyMTAxOCwtMT
-c5MzUyMDI5NywtMTQ0NDM1NzEyNiwyMzQ3NjA5ODgsLTY3MTEw
-NjY3N119
+eyJoaXN0b3J5IjpbLTIwMjYyOTg2NDksMjA3ODgwMDM5NywtMT
+A5ODQxMjE2OSwtMTE4MjYyNTk1MiwtNTg1MTEwNjUsMTAzMzk2
+NTU2Niw1OTAyMTI1NjIsLTE3MzE1MjUxOTksMTAwMTI4NTM2OC
+wtNTY2NjI3MjEyLDE4Mzg5MTc2MzEsMTU2MTE5MTY3OSw3NDA4
+MjMyODcsLTQ0NTg5MzIwLC00MjI2NjgzMCwxNjYzMzMyNjAsLT
+g0MTcyMTAxOCwtMTc5MzUyMDI5NywtMTQ0NDM1NzEyNiwyMzQ3
+NjA5ODhdfQ==
 -->
