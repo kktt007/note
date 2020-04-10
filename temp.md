@@ -1,3 +1,170 @@
+### 4.10
+[Windows 10下使用Neovim + SpaceVim](https://blog.csdn.net/How_key/article/details/88413220)
+
+  
+
+注：Git环境的默认路径是通过HOME环境变量还指定的，默认指定为%HOMEDRIVE%%HOMEPATH% 或 %USERPROFILE%
+
+  
+  
+
+[Git](https://git-scm.com/download/win) 默认自动添加cmd文件夹变量
+
+[Neovim](https://github.com/neovim/neovim/releases) 添加到环境变量
+
+[SpaceVim](https://github.com/SpaceVim/SpaceVim)
+
+1. git clone 错误: fatal: unable to access 'https://github.com/SpaceVim/SpaceVim.git/': Failed to connect to 127.0.0.1 port 1080: Connection refused
+
+  
+
+原由，我在$HOME 设置了代理
+
+```
+
+[user]
+
+name = lan542662
+
+email = kktt914968841@gmail.com
+
+[https]
+
+proxy = socks5h://127.0.0.1:1080
+
+```
+
+  
+
+查询是否使用代理：git config --global http.proxy 可能是:socks5h://127.0.0.1:1080
+
+取消代理：git config --global --unset http.proxy
+
+  
+
+https://gist.github.com/laispace/666dd7b27e9116faece6
+
+  
+
+git使用代理服务器
+
+http://blog.useasp.net/archive/2015/08/26/config-git-proxy-settings-on-windows.aspx
+
+```
+
+Git支持四种协议 1 ，而除本地传输外，还有：git://, ssh://, 基于HTTP协议，这些协议又被分为哑协议（HTTP协议）和智能传输协议。对于这些协议，要使用代理的设置也有些差异：
+
+  
+
+使用 git协议 时，设置代理需要配置 core.gitproxy
+
+使用 HTTP协议 时，设置代理需要配置 http.proxy
+
+而是用 ssh协议 时，代理需要配置ssh的 ProxyCommand 参数
+
+  
+
+由于个人需求仅仅是HTTP的代理（相对来说，HTTP有比较好的通适性，Windows配置git/ssh比较棘手），设置的时候，只需要针对单个设置 http.proxy 即可，在需要使用代理的项目下面使用 git bash 如下命令进行设置 ——你的Uri和port可能和我的不同，你懂的。：
+
+  
+
+git config http.proxy http://127.0.0.1:8088 # 也可以是uri:port形式
+
+  
+
+这个是不需要鉴权的代理设置，如果需要鉴权，可能需要添加用户名密码信息：
+
+  
+
+git config http.proxy http://username:password@127.0.0.1:8088
+
+  
+
+如果git的所有项目都需要启用代理，那么可以直接启用全局设置：
+
+  
+
+git config --global http.proxy http://127.0.0.1:8088
+
+  
+
+为了确认是否已经设置成功，可以使用 --get 来获取：
+
+  
+
+git config --get --global http.proxy
+
+  
+
+这样可以看到你设置在global的 http.proxy 值。
+
+  
+
+需要修改的时候，再次按照上面的方法设置即可，git默认会覆盖原有的配置值。
+
+  
+
+当我们的网络出现变更时，可能需要删除掉原有的代理配置，此时需要使用 --unset 来进行配置：
+
+  
+
+git config --global --unset http.proxy
+
+  
+
+在命令之后，指定位置的设置值将会被清空，你可以再次使用 --get 来查看具体的设置情况。
+
+  
+
+如果使用了HTTPS，肯呢个会碰到HTTPS 证书错误的情况，比如提示： SSL certificate problem 。。。，此时，可以尝试将 sslVerify 设置为 false ：
+
+  
+
+git config --global http.sslVerify false
+
+```
+
+  
+  
+  
+
+## Cmder 安装 Chocolatey
+
+可用的软件包 https://chocolatey.org/packages
+
+  
+  
+
+[windows系统变量](https://my.oschina.net/lixin891230/blog/534106)
+
+echo %HOMEPATH% 看到是 C:\Users\Administrator 此处Administrator为当前登录用户名
+
+  
+  
+  
+
+%HOMEDRIVE% = C:\ --当前启动的系统的所在分区
+
+  
+
+%SystemRoot% = C:\WINDOWS --当前启动的系统的所在目录
+
+  
+
+%windir% = %SystemRoot% = C:\WINDOWS --当前启动的系统的所在目录
+
+  
+
+%USERPROFILE% = C:\Documents and Settings\(user) --user指你的用户名
+
+  
+
+%HOMEPATH% = \Documents and Settings\(user) --user指你的用户名
+
+  
+
+比如：桌面路径: echo %systemdrive%%homepath%\桌面
+
 ### 4.9
 
 https://www.ostechnix.com/list-useful-bash-keyboard-shortcuts/
@@ -2837,11 +3004,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY5MTU2NDAyLC0yMDI2Mjk4NjQ5LDIwNz
-g4MDAzOTcsLTEwOTg0MTIxNjksLTExODI2MjU5NTIsLTU4NTEx
-MDY1LDEwMzM5NjU1NjYsNTkwMjEyNTYyLC0xNzMxNTI1MTk5LD
-EwMDEyODUzNjgsLTU2NjYyNzIxMiwxODM4OTE3NjMxLDE1NjEx
-OTE2NzksNzQwODIzMjg3LC00NDU4OTMyMCwtNDIyNjY4MzAsMT
-Y2MzMzMjYwLC04NDE3MjEwMTgsLTE3OTM1MjAyOTcsLTE0NDQz
-NTcxMjZdfQ==
+eyJoaXN0b3J5IjpbMzA1MTU2MjU4LDk2OTE1NjQwMiwtMjAyNj
+I5ODY0OSwyMDc4ODAwMzk3LC0xMDk4NDEyMTY5LC0xMTgyNjI1
+OTUyLC01ODUxMTA2NSwxMDMzOTY1NTY2LDU5MDIxMjU2MiwtMT
+czMTUyNTE5OSwxMDAxMjg1MzY4LC01NjY2MjcyMTIsMTgzODkx
+NzYzMSwxNTYxMTkxNjc5LDc0MDgyMzI4NywtNDQ1ODkzMjAsLT
+QyMjY2ODMwLDE2NjMzMzI2MCwtODQxNzIxMDE4LC0xNzkzNTIw
+Mjk3XX0=
 -->
