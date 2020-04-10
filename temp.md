@@ -5,9 +5,6 @@
 
 注：Git环境的默认路径是通过HOME环境变量还指定的，默认指定为%HOMEDRIVE%%HOMEPATH% 或 %USERPROFILE%
 
-  
-  
-
 [Git](https://git-scm.com/download/win) 默认自动添加cmd文件夹变量
 
 [Neovim](https://github.com/neovim/neovim/releases) 添加到环境变量
@@ -3004,11 +3001,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA1MTU2MjU4LDk2OTE1NjQwMiwtMjAyNj
-I5ODY0OSwyMDc4ODAwMzk3LC0xMDk4NDEyMTY5LC0xMTgyNjI1
-OTUyLC01ODUxMTA2NSwxMDMzOTY1NTY2LDU5MDIxMjU2MiwtMT
-czMTUyNTE5OSwxMDAxMjg1MzY4LC01NjY2MjcyMTIsMTgzODkx
-NzYzMSwxNTYxMTkxNjc5LDc0MDgyMzI4NywtNDQ1ODkzMjAsLT
-QyMjY2ODMwLDE2NjMzMzI2MCwtODQxNzIxMDE4LC0xNzkzNTIw
-Mjk3XX0=
+eyJoaXN0b3J5IjpbMTcyOTI4MTgxNiwzMDUxNTYyNTgsOTY5MT
+U2NDAyLC0yMDI2Mjk4NjQ5LDIwNzg4MDAzOTcsLTEwOTg0MTIx
+NjksLTExODI2MjU5NTIsLTU4NTExMDY1LDEwMzM5NjU1NjYsNT
+kwMjEyNTYyLC0xNzMxNTI1MTk5LDEwMDEyODUzNjgsLTU2NjYy
+NzIxMiwxODM4OTE3NjMxLDE1NjExOTE2NzksNzQwODIzMjg3LC
+00NDU4OTMyMCwtNDIyNjY4MzAsMTY2MzMzMjYwLC04NDE3MjEw
+MThdfQ==
 -->
