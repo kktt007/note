@@ -62,6 +62,18 @@ Alt+scroll wheel >> zoom in/out
 - a curved piece of glass or plastic that makes things look larger, smaller or clearer when you look through it
 
 
+- approach
+
+- We need to adopt a new approach to the problem.
+
+  
+
+- movement nearer to somebody/something in distance or time
+
+  
+
+She hadn't heard his approach and jumped as the door opened.
+
 ### 4.10
 [Windows 10下使用Neovim + SpaceVim](https://blog.csdn.net/How_key/article/details/88413220)
 
@@ -3065,7 +3077,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNzc1NDc5NCwxNzI5MjgxODE2LDMwNT
+eyJoaXN0b3J5IjpbLTY5ODQ3NTM0NiwxNzI5MjgxODE2LDMwNT
 E1NjI1OCw5NjkxNTY0MDIsLTIwMjYyOTg2NDksMjA3ODgwMDM5
 NywtMTA5ODQxMjE2OSwtMTE4MjYyNTk1MiwtNTg1MTEwNjUsMT
 AzMzk2NTU2Niw1OTAyMTI1NjIsLTE3MzE1MjUxOTksMTAwMTI4
