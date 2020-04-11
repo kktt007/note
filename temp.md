@@ -73,6 +73,11 @@ Alt+scroll wheel >> zoom in/out
 - movement nearer to somebody/something in distance or time
 
 - She hadn't heard his approach and jumped as the door opened.
+- layout
+
+- the way in which the different parts of something are arranged
+
+- The user gradually becomes familiar with the layout of the keyboard.
 
 ### 4.10
 [Windows 10下使用Neovim + SpaceVim](https://blog.csdn.net/How_key/article/details/88413220)
@@ -3077,11 +3082,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1OTA2MzI0NSwxNzI5MjgxODE2LDMwNT
-E1NjI1OCw5NjkxNTY0MDIsLTIwMjYyOTg2NDksMjA3ODgwMDM5
-NywtMTA5ODQxMjE2OSwtMTE4MjYyNTk1MiwtNTg1MTEwNjUsMT
-AzMzk2NTU2Niw1OTAyMTI1NjIsLTE3MzE1MjUxOTksMTAwMTI4
-NTM2OCwtNTY2NjI3MjEyLDE4Mzg5MTc2MzEsMTU2MTE5MTY3OS
-w3NDA4MjMyODcsLTQ0NTg5MzIwLC00MjI2NjgzMCwxNjYzMzMy
-NjBdfQ==
+eyJoaXN0b3J5IjpbLTg0Nzk3ODc5NSwxNDU5MDYzMjQ1LDE3Mj
+kyODE4MTYsMzA1MTU2MjU4LDk2OTE1NjQwMiwtMjAyNjI5ODY0
+OSwyMDc4ODAwMzk3LC0xMDk4NDEyMTY5LC0xMTgyNjI1OTUyLC
+01ODUxMTA2NSwxMDMzOTY1NTY2LDU5MDIxMjU2MiwtMTczMTUy
+NTE5OSwxMDAxMjg1MzY4LC01NjY2MjcyMTIsMTgzODkxNzYzMS
+wxNTYxMTkxNjc5LDc0MDgyMzI4NywtNDQ1ODkzMjAsLTQyMjY2
+ODMwXX0=
 -->
