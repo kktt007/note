@@ -1,3 +1,67 @@
+### 4.11
+
+  
+
+## PS
+
+- [WEB设计指南！PS礼仪白皮书](http://hao.uisdc.com/ps/)
+
+- [英文版](https://photoshopetiquette.com/)
+
+  
+
+- [快捷键图片](https://www.uisdc.com/photoshop-shortcuts)
+
+- [快捷键](https://www.uisdc.com/photoshop-keyboard-shortcuts-guideline)
+
+- [ip138](https://www.ip138.com/photoshop/)
+
+- [adobe默认快捷键](https://helpx.adobe.com/cn/photoshop/using/default-keyboard-shortcuts.html)
+
+  
+
+- [45个设计师需要熟记的PS快捷键](https://www.uisdc.com/45-handy-photoshop-shortcuts)
+
+  
+
+## VIM
+
+- [必知必会的 Vim 编辑器基础命令 ](https://linux.cn/article-12053-1.html?utm_source=index&utm_medium=more)
+
+- [10 Methods to View Different File Formats in Linux](https://www.2daygeek.com/unix-linux-command-to-view-file/)
+
+  
+
+- route \ ˈrüt
+
+  
+
+- urban \ ˈər-bən
+
+  
+
+- promise \ ˈprä-məs
+
+  
+
+- emphasize \ ˈem(p)-fə-ˌsīz
+
+Zoom tool
+
+Hold down the Option/Alt key to access the zoom and use the scroll wheel to zoom in and out.
+http://www.photoshopforphotographers.com/3101-1901/Help_guide/tp/Zoom_tool.html
+
+Alt+scroll wheel >> zoom in/out
+- photograph 
+- a picture of something that you make with a camera. In spoken language people usually say photo
+
+- zoom in
+-  to show the object that is being photographed from closer/further away, with the use of a zoom lens
+
+- lens
+- a curved piece of glass or plastic that makes things look larger, smaller or clearer when you look through it
+
+
 ### 4.10
 [Windows 10下使用Neovim + SpaceVim](https://blog.csdn.net/How_key/article/details/88413220)
 
@@ -3001,11 +3065,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyOTI4MTgxNiwzMDUxNTYyNTgsOTY5MT
-U2NDAyLC0yMDI2Mjk4NjQ5LDIwNzg4MDAzOTcsLTEwOTg0MTIx
-NjksLTExODI2MjU5NTIsLTU4NTExMDY1LDEwMzM5NjU1NjYsNT
-kwMjEyNTYyLC0xNzMxNTI1MTk5LDEwMDEyODUzNjgsLTU2NjYy
-NzIxMiwxODM4OTE3NjMxLDE1NjExOTE2NzksNzQwODIzMjg3LC
-00NDU4OTMyMCwtNDIyNjY4MzAsMTY2MzMzMjYwLC04NDE3MjEw
-MThdfQ==
+eyJoaXN0b3J5IjpbLTYzNzc1NDc5NCwxNzI5MjgxODE2LDMwNT
+E1NjI1OCw5NjkxNTY0MDIsLTIwMjYyOTg2NDksMjA3ODgwMDM5
+NywtMTA5ODQxMjE2OSwtMTE4MjYyNTk1MiwtNTg1MTEwNjUsMT
+AzMzk2NTU2Niw1OTAyMTI1NjIsLTE3MzE1MjUxOTksMTAwMTI4
+NTM2OCwtNTY2NjI3MjEyLDE4Mzg5MTc2MzEsMTU2MTE5MTY3OS
+w3NDA4MjMyODcsLTQ0NTg5MzIwLC00MjI2NjgzMCwxNjYzMzMy
+NjBdfQ==
 -->
