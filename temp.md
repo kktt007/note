@@ -1,4 +1,12 @@
 ### 4.14
+spacevim 安装 prettier
+https://spacevim.org/layers/lang/markdown/
+
+1. windows 安装yarn 一定要先安装nodejs
+- choco install nodejs
+2. 安装yarn 
+- choco install yarn
+https://classic.yarnpkg.com/en/docs/install#windows-stable
 
 ## GUI Git Clients for windows
 
@@ -3132,11 +3140,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDEzMTY4MiwtMTAyMjA2NzkxMSwtOD
-I4NTM2OTk0LC04NDc5Nzg3OTUsMTQ1OTA2MzI0NSwxNzI5Mjgx
-ODE2LDMwNTE1NjI1OCw5NjkxNTY0MDIsLTIwMjYyOTg2NDksMj
-A3ODgwMDM5NywtMTA5ODQxMjE2OSwtMTE4MjYyNTk1MiwtNTg1
-MTEwNjUsMTAzMzk2NTU2Niw1OTAyMTI1NjIsLTE3MzE1MjUxOT
-ksMTAwMTI4NTM2OCwtNTY2NjI3MjEyLDE4Mzg5MTc2MzEsMTU2
-MTE5MTY3OV19
+eyJoaXN0b3J5IjpbMTk5NzM1NjcwMCwtMjAwMTMxNjgyLC0xMD
+IyMDY3OTExLC04Mjg1MzY5OTQsLTg0Nzk3ODc5NSwxNDU5MDYz
+MjQ1LDE3MjkyODE4MTYsMzA1MTU2MjU4LDk2OTE1NjQwMiwtMj
+AyNjI5ODY0OSwyMDc4ODAwMzk3LC0xMDk4NDEyMTY5LC0xMTgy
+NjI1OTUyLC01ODUxMTA2NSwxMDMzOTY1NTY2LDU5MDIxMjU2Mi
+wtMTczMTUyNTE5OSwxMDAxMjg1MzY4LC01NjY2MjcyMTIsMTgz
+ODkxNzYzMV19
 -->
