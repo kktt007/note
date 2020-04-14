@@ -10,6 +10,8 @@ Spacebar
 
 https://helpx.adobe.com/cn/photoshop-elements/using/keys-selecting-moving-objects.html
 
+spacevim插件路径
+ cd .\Users\Administrator\.cache\vimfiles\repos\github.com\Shougo\vimproc.vim\ 
 cygwin
 镜像 
 https://mirrors.tuna.tsinghua.edu.cn/cygwin/
@@ -30,6 +32,8 @@ gdb
 cygcheck -c cygwin
   然后依次输入gcc –version，g++ --version，make –version，gdb –version进行测试，如果都打印出版本信息和一些描述信息，非常高兴的告诉你，你的cygwin安装完成了！
 
+- coordinate
+-   coordinate something with something We try to coordinate our activities with those of other groups.
 ### 4.11
 
   
@@ -3114,7 +3118,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1ODY3MzYxOSwtODQ3OTc4Nzk1LDE0NT
+eyJoaXN0b3J5IjpbLTgyODUzNjk5NCwtODQ3OTc4Nzk1LDE0NT
 kwNjMyNDUsMTcyOTI4MTgxNiwzMDUxNTYyNTgsOTY5MTU2NDAy
 LC0yMDI2Mjk4NjQ5LDIwNzg4MDAzOTcsLTEwOTg0MTIxNjksLT
 ExODI2MjU5NTIsLTU4NTExMDY1LDEwMzM5NjU1NjYsNTkwMjEy
