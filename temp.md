@@ -1,4 +1,6 @@
 ### 4.14
+
+
 https://helpx.adobe.com/photoshop/using/default-keyboard-shortcuts.html
 
 Switch to Hand tool (when not in text-edit mode)
@@ -3118,11 +3120,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyODUzNjk5NCwtODQ3OTc4Nzk1LDE0NT
-kwNjMyNDUsMTcyOTI4MTgxNiwzMDUxNTYyNTgsOTY5MTU2NDAy
-LC0yMDI2Mjk4NjQ5LDIwNzg4MDAzOTcsLTEwOTg0MTIxNjksLT
-ExODI2MjU5NTIsLTU4NTExMDY1LDEwMzM5NjU1NjYsNTkwMjEy
-NTYyLC0xNzMxNTI1MTk5LDEwMDEyODUzNjgsLTU2NjYyNzIxMi
-wxODM4OTE3NjMxLDE1NjExOTE2NzksNzQwODIzMjg3LC00NDU4
-OTMyMF19
+eyJoaXN0b3J5IjpbLTMzNjExNjkzNCwtODI4NTM2OTk0LC04ND
+c5Nzg3OTUsMTQ1OTA2MzI0NSwxNzI5MjgxODE2LDMwNTE1NjI1
+OCw5NjkxNTY0MDIsLTIwMjYyOTg2NDksMjA3ODgwMDM5NywtMT
+A5ODQxMjE2OSwtMTE4MjYyNTk1MiwtNTg1MTEwNjUsMTAzMzk2
+NTU2Niw1OTAyMTI1NjIsLTE3MzE1MjUxOTksMTAwMTI4NTM2OC
+wtNTY2NjI3MjEyLDE4Mzg5MTc2MzEsMTU2MTE5MTY3OSw3NDA4
+MjMyODddfQ==
 -->
