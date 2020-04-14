@@ -1,5 +1,17 @@
 ### 4.14
 
+## gui client onwindows:
+
+smartgit 
+
+bitbucket :
+sourcetree
+
+gitlab :
+sourcetree
+
+
+github:GitHub Desktop 
 
 https://helpx.adobe.com/photoshop/using/default-keyboard-shortcuts.html
 
@@ -3120,11 +3132,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNjExNjkzNCwtODI4NTM2OTk0LC04ND
-c5Nzg3OTUsMTQ1OTA2MzI0NSwxNzI5MjgxODE2LDMwNTE1NjI1
-OCw5NjkxNTY0MDIsLTIwMjYyOTg2NDksMjA3ODgwMDM5NywtMT
-A5ODQxMjE2OSwtMTE4MjYyNTk1MiwtNTg1MTEwNjUsMTAzMzk2
-NTU2Niw1OTAyMTI1NjIsLTE3MzE1MjUxOTksMTAwMTI4NTM2OC
-wtNTY2NjI3MjEyLDE4Mzg5MTc2MzEsMTU2MTE5MTY3OSw3NDA4
-MjMyODddfQ==
+eyJoaXN0b3J5IjpbLTEwMjIwNjc5MTEsLTgyODUzNjk5NCwtOD
+Q3OTc4Nzk1LDE0NTkwNjMyNDUsMTcyOTI4MTgxNiwzMDUxNTYy
+NTgsOTY5MTU2NDAyLC0yMDI2Mjk4NjQ5LDIwNzg4MDAzOTcsLT
+EwOTg0MTIxNjksLTExODI2MjU5NTIsLTU4NTExMDY1LDEwMzM5
+NjU1NjYsNTkwMjEyNTYyLC0xNzMxNTI1MTk5LDEwMDEyODUzNj
+gsLTU2NjYyNzIxMiwxODM4OTE3NjMxLDE1NjExOTE2NzksNzQw
+ODIzMjg3XX0=
 -->
