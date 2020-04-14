@@ -1,3 +1,35 @@
+### 4.14
+https://helpx.adobe.com/photoshop/using/default-keyboard-shortcuts.html
+
+Switch to Hand tool (when not in text-edit mode)
+	
+
+Temporarily activate Hand tool
+
+Spacebar
+
+https://helpx.adobe.com/cn/photoshop-elements/using/keys-selecting-moving-objects.html
+
+cygwin
+镜像 
+https://mirrors.tuna.tsinghua.edu.cn/cygwin/
+
+binutils
+
+gcc-core 
+gcc-g++
+
+mingw64-x86_64-gcc-core
+mingw64-x86_64-gcc--fortran
+mingw64-x86_64-gcc-g++
+
+gdb
+
+添加bin到环境
+
+cygcheck -c cygwin
+  然后依次输入gcc –version，g++ --version，make –version，gdb –version进行测试，如果都打印出版本信息和一些描述信息，非常高兴的告诉你，你的cygwin安装完成了！
+
 ### 4.11
 
   
@@ -3082,11 +3114,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0Nzk3ODc5NSwxNDU5MDYzMjQ1LDE3Mj
-kyODE4MTYsMzA1MTU2MjU4LDk2OTE1NjQwMiwtMjAyNjI5ODY0
-OSwyMDc4ODAwMzk3LC0xMDk4NDEyMTY5LC0xMTgyNjI1OTUyLC
-01ODUxMTA2NSwxMDMzOTY1NTY2LDU5MDIxMjU2MiwtMTczMTUy
-NTE5OSwxMDAxMjg1MzY4LC01NjY2MjcyMTIsMTgzODkxNzYzMS
-wxNTYxMTkxNjc5LDc0MDgyMzI4NywtNDQ1ODkzMjAsLTQyMjY2
-ODMwXX0=
+eyJoaXN0b3J5IjpbMTc1ODY3MzYxOSwtODQ3OTc4Nzk1LDE0NT
+kwNjMyNDUsMTcyOTI4MTgxNiwzMDUxNTYyNTgsOTY5MTU2NDAy
+LC0yMDI2Mjk4NjQ5LDIwNzg4MDAzOTcsLTEwOTg0MTIxNjksLT
+ExODI2MjU5NTIsLTU4NTExMDY1LDEwMzM5NjU1NjYsNTkwMjEy
+NTYyLC0xNzMxNTI1MTk5LDEwMDEyODUzNjgsLTU2NjYyNzIxMi
+wxODM4OTE3NjMxLDE1NjExOTE2NzksNzQwODIzMjg3LC00NDU4
+OTMyMF19
 -->
