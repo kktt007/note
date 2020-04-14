@@ -1,4 +1,7 @@
 ### 4.14
+- stiff
+	- The windows were stiff and she couldn't get them open.
+
 spacevim 安装 prettier
 https://spacevim.org/layers/lang/markdown/
 
@@ -3140,11 +3143,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NzM1NjcwMCwtMjAwMTMxNjgyLC0xMD
-IyMDY3OTExLC04Mjg1MzY5OTQsLTg0Nzk3ODc5NSwxNDU5MDYz
-MjQ1LDE3MjkyODE4MTYsMzA1MTU2MjU4LDk2OTE1NjQwMiwtMj
-AyNjI5ODY0OSwyMDc4ODAwMzk3LC0xMDk4NDEyMTY5LC0xMTgy
-NjI1OTUyLC01ODUxMTA2NSwxMDMzOTY1NTY2LDU5MDIxMjU2Mi
-wtMTczMTUyNTE5OSwxMDAxMjg1MzY4LC01NjY2MjcyMTIsMTgz
-ODkxNzYzMV19
+eyJoaXN0b3J5IjpbMTYyNzA5ODU0MiwxOTk3MzU2NzAwLC0yMD
+AxMzE2ODIsLTEwMjIwNjc5MTEsLTgyODUzNjk5NCwtODQ3OTc4
+Nzk1LDE0NTkwNjMyNDUsMTcyOTI4MTgxNiwzMDUxNTYyNTgsOT
+Y5MTU2NDAyLC0yMDI2Mjk4NjQ5LDIwNzg4MDAzOTcsLTEwOTg0
+MTIxNjksLTExODI2MjU5NTIsLTU4NTExMDY1LDEwMzM5NjU1Nj
+YsNTkwMjEyNTYyLC0xNzMxNTI1MTk5LDEwMDEyODUzNjgsLTU2
+NjYyNzIxMl19
 -->
