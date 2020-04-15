@@ -1,3 +1,44 @@
+### 4.15
+词典
+http://www.freedictionary.org/
+https://www.daridictionary.org/
+http://www.finedictionary.com
+https://mnemonicdictionary.com/
+
+auto pairs 自动补全成对符号
+https://tc500.github.io/%E5%B7%A5%E5%85%B7%E9%93%BE/2019/02/08/%E9%AB%98%E6%95%88%E7%9A%84vim/#%E6%88%90%E5%AF%B9%E7%AC%A6%E5%8F%B7
+
+
+https://blog.csdn.net/liuchenxia8/article/details/79652847
+插件集合
+
+auto-pairs.vim: 括号自动匹配
+a.vim: 切换.h/.c文件
+DoxygenToolkit.vim: 生成文档风格的注释
+mark.vim: 高亮关键字
+NERD_tree.vim: 文件列表
+tagbar.vim: 函数列表
+ctrlp.vim: 快速查找文件
+gruvbox: 一个漂亮的主题
+python-mode: 一组Python开发的工具集合
+vim-airline: 漂亮的标签页和状态栏
+vim-colorschemes: 一个主题集合包
+vim-cpp-enhanced-highlight: 更精细的c/c++语法高亮
+vim-surround: 快速给一段代码外面包裹括号/引号
+Vundle.vim: vim的一个插件管理器
+AutoComlPop + OmniCppComplete + SuperTab + ctags: 代码补全
+ctags: 代码跳转(这货不是vim插件, 是一个linux工具)
+syntastic: 语法检查
+snipMate + vim-snippets: 代码片段
+
+Spacevim:
+jk == esc
+[自动补全插件](https://github.com/SpaceVim/SpaceVim/blob/483b3285baf453495b8ba37b2bffdb4b99e8f0c9/docs/cn/layers/autocomplete.md)
+shift + enter 解决补全buffer问题
+
+https://github.com/SpaceVim/SpaceVim/tree/master/docs/cn
+
+
 ### 4.14
 - stiff
 	- The windows were stiff and she couldn't get them open.
@@ -3143,11 +3184,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNzA5ODU0MiwxOTk3MzU2NzAwLC0yMD
-AxMzE2ODIsLTEwMjIwNjc5MTEsLTgyODUzNjk5NCwtODQ3OTc4
-Nzk1LDE0NTkwNjMyNDUsMTcyOTI4MTgxNiwzMDUxNTYyNTgsOT
-Y5MTU2NDAyLC0yMDI2Mjk4NjQ5LDIwNzg4MDAzOTcsLTEwOTg0
-MTIxNjksLTExODI2MjU5NTIsLTU4NTExMDY1LDEwMzM5NjU1Nj
-YsNTkwMjEyNTYyLC0xNzMxNTI1MTk5LDEwMDEyODUzNjgsLTU2
-NjYyNzIxMl19
+eyJoaXN0b3J5IjpbLTEyODMxNTIzMDYsMTYyNzA5ODU0MiwxOT
+k3MzU2NzAwLC0yMDAxMzE2ODIsLTEwMjIwNjc5MTEsLTgyODUz
+Njk5NCwtODQ3OTc4Nzk1LDE0NTkwNjMyNDUsMTcyOTI4MTgxNi
+wzMDUxNTYyNTgsOTY5MTU2NDAyLC0yMDI2Mjk4NjQ5LDIwNzg4
+MDAzOTcsLTEwOTg0MTIxNjksLTExODI2MjU5NTIsLTU4NTExMD
+Y1LDEwMzM5NjU1NjYsNTkwMjEyNTYyLC0xNzMxNTI1MTk5LDEw
+MDEyODUzNjhdfQ==
 -->
