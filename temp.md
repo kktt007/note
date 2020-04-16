@@ -1,5 +1,10 @@
 ### 4.16 
+vscode
+https://viatsko.github.io/awesome-vscode/
 
+Genealogical tree of programming languages
+https://erkin.party/blog/190208/spaghetti/genealogy.png
+python raku go
 ## spacevim 探索
 https://spacevim.org/development/#conventions
 https://spacevim.org/conventions/
@@ -3207,11 +3212,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNDk4NzkxOSwxNDgxNDA4MDQ3LC0yMD
-IyMDA2ODEyLC0xMjgzMTUyMzA2LDE2MjcwOTg1NDIsMTk5NzM1
-NjcwMCwtMjAwMTMxNjgyLC0xMDIyMDY3OTExLC04Mjg1MzY5OT
-QsLTg0Nzk3ODc5NSwxNDU5MDYzMjQ1LDE3MjkyODE4MTYsMzA1
-MTU2MjU4LDk2OTE1NjQwMiwtMjAyNjI5ODY0OSwyMDc4ODAwMz
-k3LC0xMDk4NDEyMTY5LC0xMTgyNjI1OTUyLC01ODUxMTA2NSwx
-MDMzOTY1NTY2XX0=
+eyJoaXN0b3J5IjpbLTkzNjEyNzQxOCwtNTE0OTg3OTE5LDE0OD
+E0MDgwNDcsLTIwMjIwMDY4MTIsLTEyODMxNTIzMDYsMTYyNzA5
+ODU0MiwxOTk3MzU2NzAwLC0yMDAxMzE2ODIsLTEwMjIwNjc5MT
+EsLTgyODUzNjk5NCwtODQ3OTc4Nzk1LDE0NTkwNjMyNDUsMTcy
+OTI4MTgxNiwzMDUxNTYyNTgsOTY5MTU2NDAyLC0yMDI2Mjk4Nj
+Q5LDIwNzg4MDAzOTcsLTEwOTg0MTIxNjksLTExODI2MjU5NTIs
+LTU4NTExMDY1XX0=
 -->
