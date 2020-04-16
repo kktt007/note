@@ -2,9 +2,10 @@
 vscode
 https://viatsko.github.io/awesome-vscode/
 
-Genealogical tree of programming languages
+key: Genealogical tree of programming languages
 https://erkin.party/blog/190208/spaghetti/genealogy.png
 python raku go
+
 ## spacevim 探索
 https://spacevim.org/development/#conventions
 https://spacevim.org/conventions/
@@ -3212,7 +3213,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNjEyNzQxOCwtNTE0OTg3OTE5LDE0OD
+eyJoaXN0b3J5IjpbLTQwNzY1MTc1MywtNTE0OTg3OTE5LDE0OD
 E0MDgwNDcsLTIwMjIwMDY4MTIsLTEyODMxNTIzMDYsMTYyNzA5
 ODU0MiwxOTk3MzU2NzAwLC0yMDAxMzE2ODIsLTEwMjIwNjc5MT
 EsLTgyODUzNjk5NCwtODQ3OTc4Nzk1LDE0NTkwNjMyNDUsMTcy
