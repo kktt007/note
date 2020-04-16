@@ -18,6 +18,7 @@ help list-functions
 python跟vim像
 看不懂的就help搜
 函数说明，关键字说明
+https://realpython.com/python-requests/#getting-started-with-requests
 
 
 ### 4.15
@@ -3206,11 +3207,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDI0Mjc1MTEsMTQ4MTQwODA0NywtMj
-AyMjAwNjgxMiwtMTI4MzE1MjMwNiwxNjI3MDk4NTQyLDE5OTcz
-NTY3MDAsLTIwMDEzMTY4MiwtMTAyMjA2NzkxMSwtODI4NTM2OT
-k0LC04NDc5Nzg3OTUsMTQ1OTA2MzI0NSwxNzI5MjgxODE2LDMw
-NTE1NjI1OCw5NjkxNTY0MDIsLTIwMjYyOTg2NDksMjA3ODgwMD
-M5NywtMTA5ODQxMjE2OSwtMTE4MjYyNTk1MiwtNTg1MTEwNjUs
-MTAzMzk2NTU2Nl19
+eyJoaXN0b3J5IjpbLTUxNDk4NzkxOSwxNDgxNDA4MDQ3LC0yMD
+IyMDA2ODEyLC0xMjgzMTUyMzA2LDE2MjcwOTg1NDIsMTk5NzM1
+NjcwMCwtMjAwMTMxNjgyLC0xMDIyMDY3OTExLC04Mjg1MzY5OT
+QsLTg0Nzk3ODc5NSwxNDU5MDYzMjQ1LDE3MjkyODE4MTYsMzA1
+MTU2MjU4LDk2OTE1NjQwMiwtMjAyNjI5ODY0OSwyMDc4ODAwMz
+k3LC0xMDk4NDEyMTY5LC0xMTgyNjI1OTUyLC01ODUxMTA2NSwx
+MDMzOTY1NTY2XX0=
 -->
