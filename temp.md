@@ -5,6 +5,21 @@ https://spacevim.org/development/#conventions
 https://spacevim.org/conventions/
 http://vimdoc.sourceforge.net/htmldoc/usr_41.html
 
+alanding对话
+:verbose imap <c-e>
+imap
+nmap
+verbose nmap
+入口是init.vim
+help functions有函数可以查映射的啥
+help list-functions
+
+找个python库，看
+python跟vim像
+看不懂的就help搜
+函数说明，关键字说明
+
+
 ### 4.15
 词典
 http://www.freedictionary.org/
@@ -3191,11 +3206,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MTQwODA0NywtMjAyMjAwNjgxMiwtMT
-I4MzE1MjMwNiwxNjI3MDk4NTQyLDE5OTczNTY3MDAsLTIwMDEz
-MTY4MiwtMTAyMjA2NzkxMSwtODI4NTM2OTk0LC04NDc5Nzg3OT
-UsMTQ1OTA2MzI0NSwxNzI5MjgxODE2LDMwNTE1NjI1OCw5Njkx
-NTY0MDIsLTIwMjYyOTg2NDksMjA3ODgwMDM5NywtMTA5ODQxMj
-E2OSwtMTE4MjYyNTk1MiwtNTg1MTEwNjUsMTAzMzk2NTU2Niw1
-OTAyMTI1NjJdfQ==
+eyJoaXN0b3J5IjpbLTE5MDI0Mjc1MTEsMTQ4MTQwODA0NywtMj
+AyMjAwNjgxMiwtMTI4MzE1MjMwNiwxNjI3MDk4NTQyLDE5OTcz
+NTY3MDAsLTIwMDEzMTY4MiwtMTAyMjA2NzkxMSwtODI4NTM2OT
+k0LC04NDc5Nzg3OTUsMTQ1OTA2MzI0NSwxNzI5MjgxODE2LDMw
+NTE1NjI1OCw5NjkxNTY0MDIsLTIwMjYyOTg2NDksMjA3ODgwMD
+M5NywtMTA5ODQxMjE2OSwtMTE4MjYyNTk1MiwtNTg1MTEwNjUs
+MTAzMzk2NTU2Nl19
 -->
