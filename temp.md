@@ -1,3 +1,9 @@
+### 4.16 
+
+## spacevim 探索
+https://spacevim.org/development/#conventions
+https://spacevim.org/conventions/
+
 ### 4.15
 词典
 http://www.freedictionary.org/
@@ -3184,11 +3190,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODMxNTIzMDYsMTYyNzA5ODU0MiwxOT
-k3MzU2NzAwLC0yMDAxMzE2ODIsLTEwMjIwNjc5MTEsLTgyODUz
-Njk5NCwtODQ3OTc4Nzk1LDE0NTkwNjMyNDUsMTcyOTI4MTgxNi
-wzMDUxNTYyNTgsOTY5MTU2NDAyLC0yMDI2Mjk4NjQ5LDIwNzg4
-MDAzOTcsLTEwOTg0MTIxNjksLTExODI2MjU5NTIsLTU4NTExMD
-Y1LDEwMzM5NjU1NjYsNTkwMjEyNTYyLC0xNzMxNTI1MTk5LDEw
-MDEyODUzNjhdfQ==
+eyJoaXN0b3J5IjpbLTIwMjIwMDY4MTIsLTEyODMxNTIzMDYsMT
+YyNzA5ODU0MiwxOTk3MzU2NzAwLC0yMDAxMzE2ODIsLTEwMjIw
+Njc5MTEsLTgyODUzNjk5NCwtODQ3OTc4Nzk1LDE0NTkwNjMyND
+UsMTcyOTI4MTgxNiwzMDUxNTYyNTgsOTY5MTU2NDAyLC0yMDI2
+Mjk4NjQ5LDIwNzg4MDAzOTcsLTEwOTg0MTIxNjksLTExODI2Mj
+U5NTIsLTU4NTExMDY1LDEwMzM5NjU1NjYsNTkwMjEyNTYyLC0x
+NzMxNTI1MTk5XX0=
 -->
