@@ -6,6 +6,34 @@ key: Genealogical tree of programming languages
 https://erkin.party/blog/190208/spaghetti/genealogy.png
 python raku go
 
+一下搜索名词借鉴的网站 ，可以查词组更好的了解一个词
+- pivot
+	- https://searchsentences.com/words/pivot-in-a-sentence
+	- https://www.wordreference.com/definition/pivot
+	- https://www.urbandictionary.com/define.php?term=Pivot
+
+- graph 
+	- https://www.ldoceonline.com/dictionary/graph
+	- https://www.yourdictionary.com/graph
+	- https://www.macmillandictionary.com/us/dictionary/american/graph_1 
+	- https://dictionary.cambridge.org/us/dictionary/english/graph
+	- https://www.thefreedictionary.com/graph
+	- https://www.collinsdictionary.com/us/dictionary/english/graph
+	- https://www.thesaurus.net/graph
+	- https://kids.britannica.com/kids/article/graph/399910
+
+- graph 
+	- deinfition graph
+
+- imaginary	- \ i-ˈma-jə-ˌner-ē
+	- existing only in your mind or imagination
+
+- axis 
+ - in mathematics, one of the two fixed lines used for showing measurements or finding the position of points on a graph
+ - the vertical/horizontal axis
+
+
+
 ## spacevim 探索
 https://spacevim.org/development/#conventions
 https://spacevim.org/conventions/
@@ -3213,11 +3241,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNzY1MTc1MywtNTE0OTg3OTE5LDE0OD
-E0MDgwNDcsLTIwMjIwMDY4MTIsLTEyODMxNTIzMDYsMTYyNzA5
-ODU0MiwxOTk3MzU2NzAwLC0yMDAxMzE2ODIsLTEwMjIwNjc5MT
-EsLTgyODUzNjk5NCwtODQ3OTc4Nzk1LDE0NTkwNjMyNDUsMTcy
-OTI4MTgxNiwzMDUxNTYyNTgsOTY5MTU2NDAyLC0yMDI2Mjk4Nj
-Q5LDIwNzg4MDAzOTcsLTEwOTg0MTIxNjksLTExODI2MjU5NTIs
-LTU4NTExMDY1XX0=
+eyJoaXN0b3J5IjpbLTYyMzk0NDEyOCwtNDA3NjUxNzUzLC01MT
+Q5ODc5MTksMTQ4MTQwODA0NywtMjAyMjAwNjgxMiwtMTI4MzE1
+MjMwNiwxNjI3MDk4NTQyLDE5OTczNTY3MDAsLTIwMDEzMTY4Mi
+wtMTAyMjA2NzkxMSwtODI4NTM2OTk0LC04NDc5Nzg3OTUsMTQ1
+OTA2MzI0NSwxNzI5MjgxODE2LDMwNTE1NjI1OCw5NjkxNTY0MD
+IsLTIwMjYyOTg2NDksMjA3ODgwMDM5NywtMTA5ODQxMjE2OSwt
+MTE4MjYyNTk1Ml19
 -->
