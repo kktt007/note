@@ -1,3 +1,48 @@
+### 4.17
+ctrl+end进入最下面
+
+- 文件树目录新建文件 F3/SPC f t
+> N 	在光标位置新建文件 
+- 显示隐藏文件 .
+- ctrl-r 刷新文件树
+
+- 新建新标签 s t
+> [Window] t 	新建新的标签页 
+> SPC w F 	新建一个新的标签页 
+
+- [ t 跳至前一个标签页
+- ] t 跳至后一个标签页
+- s w o 按顺序切换
+- g r 跳至前一个标签
+
+- [ w 跳至前一个窗口
+- ] w 跳至后一个窗口
+- 删除标签页 
+- s t t 标签管理 x 删除 o 展开 r 重命名 n 新建 enter进入
+
+- 删除标签 s t t 打开后 x 删除
+- 删除文件及buffer s f D
+- 删除窗口，如果就一个标签一个窗口，同删除标签 s w d
+- 删除选中的窗口 s w D
+
+- 最大化窗口 s w m
+- 切换窗口 s w r
+- q 关闭当前窗口 和s Q 效果一样,无视有文件
+- s o 关闭其他窗口
+- 新建buffer就是新建窗口s b N h左侧 l右侧 j下方 k 上方
+- 窗口导航 u撤销按键 n向下翻页 p向上翻译
+- tab 窗口切换 ctrl+上下左右箭头切换
+
+- 保存文件:w, ctrl-s, SPC f s, SPC f S(保存所有),SPC f W(使用管理员保存)
+- 定位到文件树中的文件位置 SPC f o
+- 打开文件历史 SPC f r
+- 复制并显示当前文件的绝对路径
+[文件操作相关快捷键](https://github.com/SpaceVim/SpaceVim/blob/master/docs/cn/documentation.md#特殊-buffer)
+
+待处理
+移动
+半屏
+粘贴
 
 
 ### 4.16 
@@ -3244,11 +3289,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTc3MDc4OTMsLTY3MjA0OTIzMywtNj
-IzOTQ0MTI4LC00MDc2NTE3NTMsLTUxNDk4NzkxOSwxNDgxNDA4
-MDQ3LC0yMDIyMDA2ODEyLC0xMjgzMTUyMzA2LDE2MjcwOTg1ND
-IsMTk5NzM1NjcwMCwtMjAwMTMxNjgyLC0xMDIyMDY3OTExLC04
-Mjg1MzY5OTQsLTg0Nzk3ODc5NSwxNDU5MDYzMjQ1LDE3MjkyOD
-E4MTYsMzA1MTU2MjU4LDk2OTE1NjQwMiwtMjAyNjI5ODY0OSwy
-MDc4ODAwMzk3XX0=
+eyJoaXN0b3J5IjpbMjA5MDE1NTU4NCwtNjcyMDQ5MjMzLC02Mj
+M5NDQxMjgsLTQwNzY1MTc1MywtNTE0OTg3OTE5LDE0ODE0MDgw
+NDcsLTIwMjIwMDY4MTIsLTEyODMxNTIzMDYsMTYyNzA5ODU0Mi
+wxOTk3MzU2NzAwLC0yMDAxMzE2ODIsLTEwMjIwNjc5MTEsLTgy
+ODUzNjk5NCwtODQ3OTc4Nzk1LDE0NTkwNjMyNDUsMTcyOTI4MT
+gxNiwzMDUxNTYyNTgsOTY5MTU2NDAyLC0yMDI2Mjk4NjQ5LDIw
+Nzg4MDAzOTddfQ==
 -->
