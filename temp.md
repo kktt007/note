@@ -1,4 +1,115 @@
-## 4.
+## 4.18
+dd
+什么是删除当前行
+删除光标前后若干词
+
+快速移动到某行，某精确位置
+插入模式下粘贴
+其他模式下粘贴
+粘贴到具体位置
+
+移动光标
+复制 选中
+复制行
+剪切行
+复制光标位置到行尾
+删除至行尾
+删除光标所在字符
+替换
+查找文件
+搜索文本
+跳转
+buffer切换使用
+搜索后:nohl清除高亮
+- SPC s c 或者运行 命令 :nohlsearch 来取消搜索结果的高亮表示。
+i模式下: ctrl-r % 当前文件名输入到文件
+
+以下3种方式:
+minibufferexplor
+后期tmux
+Nerdtree插件来实现多标签编辑。
+
+快捷键设计
+
+如果要保证buffer的切换像tab一样方便，肯定是要设置快捷键的，要不然总输入命令太慢了。
+
+"按Ctrl+h 向左移动一个buffer
+nnoremap <C-h> :bp<CR>
+"按Ctrl+l 向右移动一个buffer
+nnoremap <C-l> :bn<CR>
+"按Ctrl+^ 关闭当前buffer
+nnoremap <C-^> :bd<CR>
+
+
+- buffers
+- ls, buffers 列出载入到内存的缓冲列表
+- SPC <Tab> 	切换至前一缓冲区，常用于两个缓冲区来回切换
+- SPC b p , [ b 切换至前一个缓冲区，排除特殊插件的缓冲区
+- SPC b n 	, ] b 切换至下一个缓冲区，排除特殊插件的缓冲区
+- SPC b Y 	将整个缓冲区复制到系统剪切板
+- SPC b P 	使用系统剪切板内容替换当前缓冲区
+- SPC b e 	清除当前缓冲区内容，需要手动确认
+- SPC b C-d 	删除其它所有缓冲区
+
+在多窗口间跳转和改变窗口大小
+
+
+[参考](https://wizardforcel.gitbooks.io/use-vim-as-ide/content/5.html)
+- 折叠
+有时为了去除干扰，集中精力在某部分代码片段上，我会把不关注部分代码折叠起来。vim 自身支持多种折叠：手动建立折叠（manual）、基于缩进进行折叠（indent）、基于语法进行折叠（syntax）、未更改文本构成折叠（diff）等等，其中，indent、syntax 比较适合编程，按需选用。增加如下配置信息：
+
+注释 NERD Commenter
+
+模版补全ultisnips
+
+智能补全有两类实现方式：基于标签的(了解即可，限制多，麻烦)、基于语义的
+
+2.屏幕翻页
+Ctrl+u: 向上翻半屏
+Ctrl+f: 向上翻一屏
+Ctrl+d: 向下翻半屏
+Ctrl＋b: 向下翻一屏
+
+3.移动光标指令
+移动光标普遍使用的是方向键，考虑兼容问题，vi定义太多的方向指令，下面只是一小小部分（常用的几个）：
+space: 光标右移一个字符
+Backspace: 光标左移一个字符
+Enter: 光标下移一行
+nG: 光标移至第n行首
+n+: 光标下移n行
+n-: 光标上移n行
+n:光标移至第n行尾0:光标移至当前行首
+
+: 光标移至当前行尾
+
+快速跳转插件Easymotion
+
+4.插入删除指令
+常用插入、删除指令如下：
+i：在当前光标前插入，光标后文本向后移
+a：从当前光标后插入，光标后文本后移
+I：在光标所在行首插入（第一个非空白字符前）
+A：从光标所在行末插入
+o: 在光标所在行下面新增一行（并进入输入模式）
+O: 在光标所在行上方新增一行（并进入输入模式）
+x: 删除光标所在字符，等同于[Delete]功能键
+X: 删除光标前字符，相当与[Backspace]
+dd: 删除光标所在的行
+r: 修改光标所在字符
+R: 替换当前字符及其后的字符，直到按 [ESC]
+s: 从当前光标位置处开始，以输入的文本替代指定数目的字符
+S: 删除指定数目的行，并以所输入文本代替之
+do: 删至行首
+d$: 删至行尾 
+————————————————
+版权声明：本文为CSDN博主「极客Geek」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/netdxy/article/details/50553543
+
+https://yianwillis.github.io/vimcdoc/doc/help.html
+
+https://github.com/SpaceVim/SpaceVim/blob/master/docs/layers/fzf.md 查看各个layer.md说明
+ denite py3 SPC b b / liat all buffers
+
 
 ### 4.17
 源码快捷键
@@ -3294,11 +3405,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NjU4MzY2Miw0NjA3NzUzNzIsMjA5MD
-E1NTU4NCwtNjcyMDQ5MjMzLC02MjM5NDQxMjgsLTQwNzY1MTc1
-MywtNTE0OTg3OTE5LDE0ODE0MDgwNDcsLTIwMjIwMDY4MTIsLT
-EyODMxNTIzMDYsMTYyNzA5ODU0MiwxOTk3MzU2NzAwLC0yMDAx
-MzE2ODIsLTEwMjIwNjc5MTEsLTgyODUzNjk5NCwtODQ3OTc4Nz
-k1LDE0NTkwNjMyNDUsMTcyOTI4MTgxNiwzMDUxNTYyNTgsOTY5
-MTU2NDAyXX0=
+eyJoaXN0b3J5IjpbLTEwOTQxNjAzNjMsNDYwNzc1MzcyLDIwOT
+AxNTU1ODQsLTY3MjA0OTIzMywtNjIzOTQ0MTI4LC00MDc2NTE3
+NTMsLTUxNDk4NzkxOSwxNDgxNDA4MDQ3LC0yMDIyMDA2ODEyLC
+0xMjgzMTUyMzA2LDE2MjcwOTg1NDIsMTk5NzM1NjcwMCwtMjAw
+MTMxNjgyLC0xMDIyMDY3OTExLC04Mjg1MzY5OTQsLTg0Nzk3OD
+c5NSwxNDU5MDYzMjQ1LDE3MjkyODE4MTYsMzA1MTU2MjU4LDk2
+OTE1NjQwMl19
 -->
