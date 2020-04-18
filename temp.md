@@ -1,4 +1,11 @@
 ## 4.18
+
+[spacevim en_doc](https://github.com/SpaceVim/SpaceVim/blob/master/docs/documentation.md)
+[快捷键的具体出处](https://github.com/SpaceVim/SpaceVim/blob/master/autoload/SpaceVim/mapping/g.vim)
+https://blog.csdn.net/netdxy/article/details/50553543
+
+
+
 dd
 什么是删除当前行
 删除光标前后若干词
@@ -3405,11 +3412,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTQxNjAzNjMsNDYwNzc1MzcyLDIwOT
-AxNTU1ODQsLTY3MjA0OTIzMywtNjIzOTQ0MTI4LC00MDc2NTE3
-NTMsLTUxNDk4NzkxOSwxNDgxNDA4MDQ3LC0yMDIyMDA2ODEyLC
-0xMjgzMTUyMzA2LDE2MjcwOTg1NDIsMTk5NzM1NjcwMCwtMjAw
-MTMxNjgyLC0xMDIyMDY3OTExLC04Mjg1MzY5OTQsLTg0Nzk3OD
-c5NSwxNDU5MDYzMjQ1LDE3MjkyODE4MTYsMzA1MTU2MjU4LDk2
-OTE1NjQwMl19
+eyJoaXN0b3J5IjpbMTY4MzkzMjQ0NywtMTA5NDE2MDM2Myw0Nj
+A3NzUzNzIsMjA5MDE1NTU4NCwtNjcyMDQ5MjMzLC02MjM5NDQx
+MjgsLTQwNzY1MTc1MywtNTE0OTg3OTE5LDE0ODE0MDgwNDcsLT
+IwMjIwMDY4MTIsLTEyODMxNTIzMDYsMTYyNzA5ODU0MiwxOTk3
+MzU2NzAwLC0yMDAxMzE2ODIsLTEwMjIwNjc5MTEsLTgyODUzNj
+k5NCwtODQ3OTc4Nzk1LDE0NTkwNjMyNDUsMTcyOTI4MTgxNiwz
+MDUxNTYyNThdfQ==
 -->
