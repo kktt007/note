@@ -1,4 +1,3 @@
-###
 ## 4.20
 重点快捷
 https://github.com/SpaceVim/SpaceVim/tree/master/autoload/SpaceVim/mapping
@@ -3480,7 +3479,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NTk3MTI1MSwtNzQxNDkzNTE2LDE2OD
+eyJoaXN0b3J5IjpbLTU5MDY5NDQzOCwtNzQxNDkzNTE2LDE2OD
 M5MzI0NDcsLTEwOTQxNjAzNjMsNDYwNzc1MzcyLDIwOTAxNTU1
 ODQsLTY3MjA0OTIzMywtNjIzOTQ0MTI4LC00MDc2NTE3NTMsLT
 UxNDk4NzkxOSwxNDgxNDA4MDQ3LC0yMDIyMDA2ODEyLC0xMjgz
