@@ -1,6 +1,69 @@
+###
 ## 4.20
 重点快捷
 https://github.com/SpaceVim/SpaceVim/tree/master/autoload/SpaceVim/mapping
+
+- 计算机单词查询 https://www.computerhope.com/jargon/t/tiling.htm
+- likely
+  - it's quite likely that we'll be in China this time next year.
+
+- tendency \ ˈten-dən(t)-sē 
+  - I have a tendency to talk too much when I'm nervous.
+
+- inclination \ ˌin-klə-ˈnā-shən
+  - You must follow your own inclinations when choosing a career.
+
+- leaning
+  - His parents could not comprehend his artistic leanings.
+
+- recline \ ri-ˈklīn
+  - She was reclining on a sofa.
+
+
+- pending
+  - The offer to buy is still pending. 
+
+
+- accused \ ə-ˈkyüzd
+  - to accuse somebody of murder
+
+
+- trial
+  - He is facing trial on numerous terrorism charges.
+
+
+- in court of law
+
+- bail
+  - He was released/remanded on bail (of $100,000).
+
+- bidirectional  \ ˌbī-də-ˈrek-shnəl
+  - moving, functioning, or receiving signals in or from two, usually opposite, directions
+  - Functioning in two directions.
+    - function
+    - to work in the correct way
+    - we now have a functioning shower
+
+- hormoun \ ˈhȯr-ˌmōn
+
+- tissue \ ˈti-(ˌ)shü
+  - a collection of cells that form the different parts of humans, animals and plants
+  - muscle/brain/lung tissue
+
+  - soft paper that is used for cleaning, especially your nose, and is thrown away after use, or a small rectangular piece of this:
+  - a piece of soft paper, used especially as a handkerchief
+    - handkerchief \ ˈhaŋ-kər-chəf  注意发音k,不变，同n l 规则
+    - a small piece of material or paper that you use for blowing your nose, etc.
+      - blow
+      - blow your nose to clear your nose by blowing strongly through it into a tissue or handkerchief.
+
+
+- downword adj.
+  - moving or pointing towards a lower level
+
+
+
+
 
 
 ## 4.18
@@ -3417,11 +3480,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MTQ5MzUxNiwxNjgzOTMyNDQ3LC0xMD
-k0MTYwMzYzLDQ2MDc3NTM3MiwyMDkwMTU1NTg0LC02NzIwNDky
-MzMsLTYyMzk0NDEyOCwtNDA3NjUxNzUzLC01MTQ5ODc5MTksMT
-Q4MTQwODA0NywtMjAyMjAwNjgxMiwtMTI4MzE1MjMwNiwxNjI3
-MDk4NTQyLDE5OTczNTY3MDAsLTIwMDEzMTY4MiwtMTAyMjA2Nz
-kxMSwtODI4NTM2OTk0LC04NDc5Nzg3OTUsMTQ1OTA2MzI0NSwx
-NzI5MjgxODE2XX0=
+eyJoaXN0b3J5IjpbMTc3NTk3MTI1MSwtNzQxNDkzNTE2LDE2OD
+M5MzI0NDcsLTEwOTQxNjAzNjMsNDYwNzc1MzcyLDIwOTAxNTU1
+ODQsLTY3MjA0OTIzMywtNjIzOTQ0MTI4LC00MDc2NTE3NTMsLT
+UxNDk4NzkxOSwxNDgxNDA4MDQ3LC0yMDIyMDA2ODEyLC0xMjgz
+MTUyMzA2LDE2MjcwOTg1NDIsMTk5NzM1NjcwMCwtMjAwMTMxNj
+gyLC0xMDIyMDY3OTExLC04Mjg1MzY5OTQsLTg0Nzk3ODc5NSwx
+NDU5MDYzMjQ1XX0=
 -->
