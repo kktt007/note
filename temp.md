@@ -1,3 +1,24 @@
+### 4.21
+https://github.com/SpaceVim/SpaceVim/blob/master/autoload/SpaceVim/layers/edit.vim
+
+插件列表
+https://blog.csdn.net/cnsword/article/details/52797203
+
+[terryma/vim-expand-region](https://github.com/terryma/vim-expand-region)
+[参考](https://github.com/terryma/vim-expand-region/blob/master/doc/expand_region.txt)
+around标示边缘被包括
+
+visual selection模式 括号包括内才能选中括号,对全角符号不支持
+ib () 内 parentheses 取不到文字外侧括号，哪怕如果在()上，也取不到
+iB {} 内 braces
+i] [] 内 bracket
+il 1行iniside line 和大V模式一样效果
+ie 整个文件
+ab () 能取到文字外侧括号
+ii 在 inside indent,遇到空行也失效,不包括缩进外侧空行。
+ai 所有around indent，所有以此缩进为准的，包含空行，全部选中,遇到超出则失效
+
+
 ## 4.20
 重点快捷
 https://github.com/SpaceVim/SpaceVim/tree/master/autoload/SpaceVim/mapping
@@ -3479,11 +3500,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MDY5NDQzOCwtNzQxNDkzNTE2LDE2OD
-M5MzI0NDcsLTEwOTQxNjAzNjMsNDYwNzc1MzcyLDIwOTAxNTU1
-ODQsLTY3MjA0OTIzMywtNjIzOTQ0MTI4LC00MDc2NTE3NTMsLT
-UxNDk4NzkxOSwxNDgxNDA4MDQ3LC0yMDIyMDA2ODEyLC0xMjgz
-MTUyMzA2LDE2MjcwOTg1NDIsMTk5NzM1NjcwMCwtMjAwMTMxNj
-gyLC0xMDIyMDY3OTExLC04Mjg1MzY5OTQsLTg0Nzk3ODc5NSwx
-NDU5MDYzMjQ1XX0=
+eyJoaXN0b3J5IjpbLTEwNTE1Mjk2ODUsLTU5MDY5NDQzOCwtNz
+QxNDkzNTE2LDE2ODM5MzI0NDcsLTEwOTQxNjAzNjMsNDYwNzc1
+MzcyLDIwOTAxNTU1ODQsLTY3MjA0OTIzMywtNjIzOTQ0MTI4LC
+00MDc2NTE3NTMsLTUxNDk4NzkxOSwxNDgxNDA4MDQ3LC0yMDIy
+MDA2ODEyLC0xMjgzMTUyMzA2LDE2MjcwOTg1NDIsMTk5NzM1Nj
+cwMCwtMjAwMTMxNjgyLC0xMDIyMDY3OTExLC04Mjg1MzY5OTQs
+LTg0Nzk3ODc5NV19
 -->
