@@ -12,7 +12,7 @@ https://github.com/SpaceVim/SpaceVim/blob/42ea773008cfde44e70504da1ab41da3369196
 
 [修改参考init](https://github.com/SpaceVim/SpaceVim/blob/master/doc/SpaceVim.txt)
 [源码配置](https://github.com/SpaceVim/SpaceVim/blob/master/autoload/SpaceVim.vim)
-
+[前缀](https://github.com/SpaceVim/SpaceVim/blob/master/docs/cn/documentation.md)
 ### copy cut and paste in vim
     yy - Yank (copy) the current line, including the newline character.
     3yy - Yank (copy) three lines, starting from the line where the cursor is positioned.
@@ -3525,11 +3525,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NTE3MjYyOCwtMTQ4NTIyMTEyMiwtMT
-A1MTUyOTY4NSwtNTkwNjk0NDM4LC03NDE0OTM1MTYsMTY4Mzkz
-MjQ0NywtMTA5NDE2MDM2Myw0NjA3NzUzNzIsMjA5MDE1NTU4NC
-wtNjcyMDQ5MjMzLC02MjM5NDQxMjgsLTQwNzY1MTc1MywtNTE0
-OTg3OTE5LDE0ODE0MDgwNDcsLTIwMjIwMDY4MTIsLTEyODMxNT
-IzMDYsMTYyNzA5ODU0MiwxOTk3MzU2NzAwLC0yMDAxMzE2ODIs
-LTEwMjIwNjc5MTFdfQ==
+eyJoaXN0b3J5IjpbOTU3MzMwMjI4LC0xNDg1MjIxMTIyLC0xMD
+UxNTI5Njg1LC01OTA2OTQ0MzgsLTc0MTQ5MzUxNiwxNjgzOTMy
+NDQ3LC0xMDk0MTYwMzYzLDQ2MDc3NTM3MiwyMDkwMTU1NTg0LC
+02NzIwNDkyMzMsLTYyMzk0NDEyOCwtNDA3NjUxNzUzLC01MTQ5
+ODc5MTksMTQ4MTQwODA0NywtMjAyMjAwNjgxMiwtMTI4MzE1Mj
+MwNiwxNjI3MDk4NTQyLDE5OTczNTY3MDAsLTIwMDEzMTY4Miwt
+MTAyMjA2NzkxMV19
 -->
