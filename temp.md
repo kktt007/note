@@ -1,3 +1,12 @@
+### 4.22
+先重要后次要，先总结后具体，先框架后细节，先结论后原因，先结果后过程，先论点后论据。
+比较，抽象，概括
+思维方法学，管理学
+看待问题还需要全面去看待， 分析问题要尽可能做到全面了解对象、联系和中介等方面
+http://m.xielwb.com/luojixuelunwen/92373_2.html
+很重要的内容http://m.xielwb.com/luojixuelunwen/98731.html
+
+
 ### 4.21
 https://github.com/SpaceVim/SpaceVim/blob/master/autoload/SpaceVim/layers/edit.vim
 
@@ -3500,11 +3509,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTE1Mjk2ODUsLTU5MDY5NDQzOCwtNz
-QxNDkzNTE2LDE2ODM5MzI0NDcsLTEwOTQxNjAzNjMsNDYwNzc1
-MzcyLDIwOTAxNTU1ODQsLTY3MjA0OTIzMywtNjIzOTQ0MTI4LC
-00MDc2NTE3NTMsLTUxNDk4NzkxOSwxNDgxNDA4MDQ3LC0yMDIy
-MDA2ODEyLC0xMjgzMTUyMzA2LDE2MjcwOTg1NDIsMTk5NzM1Nj
-cwMCwtMjAwMTMxNjgyLC0xMDIyMDY3OTExLC04Mjg1MzY5OTQs
-LTg0Nzk3ODc5NV19
+eyJoaXN0b3J5IjpbLTExMDcxMjkzNzksLTEwNTE1Mjk2ODUsLT
+U5MDY5NDQzOCwtNzQxNDkzNTE2LDE2ODM5MzI0NDcsLTEwOTQx
+NjAzNjMsNDYwNzc1MzcyLDIwOTAxNTU1ODQsLTY3MjA0OTIzMy
+wtNjIzOTQ0MTI4LC00MDc2NTE3NTMsLTUxNDk4NzkxOSwxNDgx
+NDA4MDQ3LC0yMDIyMDA2ODEyLC0xMjgzMTUyMzA2LDE2MjcwOT
+g1NDIsMTk5NzM1NjcwMCwtMjAwMTMxNjgyLC0xMDIyMDY3OTEx
+LC04Mjg1MzY5OTRdfQ==
 -->
