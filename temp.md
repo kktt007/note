@@ -6,6 +6,9 @@
 http://m.xielwb.com/luojixuelunwen/92373_2.html
 很重要的内容http://m.xielwb.com/luojixuelunwen/98731.html
 
+
+https://www.kingr.top/2018/08/17/SpaceVim%E8%87%AA%E5%8A%A8%E6%8A%98%E8%A1%8C%E4%B8%8E%E8%87%AA%E5%8A%A8%E6%8D%A2%E8%A1%8C/
+
 https://vimhelp.org/motion.txt.html
 https://vim.fandom.com/wiki/Category:Moving
 https://github.com/SpaceVim/SpaceVim/blob/42ea773008cfde44e70504da1ab41da33691967f/doc/SpaceVim.txt
@@ -3525,11 +3528,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU3MzMwMjI4LC0xNDg1MjIxMTIyLC0xMD
-UxNTI5Njg1LC01OTA2OTQ0MzgsLTc0MTQ5MzUxNiwxNjgzOTMy
-NDQ3LC0xMDk0MTYwMzYzLDQ2MDc3NTM3MiwyMDkwMTU1NTg0LC
-02NzIwNDkyMzMsLTYyMzk0NDEyOCwtNDA3NjUxNzUzLC01MTQ5
-ODc5MTksMTQ4MTQwODA0NywtMjAyMjAwNjgxMiwtMTI4MzE1Mj
-MwNiwxNjI3MDk4NTQyLDE5OTczNTY3MDAsLTIwMDEzMTY4Miwt
-MTAyMjA2NzkxMV19
+eyJoaXN0b3J5IjpbOTQyMzE2NjYsOTU3MzMwMjI4LC0xNDg1Mj
+IxMTIyLC0xMDUxNTI5Njg1LC01OTA2OTQ0MzgsLTc0MTQ5MzUx
+NiwxNjgzOTMyNDQ3LC0xMDk0MTYwMzYzLDQ2MDc3NTM3MiwyMD
+kwMTU1NTg0LC02NzIwNDkyMzMsLTYyMzk0NDEyOCwtNDA3NjUx
+NzUzLC01MTQ5ODc5MTksMTQ4MTQwODA0NywtMjAyMjAwNjgxMi
+wtMTI4MzE1MjMwNiwxNjI3MDk4NTQyLDE5OTczNTY3MDAsLTIw
+MDEzMTY4Ml19
 -->
