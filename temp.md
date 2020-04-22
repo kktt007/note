@@ -6,6 +6,21 @@
 http://m.xielwb.com/luojixuelunwen/92373_2.html
 很重要的内容http://m.xielwb.com/luojixuelunwen/98731.html
 
+https://vimhelp.org/motion.txt.html
+https://vim.fandom.com/wiki/Category:Moving
+https://github.com/SpaceVim/SpaceVim/blob/42ea773008cfde44e70504da1ab41da33691967f/doc/SpaceVim.txt
+
+[修改参考init](https://github.com/SpaceVim/SpaceVim/blob/master/doc/SpaceVim.txt)
+[源码配置](https://github.com/SpaceVim/SpaceVim/blob/master/autoload/SpaceVim.vim)
+### copy cut and paste in vim
+    yy - Yank (copy) the current line, including the newline character.
+    3yy - Yank (copy) three lines, starting from the line where the cursor is positioned.
+    y$ - Yank (copy) everything from the cursor to the end of the line.
+    y^ - Yank (copy) everything from the cursor to the start of the line.
+    yw - Yank (copy) to the start of the next word.
+    yiw – Yank (copy) the current word.
+    y% - Yank (copy) to the matching character. By default supported pairs are (), {}, and []. Useful to copy text between matching brackets.
+
 
 ### 4.21
 https://github.com/SpaceVim/SpaceVim/blob/master/autoload/SpaceVim/layers/edit.vim
@@ -3509,7 +3524,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDcxMjkzNzksLTEwNTE1Mjk2ODUsLT
+eyJoaXN0b3J5IjpbLTE0ODUyMjExMjIsLTEwNTE1Mjk2ODUsLT
 U5MDY5NDQzOCwtNzQxNDkzNTE2LDE2ODM5MzI0NDcsLTEwOTQx
 NjAzNjMsNDYwNzc1MzcyLDIwOTAxNTU1ODQsLTY3MjA0OTIzMy
 wtNjIzOTQ0MTI4LC00MDc2NTE3NTMsLTUxNDk4NzkxOSwxNDgx
