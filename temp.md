@@ -1,6 +1,7 @@
 ###４.23
 
- 
+[tmux教程](https://louiszhai.github.io/2017/09/30/tmux/#%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5)
+
 http://vimdoc.sourceforge.net/htmldoc/motion.html#motion.txt
 https://vim.fandom.com/wiki/All_the_right_moves
 https://docs.oracle.com/cd/E19253-01/806-7612/6jgfmsvqf/index.html
@@ -3631,11 +3632,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDcxODAyNTMsLTE4OTAwMTY5MjEsOT
-E1NTI1MzY3LDEzMjI0OTM3MTQsOTQyMzE2NjYsOTU3MzMwMjI4
-LC0xNDg1MjIxMTIyLC0xMDUxNTI5Njg1LC01OTA2OTQ0MzgsLT
-c0MTQ5MzUxNiwxNjgzOTMyNDQ3LC0xMDk0MTYwMzYzLDQ2MDc3
-NTM3MiwyMDkwMTU1NTg0LC02NzIwNDkyMzMsLTYyMzk0NDEyOC
-wtNDA3NjUxNzUzLC01MTQ5ODc5MTksMTQ4MTQwODA0NywtMjAy
-MjAwNjgxMl19
+eyJoaXN0b3J5IjpbLTM0MjEwNzE2LC0xODkwMDE2OTIxLDkxNT
+UyNTM2NywxMzIyNDkzNzE0LDk0MjMxNjY2LDk1NzMzMDIyOCwt
+MTQ4NTIyMTEyMiwtMTA1MTUyOTY4NSwtNTkwNjk0NDM4LC03ND
+E0OTM1MTYsMTY4MzkzMjQ0NywtMTA5NDE2MDM2Myw0NjA3NzUz
+NzIsMjA5MDE1NTU4NCwtNjcyMDQ5MjMzLC02MjM5NDQxMjgsLT
+QwNzY1MTc1MywtNTE0OTg3OTE5LDE0ODE0MDgwNDcsLTIwMjIw
+MDY4MTJdfQ==
 -->
