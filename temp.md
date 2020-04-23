@@ -1,3 +1,101 @@
+###４.23
+http://vimdoc.sourceforge.net/htmldoc/motion.html#motion.txt
+https://vim.fandom.com/wiki/All_the_right_moves
+https://docs.oracle.com/cd/E19253-01/806-7612/6jgfmsvqf/index.html
+https://vimhelp.org/motion.txt.html
+
+- del:
+
+> :foo,food //删除foo到foo包含的所有行
+
+>  :foo,$d //删除从foo到末尾的所有
+
+- delete one character
+> x // 4x
+
+- delete one character before the cursor
+> X
+
+- deleting a word or part of a word
+> dw // 将cursor移到单词开头，或许要保留的部分后面，从光标处删除到空格
+
+- deleting a line
+> dd
+
+- choose:
+
+  go to line:fooG
+
+  Press "V"
+
+  typing: fooG
+
+- 选中所在行到foo绝对行号并包括在内的所有行
+
+  ctrl-g //where you are in the file<!--  显示在文件中位置 -->
+
+- lowercase and uppercase
+
+  - gu // lowercase
+  - gU // uppercase
+  
+- bring line foo to top of your screen
+- zt
+
+- bing to middle of screen
+- z.
+
+- bring to bottom of screen
+- zb
+
+- 如果需要让光标在上中下
+> H M L
+
+- page forward one screen
+> ctrl f
+
+- page backward one screen
+> ctrl b
+
+- one-half screen
+> ctrl u
+
+> ctrl d
+
+## move the cursor
+
+- e // move to end of word
+- W // move to beginning of next word after a whitespace"无视任何符号"
+- B // 与上面相反
+- E // move to end of word before a whitespace"单词末尾，遇到空格才算完整单词"
+
+## change
+
+- cw // change a word, 需要先移到单词开头
+- cW// 无视空格外所有连接符
+- cc // change a line
+
+- r // 替换cursor下的character
+
+##　yank and paste
+
+### 行的复制粘贴
+- yy, Y // yank
+- p // put below粘贴在光标所在下行
+- P // put above
+
+
+### 3.23
+
+- mnemonic
+  - a sentence or short poem that you use for helping you to remember something.
+    - rhyme
+      - have the same lst sound
+      - can u thing of a word that rhymes with "orange"?
+
+- equivalent  \ i-ˈkwiv-lənt
+  - a thing, amount, word, etc. that is equal in value, meaning or purpose to something else
+  - Is there a French word that is the exact equivalent of the English word ‘home’?
 
 ### 4.22
 先重要后次要，先总结后具体，先框架后细节，先结论后原因，先结果后过程，先论点后论据。
@@ -3531,7 +3629,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMTU2MDUzOSw5MTU1MjUzNjcsMTMyMj
+eyJoaXN0b3J5IjpbLTc5ODIwMTcxOSw5MTU1MjUzNjcsMTMyMj
 Q5MzcxNCw5NDIzMTY2Niw5NTczMzAyMjgsLTE0ODUyMjExMjIs
 LTEwNTE1Mjk2ODUsLTU5MDY5NDQzOCwtNzQxNDkzNTE2LDE2OD
 M5MzI0NDcsLTEwOTQxNjAzNjMsNDYwNzc1MzcyLDIwOTAxNTU1
