@@ -20,6 +20,14 @@ https://bookroo.com/books
 
 在线阅读
 https://www.churchofjesuschrist.org/study/scriptures?lang=eng
+比如:https://www.churchofjesuschrist.org/study/history/saints-v2/part-1/01-gather-up-a-company?lang=eng
+http://www.espressoenglish.net/wp-content/uploads/2012/07/Free-Grammar-Ebook-Level-2.pdf
+
+- sacred \ ˈsā-krəd 注意发音gre无d
+- His daily routine is absolutely sacred to him.
+
+- routine
+- there's no set/fixed routine at work - every day is different
 
 ###４.23
 
@@ -3655,11 +3663,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDc0Njk0MTgsLTE4NTYzNjY3NTQsLT
-E4OTAwMTY5MjEsOTE1NTI1MzY3LDEzMjI0OTM3MTQsOTQyMzE2
-NjYsOTU3MzMwMjI4LC0xNDg1MjIxMTIyLC0xMDUxNTI5Njg1LC
-01OTA2OTQ0MzgsLTc0MTQ5MzUxNiwxNjgzOTMyNDQ3LC0xMDk0
-MTYwMzYzLDQ2MDc3NTM3MiwyMDkwMTU1NTg0LC02NzIwNDkyMz
-MsLTYyMzk0NDEyOCwtNDA3NjUxNzUzLC01MTQ5ODc5MTksMTQ4
-MTQwODA0N119
+eyJoaXN0b3J5IjpbMTIyNzE5ODY3NiwtMjEwNzQ2OTQxOCwtMT
+g1NjM2Njc1NCwtMTg5MDAxNjkyMSw5MTU1MjUzNjcsMTMyMjQ5
+MzcxNCw5NDIzMTY2Niw5NTczMzAyMjgsLTE0ODUyMjExMjIsLT
+EwNTE1Mjk2ODUsLTU5MDY5NDQzOCwtNzQxNDkzNTE2LDE2ODM5
+MzI0NDcsLTEwOTQxNjAzNjMsNDYwNzc1MzcyLDIwOTAxNTU1OD
+QsLTY3MjA0OTIzMywtNjIzOTQ0MTI4LC00MDc2NTE3NTMsLTUx
+NDk4NzkxOV19
 -->
