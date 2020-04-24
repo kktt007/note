@@ -15,6 +15,8 @@ https://www.barnesandnoble.com/b/kids-books/_/N-8qc
 https://www.booktrust.org.uk/booklists/1/
 https://bilingualkidspot.com/
 http://www.magickeys.com/books/
+https://deseretbook.com/t/books/childrens
+https://bookroo.com/books
 
 在线阅读
 https://www.churchofjesuschrist.org/study/scriptures?lang=eng
@@ -3653,11 +3655,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTYzNjY3NTQsLTE4OTAwMTY5MjEsOT
-E1NTI1MzY3LDEzMjI0OTM3MTQsOTQyMzE2NjYsOTU3MzMwMjI4
-LC0xNDg1MjIxMTIyLC0xMDUxNTI5Njg1LC01OTA2OTQ0MzgsLT
-c0MTQ5MzUxNiwxNjgzOTMyNDQ3LC0xMDk0MTYwMzYzLDQ2MDc3
-NTM3MiwyMDkwMTU1NTg0LC02NzIwNDkyMzMsLTYyMzk0NDEyOC
-wtNDA3NjUxNzUzLC01MTQ5ODc5MTksMTQ4MTQwODA0NywtMjAy
-MjAwNjgxMl19
+eyJoaXN0b3J5IjpbLTIxMDc0Njk0MTgsLTE4NTYzNjY3NTQsLT
+E4OTAwMTY5MjEsOTE1NTI1MzY3LDEzMjI0OTM3MTQsOTQyMzE2
+NjYsOTU3MzMwMjI4LC0xNDg1MjIxMTIyLC0xMDUxNTI5Njg1LC
+01OTA2OTQ0MzgsLTc0MTQ5MzUxNiwxNjgzOTMyNDQ3LC0xMDk0
+MTYwMzYzLDQ2MDc3NTM3MiwyMDkwMTU1NTg0LC02NzIwNDkyMz
+MsLTYyMzk0NDEyOCwtNDA3NjUxNzUzLC01MTQ5ODc5MTksMTQ4
+MTQwODA0N119
 -->
