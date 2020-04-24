@@ -1,3 +1,19 @@
+### 4.24
+https://epdf.pub/
+http://www.pdfdownload.online/
+https://www.scribd.com/
+https://www.pdfdrive.com/
+https://www.engbookspdf.com/books-drive/English-Made-Easy-Volume2-New-ESL-Approach
+http://dl.booktolearn.com/ebooks2/foreignlanguages/english/9780804837361_english_made_easy_volume_one_40ef.pdf
+https://freekidsbooks.org/
+https://www.8freebooks.net/books/children/
+http://pdfcorner.com/
+
+
+找书
+https://www.booktrust.org.uk/booklists/1/
+https://bilingualkidspot.com/
+http://www.magickeys.com/books/
 
 
 ###４.23
@@ -3634,7 +3650,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk1NDg1MTkyLC0xODkwMDE2OTIxLDkxNT
+eyJoaXN0b3J5IjpbMjIwMTA5NjY4LC0xODkwMDE2OTIxLDkxNT
 UyNTM2NywxMzIyNDkzNzE0LDk0MjMxNjY2LDk1NzMzMDIyOCwt
 MTQ4NTIyMTEyMiwtMTA1MTUyOTY4NSwtNTkwNjk0NDM4LC03ND
 E0OTM1MTYsMTY4MzkzMjQ0NywtMTA5NDE2MDM2Myw0NjA3NzUz
