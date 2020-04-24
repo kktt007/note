@@ -16,6 +16,8 @@ https://www.booktrust.org.uk/booklists/1/
 https://bilingualkidspot.com/
 http://www.magickeys.com/books/
 
+在线阅读
+https://www.churchofjesuschrist.org/study/scriptures?lang=eng
 
 ###４.23
 
@@ -3651,11 +3653,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMDAyNTg0MywtMTg5MDAxNjkyMSw5MT
-U1MjUzNjcsMTMyMjQ5MzcxNCw5NDIzMTY2Niw5NTczMzAyMjgs
-LTE0ODUyMjExMjIsLTEwNTE1Mjk2ODUsLTU5MDY5NDQzOCwtNz
-QxNDkzNTE2LDE2ODM5MzI0NDcsLTEwOTQxNjAzNjMsNDYwNzc1
-MzcyLDIwOTAxNTU1ODQsLTY3MjA0OTIzMywtNjIzOTQ0MTI4LC
-00MDc2NTE3NTMsLTUxNDk4NzkxOSwxNDgxNDA4MDQ3LC0yMDIy
-MDA2ODEyXX0=
+eyJoaXN0b3J5IjpbLTE4NTYzNjY3NTQsLTE4OTAwMTY5MjEsOT
+E1NTI1MzY3LDEzMjI0OTM3MTQsOTQyMzE2NjYsOTU3MzMwMjI4
+LC0xNDg1MjIxMTIyLC0xMDUxNTI5Njg1LC01OTA2OTQ0MzgsLT
+c0MTQ5MzUxNiwxNjgzOTMyNDQ3LC0xMDk0MTYwMzYzLDQ2MDc3
+NTM3MiwyMDkwMTU1NTg0LC02NzIwNDkyMzMsLTYyMzk0NDEyOC
+wtNDA3NjUxNzUzLC01MTQ5ODc5MTksMTQ4MTQwODA0NywtMjAy
+MjAwNjgxMl19
 -->
