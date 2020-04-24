@@ -11,6 +11,7 @@ http://pdfcorner.com/
 
 
 找书
+https://www.barnesandnoble.com/b/kids-books/_/N-8qc
 https://www.booktrust.org.uk/booklists/1/
 https://bilingualkidspot.com/
 http://www.magickeys.com/books/
@@ -3650,11 +3651,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIwMTA5NjY4LC0xODkwMDE2OTIxLDkxNT
-UyNTM2NywxMzIyNDkzNzE0LDk0MjMxNjY2LDk1NzMzMDIyOCwt
-MTQ4NTIyMTEyMiwtMTA1MTUyOTY4NSwtNTkwNjk0NDM4LC03ND
-E0OTM1MTYsMTY4MzkzMjQ0NywtMTA5NDE2MDM2Myw0NjA3NzUz
-NzIsMjA5MDE1NTU4NCwtNjcyMDQ5MjMzLC02MjM5NDQxMjgsLT
-QwNzY1MTc1MywtNTE0OTg3OTE5LDE0ODE0MDgwNDcsLTIwMjIw
-MDY4MTJdfQ==
+eyJoaXN0b3J5IjpbLTgzMDAyNTg0MywtMTg5MDAxNjkyMSw5MT
+U1MjUzNjcsMTMyMjQ5MzcxNCw5NDIzMTY2Niw5NTczMzAyMjgs
+LTE0ODUyMjExMjIsLTEwNTE1Mjk2ODUsLTU5MDY5NDQzOCwtNz
+QxNDkzNTE2LDE2ODM5MzI0NDcsLTEwOTQxNjAzNjMsNDYwNzc1
+MzcyLDIwOTAxNTU1ODQsLTY3MjA0OTIzMywtNjIzOTQ0MTI4LC
+00MDc2NTE3NTMsLTUxNDk4NzkxOSwxNDgxNDA4MDQ3LC0yMDIy
+MDA2ODEyXX0=
 -->
