@@ -1,3 +1,30 @@
+### 4.25
+[awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/tools/vim.txt)
+### CURSOR MOVEMENTS
+- w //字符，符号"@$", "#%^&*()", :"等算成不同的几类,跳过空格
+- W //所有字符符号算一类，空格跳过
+- ge //jump backward to end of words
+
+- ^ //first non-black character of line
+
+- +// enter// move line downwards, non blank character
+
+- -// move line upwards
+
+- ng// :n// go to line n
+
+- ]] //开头是{会调到，其他掠过直接到最后一行
+
+- fx // search line forward for "x"
+- Fx // search line backward for "x"
+
+- tx // search line forward before "x"
+- Tx // search line backward before "x"
+
+### [mark](https://github.com/SpaceVim/SpaceVim/blob/master/docs/documentation.md)
+- [源码](https://github.com/SpaceVim/SpaceVim/blob/master/autoload/SpaceVim/layers/tools.vim)
+
+
 ### 4.24
 https://epdf.pub/
 http://www.pdfdownload.online/
@@ -3663,11 +3690,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNzE5ODY3NiwtMjEwNzQ2OTQxOCwtMT
-g1NjM2Njc1NCwtMTg5MDAxNjkyMSw5MTU1MjUzNjcsMTMyMjQ5
-MzcxNCw5NDIzMTY2Niw5NTczMzAyMjgsLTE0ODUyMjExMjIsLT
-EwNTE1Mjk2ODUsLTU5MDY5NDQzOCwtNzQxNDkzNTE2LDE2ODM5
-MzI0NDcsLTEwOTQxNjAzNjMsNDYwNzc1MzcyLDIwOTAxNTU1OD
-QsLTY3MjA0OTIzMywtNjIzOTQ0MTI4LC00MDc2NTE3NTMsLTUx
-NDk4NzkxOV19
+eyJoaXN0b3J5IjpbLTEyOTM5NTQ0NjQsMTIyNzE5ODY3NiwtMj
+EwNzQ2OTQxOCwtMTg1NjM2Njc1NCwtMTg5MDAxNjkyMSw5MTU1
+MjUzNjcsMTMyMjQ5MzcxNCw5NDIzMTY2Niw5NTczMzAyMjgsLT
+E0ODUyMjExMjIsLTEwNTE1Mjk2ODUsLTU5MDY5NDQzOCwtNzQx
+NDkzNTE2LDE2ODM5MzI0NDcsLTEwOTQxNjAzNjMsNDYwNzc1Mz
+cyLDIwOTAxNTU1ODQsLTY3MjA0OTIzMywtNjIzOTQ0MTI4LC00
+MDc2NTE3NTNdfQ==
 -->
