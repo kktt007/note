@@ -1,3 +1,55 @@
+### 4.27
+- lower 非常好的解释 https://www.computerhope.com/jargon/l/lowercas.htm
+	- Sometimes abbreviated as LC, lowercase is a typeface of small characters. For example, a, b, and c is lowercase and A, B, and C is uppercase. As long as the Shift key is not being pressed and the Caps lock is not active everything typed is in lowercase.
+
+- sequence \ ˈsē-kwən(t)s  符合发音规则kw快速浊化合并
+
+- escape character
+	- https://www.computerhope.com/jargon/e/esc.htm
+	-  Escape is shorthand for an escape character. An escape character is a single backward slash ( \ ) in Linux, programming, and regular expressions that treats the character after it as text and not a function. It can also be used to perform a special function. Below are some examples of how an escape could be used.
+对单词的理解，要建立在实用的基础上
+
+- interpretation
+	- It is difficult for many people to accept a literal interpretation of the Bible.
+
+========================
+vim 在command 模式下粘贴
+https://vim.fandom.com/wiki/Copy,_cut_and_paste
+
+http://vimregex.com/ %作用
+http://vimdoc.sourceforge.net/htmldoc/pattern.html
+https://www.runoob.com/regexp/regexp-syntax.html
+https://yianwillis.github.io/vimcdoc/doc/pattern.html#pattern.txt
+
+
+g/\%(^\1\n\)\@<=\(.*\)$/d
+g/                     /d  <-- Delete the lines matching the regexp
+            \@<=           <-- If the bit following matches, make sure the bit preceding this symbol directly precedes the match
+                \(.*\)$    <-- Match the line into subst register 1
+  \%(     \)               <-- Group without placing in a subst register.
+     ^\1\n                 <-- Match subst register 1 followed the new line between the 2 lines
+
+g/^\(.*\)\n\1$/d
+g/\%(^\1\n\)\@<=\(.*\)$/d
+g/\v%(^\1\n)@<=(.*)$/d
+
+. 任意字符 
+* 0或者任意次
+\n新的一行
+\1 括号内相同的内容
+$末尾 代表结尾以前和之前一样
+/d删除
+
+% the whole file. The same as 1,$
+
+==============
+
+regex
+https://www.computerhope.com/unix/regex-quickref.htm
+https://www.petefreitag.com/cheatsheets/regex/
+https://www.rexegg.com/regex-quickstart.html#chars
+https://vim.fandom.com/wiki/Uniq_-_Removing_duplicate_lines
+http://vimregex.com/
 
 
 ### 4.25
@@ -3692,7 +3744,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MjA5NTQ4NCwtMTI5Mzk1NDQ2NCwxMj
+eyJoaXN0b3J5IjpbLTczMzEwNzI2MSwtMTI5Mzk1NDQ2NCwxMj
 I3MTk4Njc2LC0yMTA3NDY5NDE4LC0xODU2MzY2NzU0LC0xODkw
 MDE2OTIxLDkxNTUyNTM2NywxMzIyNDkzNzE0LDk0MjMxNjY2LD
 k1NzMzMDIyOCwtMTQ4NTIyMTEyMiwtMTA1MTUyOTY4NSwtNTkw
