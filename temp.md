@@ -1,3 +1,5 @@
+
+
 ### 4.27
 - lower 非常好的解释 https://www.computerhope.com/jargon/l/lowercas.htm
 	- Sometimes abbreviated as LC, lowercase is a typeface of small characters. For example, a, b, and c is lowercase and A, B, and C is uppercase. As long as the Shift key is not being pressed and the Caps lock is not active everything typed is in lowercase.
@@ -3744,11 +3746,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMzEwNzI2MSwtMTI5Mzk1NDQ2NCwxMj
-I3MTk4Njc2LC0yMTA3NDY5NDE4LC0xODU2MzY2NzU0LC0xODkw
-MDE2OTIxLDkxNTUyNTM2NywxMzIyNDkzNzE0LDk0MjMxNjY2LD
-k1NzMzMDIyOCwtMTQ4NTIyMTEyMiwtMTA1MTUyOTY4NSwtNTkw
-Njk0NDM4LC03NDE0OTM1MTYsMTY4MzkzMjQ0NywtMTA5NDE2MD
-M2Myw0NjA3NzUzNzIsMjA5MDE1NTU4NCwtNjcyMDQ5MjMzLC02
-MjM5NDQxMjhdfQ==
+eyJoaXN0b3J5IjpbLTI2OTE4NjcxMywtNzMzMTA3MjYxLC0xMj
+kzOTU0NDY0LDEyMjcxOTg2NzYsLTIxMDc0Njk0MTgsLTE4NTYz
+NjY3NTQsLTE4OTAwMTY5MjEsOTE1NTI1MzY3LDEzMjI0OTM3MT
+QsOTQyMzE2NjYsOTU3MzMwMjI4LC0xNDg1MjIxMTIyLC0xMDUx
+NTI5Njg1LC01OTA2OTQ0MzgsLTc0MTQ5MzUxNiwxNjgzOTMyND
+Q3LC0xMDk0MTYwMzYzLDQ2MDc3NTM3MiwyMDkwMTU1NTg0LC02
+NzIwNDkyMzNdfQ==
 -->
