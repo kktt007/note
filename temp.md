@@ -1,3 +1,103 @@
+### 4.28
+## 今天感受到要了解掌握事物，要么从前往后看，演变，这个属于天才方式。另一种就是从后往前看，从具体应用去习得。这属于聪明人。其他方式都是不得法。
+不断的寻找，思考，发现，总有一个句子是创造这个词的时候第一个句子
+[Advanced Google Search Tips for Smarter Searching](https://www.coforge.com/blog/advanced-google-search-tips)
+
+intext:foo
+[english sentences](http://searchsentences.com/words/comprehensive-in-a-sentence)
+[english sentences](http://www.englishcollocation.com/how-to-use/comprehensive)
+https://www.translateen.com/sentence/comprehensive-in-sentence-examples/
+https://www.wordhippo.com/what-is/sentences-with-the-word/comprehensive.html
+https://sentencehouse.com/comprehensive/
+[查单词](https://wordassociations.net/en/words-associated-with/Imply?button=Search)
+[查单词](https://www.englishlearner.com/dictionary/imply)
+
+- fairly 精辟的解释https://www.ldoceonline.com/dictionary/fairly
+  - more than a little, but much less than very
+
+- phonics \ ˈfä-niks 
+
+- [英语惯用语块的习得研究](http://www.wenqujingdian.com/Public/editor/attached/file/20180612/20180612075925_79433.pdf)
+
+自然拼读法phonics
+
+- 隐喻
+隐喻不仅是语言现象，而且是一种思维方式，是人类生存和认知的基本方式之一。它植根于语言、思维和文化中，对我们的行为活动和思维方式有着潜在的影响，这就形成了概念隐喻。
+https://www.hotbak.net/key/%E8%AF%95%E8%AE%BA%E8%8B%B1%E8%AF%AD%E8%AF%8D%E6%B1%87%E4%B8%AD%E7%9A%84%E6%A6%82%E5%BF%B5%E9%9A%90%E5%96%BB%E6%80%8E%E6%A0%B7%E8%83%8C%E5%8D%95%E8%AF%8D.html
+
+- thousands of young men came forward, willing to defend their country.
+
+- [每次一个英语学习](https://language.chinadaily.com.cn/a/201912/11/WS5df0b2c9a310cf3e3557d82c.html)
+
+
+post‧script /ˈpəʊsˌskrɪpt $ ˈpoʊs-/ noun [countable] (written abbreviation PS)
+
+- imminent \ ˈi-mə-nənt 
+  - Soon it became clear to everyone that war was imminent.
+
+- about to
+  - https://www.gymglish.com/en/gymglish/english-grammar/be-about-to
+  - https://www.talkenglish.com/lessondetails.aspx?ALID=2018
+
+- implication \ ˌim-plə-ˈkā-shən
+  - a possible effect or result of an action or a dcision.
+  - They failed to consider the wider implications of their actions.
+
+- survey
+  - a recent survey showed that 58 percent of people did not know where their heart is.
+
+
+- surveyor
+  - a person whose job is to measure and record the details of a reas of land.
+
+
+- proposal
+  - the committee put forward a proposal to reduce the time limit.
+
+
+- imply //express or state indirectly.
+  - to communicate an idea or feeling without saying it directly.
+  - Are you implying (that) i'm fat?
+
+- sense
+  - an understanding about sth; an ability to judge sth.
+  - He has a very good sense of direction.
+
+- possess /pəˈzes/
+  - to haev or own sth
+  - He was charged with possessing a shotgun withoug a licence.
+  - I'm afraid he doesn't possess a sense of humour.
+
+- conscious
+  - noticing or relizing sth. aware of wth
+  - i was very conscious of the fact that I had to make a good impression.
+  - aware
+    - Knowing that sth exists, or having knowledge or experience of a particular thing.
+
+- sense
+  - https://www.englishlearner.com/dictionary/search.php?w=sense
+    - make sense of something.
+      - to understand wth, especially something difficult or complicated.
+      - Can u make any sense of this article?
+
+- apprehend \ ˌa-pri-ˈhend
+  - to catch and arrest someone who has not obeyed the law
+  - The police have finally apprehanded the killer.
+
+
+- interpret \ in-ˈtər-prət
+  -  to translate what someone is saying in one language into another language so that someone else can understand it
+
+  - I speak Spanish. Would you like me to interpret for you?
+  - to decide what the intended meaning of something is.
+  - He interpreted her comments as an implicit criticism of the government.
+
+- promise \ ˈprä-məs
+  - We promised we wouldn't be late.
+
+- intend
+  - We intend to go to Australia next year.
+
 
 
 ### 4.27
@@ -3746,11 +3846,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2OTE4NjcxMywtNzMzMTA3MjYxLC0xMj
-kzOTU0NDY0LDEyMjcxOTg2NzYsLTIxMDc0Njk0MTgsLTE4NTYz
-NjY3NTQsLTE4OTAwMTY5MjEsOTE1NTI1MzY3LDEzMjI0OTM3MT
-QsOTQyMzE2NjYsOTU3MzMwMjI4LC0xNDg1MjIxMTIyLC0xMDUx
-NTI5Njg1LC01OTA2OTQ0MzgsLTc0MTQ5MzUxNiwxNjgzOTMyND
-Q3LC0xMDk0MTYwMzYzLDQ2MDc3NTM3MiwyMDkwMTU1NTg0LC02
-NzIwNDkyMzNdfQ==
+eyJoaXN0b3J5IjpbNTc0MTIxNDA1LC03MzMxMDcyNjEsLTEyOT
+M5NTQ0NjQsMTIyNzE5ODY3NiwtMjEwNzQ2OTQxOCwtMTg1NjM2
+Njc1NCwtMTg5MDAxNjkyMSw5MTU1MjUzNjcsMTMyMjQ5MzcxNC
+w5NDIzMTY2Niw5NTczMzAyMjgsLTE0ODUyMjExMjIsLTEwNTE1
+Mjk2ODUsLTU5MDY5NDQzOCwtNzQxNDkzNTE2LDE2ODM5MzI0ND
+csLTEwOTQxNjAzNjMsNDYwNzc1MzcyLDIwOTAxNTU1ODQsLTY3
+MjA0OTIzM119
 -->
