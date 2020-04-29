@@ -1,17 +1,74 @@
 ### 4.29
 https://www.ibm.com/developerworks/cn/linux/l-vim-script-5/index.html
 
+```
+[options]
+    # set spacevim theme. by default colorscheme layer is not loaded,
+    # if you want to use more colorscheme, please load the colorscheme
+    # layer
+    colorscheme = "gruvbox"
+    colorscheme_bg = "dark"
+    # Disable guicolors in basic mode, many terminal do not support 24bit
+    # true colors
+    enable_guicolors = true
+    guifont = "MesloLGMDZ NF:h12"
+    # Disable statusline separator, if you want to use other value, please
+    # install nerd fonts
+    statusline_separator = "arrow"
+    statusline_inactive_separator = "bar"
+    buffer_index_type = 4
+    windows_index_type = 3
+    enable_tabline_filetype_icon = true
+    enable_statusline_mode = true
+    statusline_unicode_symbols = false
+    # Enable vim compatible mode, avoid changing origin vim key bindings
+    vimcompatible = false
+    bootstrap_before = "myspacevim#before"
+    bootstrap_after  = "myspacevim#after"
+
+# Enable autocomplete layer
+[[layers]]
+name = 'autocomplete'
+auto-completion-return-key-behavior = "complete"
+auto-completion-tab-key-behavior = "cycle"
+auto_completion_enable_snippets_in_popup = false
+
+[[layers]]
+name = 'shell'
+default_position = 'top'
+default_height = 30
+
+[[layers]]
+  name = "denite"
+
+[[layers]]
+  name = "tools"
+  
+[[layers]]
+  name = "VersionControl"
+
+[[layers]]
+  name = "git"
+  
+[[layers]]
+  name = "lang#sh"
+
+[[layers]]
+  name = "lang#markdown"
+```
+
 spacevim.vim
 ```
 function!  myspacevim#before() abort
   let g:spacevim_default_indent = 4
-#  let colorcolumn = 79 某列专门设置颜色
   let g:spacevim_max_column = 79
   au FileType markdown setlocal wrap
   au FileType  json setlocal shiftwidth=2 softtabstop=2
   au FileType html setlocal shiftwidth=2 softtabstop=2
+# 注释不能放里面
 #  au is short for autocmd，设置文件类型不能放一起
 endfunction
+
 
 function!  myspacevim#after() abort
 
@@ -4051,11 +4108,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDQzODI2NjAsMTU4MTQyODY4MywtNT
-Q4MTA1NDEzLC0xODY1MzAxMjM5LDc3NTc5NDE0MCwtMTA0OTAw
-NTg1MywtNzY0MjMwNDMyLDY3ODY0MjE5MCw1NzQxMjE0MDUsLT
-czMzEwNzI2MSwtMTI5Mzk1NDQ2NCwxMjI3MTk4Njc2LC0yMTA3
-NDY5NDE4LC0xODU2MzY2NzU0LC0xODkwMDE2OTIxLDkxNTUyNT
-M2NywxMzIyNDkzNzE0LDk0MjMxNjY2LDk1NzMzMDIyOCwtMTQ4
-NTIyMTEyMl19
+eyJoaXN0b3J5IjpbLTYxMDEzNjgwOCwtMTQwNDM4MjY2MCwxNT
+gxNDI4NjgzLC01NDgxMDU0MTMsLTE4NjUzMDEyMzksNzc1Nzk0
+MTQwLC0xMDQ5MDA1ODUzLC03NjQyMzA0MzIsNjc4NjQyMTkwLD
+U3NDEyMTQwNSwtNzMzMTA3MjYxLC0xMjkzOTU0NDY0LDEyMjcx
+OTg2NzYsLTIxMDc0Njk0MTgsLTE4NTYzNjY3NTQsLTE4OTAwMT
+Y5MjEsOTE1NTI1MzY3LDEzMjI0OTM3MTQsOTQyMzE2NjYsOTU3
+MzMwMjI4XX0=
 -->
