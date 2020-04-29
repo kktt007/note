@@ -1,6 +1,152 @@
 ### 4.29
 单词搜索，这个绝了 https://onelook.com/?loc=olthes1&w=capitalization
+```
+**General**
 
+ (36 matching dictionaries)
+
+1. [apple](https://www.merriam-webster.com/dictionary/apple): Merriam-Webster.com [[home](https://www.merriam-webster.com/), [info](https://www.onelook.com/?d=mwd&qs=apple)] 
+2. [apple](http://www.oxforddictionaries.com/us/definition/american_english/apple): Oxford Dictionaries [[home](http://www.oxforddictionaries.com/us), [info](https://www.onelook.com/?d=oxf&qs=apple)] 
+3. [apple](https://www.ahdictionary.com/word/search.html?q=apple): American Heritage Dictionary of the English Language [[home](https://www.ahdictionary.com/), [info](https://www.onelook.com/?d=ahd&qs=apple)] 
+4. [apple](http://www.collinsdictionary.com/dictionary/english/apple): Collins English Dictionary [[home](http://www.collinsdictionary.com), [info](https://www.onelook.com/?d=cln&qs=apple)] 
+5. [apple](http://www.vocabulary.com/definition/apple): Vocabulary.com [[home](http://www.vocabulary.com), [info](https://www.onelook.com/?d=vcb&qs=apple)] 
+6. [apple](http://www.macmillandictionary.com/dictionary/american/apple): Macmillan Dictionary [[home](http://www.macmillandictionary.com/), [info](https://www.onelook.com/?d=mac&qs=apple)] 
+7. [Apple](http://www.wordnik.com/words/Appleâ), [Apple](http://www.wordnik.com/words/Apple), [apple](http://www.wordnik.com/words/apple): Wordnik [[home](http://www.wordnik.com/), [info](https://www.onelook.com/?d=rdn&qs=apple)] 
+8. [apple](http://dictionary.cambridge.org/dictionary/british/apple): Cambridge Advanced Learner's Dictionary [[home](http://dictionary.cambridge.org/), [info](https://www.onelook.com/?d=cie&qs=apple)] 
+9. [Apple](http://www.infovisual.info/01/033_en.html): InfoVisual Visual Dictionary [[home](http://www.infovisual.info/), [info](https://www.onelook.com/?d=ivz&qs=apple)] 
+10. [Apple](http://en.wiktionary.org/wiki/Apple), [apple](http://en.wiktionary.org/wiki/apple): Wiktionary [[home](http://www.wikipedia.org), [info](https://www.onelook.com/?d=wkt&qs=apple)] 
+11. [apple](http://www.yourdictionary.com/apple): Webster's New World College Dictionary, 4th Ed. [[home](http://www.yourdictionary.com/), [info](https://www.onelook.com/?d=yda&qs=apple)] 
+12. [apple](http://www.wordsmyth.net/live/home.php?script=search&matchent=apple&matchtype=exact): The Wordsmyth English Dictionary-Thesaurus [[home](http://www.wordsmyth.net/), [info](https://www.onelook.com/?d=wed&qs=apple)] 
+13. [apple](http://dictionary.infoplease.com/apple): Infoplease Dictionary [[home](http://www.infoplease.com/dictionary.html), [info](https://www.onelook.com/?d=ipd&qs=apple)] 
+14. [Apple](http://dictionary.reference.com/search?q=Apple), [apple](http://dictionary.reference.com/search?q=apple): Dictionary.com [[home](http://www.dictionary.com/), [info](https://www.onelook.com/?d=ict&qs=apple)] 
+15. [apple](http://www.etymonline.com/index.php?term=apple): Online Etymology Dictionary [[home](http://www.etymonline.com/), [info](https://www.onelook.com/?d=ety&qs=apple)] 
+16. [Apple](http://www.ultralingua.net/index.html?service=ee&text=), [apple](http://www.ultralingua.net/index.html?service=ee&text=): UltraLingua English Dictionary [[home](http://www.ultralingua.net), [info](https://www.onelook.com/?d=ult&qs=apple)] 
+17. [apple](http://dictionary.cambridge.org/results.asp?dict=A&searchword=apple): Cambridge Dictionary of American English [[home](http://dictionary.cambridge.org/), [info](https://www.onelook.com/?d=cim&qs=apple)] 
+18. [apple](http://dictionary.cambridge.org/results.asp?searchword=apple&dict=I): Cambridge International Dictionary of Idioms [[home](http://dictionary.cambridge.org/), [info](https://www.onelook.com/?d=cii&qs=apple)] 
+19. [APPLE](https://en.wikipedia.org/wiki/APPLE), [Apple (Fruit)](https://en.wikipedia.org/wiki/Apple (Fruit)), [Apple (album)](https://en.wikipedia.org/wiki/Apple (album)), [Apple (artwork)](https://en.wikipedia.org/wiki/Apple (artwork)), [Apple (automobile)](https://en.wikipedia.org/wiki/Apple (automobile)), [Apple (band)](https://en.wikipedia.org/wiki/Apple (band)), [Apple (company)](https://en.wikipedia.org/wiki/Apple (company)), [Apple (disambiguation)](https://en.wikipedia.org/wiki/Apple (disambiguation)), [Apple (fruit)](https://en.wikipedia.org/wiki/Apple (fruit)), [Apple (name)](https://en.wikipedia.org/wiki/Apple (name)), [Apple (symbolism)](https://en.wikipedia.org/wiki/Apple (symbolism)), [Apple (system on chip)](https://en.wikipedia.org/wiki/Apple (system on chip)), [Apple (technology company)](https://en.wikipedia.org/wiki/Apple (technology company)), [Apple](https://en.wikipedia.org/wiki/Apple), [The Apple (TOS episode)](https://en.wikipedia.org/wiki/The Apple (TOS episode)): Wikipedia, the Free Encyclopedia [[home](https://www.wikipedia.org), [info](https://www.onelook.com/?d=wik&qs=apple)] 
+20. [Apple](http://www.onelook.com/?other=web1913&w=Apple): Online Plain Text English Dictionary [[home](http://www.mso.anu.edu.au/~ralph/OPTED/), [info](https://www.onelook.com/?d=anu&qs=apple)] 
+21. [apple](http://www.webster-dictionary.org/definition/apple): Webster's Revised Unabridged, 1913 Edition [[home](http://www.webster-dictionary.org), [info](https://www.onelook.com/?d=art&qs=apple)] 
+22. [apple](http://www.rhymezone.com/r/rhyme.cgi?Word=apple): Rhymezone [[home](http://www.rhymezone.com/), [info](https://www.onelook.com/?d=rhy&qs=apple)] 
+23. [apple](http://www.allwords.com/query.php?SearchType=3&Keyword=apple&goquery=Find+it!&Language=ENG): AllWords.com Multi-Lingual Dictionary [[home](http://www.allwords.com/), [info](https://www.onelook.com/?d=all&qs=apple)] 
+24. [apple](http://webstersdictionary1828.com/Dictionary/apple): Webster's 1828 Dictionary [[home](http://webstersdictionary1828.com/), [info](https://www.onelook.com/?d=smo&qs=apple)] 
+25. [Apple](http://www.bibliomania.com/2/3/174/1111/15785/1.html#A613): E Cobham Brewer, The Reader's Handbook [[home](http://www.bibliomania.com/Reference/Readers/), [info](https://www.onelook.com/?d=bli&qs=apple)] 
+26. [Apple](http://www.bartleby.com/81/823.html): Dictionary of Phrase and Fable (1898) [[home](http://www.bartleby.com/81/), [info](https://www.onelook.com/?d=dpf&qs=apple)] 
+27. [Apple](http://encarta.msn.com/encnet/refpages/RefArticle.aspx?refid=761574393): Encarta® Online Encyclopedia, North American Edition [[home](http://encarta.msn.com/encnet/refpages/artcenter.aspx), [info](https://www.onelook.com/?d=eca&qs=apple)] 
+28. [Apple](http://www.1911encyclopedia.org/Apple): 1911 edition of the Encyclopedia Britannica  [[home](http://1911encyclopedia.org/index.htm), [info](https://www.onelook.com/?d=enc&qs=apple)] 
+29. [apple](http://www.freedictionary.org/?Query=apple): Free Dictionary [[home](http://www.freedictionary.org), [info](https://www.onelook.com/?d=fdn&qs=apple)] 
+30. [apple](http://www.mnemonicdictionary.com/word/apple): Mnemonic Dictionary [[home](http://www.mnemonicdictionary.com/), [info](https://www.onelook.com/?d=mne&qs=apple)] 
+31. [apple](http://poets.notredame.ac.jp/cgi-bin/wn?cmd=wn&word=apple): WordNet 1.7 Vocabulary Helper [[home](http://poets.notredame.ac.jp/cgi-bin/wn), [info](https://www.onelook.com/?d=ntr&qs=apple)] 
+32. [Apple](http://lookwayup.com/lwu.exe/lwu/d?s=f&w=Apple), [apple](http://lookwayup.com/lwu.exe/lwu/d?s=f&w=apple): LookWAYup Translating Dictionary/Thesaurus [[home](http://lookwayup.com/free), [info](https://www.onelook.com/?d=ook&qs=apple)] 
+33. [apple](http://www.thefreedictionary.com/apple): Dictionary/thesaurus [[home](http://www.thefreedictionary.com/), [info](https://www.onelook.com/?d=tfd&qs=apple)] 
+34. [apple](http://www.onelook.com/pronounce/En-us-apple.WAV): Wikimedia Commons US English Pronunciations [[home](http://commons.wikimedia.org/wiki/Category:English_pronunciation), [info](https://www.onelook.com/?d=wms&qs=apple)] 
+
+
+
+
+
+**Art**
+
+ (5 matching dictionaries)
+
+1. [apple](http://whatscookingamerica.net/Glossary/A.htm): Linda's Culinary Dictionary [[home](http://whatscookingamerica.net/Glossary/GlossaryIndex2.htm), [info](https://www.onelook.com/?d=ats&qs=apple)] 
+2. [apple](http://www.epicurus.com/Glossary/spanish/glossary.php?&page=6&letter=a): Epicurus.com Spanish Glossary [[home](http://www.epicurus.com/Glossary/), [info](https://www.onelook.com/?d=cua&qs=apple)] 
+3. The Apple: Jazz Humor [[home](http://www.allaboutjazz.com/speak.htm), [info](https://www.onelook.com/?d=lla&qs=apple)] 
+4. [Apple](http://homepages.tscnet.com/omard1/a.htm#apple): Natural Magick  [[home](http://homepages.tscnet.com/omard1/jportat5.html), [info](https://www.onelook.com/?d=tsc&qs=apple)] 
+5. [Apple](http://www.umich.edu/~umfandsf/symbolismproject/symbolism.html/A/apple.html): Dictionary of Symbolism [[home](http://www.umich.edu/~umfandsf/symbolismproject/symbolism.html/), [info](https://www.onelook.com/?d=umi&qs=apple)] 
+
+
+
+
+
+**Business**
+
+ (1 matching dictionary)
+
+1. [APPLE](http://www.rma.usda.gov/help/cropabbr.html): Glossary of Crop Abbreviations [[home](http://www.rma.usda.gov/help/cropabbr.html), [info](https://www.onelook.com/?d=gca&qs=apple)] 
+
+
+
+
+
+**Computing**
+
+ (6 matching dictionaries)
+
+1. [APPLE](http://foldoc.org//APPLE): Free On-line Dictionary of Computing [[home](http://foldoc.org/), [info](https://www.onelook.com/?d=fol&qs=apple)] 
+2. [Apple](http://www.netlingo.com/dictionary/a.php): Netlingo [[home](http://www.netlingo.com/dictionary/a.php), [info](https://www.onelook.com/?d=net&qs=apple)] 
+3. [Apple](http://www.csgnetwork.com/glossarya.html#Apple): Computer Telephony & Electronics Dictionary and Glossary [[home](http://www.csgnetwork.com/glossary.html), [info](https://www.onelook.com/?d=csg&qs=apple)] 
+4. [Apple](http://www.techterms.com/definition/apple): Tech Terms Computer Dictionary [[home](http://www.techterms.com/), [info](https://www.onelook.com/?d=ech&qs=apple)] 
+5. [Apple](http://www.learnthenet.com/french/glossary/apple.htm): Internet Terms [[home](http://www.learnthenet.com/english/index.html), [info](https://www.onelook.com/?d=leb&qs=apple)] 
+6. [Apple (Computers)](http://encyclopedia2.thefreedictionary.com/Apple+(Computers)), [Apple (company)](http://encyclopedia2.thefreedictionary.com/Apple+(company)), [Apple (computer)](http://encyclopedia2.thefreedictionary.com/Apple+(computer)), [Apple (fruit)](http://encyclopedia2.thefreedictionary.com/Apple+(fruit)), [Apple (tree)](http://encyclopedia2.thefreedictionary.com/Apple+(tree)), [Apple ///](http://encyclopedia2.thefreedictionary.com/Apple+%2f%2f%2f), [apple](http://encyclopedia2.thefreedictionary.com/apple): Encyclopedia [[home](http://www.thefreedictionary.com/), [info](https://www.onelook.com/?d=tfe&qs=apple)] 
+
+
+
+
+
+**Medicine**
+
+ (2 matching dictionaries)
+
+1. [APPLE](http://www.mondofacto.com/facts/dictionary?APPLE), [apple](http://www.mondofacto.com/facts/dictionary?apple): online medical dictionary [[home](http://www.mondofacto.com/dictionary/), [info](https://www.onelook.com/?d=dof&qs=apple)] 
+2. [Apple (fruit)](http://medical-dictionary.thefreedictionary.com/Apple+(fruit)), [Apple (tree)](http://medical-dictionary.thefreedictionary.com/Apple+(tree)), [apple](http://medical-dictionary.thefreedictionary.com/apple): Medical dictionary [[home](http://www.thefreedictionary.com/), [info](https://www.onelook.com/?d=tff&qs=apple)] 
+
+
+
+
+
+**Miscellaneous**
+
+ (5 matching dictionaries)
+
+1. APPLE: Navajo Code Talkers' Dictionary [[home](http://www.history.navy.mil/faqs/faq61-4.htm), [info](https://www.onelook.com/?d=ist&qs=apple)] 
+2. [Apple](http://www.barnonedrinks.com/tips/dictionary/a/apple-128.html): Bar-Nones Dictionary of Drinking [[home](http://www.barnonedrinks.com/tips/dictionary/), [info](https://www.onelook.com/?d=arn&qs=apple)] 
+3. [APPLE](http://www.acronymfinder.com/af-query.asp?Acronym=APPLE&String=exact&p=ol): Acronym Finder [[home](http://www.AcronymFinder.com/), [info](https://www.onelook.com/?d=mtn&qs=apple)] 
+4. [APPLE](http://www.abbreviations.com/bs.asp?st=APPLE): AbbreviationZ [[home](http://www.abbreviations.com), [info](https://www.onelook.com/?d=tan&qs=apple)] 
+5. [apple](http://idioms.thefreedictionary.com/apple): Idioms [[home](http://www.thefreedictionary.com/), [info](https://www.onelook.com/?d=tfj&qs=apple)] 
+
+
+
+
+
+**Religion**
+
+ (1 matching dictionary)
+
+1. [Apple](http://www.ccel.org/ccel/easton/ebd2.html?term=Apple): Easton Bible [[home](http://www.ccel.org/ccel/easton/ebd2.EBD.html), [info](https://www.onelook.com/?d=eas&qs=apple)] 
+
+
+
+
+
+**Science**
+
+ (3 matching dictionaries)
+
+1. [Apple](http://www.backyardgardener.com/plantname/pda_b01a.html): Botanical Name listing of Plants [[home](http://www.backyardgardener.com/plantname/index.html), [info](https://www.onelook.com/?d=ack&qs=apple)] 
+2. [Apple (Bitter)](http://www.botanical.com/botanical/mgmh/a/apple046.html), [Apple](http://www.botanical.com/botanical/mgmh/a/apple044.html): A Modern Herbal, 1931, by Mrs. M. Grieve [[home](http://www.botanical.com/botanical/mgmh/comindx.html), [info](https://www.onelook.com/?d=bot&qs=apple)] 
+3. [Apple](http://mathworld.wolfram.com/Apple.html): Eric Weisstein's World of Mathematics [[home](http://mathworld.wolfram.com/), [info](https://www.onelook.com/?d=ewm&qs=apple)] 
+
+
+
+
+
+**Slang**
+
+ (2 matching dictionaries)
+
+1. [apple (core)](http://www.peevish.co.uk/slang/a.htm): English slang and colloquialisms used in the United Kingdom [[home](http://www.peevish.co.uk/slang/), [info](https://www.onelook.com/?d=pee&qs=apple)] 
+2. [A.P.P.L.E](http://www.urbandictionary.com/define.php?term=A.P.P.L.E.), [apple](http://www.urbandictionary.com/define.php?term=apple ), [apple (core)](http://www.urbandictionary.com/define.php?term=apple (core)): Urban Dictionary [[home](http://www.urbandictionary.com), [info](https://www.onelook.com/?d=urb&qs=apple)] 
+
+
+
+
+
+**Sports**
+
+ (1 matching dictionary)
+
+1. Apple: Croquet [[home](http://laplaza.org/~teddis/glossary.html), [info](https://www.onelook.com/?d=cro&qs=apple)] 
+```
 
 ---------实修书籍---------
 不少修行者，希望向我寻一个正法的‘入手处’。
@@ -3878,11 +4024,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NDIzMDQzMiw2Nzg2NDIxOTAsNTc0MT
-IxNDA1LC03MzMxMDcyNjEsLTEyOTM5NTQ0NjQsMTIyNzE5ODY3
-NiwtMjEwNzQ2OTQxOCwtMTg1NjM2Njc1NCwtMTg5MDAxNjkyMS
-w5MTU1MjUzNjcsMTMyMjQ5MzcxNCw5NDIzMTY2Niw5NTczMzAy
-MjgsLTE0ODUyMjExMjIsLTEwNTE1Mjk2ODUsLTU5MDY5NDQzOC
-wtNzQxNDkzNTE2LDE2ODM5MzI0NDcsLTEwOTQxNjAzNjMsNDYw
-Nzc1MzcyXX0=
+eyJoaXN0b3J5IjpbLTEwNDkwMDU4NTMsLTc2NDIzMDQzMiw2Nz
+g2NDIxOTAsNTc0MTIxNDA1LC03MzMxMDcyNjEsLTEyOTM5NTQ0
+NjQsMTIyNzE5ODY3NiwtMjEwNzQ2OTQxOCwtMTg1NjM2Njc1NC
+wtMTg5MDAxNjkyMSw5MTU1MjUzNjcsMTMyMjQ5MzcxNCw5NDIz
+MTY2Niw5NTczMzAyMjgsLTE0ODUyMjExMjIsLTEwNTE1Mjk2OD
+UsLTU5MDY5NDQzOCwtNzQxNDkzNTE2LDE2ODM5MzI0NDcsLTEw
+OTQxNjAzNjNdfQ==
 -->
