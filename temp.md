@@ -4,7 +4,8 @@ spacevim.vim
 ```
 function!  myspacevim#before() abort
   let g:spacevim_default_indent = 4
-  let colorcolumn = 79
+#  let colorcolumn = 79 某列专门设置颜色
+  let g:spacevim_max_column = 79
   au FileType markdown setlocal wrap
   au FileType  json setlocal shiftwidth=2 softtabstop=2
   au FileType html setlocal shiftwidth=2 softtabstop=2
@@ -4049,11 +4050,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0ODEwNTQxMywtMTg2NTMwMTIzOSw3Nz
-U3OTQxNDAsLTEwNDkwMDU4NTMsLTc2NDIzMDQzMiw2Nzg2NDIx
-OTAsNTc0MTIxNDA1LC03MzMxMDcyNjEsLTEyOTM5NTQ0NjQsMT
-IyNzE5ODY3NiwtMjEwNzQ2OTQxOCwtMTg1NjM2Njc1NCwtMTg5
-MDAxNjkyMSw5MTU1MjUzNjcsMTMyMjQ5MzcxNCw5NDIzMTY2Ni
-w5NTczMzAyMjgsLTE0ODUyMjExMjIsLTEwNTE1Mjk2ODUsLTU5
-MDY5NDQzOF19
+eyJoaXN0b3J5IjpbMTU4MTQyODY4MywtNTQ4MTA1NDEzLC0xOD
+Y1MzAxMjM5LDc3NTc5NDE0MCwtMTA0OTAwNTg1MywtNzY0MjMw
+NDMyLDY3ODY0MjE5MCw1NzQxMjE0MDUsLTczMzEwNzI2MSwtMT
+I5Mzk1NDQ2NCwxMjI3MTk4Njc2LC0yMTA3NDY5NDE4LC0xODU2
+MzY2NzU0LC0xODkwMDE2OTIxLDkxNTUyNTM2NywxMzIyNDkzNz
+E0LDk0MjMxNjY2LDk1NzMzMDIyOCwtMTQ4NTIyMTEyMiwtMTA1
+MTUyOTY4NV19
 -->
