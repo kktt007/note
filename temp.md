@@ -1,18 +1,30 @@
 ### 4.29
-哈哈哈哈哈，我呢确实过去一个月，孤独许久，思索很多，包括如下诗句:
-1.
-身是菩提树，心如明镜台；
-
-时时勤拂拭，勿使惹尘埃。
-一直以为神秀的大家都忽略了，我们正常人就是要做这个的，我每天很少吃肉，经常反省，学习新东西，其实，神秀说的没问题，我也不懂历史上的分针，杀戮，毕竟现在知道的事，不知道真假，也不重要。
-
-2.
-菩提本无树，明镜亦非台；
-
-本来无一物，何处惹尘埃。
-从接触的时候就是这个了，一直觉的这是对的，后来在现实中才明白，这个是 最真的我，上面神秀的诗是这个之上，在现实中要做的，道理没有高低可比的。不知为何，都觉得这个好而忽略神秀...
-
-很高兴看到这篇，对自己也明白了点，感谢那些书，感谢这些话语，原来这世界我不是一个人，当然我是一个人走出来的，现在知道不是一个人，这就是必经之路吧。哈哈哈哈哈
+---------实修书籍---------
+不少修行者，希望向我寻一个正法的‘入手处’。
+最早的佛经道典，由于时代久远，以及文字与文化上的隔阂，很难让人读懂。
+这里，推荐几本现代修行的正法书籍，跟这些书看下来，见地就会十分纯正，走不偏。
+《当下的力量》埃克哈特·托尔
+《与神对话1、2、3》尼尔·唐纳德·沃尔什
+《山居性纪》吴光磊——性是种子，禅是花开（只看开头就误以为黄书，不多想想，中央编译出版社，会出黄书吗？：）
+《深入浅出说心经》释戒悲——天涯论坛
+巴夏视频系列——可在土豆网搜索关键字‘bashar’或是‘巴夏’，寻找你需要的短视频进行观看，可忽略外星人的部分，只看意识转化的部分。
+《新世界——灵性的觉醒》埃克哈特·托尔
+你结合上面推荐的资料，再去看下面的古典资料，一切都会变得简单易懂，无需任何翻译：
+《心经》
+《金刚经》
+《清净经》
+《道德经》
+《马太福音》、《马可福音》、《路加福音》、《约翰福音》——不要去看《圣经》，这四本福音书就已经足够
+《六祖坛经》
+最后，给各位推荐一个读经的正确方法。
+名为‘心读法’，需用感应而不是思辨。
+没有古文功底，也不要去买那些翻译或是诠释的版本来看，这些版本的作者基本毫无见地，修行者看这些诠释，有害无益。
+你只需一遍又一遍，反复的看原始版本便可。
+看不懂就看不懂，看完了放一边，不要背诵。
+隔一段时间，再重新拿起看一遍，每次你都会有截然不同的体会。
+随着修行的进步，对生活体悟的增加，你每次看懂的东西也会更多一些。
+唯有这样，你才能越过文字的表相，直接读取到文字背后的真实感悟。
+这，才是正确的读经方法
 
 
 ### 4.28
@@ -3863,11 +3875,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTc2ODMzOTQsNTc0MTIxNDA1LC03Mz
-MxMDcyNjEsLTEyOTM5NTQ0NjQsMTIyNzE5ODY3NiwtMjEwNzQ2
-OTQxOCwtMTg1NjM2Njc1NCwtMTg5MDAxNjkyMSw5MTU1MjUzNj
-csMTMyMjQ5MzcxNCw5NDIzMTY2Niw5NTczMzAyMjgsLTE0ODUy
-MjExMjIsLTEwNTE1Mjk2ODUsLTU5MDY5NDQzOCwtNzQxNDkzNT
-E2LDE2ODM5MzI0NDcsLTEwOTQxNjAzNjMsNDYwNzc1MzcyLDIw
-OTAxNTU1ODRdfQ==
+eyJoaXN0b3J5IjpbNjc4NjQyMTkwLDU3NDEyMTQwNSwtNzMzMT
+A3MjYxLC0xMjkzOTU0NDY0LDEyMjcxOTg2NzYsLTIxMDc0Njk0
+MTgsLTE4NTYzNjY3NTQsLTE4OTAwMTY5MjEsOTE1NTI1MzY3LD
+EzMjI0OTM3MTQsOTQyMzE2NjYsOTU3MzMwMjI4LC0xNDg1MjIx
+MTIyLC0xMDUxNTI5Njg1LC01OTA2OTQ0MzgsLTc0MTQ5MzUxNi
+wxNjgzOTMyNDQ3LC0xMDk0MTYwMzYzLDQ2MDc3NTM3MiwyMDkw
+MTU1NTg0XX0=
 -->
