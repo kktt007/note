@@ -1,8 +1,11 @@
 ### 4.29
 
 [cn下md慢慢看](https://github.com/SpaceVim/SpaceVim/tree/master/docs/cn)
+
 https://github.com/SpaceVim/SpaceVim/blob/master/docs/conventions.md
+
 https://gowa.club/Vim/ultisnips%E7%9A%84readme%E6%96%87%E6%A1%A3%E4%B8%AD%E6%96%87.html
+
 https://www.webdictionary.co.uk/words/capitalization
 
 单词搜索，这个绝了 https://onelook.com/?loc=olthes1&w=capitalization
@@ -4030,7 +4033,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjEwNzU1OTMsNzc1Nzk0MTQwLC0xMD
+eyJoaXN0b3J5IjpbLTE4NjUzMDEyMzksNzc1Nzk0MTQwLC0xMD
 Q5MDA1ODUzLC03NjQyMzA0MzIsNjc4NjQyMTkwLDU3NDEyMTQw
 NSwtNzMzMTA3MjYxLC0xMjkzOTU0NDY0LDEyMjcxOTg2NzYsLT
 IxMDc0Njk0MTgsLTE4NTYzNjY3NTQsLTE4OTAwMTY5MjEsOTE1
