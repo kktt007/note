@@ -1,5 +1,20 @@
 ### 4.29
 
+spacevim.vim
+```
+function!  myspacevim#before() abort
+  let g:spacevim_default_indent = 4
+  let colorcolumn = 79
+  au FileType markdown setlocal wrap
+  au FileType  json setlocal shiftwidth=2 softtabstop=2
+  au FileType html setlocal shiftwidth=2 softtabstop=2
+#  au is short for autocmd，设置文件类型不能放一起
+endfunction
+
+function!  myspacevim#after() abort
+
+endfunction
+```
 
 [cn下md慢慢看](https://github.com/SpaceVim/SpaceVim/tree/master/docs/cn)
 
@@ -4034,7 +4049,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5Nzg0OTk1NywtMTg2NTMwMTIzOSw3Nz
+eyJoaXN0b3J5IjpbLTU0ODEwNTQxMywtMTg2NTMwMTIzOSw3Nz
 U3OTQxNDAsLTEwNDkwMDU4NTMsLTc2NDIzMDQzMiw2Nzg2NDIx
 OTAsNTc0MTIxNDA1LC03MzMxMDcyNjEsLTEyOTM5NTQ0NjQsMT
 IyNzE5ODY3NiwtMjEwNzQ2OTQxOCwtMTg1NjM2Njc1NCwtMTg5
