@@ -1,4 +1,7 @@
 ### 4.29
+单词搜索，这个绝了 https://onelook.com/?loc=olthes1&w=capitalization
+
+
 ---------实修书籍---------
 不少修行者，希望向我寻一个正法的‘入手处’。
 最早的佛经道典，由于时代久远，以及文字与文化上的隔阂，很难让人读懂。
@@ -3875,11 +3878,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc4NjQyMTkwLDU3NDEyMTQwNSwtNzMzMT
-A3MjYxLC0xMjkzOTU0NDY0LDEyMjcxOTg2NzYsLTIxMDc0Njk0
-MTgsLTE4NTYzNjY3NTQsLTE4OTAwMTY5MjEsOTE1NTI1MzY3LD
-EzMjI0OTM3MTQsOTQyMzE2NjYsOTU3MzMwMjI4LC0xNDg1MjIx
-MTIyLC0xMDUxNTI5Njg1LC01OTA2OTQ0MzgsLTc0MTQ5MzUxNi
-wxNjgzOTMyNDQ3LC0xMDk0MTYwMzYzLDQ2MDc3NTM3MiwyMDkw
-MTU1NTg0XX0=
+eyJoaXN0b3J5IjpbLTc2NDIzMDQzMiw2Nzg2NDIxOTAsNTc0MT
+IxNDA1LC03MzMxMDcyNjEsLTEyOTM5NTQ0NjQsMTIyNzE5ODY3
+NiwtMjEwNzQ2OTQxOCwtMTg1NjM2Njc1NCwtMTg5MDAxNjkyMS
+w5MTU1MjUzNjcsMTMyMjQ5MzcxNCw5NDIzMTY2Niw5NTczMzAy
+MjgsLTE0ODUyMjExMjIsLTEwNTE1Mjk2ODUsLTU5MDY5NDQzOC
+wtNzQxNDkzNTE2LDE2ODM5MzI0NDcsLTEwOTQxNjAzNjMsNDYw
+Nzc1MzcyXX0=
 -->
