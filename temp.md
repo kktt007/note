@@ -1,6 +1,21 @@
 ### 4.29
+termite
+URxvt (rxvt-unicode)
+Alacritty
+yakuake
+konsole
+基本上这5个
+
+role 总有一个句子让你习得一个单词
+https://www.etymonline.com/word/role
+https://www.yourdictionary.com/role
+https://findwords.info/term/role
+https://www.englishlearner.com/dictionary/role
+https://www.wordnik.com/words/role
+
 https://www.ibm.com/developerworks/cn/linux/l-vim-script-5/index.html
 
+spacevim windows配置
 ```
 [options]
     # set spacevim theme. by default colorscheme layer is not loaded,
@@ -4108,11 +4123,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMDEzNjgwOCwtMTQwNDM4MjY2MCwxNT
-gxNDI4NjgzLC01NDgxMDU0MTMsLTE4NjUzMDEyMzksNzc1Nzk0
-MTQwLC0xMDQ5MDA1ODUzLC03NjQyMzA0MzIsNjc4NjQyMTkwLD
-U3NDEyMTQwNSwtNzMzMTA3MjYxLC0xMjkzOTU0NDY0LDEyMjcx
-OTg2NzYsLTIxMDc0Njk0MTgsLTE4NTYzNjY3NTQsLTE4OTAwMT
-Y5MjEsOTE1NTI1MzY3LDEzMjI0OTM3MTQsOTQyMzE2NjYsOTU3
-MzMwMjI4XX0=
+eyJoaXN0b3J5IjpbLTMyNzAyMjc1OSwtNjEwMTM2ODA4LC0xND
+A0MzgyNjYwLDE1ODE0Mjg2ODMsLTU0ODEwNTQxMywtMTg2NTMw
+MTIzOSw3NzU3OTQxNDAsLTEwNDkwMDU4NTMsLTc2NDIzMDQzMi
+w2Nzg2NDIxOTAsNTc0MTIxNDA1LC03MzMxMDcyNjEsLTEyOTM5
+NTQ0NjQsMTIyNzE5ODY3NiwtMjEwNzQ2OTQxOCwtMTg1NjM2Nj
+c1NCwtMTg5MDAxNjkyMSw5MTU1MjUzNjcsMTMyMjQ5MzcxNCw5
+NDIzMTY2Nl19
 -->
