@@ -1,5 +1,6 @@
 ### 4.29
 
+
 [cn下md慢慢看](https://github.com/SpaceVim/SpaceVim/tree/master/docs/cn)
 
 https://github.com/SpaceVim/SpaceVim/blob/master/docs/conventions.md
@@ -4033,11 +4034,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjUzMDEyMzksNzc1Nzk0MTQwLC0xMD
-Q5MDA1ODUzLC03NjQyMzA0MzIsNjc4NjQyMTkwLDU3NDEyMTQw
-NSwtNzMzMTA3MjYxLC0xMjkzOTU0NDY0LDEyMjcxOTg2NzYsLT
-IxMDc0Njk0MTgsLTE4NTYzNjY3NTQsLTE4OTAwMTY5MjEsOTE1
-NTI1MzY3LDEzMjI0OTM3MTQsOTQyMzE2NjYsOTU3MzMwMjI4LC
-0xNDg1MjIxMTIyLC0xMDUxNTI5Njg1LC01OTA2OTQ0MzgsLTc0
-MTQ5MzUxNl19
+eyJoaXN0b3J5IjpbLTg5Nzg0OTk1NywtMTg2NTMwMTIzOSw3Nz
+U3OTQxNDAsLTEwNDkwMDU4NTMsLTc2NDIzMDQzMiw2Nzg2NDIx
+OTAsNTc0MTIxNDA1LC03MzMxMDcyNjEsLTEyOTM5NTQ0NjQsMT
+IyNzE5ODY3NiwtMjEwNzQ2OTQxOCwtMTg1NjM2Njc1NCwtMTg5
+MDAxNjkyMSw5MTU1MjUzNjcsMTMyMjQ5MzcxNCw5NDIzMTY2Ni
+w5NTczMzAyMjgsLTE0ODUyMjExMjIsLTEwNTE1Mjk2ODUsLTU5
+MDY5NDQzOF19
 -->
