@@ -1,4 +1,8 @@
 ### 4.29
+
+[cn下md慢慢看](https://github.com/SpaceVim/SpaceVim/tree/master/docs/cn)
+https://github.com/SpaceVim/SpaceVim/blob/master/docs/conventions.md
+https://gowa.club/Vim/ultisnips%E7%9A%84readme%E6%96%87%E6%A1%A3%E4%B8%AD%E6%96%87.html
 https://www.webdictionary.co.uk/words/capitalization
 
 单词搜索，这个绝了 https://onelook.com/?loc=olthes1&w=capitalization
@@ -4026,11 +4030,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc1Nzk0MTQwLC0xMDQ5MDA1ODUzLC03Nj
-QyMzA0MzIsNjc4NjQyMTkwLDU3NDEyMTQwNSwtNzMzMTA3MjYx
-LC0xMjkzOTU0NDY0LDEyMjcxOTg2NzYsLTIxMDc0Njk0MTgsLT
-E4NTYzNjY3NTQsLTE4OTAwMTY5MjEsOTE1NTI1MzY3LDEzMjI0
-OTM3MTQsOTQyMzE2NjYsOTU3MzMwMjI4LC0xNDg1MjIxMTIyLC
-0xMDUxNTI5Njg1LC01OTA2OTQ0MzgsLTc0MTQ5MzUxNiwxNjgz
-OTMyNDQ3XX0=
+eyJoaXN0b3J5IjpbLTE2NjEwNzU1OTMsNzc1Nzk0MTQwLC0xMD
+Q5MDA1ODUzLC03NjQyMzA0MzIsNjc4NjQyMTkwLDU3NDEyMTQw
+NSwtNzMzMTA3MjYxLC0xMjkzOTU0NDY0LDEyMjcxOTg2NzYsLT
+IxMDc0Njk0MTgsLTE4NTYzNjY3NTQsLTE4OTAwMTY5MjEsOTE1
+NTI1MzY3LDEzMjI0OTM3MTQsOTQyMzE2NjYsOTU3MzMwMjI4LC
+0xNDg1MjIxMTIyLC0xMDUxNTI5Njg1LC01OTA2OTQ0MzgsLTc0
+MTQ5MzUxNl19
 -->
