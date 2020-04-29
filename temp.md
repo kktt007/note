@@ -1,4 +1,6 @@
 ### 4.29
+https://www.webdictionary.co.uk/words/capitalization
+
 单词搜索，这个绝了 https://onelook.com/?loc=olthes1&w=capitalization
 ```
 **General**
@@ -4024,11 +4026,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDkwMDU4NTMsLTc2NDIzMDQzMiw2Nz
-g2NDIxOTAsNTc0MTIxNDA1LC03MzMxMDcyNjEsLTEyOTM5NTQ0
-NjQsMTIyNzE5ODY3NiwtMjEwNzQ2OTQxOCwtMTg1NjM2Njc1NC
-wtMTg5MDAxNjkyMSw5MTU1MjUzNjcsMTMyMjQ5MzcxNCw5NDIz
-MTY2Niw5NTczMzAyMjgsLTE0ODUyMjExMjIsLTEwNTE1Mjk2OD
-UsLTU5MDY5NDQzOCwtNzQxNDkzNTE2LDE2ODM5MzI0NDcsLTEw
-OTQxNjAzNjNdfQ==
+eyJoaXN0b3J5IjpbNzc1Nzk0MTQwLC0xMDQ5MDA1ODUzLC03Nj
+QyMzA0MzIsNjc4NjQyMTkwLDU3NDEyMTQwNSwtNzMzMTA3MjYx
+LC0xMjkzOTU0NDY0LDEyMjcxOTg2NzYsLTIxMDc0Njk0MTgsLT
+E4NTYzNjY3NTQsLTE4OTAwMTY5MjEsOTE1NTI1MzY3LDEzMjI0
+OTM3MTQsOTQyMzE2NjYsOTU3MzMwMjI4LC0xNDg1MjIxMTIyLC
+0xMDUxNTI5Njg1LC01OTA2OTQ0MzgsLTc0MTQ5MzUxNiwxNjgz
+OTMyNDQ3XX0=
 -->
