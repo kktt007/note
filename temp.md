@@ -1,3 +1,20 @@
+### 4.29
+哈哈哈哈哈，我呢确实过去一个月，孤独许久，思索很多，包括如下诗句:
+1.
+身是菩提树，心如明镜台；
+
+时时勤拂拭，勿使惹尘埃。
+一直以为神秀的大家都忽略了，我们正常人就是要做这个的，我每天很少吃肉，经常反省，学习新东西，其实，神秀说的没问题，我也不懂历史上的分针，杀戮，毕竟现在知道的事，不知道真假，也不重要。
+
+2.
+菩提本无树，明镜亦非台；
+
+本来无一物，何处惹尘埃。
+从接触的时候就是这个了，一直觉的这是对的，后来在现实中才明白，这个是 最真的我，上面神秀的诗是这个之上，在现实中要做的，道理没有高低可比的。不知为何，都觉得这个好而忽略神秀...
+
+很高兴看到这篇，对自己也明白了点，感谢那些书，感谢这些话语，原来这世界我不是一个人，当然我是一个人走出来的，现在知道不是一个人，这就是必经之路吧。哈哈哈哈哈
+
+
 ### 4.28
 ## 今天感受到要了解掌握事物，要么从前往后看，演变，这个属于天才方式。另一种就是从后往前看，从具体应用去习得。这属于聪明人。其他方式都是不得法。
 不断的寻找，思考，发现，总有一个句子是创造这个词的时候第一个句子
@@ -3846,11 +3863,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc0MTIxNDA1LC03MzMxMDcyNjEsLTEyOT
-M5NTQ0NjQsMTIyNzE5ODY3NiwtMjEwNzQ2OTQxOCwtMTg1NjM2
-Njc1NCwtMTg5MDAxNjkyMSw5MTU1MjUzNjcsMTMyMjQ5MzcxNC
-w5NDIzMTY2Niw5NTczMzAyMjgsLTE0ODUyMjExMjIsLTEwNTE1
-Mjk2ODUsLTU5MDY5NDQzOCwtNzQxNDkzNTE2LDE2ODM5MzI0ND
-csLTEwOTQxNjAzNjMsNDYwNzc1MzcyLDIwOTAxNTU1ODQsLTY3
-MjA0OTIzM119
+eyJoaXN0b3J5IjpbLTIxMTc2ODMzOTQsNTc0MTIxNDA1LC03Mz
+MxMDcyNjEsLTEyOTM5NTQ0NjQsMTIyNzE5ODY3NiwtMjEwNzQ2
+OTQxOCwtMTg1NjM2Njc1NCwtMTg5MDAxNjkyMSw5MTU1MjUzNj
+csMTMyMjQ5MzcxNCw5NDIzMTY2Niw5NTczMzAyMjgsLTE0ODUy
+MjExMjIsLTEwNTE1Mjk2ODUsLTU5MDY5NDQzOCwtNzQxNDkzNT
+E2LDE2ODM5MzI0NDcsLTEwOTQxNjAzNjMsNDYwNzc1MzcyLDIw
+OTAxNTU1ODRdfQ==
 -->
