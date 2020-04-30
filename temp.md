@@ -16,6 +16,7 @@ https://segmentfault.com/a/1190000020859490
 https://wiki.archlinux.org/index.php/Rxvt-unicode
 https://wiki.archlinux.org/index.php/X_resources
 https://unix.stackexchange.com/questions/363276/xinitrc-not-loading-xresources
+https://bbs.archlinux.org/viewtopic.php?id=71742
 修改完资源文件后，需运行以下命令使配置生效，或重启X会话。一般我们选择前者：
 
 debian:~# xrdb .Xresources
@@ -4150,11 +4151,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MTMxMTI0LC0xNTM3Mjg2MDAyLDE3Nj
-Q4ODk2MzMsLTgyNjIxMDk2MCw3MjczNDY2OTgsLTQ1MDEzOTks
-LTIwMTU2MjA0ODEsLTMyNzAyMjc1OSwtNjEwMTM2ODA4LC0xND
-A0MzgyNjYwLDE1ODE0Mjg2ODMsLTU0ODEwNTQxMywtMTg2NTMw
-MTIzOSw3NzU3OTQxNDAsLTEwNDkwMDU4NTMsLTc2NDIzMDQzMi
-w2Nzg2NDIxOTAsNTc0MTIxNDA1LC03MzMxMDcyNjEsLTEyOTM5
-NTQ0NjRdfQ==
+eyJoaXN0b3J5IjpbLTE0NDU4NTk2NjMsLTk5MTMxMTI0LC0xNT
+M3Mjg2MDAyLDE3NjQ4ODk2MzMsLTgyNjIxMDk2MCw3MjczNDY2
+OTgsLTQ1MDEzOTksLTIwMTU2MjA0ODEsLTMyNzAyMjc1OSwtNj
+EwMTM2ODA4LC0xNDA0MzgyNjYwLDE1ODE0Mjg2ODMsLTU0ODEw
+NTQxMywtMTg2NTMwMTIzOSw3NzU3OTQxNDAsLTEwNDkwMDU4NT
+MsLTc2NDIzMDQzMiw2Nzg2NDIxOTAsNTc0MTIxNDA1LC03MzMx
+MDcyNjFdfQ==
 -->
