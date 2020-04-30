@@ -14,6 +14,7 @@ https://bbs.archlinuxcn.org/viewtopic.php?id=5712
 https://sillydong.com/mysa/mylinux/urxvt.html
 https://segmentfault.com/a/1190000020859490
 https://wiki.archlinux.org/index.php/Rxvt-unicode
+https://wiki.archlinux.org/index.php/X_resources
 修改完资源文件后，需运行以下命令使配置生效，或重启X会话。一般我们选择前者：
 
 debian:~# xrdb .Xresources
@@ -4148,11 +4149,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NDg4OTYzMywtODI2MjEwOTYwLDcyNz
-M0NjY5OCwtNDUwMTM5OSwtMjAxNTYyMDQ4MSwtMzI3MDIyNzU5
-LC02MTAxMzY4MDgsLTE0MDQzODI2NjAsMTU4MTQyODY4MywtNT
-Q4MTA1NDEzLC0xODY1MzAxMjM5LDc3NTc5NDE0MCwtMTA0OTAw
-NTg1MywtNzY0MjMwNDMyLDY3ODY0MjE5MCw1NzQxMjE0MDUsLT
-czMzEwNzI2MSwtMTI5Mzk1NDQ2NCwxMjI3MTk4Njc2LC0yMTA3
-NDY5NDE4XX0=
+eyJoaXN0b3J5IjpbLTE1MzcyODYwMDIsMTc2NDg4OTYzMywtOD
+I2MjEwOTYwLDcyNzM0NjY5OCwtNDUwMTM5OSwtMjAxNTYyMDQ4
+MSwtMzI3MDIyNzU5LC02MTAxMzY4MDgsLTE0MDQzODI2NjAsMT
+U4MTQyODY4MywtNTQ4MTA1NDEzLC0xODY1MzAxMjM5LDc3NTc5
+NDE0MCwtMTA0OTAwNTg1MywtNzY0MjMwNDMyLDY3ODY0MjE5MC
+w1NzQxMjE0MDUsLTczMzEwNzI2MSwtMTI5Mzk1NDQ2NCwxMjI3
+MTk4Njc2XX0=
 -->
