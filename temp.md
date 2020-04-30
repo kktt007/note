@@ -2,14 +2,22 @@
 [开源世界旅行手册](http://treelib.com/book-detail-id-25-aid-1182.html)
 [codebug](https://t.codebug.vip/list-6.htm)
 
+
 urxvt解惑(https://qa.1r1g.com/sf/ask/993049991/)
 https://github.com/appleshan/dotfiles/blob/stow/urxvt/.Xdefaults
 https://www.muzilong.cn/storage/html/76/www.jianshu.com/p/9e8fe8892b61.html
 https://www.bbsmax.com/A/A2dmR9yWze/
 https://cnfczn.com/notes/linux/%E8%BD%BB%E9%87%8F%E7%BA%A7X%E4%B8%8B%E7%BB%88%E7%AB%AF%E6%A8%A1%E6%8B%9F%E5%99%A8-rxvt-unicode(urxvt)
+http://yuex.in/post/2013/09/terminal-switching.html
+https://cnfczn.com/notes/linux/%E8%BD%BB%E9%87%8F%E7%BA%A7X%E4%B8%8B%E7%BB%88%E7%AB%AF%E6%A8%A1%E6%8B%9F%E5%99%A8-rxvt-unicode(urxvt)
+https://bbs.archlinuxcn.org/viewtopic.php?id=5712
+https://sillydong.com/mysa/mylinux/urxvt.html
+https://segmentfault.com/a/1190000020859490
+https://wiki.archlinux.org/index.php/Rxvt-unicode
 修改完资源文件后，需运行以下命令使配置生效，或重启X会话。一般我们选择前者：
 
 debian:~# xrdb .Xresources
+xrdb ~/.Xresources
 
 一些博客
 http://www.huangpan.net/
@@ -4140,11 +4148,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNjIxMDk2MCw3MjczNDY2OTgsLTQ1MD
-EzOTksLTIwMTU2MjA0ODEsLTMyNzAyMjc1OSwtNjEwMTM2ODA4
-LC0xNDA0MzgyNjYwLDE1ODE0Mjg2ODMsLTU0ODEwNTQxMywtMT
-g2NTMwMTIzOSw3NzU3OTQxNDAsLTEwNDkwMDU4NTMsLTc2NDIz
-MDQzMiw2Nzg2NDIxOTAsNTc0MTIxNDA1LC03MzMxMDcyNjEsLT
-EyOTM5NTQ0NjQsMTIyNzE5ODY3NiwtMjEwNzQ2OTQxOCwtMTg1
-NjM2Njc1NF19
+eyJoaXN0b3J5IjpbMTc2NDg4OTYzMywtODI2MjEwOTYwLDcyNz
+M0NjY5OCwtNDUwMTM5OSwtMjAxNTYyMDQ4MSwtMzI3MDIyNzU5
+LC02MTAxMzY4MDgsLTE0MDQzODI2NjAsMTU4MTQyODY4MywtNT
+Q4MTA1NDEzLC0xODY1MzAxMjM5LDc3NTc5NDE0MCwtMTA0OTAw
+NTg1MywtNzY0MjMwNDMyLDY3ODY0MjE5MCw1NzQxMjE0MDUsLT
+czMzEwNzI2MSwtMTI5Mzk1NDQ2NCwxMjI3MTk4Njc2LC0yMTA3
+NDY5NDE4XX0=
 -->
