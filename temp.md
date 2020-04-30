@@ -4,7 +4,12 @@
 
 urxvt解惑(https://qa.1r1g.com/sf/ask/993049991/)
 https://github.com/appleshan/dotfiles/blob/stow/urxvt/.Xdefaults
-https://www.letiantian.me/2013-09-01-xresources-urxvt/
+https://www.muzilong.cn/storage/html/76/www.jianshu.com/p/9e8fe8892b61.html
+https://www.bbsmax.com/A/A2dmR9yWze/
+https://cnfczn.com/notes/linux/%E8%BD%BB%E9%87%8F%E7%BA%A7X%E4%B8%8B%E7%BB%88%E7%AB%AF%E6%A8%A1%E6%8B%9F%E5%99%A8-rxvt-unicode(urxvt)
+修改完资源文件后，需运行以下命令使配置生效，或重启X会话。一般我们选择前者：
+
+debian:~# xrdb .Xresources
 
 一些博客
 http://www.huangpan.net/
@@ -4135,11 +4140,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI3MzQ2Njk4LC00NTAxMzk5LC0yMDE1Nj
-IwNDgxLC0zMjcwMjI3NTksLTYxMDEzNjgwOCwtMTQwNDM4MjY2
-MCwxNTgxNDI4NjgzLC01NDgxMDU0MTMsLTE4NjUzMDEyMzksNz
-c1Nzk0MTQwLC0xMDQ5MDA1ODUzLC03NjQyMzA0MzIsNjc4NjQy
-MTkwLDU3NDEyMTQwNSwtNzMzMTA3MjYxLC0xMjkzOTU0NDY0LD
-EyMjcxOTg2NzYsLTIxMDc0Njk0MTgsLTE4NTYzNjY3NTQsLTE4
-OTAwMTY5MjFdfQ==
+eyJoaXN0b3J5IjpbLTgyNjIxMDk2MCw3MjczNDY2OTgsLTQ1MD
+EzOTksLTIwMTU2MjA0ODEsLTMyNzAyMjc1OSwtNjEwMTM2ODA4
+LC0xNDA0MzgyNjYwLDE1ODE0Mjg2ODMsLTU0ODEwNTQxMywtMT
+g2NTMwMTIzOSw3NzU3OTQxNDAsLTEwNDkwMDU4NTMsLTc2NDIz
+MDQzMiw2Nzg2NDIxOTAsNTc0MTIxNDA1LC03MzMxMDcyNjEsLT
+EyOTM5NTQ0NjQsMTIyNzE5ODY3NiwtMjEwNzQ2OTQxOCwtMTg1
+NjM2Njc1NF19
 -->
