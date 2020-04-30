@@ -4,6 +4,7 @@
 
 urxvt解惑(https://qa.1r1g.com/sf/ask/993049991/)
 https://github.com/appleshan/dotfiles/blob/stow/urxvt/.Xdefaults
+https://www.letiantian.me/2013-09-01-xresources-urxvt/
 
 一些博客
 http://www.huangpan.net/
@@ -4134,11 +4135,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MDEzOTksLTIwMTU2MjA0ODEsLTMyNz
-AyMjc1OSwtNjEwMTM2ODA4LC0xNDA0MzgyNjYwLDE1ODE0Mjg2
-ODMsLTU0ODEwNTQxMywtMTg2NTMwMTIzOSw3NzU3OTQxNDAsLT
-EwNDkwMDU4NTMsLTc2NDIzMDQzMiw2Nzg2NDIxOTAsNTc0MTIx
-NDA1LC03MzMxMDcyNjEsLTEyOTM5NTQ0NjQsMTIyNzE5ODY3Ni
-wtMjEwNzQ2OTQxOCwtMTg1NjM2Njc1NCwtMTg5MDAxNjkyMSw5
-MTU1MjUzNjddfQ==
+eyJoaXN0b3J5IjpbNzI3MzQ2Njk4LC00NTAxMzk5LC0yMDE1Nj
+IwNDgxLC0zMjcwMjI3NTksLTYxMDEzNjgwOCwtMTQwNDM4MjY2
+MCwxNTgxNDI4NjgzLC01NDgxMDU0MTMsLTE4NjUzMDEyMzksNz
+c1Nzk0MTQwLC0xMDQ5MDA1ODUzLC03NjQyMzA0MzIsNjc4NjQy
+MTkwLDU3NDEyMTQwNSwtNzMzMTA3MjYxLC0xMjkzOTU0NDY0LD
+EyMjcxOTg2NzYsLTIxMDc0Njk0MTgsLTE4NTYzNjY3NTQsLTE4
+OTAwMTY5MjFdfQ==
 -->
