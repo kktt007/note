@@ -1,3 +1,13 @@
+### 4.30
+[开源世界旅行手册](http://treelib.com/book-detail-id-25-aid-1182.html)
+[codebug](https://t.codebug.vip/list-6.htm)
+
+urxvt解惑(https://qa.1r1g.com/sf/ask/993049991/)
+https://github.com/appleshan/dotfiles/blob/stow/urxvt/.Xdefaults
+
+一些博客
+http://www.huangpan.net/
+
 ### 4.29
 [urvxt配置](https://addy-dclxvi.github.io/post/configuring-urxvt/)
 termite
@@ -4124,11 +4134,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTU2MjA0ODEsLTMyNzAyMjc1OSwtNj
-EwMTM2ODA4LC0xNDA0MzgyNjYwLDE1ODE0Mjg2ODMsLTU0ODEw
-NTQxMywtMTg2NTMwMTIzOSw3NzU3OTQxNDAsLTEwNDkwMDU4NT
-MsLTc2NDIzMDQzMiw2Nzg2NDIxOTAsNTc0MTIxNDA1LC03MzMx
-MDcyNjEsLTEyOTM5NTQ0NjQsMTIyNzE5ODY3NiwtMjEwNzQ2OT
-QxOCwtMTg1NjM2Njc1NCwtMTg5MDAxNjkyMSw5MTU1MjUzNjcs
-MTMyMjQ5MzcxNF19
+eyJoaXN0b3J5IjpbLTQ1MDEzOTksLTIwMTU2MjA0ODEsLTMyNz
+AyMjc1OSwtNjEwMTM2ODA4LC0xNDA0MzgyNjYwLDE1ODE0Mjg2
+ODMsLTU0ODEwNTQxMywtMTg2NTMwMTIzOSw3NzU3OTQxNDAsLT
+EwNDkwMDU4NTMsLTc2NDIzMDQzMiw2Nzg2NDIxOTAsNTc0MTIx
+NDA1LC03MzMxMDcyNjEsLTEyOTM5NTQ0NjQsMTIyNzE5ODY3Ni
+wtMjEwNzQ2OTQxOCwtMTg1NjM2Njc1NCwtMTg5MDAxNjkyMSw5
+MTU1MjUzNjddfQ==
 -->
