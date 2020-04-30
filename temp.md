@@ -21,6 +21,9 @@ https://bbs.archlinux.org/viewtopic.php?id=71742
 
 debian:~# xrdb .Xresources
 xrdb ~/.Xresources
+```
+xrdb -merge ~/.Xresources
+```
 
 一些博客
 http://www.huangpan.net/
@@ -4151,11 +4154,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDU4NTk2NjMsLTk5MTMxMTI0LC0xNT
-M3Mjg2MDAyLDE3NjQ4ODk2MzMsLTgyNjIxMDk2MCw3MjczNDY2
-OTgsLTQ1MDEzOTksLTIwMTU2MjA0ODEsLTMyNzAyMjc1OSwtNj
-EwMTM2ODA4LC0xNDA0MzgyNjYwLDE1ODE0Mjg2ODMsLTU0ODEw
-NTQxMywtMTg2NTMwMTIzOSw3NzU3OTQxNDAsLTEwNDkwMDU4NT
-MsLTc2NDIzMDQzMiw2Nzg2NDIxOTAsNTc0MTIxNDA1LC03MzMx
-MDcyNjFdfQ==
+eyJoaXN0b3J5IjpbMjA3NjM0NjU0NCwtMTQ0NTg1OTY2MywtOT
+kxMzExMjQsLTE1MzcyODYwMDIsMTc2NDg4OTYzMywtODI2MjEw
+OTYwLDcyNzM0NjY5OCwtNDUwMTM5OSwtMjAxNTYyMDQ4MSwtMz
+I3MDIyNzU5LC02MTAxMzY4MDgsLTE0MDQzODI2NjAsMTU4MTQy
+ODY4MywtNTQ4MTA1NDEzLC0xODY1MzAxMjM5LDc3NTc5NDE0MC
+wtMTA0OTAwNTg1MywtNzY0MjMwNDMyLDY3ODY0MjE5MCw1NzQx
+MjE0MDVdfQ==
 -->
