@@ -18,6 +18,7 @@ https://wiki.archlinux.org/index.php/X_resources
 https://unix.stackexchange.com/questions/363276/xinitrc-not-loading-xresources
 https://bbs.archlinux.org/viewtopic.php?id=71742
 https://unix.stackexchange.com/questions/158787/load-x-resources-when-kde-starts-on-linux-mint
+https://www.dwarmstrong.org/xresources/
 修改完资源文件后，需运行以下命令使配置生效，或重启X会话。一般我们选择前者：
 
 debian:~# xrdb .Xresources
@@ -4155,11 +4156,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NjM3ODIzOCwyMDc2MzQ2NTQ0LC0xND
-Q1ODU5NjYzLC05OTEzMTEyNCwtMTUzNzI4NjAwMiwxNzY0ODg5
-NjMzLC04MjYyMTA5NjAsNzI3MzQ2Njk4LC00NTAxMzk5LC0yMD
-E1NjIwNDgxLC0zMjcwMjI3NTksLTYxMDEzNjgwOCwtMTQwNDM4
-MjY2MCwxNTgxNDI4NjgzLC01NDgxMDU0MTMsLTE4NjUzMDEyMz
-ksNzc1Nzk0MTQwLC0xMDQ5MDA1ODUzLC03NjQyMzA0MzIsNjc4
-NjQyMTkwXX0=
+eyJoaXN0b3J5IjpbMTQ1OTQyMjE3NywtODQ2Mzc4MjM4LDIwNz
+YzNDY1NDQsLTE0NDU4NTk2NjMsLTk5MTMxMTI0LC0xNTM3Mjg2
+MDAyLDE3NjQ4ODk2MzMsLTgyNjIxMDk2MCw3MjczNDY2OTgsLT
+Q1MDEzOTksLTIwMTU2MjA0ODEsLTMyNzAyMjc1OSwtNjEwMTM2
+ODA4LC0xNDA0MzgyNjYwLDE1ODE0Mjg2ODMsLTU0ODEwNTQxMy
+wtMTg2NTMwMTIzOSw3NzU3OTQxNDAsLTEwNDkwMDU4NTMsLTc2
+NDIzMDQzMl19
 -->
