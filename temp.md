@@ -5,6 +5,8 @@ https://www.smartnews.com/
 https://twitter.com/
 https://reddit.com/
 你才见过多少事，多少人啊。
+我从春天走来，经过夏天的洗礼，秋天的无奈，到冬天的不舍。
+再不会再重来，能再有机会学习，是幸福的，幸运的。
 
 ### 4.30
 [开源世界旅行手册](http://treelib.com/book-detail-id-25-aid-1182.html)
@@ -4164,7 +4166,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODgwODE0ODYsMTIxMjA3NTg5OCwxND
+eyJoaXN0b3J5IjpbLTExOTQ3NTMzNzQsMTIxMjA3NTg5OCwxND
 U5NDIyMTc3LC04NDYzNzgyMzgsMjA3NjM0NjU0NCwtMTQ0NTg1
 OTY2MywtOTkxMzExMjQsLTE1MzcyODYwMDIsMTc2NDg4OTYzMy
 wtODI2MjEwOTYwLDcyNzM0NjY5OCwtNDUwMTM5OSwtMjAxNTYy
