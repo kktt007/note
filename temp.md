@@ -50,6 +50,12 @@ yarn - chat
 
 中国是大，国外是小，这样Pk，终归是要在大的基础上，不断细分，才能了解宇宙
 
+exploid 
+n. \ ˈek-ˌsplȯit
+
+v. \ ik-ˈsplȯit 
+Children are being exploited in many of these factories.
+
 ### 4.30
 [开源世界旅行手册](http://treelib.com/book-detail-id-25-aid-1182.html)
 [codebug](https://t.codebug.vip/list-6.htm)
@@ -4208,11 +4214,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMxMDY3NTEyLC0yNjkxMTAyMjQsLTExOT
-Q3NTMzNzQsMTIxMjA3NTg5OCwxNDU5NDIyMTc3LC04NDYzNzgy
-MzgsMjA3NjM0NjU0NCwtMTQ0NTg1OTY2MywtOTkxMzExMjQsLT
-E1MzcyODYwMDIsMTc2NDg4OTYzMywtODI2MjEwOTYwLDcyNzM0
-NjY5OCwtNDUwMTM5OSwtMjAxNTYyMDQ4MSwtMzI3MDIyNzU5LC
-02MTAxMzY4MDgsLTE0MDQzODI2NjAsMTU4MTQyODY4MywtNTQ4
-MTA1NDEzXX0=
+eyJoaXN0b3J5IjpbMTkyMzM1MDg1OSw5MzEwNjc1MTIsLTI2OT
+ExMDIyNCwtMTE5NDc1MzM3NCwxMjEyMDc1ODk4LDE0NTk0MjIx
+NzcsLTg0NjM3ODIzOCwyMDc2MzQ2NTQ0LC0xNDQ1ODU5NjYzLC
+05OTEzMTEyNCwtMTUzNzI4NjAwMiwxNzY0ODg5NjMzLC04MjYy
+MTA5NjAsNzI3MzQ2Njk4LC00NTAxMzk5LC0yMDE1NjIwNDgxLC
+0zMjcwMjI3NTksLTYxMDEzNjgwOCwtMTQwNDM4MjY2MCwxNTgx
+NDI4NjgzXX0=
 -->
