@@ -48,7 +48,7 @@ yarn - chat
 学习为主而不是英语，学的有趣，触动人心
 兴趣为主，难易其次 肯定有一条线，就像单词，总有一个例句，总有一篇文章，一个方式能让你走到终极。
 
-中国是大，国外是小，这样
+中国是大，国外是小，这样Pk，终归是要在大的基础上，不断细分，才能了解宇宙
 
 ### 4.30
 [开源世界旅行手册](http://treelib.com/book-detail-id-25-aid-1182.html)
@@ -4208,11 +4208,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NTg2NzcxMywtMjY5MTEwMjI0LC0xMT
-k0NzUzMzc0LDEyMTIwNzU4OTgsMTQ1OTQyMjE3NywtODQ2Mzc4
-MjM4LDIwNzYzNDY1NDQsLTE0NDU4NTk2NjMsLTk5MTMxMTI0LC
-0xNTM3Mjg2MDAyLDE3NjQ4ODk2MzMsLTgyNjIxMDk2MCw3Mjcz
-NDY2OTgsLTQ1MDEzOTksLTIwMTU2MjA0ODEsLTMyNzAyMjc1OS
-wtNjEwMTM2ODA4LC0xNDA0MzgyNjYwLDE1ODE0Mjg2ODMsLTU0
-ODEwNTQxM119
+eyJoaXN0b3J5IjpbOTMxMDY3NTEyLC0yNjkxMTAyMjQsLTExOT
+Q3NTMzNzQsMTIxMjA3NTg5OCwxNDU5NDIyMTc3LC04NDYzNzgy
+MzgsMjA3NjM0NjU0NCwtMTQ0NTg1OTY2MywtOTkxMzExMjQsLT
+E1MzcyODYwMDIsMTc2NDg4OTYzMywtODI2MjEwOTYwLDcyNzM0
+NjY5OCwtNDUwMTM5OSwtMjAxNTYyMDQ4MSwtMzI3MDIyNzU5LC
+02MTAxMzY4MDgsLTE0MDQzODI2NjAsMTU4MTQyODY4MywtNTQ4
+MTA1NDEzXX0=
 -->
