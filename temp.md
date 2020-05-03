@@ -4,6 +4,7 @@ https://www.newsbreak.com/
 https://www.smartnews.com/
 https://twitter.com/
 https://reddit.com/
+你才见过多少事，多少人啊。
 
 ### 4.30
 [开源世界旅行手册](http://treelib.com/book-detail-id-25-aid-1182.html)
@@ -4163,11 +4164,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMjA3NTg5OCwxNDU5NDIyMTc3LC04ND
-YzNzgyMzgsMjA3NjM0NjU0NCwtMTQ0NTg1OTY2MywtOTkxMzEx
-MjQsLTE1MzcyODYwMDIsMTc2NDg4OTYzMywtODI2MjEwOTYwLD
-cyNzM0NjY5OCwtNDUwMTM5OSwtMjAxNTYyMDQ4MSwtMzI3MDIy
-NzU5LC02MTAxMzY4MDgsLTE0MDQzODI2NjAsMTU4MTQyODY4My
-wtNTQ4MTA1NDEzLC0xODY1MzAxMjM5LDc3NTc5NDE0MCwtMTA0
-OTAwNTg1M119
+eyJoaXN0b3J5IjpbLTE5ODgwODE0ODYsMTIxMjA3NTg5OCwxND
+U5NDIyMTc3LC04NDYzNzgyMzgsMjA3NjM0NjU0NCwtMTQ0NTg1
+OTY2MywtOTkxMzExMjQsLTE1MzcyODYwMDIsMTc2NDg4OTYzMy
+wtODI2MjEwOTYwLDcyNzM0NjY5OCwtNDUwMTM5OSwtMjAxNTYy
+MDQ4MSwtMzI3MDIyNzU5LC02MTAxMzY4MDgsLTE0MDQzODI2Nj
+AsMTU4MTQyODY4MywtNTQ4MTA1NDEzLC0xODY1MzAxMjM5LDc3
+NTc5NDE0MF19
 -->
