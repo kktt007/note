@@ -49,6 +49,7 @@ yarn - chat
 兴趣为主，难易其次 肯定有一条线，就像单词，总有一个例句，总有一篇文章，一个方式能让你走到终极。
 
 中国是大，国外是小，这样Pk，终归是要在大的基础上，不断细分，才能了解宇宙
+ 
 
 exploid 
 n. \ ˈek-ˌsplȯit
@@ -4218,11 +4219,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NTMyNzY5NCwxOTIzMzUwODU5LDkzMT
-A2NzUxMiwtMjY5MTEwMjI0LC0xMTk0NzUzMzc0LDEyMTIwNzU4
-OTgsMTQ1OTQyMjE3NywtODQ2Mzc4MjM4LDIwNzYzNDY1NDQsLT
-E0NDU4NTk2NjMsLTk5MTMxMTI0LC0xNTM3Mjg2MDAyLDE3NjQ4
-ODk2MzMsLTgyNjIxMDk2MCw3MjczNDY2OTgsLTQ1MDEzOTksLT
-IwMTU2MjA0ODEsLTMyNzAyMjc1OSwtNjEwMTM2ODA4LC0xNDA0
-MzgyNjYwXX0=
+eyJoaXN0b3J5IjpbLTkwNDIyMDAzNCwtMjY1MzI3Njk0LDE5Mj
+MzNTA4NTksOTMxMDY3NTEyLC0yNjkxMTAyMjQsLTExOTQ3NTMz
+NzQsMTIxMjA3NTg5OCwxNDU5NDIyMTc3LC04NDYzNzgyMzgsMj
+A3NjM0NjU0NCwtMTQ0NTg1OTY2MywtOTkxMzExMjQsLTE1Mzcy
+ODYwMDIsMTc2NDg4OTYzMywtODI2MjEwOTYwLDcyNzM0NjY5OC
+wtNDUwMTM5OSwtMjAxNTYyMDQ4MSwtMzI3MDIyNzU5LC02MTAx
+MzY4MDhdfQ==
 -->
