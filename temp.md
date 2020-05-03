@@ -49,7 +49,7 @@ yarn - chat
 兴趣为主，难易其次 肯定有一条线，就像单词，总有一个例句，总有一篇文章，一个方式能让你走到终极。
 
 中国是大，国外是小，这样Pk，终归是要在大的基础上，不断细分，才能了解宇宙
- 
+一切都在消散，衰变，在最有时间的年华，从来不惧任何，才是最美的生命。
 
 exploid 
 n. \ ˈek-ˌsplȯit
@@ -4219,11 +4219,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNDIyMDAzNCwtMjY1MzI3Njk0LDE5Mj
-MzNTA4NTksOTMxMDY3NTEyLC0yNjkxMTAyMjQsLTExOTQ3NTMz
-NzQsMTIxMjA3NTg5OCwxNDU5NDIyMTc3LC04NDYzNzgyMzgsMj
-A3NjM0NjU0NCwtMTQ0NTg1OTY2MywtOTkxMzExMjQsLTE1Mzcy
-ODYwMDIsMTc2NDg4OTYzMywtODI2MjEwOTYwLDcyNzM0NjY5OC
-wtNDUwMTM5OSwtMjAxNTYyMDQ4MSwtMzI3MDIyNzU5LC02MTAx
-MzY4MDhdfQ==
+eyJoaXN0b3J5IjpbMTQxNDMwMzk3LC0yNjUzMjc2OTQsMTkyMz
+M1MDg1OSw5MzEwNjc1MTIsLTI2OTExMDIyNCwtMTE5NDc1MzM3
+NCwxMjEyMDc1ODk4LDE0NTk0MjIxNzcsLTg0NjM3ODIzOCwyMD
+c2MzQ2NTQ0LC0xNDQ1ODU5NjYzLC05OTEzMTEyNCwtMTUzNzI4
+NjAwMiwxNzY0ODg5NjMzLC04MjYyMTA5NjAsNzI3MzQ2Njk4LC
+00NTAxMzk5LC0yMDE1NjIwNDgxLC0zMjcwMjI3NTksLTYxMDEz
+NjgwOF19
 -->
