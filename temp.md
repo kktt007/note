@@ -8,6 +8,46 @@ https://reddit.com/
 我从春天走来，经过夏天的洗礼，秋天的无奈，到冬天的不舍。
 再不会再重来，能再有机会学习，是幸福的，幸运的。
 
+## social networking
+facebook
+message
+discord
+whatsapp
+hangout
+telegram
+omegle
+yolo
+
+wechat
+weibo
+小红书
+知乎
+多闪
+
+## news
+今日头条
+twitter
+reddit
+news break
+smart news
+quora
+
+## books
+audible audiobooks
+amazon kindle
+wattpad - read
+dreame
+yarn - chat
+
+7猫小说
+番茄小说
+喜马拉雅FM
+微信读书
+
+学习英语与用英语来学习
+学习为主而不是英语，学的有趣，触动人心
+兴趣为主，难易其次 肯定有一条线，就像单词，总有一个例句，总有一篇文章，一个方式能让你走到终极。
+
 ### 4.30
 [开源世界旅行手册](http://treelib.com/book-detail-id-25-aid-1182.html)
 [codebug](https://t.codebug.vip/list-6.htm)
@@ -4166,11 +4206,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTQ3NTMzNzQsMTIxMjA3NTg5OCwxND
-U5NDIyMTc3LC04NDYzNzgyMzgsMjA3NjM0NjU0NCwtMTQ0NTg1
-OTY2MywtOTkxMzExMjQsLTE1MzcyODYwMDIsMTc2NDg4OTYzMy
-wtODI2MjEwOTYwLDcyNzM0NjY5OCwtNDUwMTM5OSwtMjAxNTYy
-MDQ4MSwtMzI3MDIyNzU5LC02MTAxMzY4MDgsLTE0MDQzODI2Nj
-AsMTU4MTQyODY4MywtNTQ4MTA1NDEzLC0xODY1MzAxMjM5LDc3
-NTc5NDE0MF19
+eyJoaXN0b3J5IjpbLTI2OTExMDIyNCwtMTE5NDc1MzM3NCwxMj
+EyMDc1ODk4LDE0NTk0MjIxNzcsLTg0NjM3ODIzOCwyMDc2MzQ2
+NTQ0LC0xNDQ1ODU5NjYzLC05OTEzMTEyNCwtMTUzNzI4NjAwMi
+wxNzY0ODg5NjMzLC04MjYyMTA5NjAsNzI3MzQ2Njk4LC00NTAx
+Mzk5LC0yMDE1NjIwNDgxLC0zMjcwMjI3NTksLTYxMDEzNjgwOC
+wtMTQwNDM4MjY2MCwxNTgxNDI4NjgzLC01NDgxMDU0MTMsLTE4
+NjUzMDEyMzldfQ==
 -->
