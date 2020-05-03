@@ -47,6 +47,7 @@ yarn - chat
 学习英语与用英语来学习
 学习为主而不是英语，学的有趣，触动人心
 兴趣为主，难易其次 肯定有一条线，就像单词，总有一个例句，总有一篇文章，一个方式能让你走到终极。
+生就是一瞬间的事，这一瞬，百万个可能
 
 中国是大，国外是小，这样Pk，终归是要在大的基础上，不断细分，才能了解宇宙
 一切都在消散，衰变，在最有时间的年华，从来不惧任何，才是最美的生命。
@@ -4219,11 +4220,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNDMwMzk3LC0yNjUzMjc2OTQsMTkyMz
-M1MDg1OSw5MzEwNjc1MTIsLTI2OTExMDIyNCwtMTE5NDc1MzM3
-NCwxMjEyMDc1ODk4LDE0NTk0MjIxNzcsLTg0NjM3ODIzOCwyMD
-c2MzQ2NTQ0LC0xNDQ1ODU5NjYzLC05OTEzMTEyNCwtMTUzNzI4
-NjAwMiwxNzY0ODg5NjMzLC04MjYyMTA5NjAsNzI3MzQ2Njk4LC
-00NTAxMzk5LC0yMDE1NjIwNDgxLC0zMjcwMjI3NTksLTYxMDEz
-NjgwOF19
+eyJoaXN0b3J5IjpbMTY2MTk5NzY2MSwxNDE0MzAzOTcsLTI2NT
+MyNzY5NCwxOTIzMzUwODU5LDkzMTA2NzUxMiwtMjY5MTEwMjI0
+LC0xMTk0NzUzMzc0LDEyMTIwNzU4OTgsMTQ1OTQyMjE3NywtOD
+Q2Mzc4MjM4LDIwNzYzNDY1NDQsLTE0NDU4NTk2NjMsLTk5MTMx
+MTI0LC0xNTM3Mjg2MDAyLDE3NjQ4ODk2MzMsLTgyNjIxMDk2MC
+w3MjczNDY2OTgsLTQ1MDEzOTksLTIwMTU2MjA0ODEsLTMyNzAy
+Mjc1OV19
 -->
