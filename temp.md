@@ -56,6 +56,10 @@ n. \ ˈek-ˌsplȯit
 v. \ ik-ˈsplȯit 
 Children are being exploited in many of these factories.
 
+词典例句
+http://googledictionary.freecollocation.com/meaning?word=exploit
+https://inspirassion.com/en/phrase/exploit
+
 ### 4.30
 [开源世界旅行手册](http://treelib.com/book-detail-id-25-aid-1182.html)
 [codebug](https://t.codebug.vip/list-6.htm)
@@ -4214,11 +4218,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMzM1MDg1OSw5MzEwNjc1MTIsLTI2OT
-ExMDIyNCwtMTE5NDc1MzM3NCwxMjEyMDc1ODk4LDE0NTk0MjIx
-NzcsLTg0NjM3ODIzOCwyMDc2MzQ2NTQ0LC0xNDQ1ODU5NjYzLC
-05OTEzMTEyNCwtMTUzNzI4NjAwMiwxNzY0ODg5NjMzLC04MjYy
-MTA5NjAsNzI3MzQ2Njk4LC00NTAxMzk5LC0yMDE1NjIwNDgxLC
-0zMjcwMjI3NTksLTYxMDEzNjgwOCwtMTQwNDM4MjY2MCwxNTgx
-NDI4NjgzXX0=
+eyJoaXN0b3J5IjpbLTI2NTMyNzY5NCwxOTIzMzUwODU5LDkzMT
+A2NzUxMiwtMjY5MTEwMjI0LC0xMTk0NzUzMzc0LDEyMTIwNzU4
+OTgsMTQ1OTQyMjE3NywtODQ2Mzc4MjM4LDIwNzYzNDY1NDQsLT
+E0NDU4NTk2NjMsLTk5MTMxMTI0LC0xNTM3Mjg2MDAyLDE3NjQ4
+ODk2MzMsLTgyNjIxMDk2MCw3MjczNDY2OTgsLTQ1MDEzOTksLT
+IwMTU2MjA0ODEsLTMyNzAyMjc1OSwtNjEwMTM2ODA4LC0xNDA0
+MzgyNjYwXX0=
 -->
