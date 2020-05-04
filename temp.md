@@ -1,4 +1,19 @@
 ### 5.4
+
+https://fenghe.us/software-router-lede-x64-installation/
+[软路由firmware](http://firmware.koolshare.cn/LEDE_X64_fw867/)
+https://m0n0.ch/wall/physdiskwrite.php
+找到你的U盘盘符（我这里盘符是U，以我的为例），然后在命令行输入：
+
+U:
+physdiskwrite -u 镜像名
+然后选择安装到哪个盘，选择非Windows系统盘的那个盘（一般来说是信息量多的那个，我这里是选择0号盘）。
+关机后重新开启电源，然后用网线连接软路由和电脑。
+
+把电脑的IP地址手动设置成192.168.1.2后保存。
+接下来在浏览器地址栏输入192.168.1.1，输入密码koolshare
+
+
 [punctuation](https://www.ef.edu/english-resources/english-grammar/punctuation/)
 https://courses.lumenlearning.com/boundless-writing/
 https://www.grammarbook.com/grammar/cnt_gram.asp
@@ -4228,11 +4243,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NjA4MjU3OSwxNjYxOTk3NjYxLDE0MT
-QzMDM5NywtMjY1MzI3Njk0LDE5MjMzNTA4NTksOTMxMDY3NTEy
-LC0yNjkxMTAyMjQsLTExOTQ3NTMzNzQsMTIxMjA3NTg5OCwxND
-U5NDIyMTc3LC04NDYzNzgyMzgsMjA3NjM0NjU0NCwtMTQ0NTg1
-OTY2MywtOTkxMzExMjQsLTE1MzcyODYwMDIsMTc2NDg4OTYzMy
-wtODI2MjEwOTYwLDcyNzM0NjY5OCwtNDUwMTM5OSwtMjAxNTYy
-MDQ4MV19
+eyJoaXN0b3J5IjpbMTE4NTM4NzI5NSwxMDU2MDgyNTc5LDE2Nj
+E5OTc2NjEsMTQxNDMwMzk3LC0yNjUzMjc2OTQsMTkyMzM1MDg1
+OSw5MzEwNjc1MTIsLTI2OTExMDIyNCwtMTE5NDc1MzM3NCwxMj
+EyMDc1ODk4LDE0NTk0MjIxNzcsLTg0NjM3ODIzOCwyMDc2MzQ2
+NTQ0LC0xNDQ1ODU5NjYzLC05OTEzMTEyNCwtMTUzNzI4NjAwMi
+wxNzY0ODg5NjMzLC04MjYyMTA5NjAsNzI3MzQ2Njk4LC00NTAx
+Mzk5XX0=
 -->
