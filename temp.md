@@ -1,4 +1,7 @@
 ### 5.4
+总有一句话让你明白，总有有个方法适合你。我相信性空，也相信，这性，在地域，时间中逐渐填充成一种形式。当然也有基因的遗传。 所以最好的方式就是，走一步， 向后看几步，向前想几步。不断的在时间中继续用更好的方式进步。
+从宇宙观，价值观，方法论，逻辑思维，看，听，说，想，表达。继续来和自己的基因，和已被填满的种种，重新整合。该抛的抛，该变通的变通，该坚持的坚持，该学习的学习，该引进的引进，该探索的探索。这过程本就是奇迹，美好，种种，答案不需外求。
+
 explicitly \ ik-ˈspli-sət-lē 注意发音，k其实就应该是k，要不然直接标g好了
 university \ ˌyü-nə-ˈvər-sə-tē s不变，说明非爆破音确实不属于规则
 
@@ -4245,11 +4248,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjc0MTEzODUsLTYwMzQwNTkzOCwxMT
-g1Mzg3Mjk1LDEwNTYwODI1NzksMTY2MTk5NzY2MSwxNDE0MzAz
-OTcsLTI2NTMyNzY5NCwxOTIzMzUwODU5LDkzMTA2NzUxMiwtMj
-Y5MTEwMjI0LC0xMTk0NzUzMzc0LDEyMTIwNzU4OTgsMTQ1OTQy
-MjE3NywtODQ2Mzc4MjM4LDIwNzYzNDY1NDQsLTE0NDU4NTk2Nj
-MsLTk5MTMxMTI0LC0xNTM3Mjg2MDAyLDE3NjQ4ODk2MzMsLTgy
-NjIxMDk2MF19
+eyJoaXN0b3J5IjpbLTkzNTU2OTQyMCwtNjAzNDA1OTM4LDExOD
+UzODcyOTUsMTA1NjA4MjU3OSwxNjYxOTk3NjYxLDE0MTQzMDM5
+NywtMjY1MzI3Njk0LDE5MjMzNTA4NTksOTMxMDY3NTEyLC0yNj
+kxMTAyMjQsLTExOTQ3NTMzNzQsMTIxMjA3NTg5OCwxNDU5NDIy
+MTc3LC04NDYzNzgyMzgsMjA3NjM0NjU0NCwtMTQ0NTg1OTY2My
+wtOTkxMzExMjQsLTE1MzcyODYwMDIsMTc2NDg4OTYzMywtODI2
+MjEwOTYwXX0=
 -->
