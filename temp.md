@@ -1,5 +1,6 @@
 ### 5.4
 explicitly \ ik-ˈspli-sət-lē 注意发音，k其实就应该是k，要不然直接标g好了
+university \ ˌyü-nə-ˈvər-sə-tē s不变，说明非爆破音确实不属于规则
 
 https://fenghe.us/software-router-lede-x64-installation/
 [软路由firmware](http://firmware.koolshare.cn/LEDE_X64_fw867/)
@@ -4244,11 +4245,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMzQwNTkzOCwxMTg1Mzg3Mjk1LDEwNT
-YwODI1NzksMTY2MTk5NzY2MSwxNDE0MzAzOTcsLTI2NTMyNzY5
-NCwxOTIzMzUwODU5LDkzMTA2NzUxMiwtMjY5MTEwMjI0LC0xMT
-k0NzUzMzc0LDEyMTIwNzU4OTgsMTQ1OTQyMjE3NywtODQ2Mzc4
-MjM4LDIwNzYzNDY1NDQsLTE0NDU4NTk2NjMsLTk5MTMxMTI0LC
-0xNTM3Mjg2MDAyLDE3NjQ4ODk2MzMsLTgyNjIxMDk2MCw3Mjcz
-NDY2OThdfQ==
+eyJoaXN0b3J5IjpbLTEyNjc0MTEzODUsLTYwMzQwNTkzOCwxMT
+g1Mzg3Mjk1LDEwNTYwODI1NzksMTY2MTk5NzY2MSwxNDE0MzAz
+OTcsLTI2NTMyNzY5NCwxOTIzMzUwODU5LDkzMTA2NzUxMiwtMj
+Y5MTEwMjI0LC0xMTk0NzUzMzc0LDEyMTIwNzU4OTgsMTQ1OTQy
+MjE3NywtODQ2Mzc4MjM4LDIwNzYzNDY1NDQsLTE0NDU4NTk2Nj
+MsLTk5MTMxMTI0LC0xNTM3Mjg2MDAyLDE3NjQ4ODk2MzMsLTgy
+NjIxMDk2MF19
 -->
