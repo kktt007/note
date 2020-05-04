@@ -1,4 +1,5 @@
 ### 5.4
+explicitly \ ik-ˈspli-sət-lē 注意发音，k其实就应该是k，要不然直接标g好了
 
 https://fenghe.us/software-router-lede-x64-installation/
 [软路由firmware](http://firmware.koolshare.cn/LEDE_X64_fw867/)
@@ -4243,11 +4244,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NTM4NzI5NSwxMDU2MDgyNTc5LDE2Nj
-E5OTc2NjEsMTQxNDMwMzk3LC0yNjUzMjc2OTQsMTkyMzM1MDg1
-OSw5MzEwNjc1MTIsLTI2OTExMDIyNCwtMTE5NDc1MzM3NCwxMj
-EyMDc1ODk4LDE0NTk0MjIxNzcsLTg0NjM3ODIzOCwyMDc2MzQ2
-NTQ0LC0xNDQ1ODU5NjYzLC05OTEzMTEyNCwtMTUzNzI4NjAwMi
-wxNzY0ODg5NjMzLC04MjYyMTA5NjAsNzI3MzQ2Njk4LC00NTAx
-Mzk5XX0=
+eyJoaXN0b3J5IjpbLTYwMzQwNTkzOCwxMTg1Mzg3Mjk1LDEwNT
+YwODI1NzksMTY2MTk5NzY2MSwxNDE0MzAzOTcsLTI2NTMyNzY5
+NCwxOTIzMzUwODU5LDkzMTA2NzUxMiwtMjY5MTEwMjI0LC0xMT
+k0NzUzMzc0LDEyMTIwNzU4OTgsMTQ1OTQyMjE3NywtODQ2Mzc4
+MjM4LDIwNzYzNDY1NDQsLTE0NDU4NTk2NjMsLTk5MTMxMTI0LC
+0xNTM3Mjg2MDAyLDE3NjQ4ODk2MzMsLTgyNjIxMDk2MCw3Mjcz
+NDY2OThdfQ==
 -->
