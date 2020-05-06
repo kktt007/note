@@ -1,8 +1,8 @@
 ### 5.6
 1. 没有讨厌，怎么知道什么是喜欢
 2. 总有一本词典的一个句子让你get到英单词
-3. 从句子
-4. 答案就在问题当中，只是需要去
+3. 从句子习得意思，解释从来只是入门的大框架，一个方向，就是从哪里来，真正要领悟，并且会用就是到哪里去非得从一个句子入手
+4. 答案就在问题当中，只是需要去习得，領悟透
 [学习vimscript需要掌握python](https://www.w3cschool.cn/vim/l9dfcozt.html)
 
 https://files.meetup.com/18552511/Learn%20Python%20The%20Hard%20Way%203rd%20Edition%20V413HAV.pdf
@@ -4429,11 +4429,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MTU1MjUxNywtOTEzNzk1NzY4LC05Mz
-U1Njk0MjAsLTYwMzQwNTkzOCwxMTg1Mzg3Mjk1LDEwNTYwODI1
-NzksMTY2MTk5NzY2MSwxNDE0MzAzOTcsLTI2NTMyNzY5NCwxOT
-IzMzUwODU5LDkzMTA2NzUxMiwtMjY5MTEwMjI0LC0xMTk0NzUz
-Mzc0LDEyMTIwNzU4OTgsMTQ1OTQyMjE3NywtODQ2Mzc4MjM4LD
-IwNzYzNDY1NDQsLTE0NDU4NTk2NjMsLTk5MTMxMTI0LC0xNTM3
-Mjg2MDAyXX0=
+eyJoaXN0b3J5IjpbNjA1MTA3OTk2LC05MTM3OTU3NjgsLTkzNT
+U2OTQyMCwtNjAzNDA1OTM4LDExODUzODcyOTUsMTA1NjA4MjU3
+OSwxNjYxOTk3NjYxLDE0MTQzMDM5NywtMjY1MzI3Njk0LDE5Mj
+MzNTA4NTksOTMxMDY3NTEyLC0yNjkxMTAyMjQsLTExOTQ3NTMz
+NzQsMTIxMjA3NTg5OCwxNDU5NDIyMTc3LC04NDYzNzgyMzgsMj
+A3NjM0NjU0NCwtMTQ0NTg1OTY2MywtOTkxMzExMjQsLTE1Mzcy
+ODYwMDJdfQ==
 -->
