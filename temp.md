@@ -1,3 +1,20 @@
+### 5.6
+1. 没有讨厌，怎么知道什么是喜欢
+2. 总有一本词典的一个句子让你get到英单词
+3. 从句子
+4. 答案就在问题当中
+[学习vimscript需要掌握python](https://www.w3cschool.cn/vim/l9dfcozt.html)
+
+https://files.meetup.com/18552511/Learn%20Python%20The%20Hard%20Way%203rd%20Edition%20V413HAV.pdf
+
+[看书的好去处](https://uba.academia.edu/bradegomez)
+
+https://freepdf-books.com/download/?file=8347
+
+https://edubookpdf.com/category/programming
+
+https://www.8freebooks.net/books/computer-science/
+
 ### 5.5
 [vim教程](https://www.w3cschool.cn/vim/c9lbkozt.html)
 myspacevim.vim
@@ -4412,11 +4429,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMzc5NTc2OCwtOTM1NTY5NDIwLC02MD
-M0MDU5MzgsMTE4NTM4NzI5NSwxMDU2MDgyNTc5LDE2NjE5OTc2
-NjEsMTQxNDMwMzk3LC0yNjUzMjc2OTQsMTkyMzM1MDg1OSw5Mz
-EwNjc1MTIsLTI2OTExMDIyNCwtMTE5NDc1MzM3NCwxMjEyMDc1
-ODk4LDE0NTk0MjIxNzcsLTg0NjM3ODIzOCwyMDc2MzQ2NTQ0LC
-0xNDQ1ODU5NjYzLC05OTEzMTEyNCwtMTUzNzI4NjAwMiwxNzY0
-ODg5NjMzXX0=
+eyJoaXN0b3J5IjpbMTU2MDI5OTU0OCwtOTEzNzk1NzY4LC05Mz
+U1Njk0MjAsLTYwMzQwNTkzOCwxMTg1Mzg3Mjk1LDEwNTYwODI1
+NzksMTY2MTk5NzY2MSwxNDE0MzAzOTcsLTI2NTMyNzY5NCwxOT
+IzMzUwODU5LDkzMTA2NzUxMiwtMjY5MTEwMjI0LC0xMTk0NzUz
+Mzc0LDEyMTIwNzU4OTgsMTQ1OTQyMjE3NywtODQ2Mzc4MjM4LD
+IwNzYzNDY1NDQsLTE0NDU4NTk2NjMsLTk5MTMxMTI0LC0xNTM3
+Mjg2MDAyXX0=
 -->
