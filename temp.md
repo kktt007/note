@@ -2,7 +2,7 @@
 1. 没有讨厌，怎么知道什么是喜欢
 2. 总有一本词典的一个句子让你get到英单词
 3. 从句子
-4. 答案就在问题当中
+4. 答案就在问题当中，只是需要去
 [学习vimscript需要掌握python](https://www.w3cschool.cn/vim/l9dfcozt.html)
 
 https://files.meetup.com/18552511/Learn%20Python%20The%20Hard%20Way%203rd%20Edition%20V413HAV.pdf
@@ -4429,7 +4429,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MDI5OTU0OCwtOTEzNzk1NzY4LC05Mz
+eyJoaXN0b3J5IjpbMTY4MTU1MjUxNywtOTEzNzk1NzY4LC05Mz
 U1Njk0MjAsLTYwMzQwNTkzOCwxMTg1Mzg3Mjk1LDEwNTYwODI1
 NzksMTY2MTk5NzY2MSwxNDE0MzAzOTcsLTI2NTMyNzY5NCwxOT
 IzMzUwODU5LDkzMTA2NzUxMiwtMjY5MTEwMjI0LC0xMTk0NzUz
