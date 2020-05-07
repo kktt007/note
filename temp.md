@@ -1,7 +1,7 @@
 ### 5.7
 https://ctext.org/text.pl?node=599737&if=gb&remap=gb
 
-今天和老板一路，首先自己讲话卡壳，然后说话不会接，总之问题很多。感觉所谓习得就是，听说思一起共同约定的效果。
+今天和老板一路，首先自己讲话卡壳，然后说话不会接，总之问题很多。感觉所谓习得就是，听说思一起共同约定的效果。思的太多不说，依旧会因为说出问题。一个都不能少
 
 ### 5.6
 1. 没有讨厌，怎么知道什么是喜欢
@@ -4434,7 +4434,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mzk0MTM2NjgsNjA1MTA3OTk2LC05MT
+eyJoaXN0b3J5IjpbLTE0MzkzMzgzMjQsNjA1MTA3OTk2LC05MT
 M3OTU3NjgsLTkzNTU2OTQyMCwtNjAzNDA1OTM4LDExODUzODcy
 OTUsMTA1NjA4MjU3OSwxNjYxOTk3NjYxLDE0MTQzMDM5NywtMj
 Y1MzI3Njk0LDE5MjMzNTA4NTksOTMxMDY3NTEyLC0yNjkxMTAy
