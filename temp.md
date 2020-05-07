@@ -2,6 +2,7 @@
 https://ctext.org/text.pl?node=599737&if=gb&remap=gb
 
 今天和老板一路，首先自己讲话卡壳，然后说话不会接，总之问题很多。
+d
 #### 感觉所谓习得就是，听说思一起共同约定的效果。思的太多不说，依旧会因为说出问题。一个都不能少
 
 ### 5.6
@@ -4435,11 +4436,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDMyNDcxNzIsNjA1MTA3OTk2LC05MT
-M3OTU3NjgsLTkzNTU2OTQyMCwtNjAzNDA1OTM4LDExODUzODcy
-OTUsMTA1NjA4MjU3OSwxNjYxOTk3NjYxLDE0MTQzMDM5NywtMj
-Y1MzI3Njk0LDE5MjMzNTA4NTksOTMxMDY3NTEyLC0yNjkxMTAy
-MjQsLTExOTQ3NTMzNzQsMTIxMjA3NTg5OCwxNDU5NDIyMTc3LC
-04NDYzNzgyMzgsMjA3NjM0NjU0NCwtMTQ0NTg1OTY2MywtOTkx
-MzExMjRdfQ==
+eyJoaXN0b3J5IjpbOTkxOTA3MjQwLC0xMzAzMjQ3MTcyLDYwNT
+EwNzk5NiwtOTEzNzk1NzY4LC05MzU1Njk0MjAsLTYwMzQwNTkz
+OCwxMTg1Mzg3Mjk1LDEwNTYwODI1NzksMTY2MTk5NzY2MSwxND
+E0MzAzOTcsLTI2NTMyNzY5NCwxOTIzMzUwODU5LDkzMTA2NzUx
+MiwtMjY5MTEwMjI0LC0xMTk0NzUzMzc0LDEyMTIwNzU4OTgsMT
+Q1OTQyMjE3NywtODQ2Mzc4MjM4LDIwNzYzNDY1NDQsLTE0NDU4
+NTk2NjNdfQ==
 -->
