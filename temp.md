@@ -5,6 +5,8 @@ https://ctext.org/text.pl?node=599737&if=gb&remap=gb
 对任何事物都能把我关键，点子上，而且把我到联系，中间的问题等
 #### 感觉所谓习得就是，听说思一起共同约定的效果。思的太多不说，依旧会因为说出问题。一个都不能少
 
+https://juejin.im/post/5d5fe4695188250ff779ad61
+
 ### 5.6
 1. 没有讨厌，怎么知道什么是喜欢
 2. 总有一本词典的一个句子让你get到英单词
@@ -4436,11 +4438,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxODU4MTAsLTEzMDMyNDcxNzIsNjA1MT
-A3OTk2LC05MTM3OTU3NjgsLTkzNTU2OTQyMCwtNjAzNDA1OTM4
-LDExODUzODcyOTUsMTA1NjA4MjU3OSwxNjYxOTk3NjYxLDE0MT
-QzMDM5NywtMjY1MzI3Njk0LDE5MjMzNTA4NTksOTMxMDY3NTEy
-LC0yNjkxMTAyMjQsLTExOTQ3NTMzNzQsMTIxMjA3NTg5OCwxND
-U5NDIyMTc3LC04NDYzNzgyMzgsMjA3NjM0NjU0NCwtMTQ0NTg1
-OTY2M119
+eyJoaXN0b3J5IjpbLTEzODYwMzEyNzIsMTgxODU4MTAsLTEzMD
+MyNDcxNzIsNjA1MTA3OTk2LC05MTM3OTU3NjgsLTkzNTU2OTQy
+MCwtNjAzNDA1OTM4LDExODUzODcyOTUsMTA1NjA4MjU3OSwxNj
+YxOTk3NjYxLDE0MTQzMDM5NywtMjY1MzI3Njk0LDE5MjMzNTA4
+NTksOTMxMDY3NTEyLC0yNjkxMTAyMjQsLTExOTQ3NTMzNzQsMT
+IxMjA3NTg5OCwxNDU5NDIyMTc3LC04NDYzNzgyMzgsMjA3NjM0
+NjU0NF19
 -->
