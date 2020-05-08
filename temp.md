@@ -1,4 +1,5 @@
 ### 5.8
+
 你真的懂黑暗吗
 黑暗的日子只有自己一个人走
 没有人懂得黑暗的用处，不知道如何面对。当你懂得，黑暗不是黑暗，内心积累的黑暗需要通过这样的方式去排解，才能让一个人蜕变的更好。
@@ -14,6 +15,14 @@ https://coderprog.com/category/books/
 http://www.allitebooks.org/
 
 https://www.programmer-books.com/category/software-development-languages/go-language/
+
+各种定律效应
+https://wemp.app/
+http://www.360doc.com/content/18/0804/18/36858671_775684960.shtml
+https://www.jianshu.com/p/731b511b4618
+https://aiwbs.com/1692.html
+https://blog.csdn.net/LEON1741/article/details/99828545
+https://www.cnblogs.com/jinanxiaolaohu/p/12199483.html
 
 
 ### 5.7
@@ -4456,11 +4465,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNjQwMDgxMiwxNjEyMzQwODQ0LDIwMD
-EzMzM0MzUsLTEzODYwMzEyNzIsMTgxODU4MTAsLTEzMDMyNDcx
-NzIsNjA1MTA3OTk2LC05MTM3OTU3NjgsLTkzNTU2OTQyMCwtNj
-AzNDA1OTM4LDExODUzODcyOTUsMTA1NjA4MjU3OSwxNjYxOTk3
-NjYxLDE0MTQzMDM5NywtMjY1MzI3Njk0LDE5MjMzNTA4NTksOT
-MxMDY3NTEyLC0yNjkxMTAyMjQsLTExOTQ3NTMzNzQsMTIxMjA3
-NTg5OF19
+eyJoaXN0b3J5IjpbNDc2MTc4MjE3LC03MTY0MDA4MTIsMTYxMj
+M0MDg0NCwyMDAxMzMzNDM1LC0xMzg2MDMxMjcyLDE4MTg1ODEw
+LC0xMzAzMjQ3MTcyLDYwNTEwNzk5NiwtOTEzNzk1NzY4LC05Mz
+U1Njk0MjAsLTYwMzQwNTkzOCwxMTg1Mzg3Mjk1LDEwNTYwODI1
+NzksMTY2MTk5NzY2MSwxNDE0MzAzOTcsLTI2NTMyNzY5NCwxOT
+IzMzUwODU5LDkzMTA2NzUxMiwtMjY5MTEwMjI0LC0xMTk0NzUz
+Mzc0XX0=
 -->
