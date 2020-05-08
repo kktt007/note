@@ -1,4 +1,8 @@
 ### 5.8
+你真的懂黑暗吗
+黑暗的日子只有自己一个人走
+没有人懂得黑暗的用处，不知道如何面对。当你懂得，黑暗不是黑暗，内心积累的黑暗需要通过这样的方式去排解，才能让一个人蜕变的更好。
+
 pdf 
 https://www.engbookspdf.com/
 https://edubookpdf.com/
@@ -4452,11 +4456,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMjM0MDg0NCwyMDAxMzMzNDM1LC0xMz
-g2MDMxMjcyLDE4MTg1ODEwLC0xMzAzMjQ3MTcyLDYwNTEwNzk5
-NiwtOTEzNzk1NzY4LC05MzU1Njk0MjAsLTYwMzQwNTkzOCwxMT
-g1Mzg3Mjk1LDEwNTYwODI1NzksMTY2MTk5NzY2MSwxNDE0MzAz
-OTcsLTI2NTMyNzY5NCwxOTIzMzUwODU5LDkzMTA2NzUxMiwtMj
-Y5MTEwMjI0LC0xMTk0NzUzMzc0LDEyMTIwNzU4OTgsMTQ1OTQy
-MjE3N119
+eyJoaXN0b3J5IjpbLTcxNjQwMDgxMiwxNjEyMzQwODQ0LDIwMD
+EzMzM0MzUsLTEzODYwMzEyNzIsMTgxODU4MTAsLTEzMDMyNDcx
+NzIsNjA1MTA3OTk2LC05MTM3OTU3NjgsLTkzNTU2OTQyMCwtNj
+AzNDA1OTM4LDExODUzODcyOTUsMTA1NjA4MjU3OSwxNjYxOTk3
+NjYxLDE0MTQzMDM5NywtMjY1MzI3Njk0LDE5MjMzNTA4NTksOT
+MxMDY3NTEyLC0yNjkxMTAyMjQsLTExOTQ3NTMzNzQsMTIxMjA3
+NTg5OF19
 -->
