@@ -1,3 +1,7 @@
+### 5.9
+就像疏通河流
+学习的时候是一条路，运用的时候又是一条举一反三的路了。那时候如果能快速打破还要，如果本身学习比较偶然，那真正运用的时候还是会束手无策。 所以要运用，只有运用的时候才能继续反馈给首尾2个点，打通更多的通道，无形的封闭的通道有很多，但是只有几乎全通了才算是完全掌握。这样 道理就没有任何阻碍，周围全是空的，全是路，能与其他知识关联，活用起来。
+
 ### 5.8
 
 你真的懂黑暗吗
@@ -4465,11 +4469,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc2MTc4MjE3LC03MTY0MDA4MTIsMTYxMj
-M0MDg0NCwyMDAxMzMzNDM1LC0xMzg2MDMxMjcyLDE4MTg1ODEw
-LC0xMzAzMjQ3MTcyLDYwNTEwNzk5NiwtOTEzNzk1NzY4LC05Mz
-U1Njk0MjAsLTYwMzQwNTkzOCwxMTg1Mzg3Mjk1LDEwNTYwODI1
-NzksMTY2MTk5NzY2MSwxNDE0MzAzOTcsLTI2NTMyNzY5NCwxOT
-IzMzUwODU5LDkzMTA2NzUxMiwtMjY5MTEwMjI0LC0xMTk0NzUz
-Mzc0XX0=
+eyJoaXN0b3J5IjpbLTg2OTIyNDM1OSw0NzYxNzgyMTcsLTcxNj
+QwMDgxMiwxNjEyMzQwODQ0LDIwMDEzMzM0MzUsLTEzODYwMzEy
+NzIsMTgxODU4MTAsLTEzMDMyNDcxNzIsNjA1MTA3OTk2LC05MT
+M3OTU3NjgsLTkzNTU2OTQyMCwtNjAzNDA1OTM4LDExODUzODcy
+OTUsMTA1NjA4MjU3OSwxNjYxOTk3NjYxLDE0MTQzMDM5NywtMj
+Y1MzI3Njk0LDE5MjMzNTA4NTksOTMxMDY3NTEyLC0yNjkxMTAy
+MjRdfQ==
 -->
