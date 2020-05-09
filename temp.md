@@ -1,4 +1,11 @@
 ### 5.9
+http://www.worldwidewords.org/weirdwords/ww-oct1.htm
+https://www.wordnik.com/words/octothorpe
+https://en.wiktionary.org/wiki/octothorpe 下面有number sign
+http://mathforum.org/library/drmath/view/57226.html
+http://solagroups.com/english/learnenglish/computers/
+
+https://www.saugus.net/Computer/Terms/
 
 [有图片的词典](http://www.visualdictionaryonline.com/index.php)
 
@@ -4472,11 +4479,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTc1Mzk2NTcsLTg2OTIyNDM1OSw0Nz
-YxNzgyMTcsLTcxNjQwMDgxMiwxNjEyMzQwODQ0LDIwMDEzMzM0
-MzUsLTEzODYwMzEyNzIsMTgxODU4MTAsLTEzMDMyNDcxNzIsNj
-A1MTA3OTk2LC05MTM3OTU3NjgsLTkzNTU2OTQyMCwtNjAzNDA1
-OTM4LDExODUzODcyOTUsMTA1NjA4MjU3OSwxNjYxOTk3NjYxLD
-E0MTQzMDM5NywtMjY1MzI3Njk0LDE5MjMzNTA4NTksOTMxMDY3
-NTEyXX0=
+eyJoaXN0b3J5IjpbLTE3NTg5MjIzMjQsLTExNTc1Mzk2NTcsLT
+g2OTIyNDM1OSw0NzYxNzgyMTcsLTcxNjQwMDgxMiwxNjEyMzQw
+ODQ0LDIwMDEzMzM0MzUsLTEzODYwMzEyNzIsMTgxODU4MTAsLT
+EzMDMyNDcxNzIsNjA1MTA3OTk2LC05MTM3OTU3NjgsLTkzNTU2
+OTQyMCwtNjAzNDA1OTM4LDExODUzODcyOTUsMTA1NjA4MjU3OS
+wxNjYxOTk3NjYxLDE0MTQzMDM5NywtMjY1MzI3Njk0LDE5MjMz
+NTA4NTldfQ==
 -->
