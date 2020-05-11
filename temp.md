@@ -1,4 +1,13 @@
 ### 5.11
+https://www.openhub.net/
+book https://new.shuge.org/
+book https://zhuanlan.zhihu.com/p/104480878
+
+很简单，其实是一个生物学与心理学原理，就是人的身体和精神之间，往往存在很深入的“互相牵引”，而我们自己却很难意识到。（或者叫“知觉现象学”
+https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1?signin=true
+https://ohshitgit.com/
+
+
 
 https://www.vimfromscratch.com/
 https://www.freecodecamp.org/news/
@@ -4503,11 +4512,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg3MjYwMjk1LC0yMTk0MDYzNDMsNzk2MD
-QyNzgxLDM3MjMwNzI4OCwtMTAwNTI4NzM2NSwtNjYxNDg2NTE1
-LC0xMTU3NTM5NjU3LC04NjkyMjQzNTksNDc2MTc4MjE3LC03MT
-Y0MDA4MTIsMTYxMjM0MDg0NCwyMDAxMzMzNDM1LC0xMzg2MDMx
-MjcyLDE4MTg1ODEwLC0xMzAzMjQ3MTcyLDYwNTEwNzk5NiwtOT
-EzNzk1NzY4LC05MzU1Njk0MjAsLTYwMzQwNTkzOCwxMTg1Mzg3
-Mjk1XX0=
+eyJoaXN0b3J5IjpbMTI5MTQ1ODkwOSw5ODcyNjAyOTUsLTIxOT
+QwNjM0Myw3OTYwNDI3ODEsMzcyMzA3Mjg4LC0xMDA1Mjg3MzY1
+LC02NjE0ODY1MTUsLTExNTc1Mzk2NTcsLTg2OTIyNDM1OSw0Nz
+YxNzgyMTcsLTcxNjQwMDgxMiwxNjEyMzQwODQ0LDIwMDEzMzM0
+MzUsLTEzODYwMzEyNzIsMTgxODU4MTAsLTEzMDMyNDcxNzIsNj
+A1MTA3OTk2LC05MTM3OTU3NjgsLTkzNTU2OTQyMCwtNjAzNDA1
+OTM4XX0=
 -->
