@@ -2,6 +2,7 @@
 https://portal.shadowsocks.nz/index.php
 https://v2rayssr.com/
 clash
+https://paolu.lanzous.com/clash-for-cmy
 https://copycat.space/user##
 https://merlinblog.xyz/wiki/cfw.html
 https://10101.io/2020/02/05/how-to-use-clash-for-android
@@ -4498,11 +4499,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxOTQwNjM0Myw3OTYwNDI3ODEsMzcyMz
-A3Mjg4LC0xMDA1Mjg3MzY1LC02NjE0ODY1MTUsLTExNTc1Mzk2
-NTcsLTg2OTIyNDM1OSw0NzYxNzgyMTcsLTcxNjQwMDgxMiwxNj
-EyMzQwODQ0LDIwMDEzMzM0MzUsLTEzODYwMzEyNzIsMTgxODU4
-MTAsLTEzMDMyNDcxNzIsNjA1MTA3OTk2LC05MTM3OTU3NjgsLT
-kzNTU2OTQyMCwtNjAzNDA1OTM4LDExODUzODcyOTUsMTA1NjA4
-MjU3OV19
+eyJoaXN0b3J5IjpbLTU0ODUzMzMyMCwtMjE5NDA2MzQzLDc5Nj
+A0Mjc4MSwzNzIzMDcyODgsLTEwMDUyODczNjUsLTY2MTQ4NjUx
+NSwtMTE1NzUzOTY1NywtODY5MjI0MzU5LDQ3NjE3ODIxNywtNz
+E2NDAwODEyLDE2MTIzNDA4NDQsMjAwMTMzMzQzNSwtMTM4NjAz
+MTI3MiwxODE4NTgxMCwtMTMwMzI0NzE3Miw2MDUxMDc5OTYsLT
+kxMzc5NTc2OCwtOTM1NTY5NDIwLC02MDM0MDU5MzgsMTE4NTM4
+NzI5NV19
 -->
