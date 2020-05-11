@@ -1,4 +1,8 @@
 ### 5.11
+
+https://www.vimfromscratch.com/
+https://www.freecodecamp.org/news/
+
 https://portal.shadowsocks.nz/index.php
 https://v2rayssr.com/
 clash
@@ -4499,11 +4503,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTQ2Mjk3MTYsLTIxOTQwNjM0Myw3OT
-YwNDI3ODEsMzcyMzA3Mjg4LC0xMDA1Mjg3MzY1LC02NjE0ODY1
-MTUsLTExNTc1Mzk2NTcsLTg2OTIyNDM1OSw0NzYxNzgyMTcsLT
-cxNjQwMDgxMiwxNjEyMzQwODQ0LDIwMDEzMzM0MzUsLTEzODYw
-MzEyNzIsMTgxODU4MTAsLTEzMDMyNDcxNzIsNjA1MTA3OTk2LC
-05MTM3OTU3NjgsLTkzNTU2OTQyMCwtNjAzNDA1OTM4LDExODUz
-ODcyOTVdfQ==
+eyJoaXN0b3J5IjpbOTg3MjYwMjk1LC0yMTk0MDYzNDMsNzk2MD
+QyNzgxLDM3MjMwNzI4OCwtMTAwNTI4NzM2NSwtNjYxNDg2NTE1
+LC0xMTU3NTM5NjU3LC04NjkyMjQzNTksNDc2MTc4MjE3LC03MT
+Y0MDA4MTIsMTYxMjM0MDg0NCwyMDAxMzMzNDM1LC0xMzg2MDMx
+MjcyLDE4MTg1ODEwLC0xMzAzMjQ3MTcyLDYwNTEwNzk5NiwtOT
+EzNzk1NzY4LC05MzU1Njk0MjAsLTYwMzQwNTkzOCwxMTg1Mzg3
+Mjk1XX0=
 -->
