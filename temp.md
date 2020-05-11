@@ -1,5 +1,5 @@
 ### 5.11
-https://www.zhihu.com/question/305507128/answer/559161157 这个能力很重要
+https://www.zhihu.com/question/305507128/answer/559161157 这个能力很重要，必须经过洗礼
 https://www.openhub.net/
 book https://new.shuge.org/
 book https://zhuanlan.zhihu.com/p/104480878
@@ -4513,11 +4513,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjg2NDIzODQsMTI5MTQ1ODkwOSw5OD
-cyNjAyOTUsLTIxOTQwNjM0Myw3OTYwNDI3ODEsMzcyMzA3Mjg4
-LC0xMDA1Mjg3MzY1LC02NjE0ODY1MTUsLTExNTc1Mzk2NTcsLT
-g2OTIyNDM1OSw0NzYxNzgyMTcsLTcxNjQwMDgxMiwxNjEyMzQw
-ODQ0LDIwMDEzMzM0MzUsLTEzODYwMzEyNzIsMTgxODU4MTAsLT
-EzMDMyNDcxNzIsNjA1MTA3OTk2LC05MTM3OTU3NjgsLTkzNTU2
-OTQyMF19
+eyJoaXN0b3J5IjpbMjE2OTkwODk5LDEyOTE0NTg5MDksOTg3Mj
+YwMjk1LC0yMTk0MDYzNDMsNzk2MDQyNzgxLDM3MjMwNzI4OCwt
+MTAwNTI4NzM2NSwtNjYxNDg2NTE1LC0xMTU3NTM5NjU3LC04Nj
+kyMjQzNTksNDc2MTc4MjE3LC03MTY0MDA4MTIsMTYxMjM0MDg0
+NCwyMDAxMzMzNDM1LC0xMzg2MDMxMjcyLDE4MTg1ODEwLC0xMz
+AzMjQ3MTcyLDYwNTEwNzk5NiwtOTEzNzk1NzY4LC05MzU1Njk0
+MjBdfQ==
 -->
