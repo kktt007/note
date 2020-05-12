@@ -1,6 +1,10 @@
 ### 5.12
 quickly divide the lateral fissure
 
+推荐的顺序是：剪辑-特效-3D。软件是分别是：
+
+**剪辑：PR、特效：AE、三维建模：C4D**。
+
 平面软件：PS (图像、色彩、通道理论)
 
 剪辑 (（剪辑、抠像、音视频合成）)
@@ -4552,11 +4556,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNDU5OTE1OCwtNjQzNDIxNjQ2LC0yMj
-Q4OTA5ODUsLTYyOTYxNzE3NSwyMDU2NzU2ODg0LDIxNjk5MDg5
-OSwxMjkxNDU4OTA5LDk4NzI2MDI5NSwtMjE5NDA2MzQzLDc5Nj
-A0Mjc4MSwzNzIzMDcyODgsLTEwMDUyODczNjUsLTY2MTQ4NjUx
-NSwtMTE1NzUzOTY1NywtODY5MjI0MzU5LDQ3NjE3ODIxNywtNz
-E2NDAwODEyLDE2MTIzNDA4NDQsMjAwMTMzMzQzNSwtMTM4NjAz
-MTI3Ml19
+eyJoaXN0b3J5IjpbLTIwMDYwMjc4MTYsLTY0MzQyMTY0NiwtMj
+I0ODkwOTg1LC02Mjk2MTcxNzUsMjA1Njc1Njg4NCwyMTY5OTA4
+OTksMTI5MTQ1ODkwOSw5ODcyNjAyOTUsLTIxOTQwNjM0Myw3OT
+YwNDI3ODEsMzcyMzA3Mjg4LC0xMDA1Mjg3MzY1LC02NjE0ODY1
+MTUsLTExNTc1Mzk2NTcsLTg2OTIyNDM1OSw0NzYxNzgyMTcsLT
+cxNjQwMDgxMiwxNjEyMzQwODQ0LDIwMDEzMzM0MzUsLTEzODYw
+MzEyNzJdfQ==
 -->
