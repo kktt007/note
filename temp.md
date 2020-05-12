@@ -1,7 +1,7 @@
 ### 5.12
 今日英语词典https://topmeaning.com/english/unboxing
 https://www.wordnik.com/words/unboxing
-
+cambridge 和 macmillandictionary  vocabulary是最好的
 ### 5.11
 https://www.zhihu.com/question/305507128/answer/559161157 这个能力很重要，必须经过洗礼
 https://www.openhub.net/
@@ -4518,11 +4518,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyOTYxNzE3NSwyMDU2NzU2ODg0LDIxNj
-k5MDg5OSwxMjkxNDU4OTA5LDk4NzI2MDI5NSwtMjE5NDA2MzQz
-LDc5NjA0Mjc4MSwzNzIzMDcyODgsLTEwMDUyODczNjUsLTY2MT
-Q4NjUxNSwtMTE1NzUzOTY1NywtODY5MjI0MzU5LDQ3NjE3ODIx
-NywtNzE2NDAwODEyLDE2MTIzNDA4NDQsMjAwMTMzMzQzNSwtMT
-M4NjAzMTI3MiwxODE4NTgxMCwtMTMwMzI0NzE3Miw2MDUxMDc5
-OTZdfQ==
+eyJoaXN0b3J5IjpbLTIyNDg5MDk4NSwtNjI5NjE3MTc1LDIwNT
+Y3NTY4ODQsMjE2OTkwODk5LDEyOTE0NTg5MDksOTg3MjYwMjk1
+LC0yMTk0MDYzNDMsNzk2MDQyNzgxLDM3MjMwNzI4OCwtMTAwNT
+I4NzM2NSwtNjYxNDg2NTE1LC0xMTU3NTM5NjU3LC04NjkyMjQz
+NTksNDc2MTc4MjE3LC03MTY0MDA4MTIsMTYxMjM0MDg0NCwyMD
+AxMzMzNDM1LC0xMzg2MDMxMjcyLDE4MTg1ODEwLC0xMzAzMjQ3
+MTcyXX0=
 -->
