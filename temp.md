@@ -1,4 +1,38 @@
 ### 5.12
+quickly divide the lateral fissure
+
+平面软件：PS (图像、色彩、通道理论)
+
+剪辑 (（剪辑、抠像、音视频合成）)
+lightworks
+VSDC Video Editor
+Hitfilm3 Pro
+DaVinci Resolve
+万兴神剪手
+Adobe Premiere
+
+特效 (特效合成、动态图形）)
+Adobe After Effects
+Houdini
+Illusion
+Softimage
+
+三维软件
+C4d(偏向包装0
+Maya(偏向影视和特效)
+3ds max
+
+
+调色学习 达芬奇
+PS看李涛的教程，学AE看AK大神的教程
+偏设计类的书吧，比如三大构成、色彩搭配、版式原理。
+
+这个世界属于两种人，一类是模仿者，一类是创造者。
+
+最失败的往往就是不屑于模仿、不会模仿，同时也没有能力创造的人。
+
+模仿一定要“到位”，要认知到作品的精髓，知道它好看在哪儿
+
 今日英语词典https://topmeaning.com/english/unboxing
 https://www.wordnik.com/words/unboxing
 cambridge 和 macmillandictionary  vocabulary yourdictionary是最好的
@@ -4518,11 +4552,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MzQyMTY0NiwtMjI0ODkwOTg1LC02Mj
-k2MTcxNzUsMjA1Njc1Njg4NCwyMTY5OTA4OTksMTI5MTQ1ODkw
-OSw5ODcyNjAyOTUsLTIxOTQwNjM0Myw3OTYwNDI3ODEsMzcyMz
-A3Mjg4LC0xMDA1Mjg3MzY1LC02NjE0ODY1MTUsLTExNTc1Mzk2
-NTcsLTg2OTIyNDM1OSw0NzYxNzgyMTcsLTcxNjQwMDgxMiwxNj
-EyMzQwODQ0LDIwMDEzMzM0MzUsLTEzODYwMzEyNzIsMTgxODU4
-MTBdfQ==
+eyJoaXN0b3J5IjpbMTkyNDU5OTE1OCwtNjQzNDIxNjQ2LC0yMj
+Q4OTA5ODUsLTYyOTYxNzE3NSwyMDU2NzU2ODg0LDIxNjk5MDg5
+OSwxMjkxNDU4OTA5LDk4NzI2MDI5NSwtMjE5NDA2MzQzLDc5Nj
+A0Mjc4MSwzNzIzMDcyODgsLTEwMDUyODczNjUsLTY2MTQ4NjUx
+NSwtMTE1NzUzOTY1NywtODY5MjI0MzU5LDQ3NjE3ODIxNywtNz
+E2NDAwODEyLDE2MTIzNDA4NDQsMjAwMTMzMzQzNSwtMTM4NjAz
+MTI3Ml19
 -->
