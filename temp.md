@@ -3,6 +3,7 @@ book download
 https://bbooks.info/books/computer-internet/programming
 http://www.allitebooks.org/
 https://www.foxebook.net/
+https://www.pdfdrive.com/
 https://b-ok.cc/
 https://doc.lagout.org/programmation/
 http://regex.info/book.html
@@ -4582,11 +4583,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMTA4ODU3MywtNjkyNDM2MTc0LC01ND
-IzNTQxMTcsMjEzMDM0MzQyLDQ4OTQ0MjM4LC0yMDA2MDI3ODE2
-LC02NDM0MjE2NDYsLTIyNDg5MDk4NSwtNjI5NjE3MTc1LDIwNT
-Y3NTY4ODQsMjE2OTkwODk5LDEyOTE0NTg5MDksOTg3MjYwMjk1
-LC0yMTk0MDYzNDMsNzk2MDQyNzgxLDM3MjMwNzI4OCwtMTAwNT
-I4NzM2NSwtNjYxNDg2NTE1LC0xMTU3NTM5NjU3LC04NjkyMjQz
-NTldfQ==
+eyJoaXN0b3J5IjpbLTM3Mzk2ODI3MywxNTMxMDg4NTczLC02OT
+I0MzYxNzQsLTU0MjM1NDExNywyMTMwMzQzNDIsNDg5NDQyMzgs
+LTIwMDYwMjc4MTYsLTY0MzQyMTY0NiwtMjI0ODkwOTg1LC02Mj
+k2MTcxNzUsMjA1Njc1Njg4NCwyMTY5OTA4OTksMTI5MTQ1ODkw
+OSw5ODcyNjAyOTUsLTIxOTQwNjM0Myw3OTYwNDI3ODEsMzcyMz
+A3Mjg4LC0xMDA1Mjg3MzY1LC02NjE0ODY1MTUsLTExNTc1Mzk2
+NTddfQ==
 -->
