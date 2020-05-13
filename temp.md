@@ -5,6 +5,7 @@ http://gen.lib.rus.ec/
 https://libgen.pw/
 https://libgen.lc/
 https://b-ok.cc/
+https://textbooknova.com/
 http://www.ebooksearchengine.net/
 https://forcoder.su/
 http://www.ebook3000.com/
@@ -4601,11 +4602,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMTY2MTg3NCwtMzIyNzgyMjI4LC02ND
-kxMDc2MDAsLTEwOTEwNTcxODYsNTI0MTIxNjE0LC0zNzM5Njgy
-NzMsMTUzMTA4ODU3MywtNjkyNDM2MTc0LC01NDIzNTQxMTcsMj
-EzMDM0MzQyLDQ4OTQ0MjM4LC0yMDA2MDI3ODE2LC02NDM0MjE2
-NDYsLTIyNDg5MDk4NSwtNjI5NjE3MTc1LDIwNTY3NTY4ODQsMj
-E2OTkwODk5LDEyOTE0NTg5MDksOTg3MjYwMjk1LC0yMTk0MDYz
-NDNdfQ==
+eyJoaXN0b3J5IjpbLTI5MjU3NTIwNywxMzMxNjYxODc0LC0zMj
+I3ODIyMjgsLTY0OTEwNzYwMCwtMTA5MTA1NzE4Niw1MjQxMjE2
+MTQsLTM3Mzk2ODI3MywxNTMxMDg4NTczLC02OTI0MzYxNzQsLT
+U0MjM1NDExNywyMTMwMzQzNDIsNDg5NDQyMzgsLTIwMDYwMjc4
+MTYsLTY0MzQyMTY0NiwtMjI0ODkwOTg1LC02Mjk2MTcxNzUsMj
+A1Njc1Njg4NCwyMTY5OTA4OTksMTI5MTQ1ODkwOSw5ODcyNjAy
+OTVdfQ==
 -->
