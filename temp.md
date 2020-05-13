@@ -2,6 +2,10 @@
 ```
 这才是真正的书 Learn Python The Hard Way
 http://gen.lib.rus.ec/
+https://libgen.pw/
+https://libgen.lc/
+https://b-ok.cc/
+http://www.ebooksearchengine.net/
 
 搜索
 https://library.buffalo.edu/findmaterials/ebooks/multi-search.html
@@ -4594,11 +4598,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTEwNTcxODYsNTI0MTIxNjE0LC0zNz
-M5NjgyNzMsMTUzMTA4ODU3MywtNjkyNDM2MTc0LC01NDIzNTQx
-MTcsMjEzMDM0MzQyLDQ4OTQ0MjM4LC0yMDA2MDI3ODE2LC02ND
-M0MjE2NDYsLTIyNDg5MDk4NSwtNjI5NjE3MTc1LDIwNTY3NTY4
-ODQsMjE2OTkwODk5LDEyOTE0NTg5MDksOTg3MjYwMjk1LC0yMT
-k0MDYzNDMsNzk2MDQyNzgxLDM3MjMwNzI4OCwtMTAwNTI4NzM2
-NV19
+eyJoaXN0b3J5IjpbLTY0OTEwNzYwMCwtMTA5MTA1NzE4Niw1Mj
+QxMjE2MTQsLTM3Mzk2ODI3MywxNTMxMDg4NTczLC02OTI0MzYx
+NzQsLTU0MjM1NDExNywyMTMwMzQzNDIsNDg5NDQyMzgsLTIwMD
+YwMjc4MTYsLTY0MzQyMTY0NiwtMjI0ODkwOTg1LC02Mjk2MTcx
+NzUsMjA1Njc1Njg4NCwyMTY5OTA4OTksMTI5MTQ1ODkwOSw5OD
+cyNjAyOTUsLTIxOTQwNjM0Myw3OTYwNDI3ODEsMzcyMzA3Mjg4
+XX0=
 -->
