@@ -1,6 +1,12 @@
 ### 5.13
 ```
+这才是真正的书 Learn Python The Hard Way
+http://gen.lib.rus.ec/
 
+搜索
+https://library.buffalo.edu/findmaterials/ebooks/multi-search.html
+书籍大全http://onlinebooks.library.upenn.edu/
+```
 https://www.gnu.org/software/grep/manual/
 
 book download
@@ -4588,7 +4594,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzg1MTEyMzAsNTI0MTIxNjE0LC0zNz
+eyJoaXN0b3J5IjpbLTEwOTEwNTcxODYsNTI0MTIxNjE0LC0zNz
 M5NjgyNzMsMTUzMTA4ODU3MywtNjkyNDM2MTc0LC01NDIzNTQx
 MTcsMjEzMDM0MzQyLDQ4OTQ0MjM4LC0yMDA2MDI3ODE2LC02ND
 M0MjE2NDYsLTIyNDg5MDk4NSwtNjI5NjE3MTc1LDIwNTY3NTY4
