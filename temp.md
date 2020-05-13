@@ -8,6 +8,7 @@ http://freecomputerbooks.com/Learn-Regex-The-Hard-Way.html
 https://epdf.pub/
 http://wu57.cn/
 https://edubookpdf.com/
+http://www.101books.ru/
 
 
 book search
@@ -4574,11 +4575,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA2NTU0NDExLC0yMDA2MDI3ODE2LC02ND
-M0MjE2NDYsLTIyNDg5MDk4NSwtNjI5NjE3MTc1LDIwNTY3NTY4
-ODQsMjE2OTkwODk5LDEyOTE0NTg5MDksOTg3MjYwMjk1LC0yMT
-k0MDYzNDMsNzk2MDQyNzgxLDM3MjMwNzI4OCwtMTAwNTI4NzM2
-NSwtNjYxNDg2NTE1LC0xMTU3NTM5NjU3LC04NjkyMjQzNTksND
-c2MTc4MjE3LC03MTY0MDA4MTIsMTYxMjM0MDg0NCwyMDAxMzMz
-NDM1XX0=
+eyJoaXN0b3J5IjpbNDg5NDQyMzgsLTIwMDYwMjc4MTYsLTY0Mz
+QyMTY0NiwtMjI0ODkwOTg1LC02Mjk2MTcxNzUsMjA1Njc1Njg4
+NCwyMTY5OTA4OTksMTI5MTQ1ODkwOSw5ODcyNjAyOTUsLTIxOT
+QwNjM0Myw3OTYwNDI3ODEsMzcyMzA3Mjg4LC0xMDA1Mjg3MzY1
+LC02NjE0ODY1MTUsLTExNTc1Mzk2NTcsLTg2OTIyNDM1OSw0Nz
+YxNzgyMTcsLTcxNjQwMDgxMiwxNjEyMzQwODQ0LDIwMDEzMzM0
+MzVdfQ==
 -->
