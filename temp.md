@@ -16,6 +16,7 @@ http://www.101books.ru/
 
 book search
 https://it-ebooks24.com/
+https://www.buecher.de/
 https://www.pdfchm.net/
 https://www.bokus.com/
 
@@ -4583,11 +4584,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3Mzk2ODI3MywxNTMxMDg4NTczLC02OT
-I0MzYxNzQsLTU0MjM1NDExNywyMTMwMzQzNDIsNDg5NDQyMzgs
-LTIwMDYwMjc4MTYsLTY0MzQyMTY0NiwtMjI0ODkwOTg1LC02Mj
-k2MTcxNzUsMjA1Njc1Njg4NCwyMTY5OTA4OTksMTI5MTQ1ODkw
-OSw5ODcyNjAyOTUsLTIxOTQwNjM0Myw3OTYwNDI3ODEsMzcyMz
-A3Mjg4LC0xMDA1Mjg3MzY1LC02NjE0ODY1MTUsLTExNTc1Mzk2
-NTddfQ==
+eyJoaXN0b3J5IjpbLTExNTM5NDQ1OTksLTM3Mzk2ODI3MywxNT
+MxMDg4NTczLC02OTI0MzYxNzQsLTU0MjM1NDExNywyMTMwMzQz
+NDIsNDg5NDQyMzgsLTIwMDYwMjc4MTYsLTY0MzQyMTY0NiwtMj
+I0ODkwOTg1LC02Mjk2MTcxNzUsMjA1Njc1Njg4NCwyMTY5OTA4
+OTksMTI5MTQ1ODkwOSw5ODcyNjAyOTUsLTIxOTQwNjM0Myw3OT
+YwNDI3ODEsMzcyMzA3Mjg4LC0xMDA1Mjg3MzY1LC02NjE0ODY1
+MTVdfQ==
 -->
