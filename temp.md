@@ -1,4 +1,6 @@
 ### 5.13
+https://www.gnu.org/software/grep/manual/
+
 book download
 https://bbooks.info/books/computer-internet/programming
 http://www.allitebooks.org/
@@ -4584,11 +4586,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTM5NDQ1OTksLTM3Mzk2ODI3MywxNT
-MxMDg4NTczLC02OTI0MzYxNzQsLTU0MjM1NDExNywyMTMwMzQz
-NDIsNDg5NDQyMzgsLTIwMDYwMjc4MTYsLTY0MzQyMTY0NiwtMj
-I0ODkwOTg1LC02Mjk2MTcxNzUsMjA1Njc1Njg4NCwyMTY5OTA4
-OTksMTI5MTQ1ODkwOSw5ODcyNjAyOTUsLTIxOTQwNjM0Myw3OT
-YwNDI3ODEsMzcyMzA3Mjg4LC0xMDA1Mjg3MzY1LC02NjE0ODY1
-MTVdfQ==
+eyJoaXN0b3J5IjpbNTI0MTIxNjE0LC0zNzM5NjgyNzMsMTUzMT
+A4ODU3MywtNjkyNDM2MTc0LC01NDIzNTQxMTcsMjEzMDM0MzQy
+LDQ4OTQ0MjM4LC0yMDA2MDI3ODE2LC02NDM0MjE2NDYsLTIyND
+g5MDk4NSwtNjI5NjE3MTc1LDIwNTY3NTY4ODQsMjE2OTkwODk5
+LDEyOTE0NTg5MDksOTg3MjYwMjk1LC0yMTk0MDYzNDMsNzk2MD
+QyNzgxLDM3MjMwNzI4OCwtMTAwNTI4NzM2NSwtNjYxNDg2NTE1
+XX0=
 -->
