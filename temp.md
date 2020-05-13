@@ -6,6 +6,7 @@ https://libgen.pw/
 https://libgen.lc/
 https://b-ok.cc/
 http://www.ebooksearchengine.net/
+https://forcoder.su/
 
 搜索
 https://library.buffalo.edu/findmaterials/ebooks/multi-search.html
@@ -4598,11 +4599,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0OTEwNzYwMCwtMTA5MTA1NzE4Niw1Mj
-QxMjE2MTQsLTM3Mzk2ODI3MywxNTMxMDg4NTczLC02OTI0MzYx
-NzQsLTU0MjM1NDExNywyMTMwMzQzNDIsNDg5NDQyMzgsLTIwMD
-YwMjc4MTYsLTY0MzQyMTY0NiwtMjI0ODkwOTg1LC02Mjk2MTcx
-NzUsMjA1Njc1Njg4NCwyMTY5OTA4OTksMTI5MTQ1ODkwOSw5OD
-cyNjAyOTUsLTIxOTQwNjM0Myw3OTYwNDI3ODEsMzcyMzA3Mjg4
-XX0=
+eyJoaXN0b3J5IjpbLTMyMjc4MjIyOCwtNjQ5MTA3NjAwLC0xMD
+kxMDU3MTg2LDUyNDEyMTYxNCwtMzczOTY4MjczLDE1MzEwODg1
+NzMsLTY5MjQzNjE3NCwtNTQyMzU0MTE3LDIxMzAzNDM0Miw0OD
+k0NDIzOCwtMjAwNjAyNzgxNiwtNjQzNDIxNjQ2LC0yMjQ4OTA5
+ODUsLTYyOTYxNzE3NSwyMDU2NzU2ODg0LDIxNjk5MDg5OSwxMj
+kxNDU4OTA5LDk4NzI2MDI5NSwtMjE5NDA2MzQzLDc5NjA0Mjc4
+MV19
 -->
