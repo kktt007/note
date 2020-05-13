@@ -1,9 +1,12 @@
 ### 5.13
+https://chaoli.club/index.php/conversations/tech
 ```
 这才是真正的书 Learn Python The Hard Way
 http://gen.lib.rus.ec/
 https://libgen.pw/
 https://libgen.lc/
+https://libgen.me/
+https://libgen.is/
 https://b-ok.cc/
 https://textbooknova.com/
 http://www.ebooksearchengine.net/
@@ -4607,11 +4610,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNDc0NDY2MiwtOTEzNjQ3NDgsMTc3ND
-g5MDc2LC0yOTI1NzUyMDcsMTMzMTY2MTg3NCwtMzIyNzgyMjI4
-LC02NDkxMDc2MDAsLTEwOTEwNTcxODYsNTI0MTIxNjE0LC0zNz
-M5NjgyNzMsMTUzMTA4ODU3MywtNjkyNDM2MTc0LC01NDIzNTQx
-MTcsMjEzMDM0MzQyLDQ4OTQ0MjM4LC0yMDA2MDI3ODE2LC02ND
-M0MjE2NDYsLTIyNDg5MDk4NSwtNjI5NjE3MTc1LDIwNTY3NTY4
-ODRdfQ==
+eyJoaXN0b3J5IjpbMTkyNDc0NzM4NiwxNjA0NzQ0NjYyLC05MT
+M2NDc0OCwxNzc0ODkwNzYsLTI5MjU3NTIwNywxMzMxNjYxODc0
+LC0zMjI3ODIyMjgsLTY0OTEwNzYwMCwtMTA5MTA1NzE4Niw1Mj
+QxMjE2MTQsLTM3Mzk2ODI3MywxNTMxMDg4NTczLC02OTI0MzYx
+NzQsLTU0MjM1NDExNywyMTMwMzQzNDIsNDg5NDQyMzgsLTIwMD
+YwMjc4MTYsLTY0MzQyMTY0NiwtMjI0ODkwOTg1LC02Mjk2MTcx
+NzVdfQ==
 -->
