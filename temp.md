@@ -7,6 +7,7 @@ http://regex.info/book.html
 http://freecomputerbooks.com/Learn-Regex-The-Hard-Way.html
 https://epdf.pub/
 http://wu57.cn/
+https://edubookpdf.com/
 
 
 book search
@@ -4573,7 +4574,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYwNzgxMTkzLC0yMDA2MDI3ODE2LC02ND
+eyJoaXN0b3J5IjpbNDA2NTU0NDExLC0yMDA2MDI3ODE2LC02ND
 M0MjE2NDYsLTIyNDg5MDk4NSwtNjI5NjE3MTc1LDIwNTY3NTY4
 ODQsMjE2OTkwODk5LDEyOTE0NTg5MDksOTg3MjYwMjk1LC0yMT
 k0MDYzNDMsNzk2MDQyNzgxLDM3MjMwNzI4OCwtMTAwNTI4NzM2
