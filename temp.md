@@ -10,6 +10,7 @@ http://www.ebooksearchengine.net/
 https://forcoder.su/
 http://www.ebook3000.com/
 https://it-ebooks-search.info/
+http://www.free-ebook-download.net
 https://www.4shared.com/
 
 搜索
@@ -4603,11 +4604,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NDg5MDc2LC0yOTI1NzUyMDcsMTMzMT
-Y2MTg3NCwtMzIyNzgyMjI4LC02NDkxMDc2MDAsLTEwOTEwNTcx
-ODYsNTI0MTIxNjE0LC0zNzM5NjgyNzMsMTUzMTA4ODU3MywtNj
-kyNDM2MTc0LC01NDIzNTQxMTcsMjEzMDM0MzQyLDQ4OTQ0MjM4
-LC0yMDA2MDI3ODE2LC02NDM0MjE2NDYsLTIyNDg5MDk4NSwtNj
-I5NjE3MTc1LDIwNTY3NTY4ODQsMjE2OTkwODk5LDEyOTE0NTg5
-MDldfQ==
+eyJoaXN0b3J5IjpbLTkxMzY0NzQ4LDE3NzQ4OTA3NiwtMjkyNT
+c1MjA3LDEzMzE2NjE4NzQsLTMyMjc4MjIyOCwtNjQ5MTA3NjAw
+LC0xMDkxMDU3MTg2LDUyNDEyMTYxNCwtMzczOTY4MjczLDE1Mz
+EwODg1NzMsLTY5MjQzNjE3NCwtNTQyMzU0MTE3LDIxMzAzNDM0
+Miw0ODk0NDIzOCwtMjAwNjAyNzgxNiwtNjQzNDIxNjQ2LC0yMj
+Q4OTA5ODUsLTYyOTYxNzE3NSwyMDU2NzU2ODg0LDIxNjk5MDg5
+OV19
 -->
