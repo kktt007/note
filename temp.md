@@ -2,6 +2,7 @@
 购物网站 粉丝福利
 https://www.fensifuligou.net/
 http://www.lq5u.com/
+http://www.51fuligo.cn/
 ### 5.13
 https://chaoli.club/index.php/conversations/tech
 ```
@@ -4614,11 +4615,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjQ2MzA4MjEsMTkyNDc0NzM4NiwxOT
-I0NzQ3Mzg2LDE2MDQ3NDQ2NjIsLTkxMzY0NzQ4LDE3NzQ4OTA3
-NiwtMjkyNTc1MjA3LDEzMzE2NjE4NzQsLTMyMjc4MjIyOCwtNj
-Q5MTA3NjAwLC0xMDkxMDU3MTg2LDUyNDEyMTYxNCwtMzczOTY4
-MjczLDE1MzEwODg1NzMsLTY5MjQzNjE3NCwtNTQyMzU0MTE3LD
-IxMzAzNDM0Miw0ODk0NDIzOCwtMjAwNjAyNzgxNiwtNjQzNDIx
-NjQ2XX0=
+eyJoaXN0b3J5IjpbLTE1NDczOTE3NTYsLTE0NjQ2MzA4MjEsMT
+kyNDc0NzM4NiwxOTI0NzQ3Mzg2LDE2MDQ3NDQ2NjIsLTkxMzY0
+NzQ4LDE3NzQ4OTA3NiwtMjkyNTc1MjA3LDEzMzE2NjE4NzQsLT
+MyMjc4MjIyOCwtNjQ5MTA3NjAwLC0xMDkxMDU3MTg2LDUyNDEy
+MTYxNCwtMzczOTY4MjczLDE1MzEwODg1NzMsLTY5MjQzNjE3NC
+wtNTQyMzU0MTE3LDIxMzAzNDM0Miw0ODk0NDIzOCwtMjAwNjAy
+NzgxNl19
 -->
