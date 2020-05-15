@@ -1,6 +1,6 @@
 ### 5.15
 http://www.manmanbuy.com/
-# Panasonic 松下 ES-WSL7D 电动剃须刀
+Panasonic 松下 ES-WSL7D 电动剃须刀
 
 ### 5.14
 购物网站 粉丝福利
@@ -4619,7 +4619,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDY2MDM2NDQsLTE0NjQ2MzA4MjEsMT
+eyJoaXN0b3J5IjpbLTEwNzYxMzc2NjMsLTE0NjQ2MzA4MjEsMT
 kyNDc0NzM4NiwxOTI0NzQ3Mzg2LDE2MDQ3NDQ2NjIsLTkxMzY0
 NzQ4LDE3NzQ4OTA3NiwtMjkyNTc1MjA3LDEzMzE2NjE4NzQsLT
 MyMjc4MjIyOCwtNjQ5MTA3NjAwLC0xMDkxMDU3MTg2LDUyNDEy
