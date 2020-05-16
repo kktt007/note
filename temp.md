@@ -11,6 +11,7 @@ close()
 
 https://www.cnblogs.com/kevingrace/p/8481965.html
 
+https://www.cnblogs.com/dwdxdy/archive/2012/07/25/2608816.html
 
 ### 5.15
 http://www.manmanbuy.com/
@@ -4634,11 +4635,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyODkyMjI0NiwtMjExMzYxNTY0LDI2Nz
-c4NTczOCwtMTA3NjEzNzY2MywtMTQ2NDYzMDgyMSwxOTI0NzQ3
-Mzg2LDE5MjQ3NDczODYsMTYwNDc0NDY2MiwtOTEzNjQ3NDgsMT
-c3NDg5MDc2LC0yOTI1NzUyMDcsMTMzMTY2MTg3NCwtMzIyNzgy
-MjI4LC02NDkxMDc2MDAsLTEwOTEwNTcxODYsNTI0MTIxNjE0LC
-0zNzM5NjgyNzMsMTUzMTA4ODU3MywtNjkyNDM2MTc0LC01NDIz
-NTQxMTddfQ==
+eyJoaXN0b3J5IjpbLTUxNzg2Mzk5NiwtODI4OTIyMjQ2LC0yMT
+EzNjE1NjQsMjY3Nzg1NzM4LC0xMDc2MTM3NjYzLC0xNDY0NjMw
+ODIxLDE5MjQ3NDczODYsMTkyNDc0NzM4NiwxNjA0NzQ0NjYyLC
+05MTM2NDc0OCwxNzc0ODkwNzYsLTI5MjU3NTIwNywxMzMxNjYx
+ODc0LC0zMjI3ODIyMjgsLTY0OTEwNzYwMCwtMTA5MTA1NzE4Ni
+w1MjQxMjE2MTQsLTM3Mzk2ODI3MywxNTMxMDg4NTczLC02OTI0
+MzYxNzRdfQ==
 -->
