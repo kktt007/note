@@ -1,3 +1,25 @@
+### 5.18
+## clash for windows 配置
+C:\Users\Administrator\.config\clash
+clash for trojan:
+https://sub.diy45.com/sub?target=clash&config=https%3A%2F%2Fgist.githubusercontent.com%2Ftindy2013%2F1fa08640a9088ac8652dbd40c5d2715b%2Fraw%2Fconnershua_pro.ini&emoji=false&list=false&sort=false&udp=true&tfo=true&scv=true&append_type=false&fdn=true&url=https://www.dotunnel005.com//link/kXCwhaoivowuAA1U?mu=3
+
+clash for v2ray:
+https://sub.diy45.com/sub?target=clash&url=https%3A%2F%2Fwww.dotunnel005.com%2F%2Flink%2FkXCwhaoivowuAA1U%3Fmu%3D2&insert=false&config=https%3A%2F%2Fsubconverter.s3-ap-southeast-1.amazonaws.com%2FRemoteConfig%2Funiversal%2Fno-urltest.ini&filename=clash-dotunnel&emoji=true&list=false&udp=false&tfo=false&scv=true&fdn=false&sort=false
+
+https://docs.tzct.xyz/advanced/rules
+https://docs.cfw.lbyczf.com/contents/ui/general.html
+https://www.rultr.com/tutorials/proxy/3957.html
+https://medium.com/@scomper/surge-%E5%AE%9A%E5%88%B6%E8%87%AA%E5%B7%B1%E7%9A%84%E8%A7%84%E5%88%99%E9%85%8D%E7%BD%AE-34a6d74b0434
+rules:
+  - DOMAIN-SUFFIX,ys168.com,Domestic
+  - DOMAIN-SUFFIX,126.com,DIRECT
+  - IP-CIDR,220.196.52.141/32,Hijacking,no-resolve
+
+  - DOMAIN-SUFFIX,gmail.com,Proxies
+  - IP-CIDR,173.245.48.0/20,Proxies
+  - IP-CIDR,91.108.4.0/22,Telegram,no-resolve
+  - IP-CIDR,3.123.36.126/32,Proxies,no-resolve
 
 ### 5.16
 https://bookdown.org/xiao/RAnalysisBook/
@@ -4636,11 +4658,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc5MDU5NTQyLC01MTc4NjM5OTYsLTgyOD
-kyMjI0NiwtMjExMzYxNTY0LDI2Nzc4NTczOCwtMTA3NjEzNzY2
-MywtMTQ2NDYzMDgyMSwxOTI0NzQ3Mzg2LDE5MjQ3NDczODYsMT
-YwNDc0NDY2MiwtOTEzNjQ3NDgsMTc3NDg5MDc2LC0yOTI1NzUy
-MDcsMTMzMTY2MTg3NCwtMzIyNzgyMjI4LC02NDkxMDc2MDAsLT
-EwOTEwNTcxODYsNTI0MTIxNjE0LC0zNzM5NjgyNzMsMTUzMTA4
-ODU3M119
+eyJoaXN0b3J5IjpbLTE5MDgzNjM3MTYsLTUxNzg2Mzk5NiwtOD
+I4OTIyMjQ2LC0yMTEzNjE1NjQsMjY3Nzg1NzM4LC0xMDc2MTM3
+NjYzLC0xNDY0NjMwODIxLDE5MjQ3NDczODYsMTkyNDc0NzM4Ni
+wxNjA0NzQ0NjYyLC05MTM2NDc0OCwxNzc0ODkwNzYsLTI5MjU3
+NTIwNywxMzMxNjYxODc0LC0zMjI3ODIyMjgsLTY0OTEwNzYwMC
+wtMTA5MTA1NzE4Niw1MjQxMjE2MTQsLTM3Mzk2ODI3MywxNTMx
+MDg4NTczXX0=
 -->
