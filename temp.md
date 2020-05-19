@@ -35,6 +35,16 @@ https://www.tecmint.com/find-mounted-file-systems-in-linux/
 https://www.tecmint.com/create-disk-partitions-in-linux/
 https://www.tecmint.com/linux-tree-command-examples/
 
+[windows网络问题](http://kms.lenovots.com/kb/article.php?id=16186)
+netsh winsock reset
+运行”,输入services.msc,找到WLAN auto config(或Wireless Zero Configuration
+
+无线网络配置
+
+选项卡
+Windows
+配置我的无线网络设置
+
 ### 5.18
 ## clash for windows 配置
 C:\Users\Administrator\.config\clash
@@ -4695,11 +4705,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxODU0MjQxOSw2NDA1MjYwNTgsMTU5ND
-I5MDY2MSwtMTkwODM2MzcxNiwtNTE3ODYzOTk2LC04Mjg5MjIy
-NDYsLTIxMTM2MTU2NCwyNjc3ODU3MzgsLTEwNzYxMzc2NjMsLT
-E0NjQ2MzA4MjEsMTkyNDc0NzM4NiwxOTI0NzQ3Mzg2LDE2MDQ3
-NDQ2NjIsLTkxMzY0NzQ4LDE3NzQ4OTA3NiwtMjkyNTc1MjA3LD
-EzMzE2NjE4NzQsLTMyMjc4MjIyOCwtNjQ5MTA3NjAwLC0xMDkx
-MDU3MTg2XX0=
+eyJoaXN0b3J5IjpbNDExMTAxNDkxLC00MTg1NDI0MTksNjQwNT
+I2MDU4LDE1OTQyOTA2NjEsLTE5MDgzNjM3MTYsLTUxNzg2Mzk5
+NiwtODI4OTIyMjQ2LC0yMTEzNjE1NjQsMjY3Nzg1NzM4LC0xMD
+c2MTM3NjYzLC0xNDY0NjMwODIxLDE5MjQ3NDczODYsMTkyNDc0
+NzM4NiwxNjA0NzQ0NjYyLC05MTM2NDc0OCwxNzc0ODkwNzYsLT
+I5MjU3NTIwNywxMzMxNjYxODc0LC0zMjI3ODIyMjgsLTY0OTEw
+NzYwMF19
 -->
