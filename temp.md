@@ -1,6 +1,7 @@
 ### 5.19
 [linux study](https://www.linuxcommands.site/)
-
+https://leanpub.com/jelinux/read
+https://www.tldp.org/LDP/intro-linux/html/sect_03_01.html
 https://linuxhandbook.com/linux-commands/
 https://www.techonthenet.com/linux/commands/index.php
 [look up](https://linux.die.net/man/)
@@ -8,6 +9,12 @@ https://www.systutorials.com/docs/linux/man/
 
 [bash study](https://www.tldp.org/LDP/abs/html/index.html)
 [command beautiful](https://dashdash.io/1)
+
+h human-readable
+
+https://www.tldp.org/LDP/intro-linux/html/intro-linux.html
+http://www2.geog.ucl.ac.uk/~plewis/teaching/unix/unix_cmds.html
+http://kimbriggs.com/computer/linux-commands
 
 ### 5.18
 ## clash for windows 配置
@@ -4669,11 +4676,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MDA5OTE5MSwxNTk0MjkwNjYxLC0xOT
-A4MzYzNzE2LC01MTc4NjM5OTYsLTgyODkyMjI0NiwtMjExMzYx
-NTY0LDI2Nzc4NTczOCwtMTA3NjEzNzY2MywtMTQ2NDYzMDgyMS
-wxOTI0NzQ3Mzg2LDE5MjQ3NDczODYsMTYwNDc0NDY2MiwtOTEz
-NjQ3NDgsMTc3NDg5MDc2LC0yOTI1NzUyMDcsMTMzMTY2MTg3NC
-wtMzIyNzgyMjI4LC02NDkxMDc2MDAsLTEwOTEwNTcxODYsNTI0
-MTIxNjE0XX0=
+eyJoaXN0b3J5IjpbNjQwNTI2MDU4LDE1OTQyOTA2NjEsLTE5MD
+gzNjM3MTYsLTUxNzg2Mzk5NiwtODI4OTIyMjQ2LC0yMTEzNjE1
+NjQsMjY3Nzg1NzM4LC0xMDc2MTM3NjYzLC0xNDY0NjMwODIxLD
+E5MjQ3NDczODYsMTkyNDc0NzM4NiwxNjA0NzQ0NjYyLC05MTM2
+NDc0OCwxNzc0ODkwNzYsLTI5MjU3NTIwNywxMzMxNjYxODc0LC
+0zMjI3ODIyMjgsLTY0OTEwNzYwMCwtMTA5MTA1NzE4Niw1MjQx
+MjE2MTRdfQ==
 -->
