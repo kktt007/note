@@ -1,3 +1,13 @@
+### 5.19
+[linux study](https://www.linuxcommands.site/)
+https://linuxhandbook.com/linux-commands/
+https://www.techonthenet.com/linux/commands/index.php
+[look up](https://linux.die.net/man/)
+https://www.systutorials.com/docs/linux/man/
+
+[bash study](https://www.tldp.org/LDP/abs/html/index.html)
+[command beautiful](https://dashdash.io/1)
+
 ### 5.18
 ## clash for windows 配置
 C:\Users\Administrator\.config\clash
@@ -4658,11 +4668,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDgzNjM3MTYsLTUxNzg2Mzk5NiwtOD
-I4OTIyMjQ2LC0yMTEzNjE1NjQsMjY3Nzg1NzM4LC0xMDc2MTM3
-NjYzLC0xNDY0NjMwODIxLDE5MjQ3NDczODYsMTkyNDc0NzM4Ni
-wxNjA0NzQ0NjYyLC05MTM2NDc0OCwxNzc0ODkwNzYsLTI5MjU3
-NTIwNywxMzMxNjYxODc0LC0zMjI3ODIyMjgsLTY0OTEwNzYwMC
-wtMTA5MTA1NzE4Niw1MjQxMjE2MTQsLTM3Mzk2ODI3MywxNTMx
-MDg4NTczXX0=
+eyJoaXN0b3J5IjpbMTU5NDI5MDY2MSwtMTkwODM2MzcxNiwtNT
+E3ODYzOTk2LC04Mjg5MjIyNDYsLTIxMTM2MTU2NCwyNjc3ODU3
+MzgsLTEwNzYxMzc2NjMsLTE0NjQ2MzA4MjEsMTkyNDc0NzM4Ni
+wxOTI0NzQ3Mzg2LDE2MDQ3NDQ2NjIsLTkxMzY0NzQ4LDE3NzQ4
+OTA3NiwtMjkyNTc1MjA3LDEzMzE2NjE4NzQsLTMyMjc4MjIyOC
+wtNjQ5MTA3NjAwLC0xMDkxMDU3MTg2LDUyNDEyMTYxNCwtMzcz
+OTY4MjczXX0=
 -->
