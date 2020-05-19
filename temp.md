@@ -1,4 +1,7 @@
 ### 5.19
+
+https://www.mingyantong.com/ju/72805
+
 [linux study](https://www.linuxcommands.site/)
 https://leanpub.com/jelinux/read
 https://www.tldp.org/LDP/intro-linux/html/sect_03_01.html
@@ -4705,11 +4708,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDExMTAxNDkxLC00MTg1NDI0MTksNjQwNT
-I2MDU4LDE1OTQyOTA2NjEsLTE5MDgzNjM3MTYsLTUxNzg2Mzk5
-NiwtODI4OTIyMjQ2LC0yMTEzNjE1NjQsMjY3Nzg1NzM4LC0xMD
-c2MTM3NjYzLC0xNDY0NjMwODIxLDE5MjQ3NDczODYsMTkyNDc0
-NzM4NiwxNjA0NzQ0NjYyLC05MTM2NDc0OCwxNzc0ODkwNzYsLT
-I5MjU3NTIwNywxMzMxNjYxODc0LC0zMjI3ODIyMjgsLTY0OTEw
-NzYwMF19
+eyJoaXN0b3J5IjpbODQ4NDM5NTg4LDQxMTEwMTQ5MSwtNDE4NT
+QyNDE5LDY0MDUyNjA1OCwxNTk0MjkwNjYxLC0xOTA4MzYzNzE2
+LC01MTc4NjM5OTYsLTgyODkyMjI0NiwtMjExMzYxNTY0LDI2Nz
+c4NTczOCwtMTA3NjEzNzY2MywtMTQ2NDYzMDgyMSwxOTI0NzQ3
+Mzg2LDE5MjQ3NDczODYsMTYwNDc0NDY2MiwtOTEzNjQ3NDgsMT
+c3NDg5MDc2LC0yOTI1NzUyMDcsMTMzMTY2MTg3NCwtMzIyNzgy
+MjI4XX0=
 -->
