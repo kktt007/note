@@ -1,5 +1,5 @@
 ### 5.19
-
+https://www.computerhope.com/jargon/keyboard.htm
 https://www.mingyantong.com/ju/72805
 
 [linux study](https://www.linuxcommands.site/)
@@ -4708,11 +4708,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ4NDM5NTg4LDQxMTEwMTQ5MSwtNDE4NT
-QyNDE5LDY0MDUyNjA1OCwxNTk0MjkwNjYxLC0xOTA4MzYzNzE2
-LC01MTc4NjM5OTYsLTgyODkyMjI0NiwtMjExMzYxNTY0LDI2Nz
-c4NTczOCwtMTA3NjEzNzY2MywtMTQ2NDYzMDgyMSwxOTI0NzQ3
-Mzg2LDE5MjQ3NDczODYsMTYwNDc0NDY2MiwtOTEzNjQ3NDgsMT
-c3NDg5MDc2LC0yOTI1NzUyMDcsMTMzMTY2MTg3NCwtMzIyNzgy
-MjI4XX0=
+eyJoaXN0b3J5IjpbMjc4MzM3NzYzLDg0ODQzOTU4OCw0MTExMD
+E0OTEsLTQxODU0MjQxOSw2NDA1MjYwNTgsMTU5NDI5MDY2MSwt
+MTkwODM2MzcxNiwtNTE3ODYzOTk2LC04Mjg5MjIyNDYsLTIxMT
+M2MTU2NCwyNjc3ODU3MzgsLTEwNzYxMzc2NjMsLTE0NjQ2MzA4
+MjEsMTkyNDc0NzM4NiwxOTI0NzQ3Mzg2LDE2MDQ3NDQ2NjIsLT
+kxMzY0NzQ4LDE3NzQ4OTA3NiwtMjkyNTc1MjA3LDEzMzE2NjE4
+NzRdfQ==
 -->
