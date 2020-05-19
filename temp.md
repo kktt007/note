@@ -16,6 +16,25 @@ https://www.tldp.org/LDP/intro-linux/html/intro-linux.html
 http://www2.geog.ucl.ac.uk/~plewis/teaching/unix/unix_cmds.html
 http://kimbriggs.com/computer/linux-commands
 
+Find My DNS Server IP Address
+
+1. 
+$ cat /etc/resolv.conf
+OR
+$ less /etc/resolv.conf
+
+2. 
+$ grep "nameserver" /etc/resolv.conf
+
+nameserver 109.78.164.20
+
+https://www.tecmint.com/install-netstat-in-linux/
+https://www.tecmint.com/install-dig-and-nslookup-in-linux/
+https://www.tecmint.com/list-all-running-services-under-systemd-in-linux/
+https://www.tecmint.com/find-mounted-file-systems-in-linux/
+https://www.tecmint.com/create-disk-partitions-in-linux/
+https://www.tecmint.com/linux-tree-command-examples/
+
 ### 5.18
 ## clash for windows 配置
 C:\Users\Administrator\.config\clash
@@ -4676,11 +4695,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQwNTI2MDU4LDE1OTQyOTA2NjEsLTE5MD
-gzNjM3MTYsLTUxNzg2Mzk5NiwtODI4OTIyMjQ2LC0yMTEzNjE1
-NjQsMjY3Nzg1NzM4LC0xMDc2MTM3NjYzLC0xNDY0NjMwODIxLD
-E5MjQ3NDczODYsMTkyNDc0NzM4NiwxNjA0NzQ0NjYyLC05MTM2
-NDc0OCwxNzc0ODkwNzYsLTI5MjU3NTIwNywxMzMxNjYxODc0LC
-0zMjI3ODIyMjgsLTY0OTEwNzYwMCwtMTA5MTA1NzE4Niw1MjQx
-MjE2MTRdfQ==
+eyJoaXN0b3J5IjpbLTQxODU0MjQxOSw2NDA1MjYwNTgsMTU5ND
+I5MDY2MSwtMTkwODM2MzcxNiwtNTE3ODYzOTk2LC04Mjg5MjIy
+NDYsLTIxMTM2MTU2NCwyNjc3ODU3MzgsLTEwNzYxMzc2NjMsLT
+E0NjQ2MzA4MjEsMTkyNDc0NzM4NiwxOTI0NzQ3Mzg2LDE2MDQ3
+NDQ2NjIsLTkxMzY0NzQ4LDE3NzQ4OTA3NiwtMjkyNTc1MjA3LD
+EzMzE2NjE4NzQsLTMyMjc4MjIyOCwtNjQ5MTA3NjAwLC0xMDkx
+MDU3MTg2XX0=
 -->
