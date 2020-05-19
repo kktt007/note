@@ -1,5 +1,6 @@
 ### 5.19
 [linux study](https://www.linuxcommands.site/)
+
 https://linuxhandbook.com/linux-commands/
 https://www.techonthenet.com/linux/commands/index.php
 [look up](https://linux.die.net/man/)
@@ -4668,11 +4669,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NDI5MDY2MSwtMTkwODM2MzcxNiwtNT
-E3ODYzOTk2LC04Mjg5MjIyNDYsLTIxMTM2MTU2NCwyNjc3ODU3
-MzgsLTEwNzYxMzc2NjMsLTE0NjQ2MzA4MjEsMTkyNDc0NzM4Ni
-wxOTI0NzQ3Mzg2LDE2MDQ3NDQ2NjIsLTkxMzY0NzQ4LDE3NzQ4
-OTA3NiwtMjkyNTc1MjA3LDEzMzE2NjE4NzQsLTMyMjc4MjIyOC
-wtNjQ5MTA3NjAwLC0xMDkxMDU3MTg2LDUyNDEyMTYxNCwtMzcz
-OTY4MjczXX0=
+eyJoaXN0b3J5IjpbMTM3MDA5OTE5MSwxNTk0MjkwNjYxLC0xOT
+A4MzYzNzE2LC01MTc4NjM5OTYsLTgyODkyMjI0NiwtMjExMzYx
+NTY0LDI2Nzc4NTczOCwtMTA3NjEzNzY2MywtMTQ2NDYzMDgyMS
+wxOTI0NzQ3Mzg2LDE5MjQ3NDczODYsMTYwNDc0NDY2MiwtOTEz
+NjQ3NDgsMTc3NDg5MDc2LC0yOTI1NzUyMDcsMTMzMTY2MTg3NC
+wtMzIyNzgyMjI4LC02NDkxMDc2MDAsLTEwOTEwNTcxODYsNTI0
+MTIxNjE0XX0=
 -->
