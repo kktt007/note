@@ -44,6 +44,7 @@ netsh winsock reset
 
 无线网络配置
 ncpa.cpl
+**ncpa** = **Network Control Panel Applet**. **cpl** = **Control Panel**.
 选项卡
 Windows
 配置我的无线网络设置
@@ -4708,11 +4709,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNDUyNzM0MCwyNzgzMzc3NjMsODQ4ND
-M5NTg4LDQxMTEwMTQ5MSwtNDE4NTQyNDE5LDY0MDUyNjA1OCwx
-NTk0MjkwNjYxLC0xOTA4MzYzNzE2LC01MTc4NjM5OTYsLTgyOD
-kyMjI0NiwtMjExMzYxNTY0LDI2Nzc4NTczOCwtMTA3NjEzNzY2
-MywtMTQ2NDYzMDgyMSwxOTI0NzQ3Mzg2LDE5MjQ3NDczODYsMT
-YwNDc0NDY2MiwtOTEzNjQ3NDgsMTc3NDg5MDc2LC0yOTI1NzUy
-MDddfQ==
+eyJoaXN0b3J5IjpbLTE2NTM0NzYzMTcsMTUxNDUyNzM0MCwyNz
+gzMzc3NjMsODQ4NDM5NTg4LDQxMTEwMTQ5MSwtNDE4NTQyNDE5
+LDY0MDUyNjA1OCwxNTk0MjkwNjYxLC0xOTA4MzYzNzE2LC01MT
+c4NjM5OTYsLTgyODkyMjI0NiwtMjExMzYxNTY0LDI2Nzc4NTcz
+OCwtMTA3NjEzNzY2MywtMTQ2NDYzMDgyMSwxOTI0NzQ3Mzg2LD
+E5MjQ3NDczODYsMTYwNDc0NDY2MiwtOTEzNjQ3NDgsMTc3NDg5
+MDc2XX0=
 -->
