@@ -43,7 +43,7 @@ netsh winsock reset
 运行”,输入services.msc,找到WLAN auto config(或Wireless Zero Configuration
 
 无线网络配置
-
+ncpa.cpl
 选项卡
 Windows
 配置我的无线网络设置
@@ -4708,11 +4708,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc4MzM3NzYzLDg0ODQzOTU4OCw0MTExMD
-E0OTEsLTQxODU0MjQxOSw2NDA1MjYwNTgsMTU5NDI5MDY2MSwt
-MTkwODM2MzcxNiwtNTE3ODYzOTk2LC04Mjg5MjIyNDYsLTIxMT
-M2MTU2NCwyNjc3ODU3MzgsLTEwNzYxMzc2NjMsLTE0NjQ2MzA4
-MjEsMTkyNDc0NzM4NiwxOTI0NzQ3Mzg2LDE2MDQ3NDQ2NjIsLT
-kxMzY0NzQ4LDE3NzQ4OTA3NiwtMjkyNTc1MjA3LDEzMzE2NjE4
-NzRdfQ==
+eyJoaXN0b3J5IjpbMTUxNDUyNzM0MCwyNzgzMzc3NjMsODQ4ND
+M5NTg4LDQxMTEwMTQ5MSwtNDE4NTQyNDE5LDY0MDUyNjA1OCwx
+NTk0MjkwNjYxLC0xOTA4MzYzNzE2LC01MTc4NjM5OTYsLTgyOD
+kyMjI0NiwtMjExMzYxNTY0LDI2Nzc4NTczOCwtMTA3NjEzNzY2
+MywtMTQ2NDYzMDgyMSwxOTI0NzQ3Mzg2LDE5MjQ3NDczODYsMT
+YwNDc0NDY2MiwtOTEzNjQ3NDgsMTc3NDg5MDc2LC0yOTI1NzUy
+MDddfQ==
 -->
