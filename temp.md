@@ -1,5 +1,6 @@
 ### 5.21
 chrome插件 http://www.chromezj.com/plugin/gongju
+https://addons.mozilla.org/en-US/firefox/addon/bookmark-dupes/?src=recommended
 
 输入法启用快捷键参考
 搜狗 CTRL+COMMA
@@ -4718,11 +4719,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTAzMTIzNjQsLTExMDYwODMxNDksLT
-E1Njg5Nzg4MDMsLTE2NTM0NzYzMTcsMTUxNDUyNzM0MCwyNzgz
-Mzc3NjMsODQ4NDM5NTg4LDQxMTEwMTQ5MSwtNDE4NTQyNDE5LD
-Y0MDUyNjA1OCwxNTk0MjkwNjYxLC0xOTA4MzYzNzE2LC01MTc4
-NjM5OTYsLTgyODkyMjI0NiwtMjExMzYxNTY0LDI2Nzc4NTczOC
-wtMTA3NjEzNzY2MywtMTQ2NDYzMDgyMSwxOTI0NzQ3Mzg2LDE5
-MjQ3NDczODZdfQ==
+eyJoaXN0b3J5IjpbLTE0MDkzMjU3OTcsLTE4NTAzMTIzNjQsLT
+ExMDYwODMxNDksLTE1Njg5Nzg4MDMsLTE2NTM0NzYzMTcsMTUx
+NDUyNzM0MCwyNzgzMzc3NjMsODQ4NDM5NTg4LDQxMTEwMTQ5MS
+wtNDE4NTQyNDE5LDY0MDUyNjA1OCwxNTk0MjkwNjYxLC0xOTA4
+MzYzNzE2LC01MTc4NjM5OTYsLTgyODkyMjI0NiwtMjExMzYxNT
+Y0LDI2Nzc4NTczOCwtMTA3NjEzNzY2MywtMTQ2NDYzMDgyMSwx
+OTI0NzQ3Mzg2XX0=
 -->
