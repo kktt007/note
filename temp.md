@@ -1,5 +1,5 @@
 ### 5.21
-http://www.chromezj.com/plugin/gongju
+chrome插件 http://www.chromezj.com/plugin/gongju
 
 输入法启用快捷键参考
 搜狗 CTRL+COMMA
@@ -4718,7 +4718,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTEyMDk5NDAsLTExMDYwODMxNDksLT
+eyJoaXN0b3J5IjpbLTE4NTAzMTIzNjQsLTExMDYwODMxNDksLT
 E1Njg5Nzg4MDMsLTE2NTM0NzYzMTcsMTUxNDUyNzM0MCwyNzgz
 Mzc3NjMsODQ4NDM5NTg4LDQxMTEwMTQ5MSwtNDE4NTQyNDE5LD
 Y0MDUyNjA1OCwxNTk0MjkwNjYxLC0xOTA4MzYzNzE2LC01MTc4
