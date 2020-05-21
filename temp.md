@@ -1,4 +1,6 @@
 ### 5.21
+https://aom.monster
+https://jailbreaker.fun
 chrome插件 http://www.chromezj.com/plugin/gongju
 firefox: https://addons.mozilla.org/en-US/firefox/addon/bookmark-dupes/?src=recommended
 chrome: https://chrome.google.com/webstore/detail/bookmarks-clean-up/oncbjlgldmiagjophlhobkogeladjijl/related
@@ -4720,11 +4722,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwODM0MDczMywtMTQwOTMyNTc5NywtMT
-g1MDMxMjM2NCwtMTEwNjA4MzE0OSwtMTU2ODk3ODgwMywtMTY1
-MzQ3NjMxNywxNTE0NTI3MzQwLDI3ODMzNzc2Myw4NDg0Mzk1OD
-gsNDExMTAxNDkxLC00MTg1NDI0MTksNjQwNTI2MDU4LDE1OTQy
-OTA2NjEsLTE5MDgzNjM3MTYsLTUxNzg2Mzk5NiwtODI4OTIyMj
-Q2LC0yMTEzNjE1NjQsMjY3Nzg1NzM4LC0xMDc2MTM3NjYzLC0x
-NDY0NjMwODIxXX0=
+eyJoaXN0b3J5IjpbLTE0NjMzNzk4OSwtOTA4MzQwNzMzLC0xND
+A5MzI1Nzk3LC0xODUwMzEyMzY0LC0xMTA2MDgzMTQ5LC0xNTY4
+OTc4ODAzLC0xNjUzNDc2MzE3LDE1MTQ1MjczNDAsMjc4MzM3Nz
+YzLDg0ODQzOTU4OCw0MTExMDE0OTEsLTQxODU0MjQxOSw2NDA1
+MjYwNTgsMTU5NDI5MDY2MSwtMTkwODM2MzcxNiwtNTE3ODYzOT
+k2LC04Mjg5MjIyNDYsLTIxMTM2MTU2NCwyNjc3ODU3MzgsLTEw
+NzYxMzc2NjNdfQ==
 -->
