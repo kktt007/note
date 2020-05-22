@@ -1,5 +1,6 @@
 ### 5.22
 active ac·​tive | \ ˈak-tiv k本就阻碍，t加重阻碍转移到自身 d
+
 ### 5.21
 https://aom.monster
 https://jailbreaker.fun
@@ -4724,11 +4725,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMzEyMzY4LC0xNDYzMzc5ODksLTkwOD
-M0MDczMywtMTQwOTMyNTc5NywtMTg1MDMxMjM2NCwtMTEwNjA4
-MzE0OSwtMTU2ODk3ODgwMywtMTY1MzQ3NjMxNywxNTE0NTI3Mz
-QwLDI3ODMzNzc2Myw4NDg0Mzk1ODgsNDExMTAxNDkxLC00MTg1
-NDI0MTksNjQwNTI2MDU4LDE1OTQyOTA2NjEsLTE5MDgzNjM3MT
-YsLTUxNzg2Mzk5NiwtODI4OTIyMjQ2LC0yMTEzNjE1NjQsMjY3
-Nzg1NzM4XX0=
+eyJoaXN0b3J5IjpbLTEyMjQ2Mzc5NTAsMTMwMzEyMzY4LC0xND
+YzMzc5ODksLTkwODM0MDczMywtMTQwOTMyNTc5NywtMTg1MDMx
+MjM2NCwtMTEwNjA4MzE0OSwtMTU2ODk3ODgwMywtMTY1MzQ3Nj
+MxNywxNTE0NTI3MzQwLDI3ODMzNzc2Myw4NDg0Mzk1ODgsNDEx
+MTAxNDkxLC00MTg1NDI0MTksNjQwNTI2MDU4LDE1OTQyOTA2Nj
+EsLTE5MDgzNjM3MTYsLTUxNzg2Mzk5NiwtODI4OTIyMjQ2LC0y
+MTEzNjE1NjRdfQ==
 -->
