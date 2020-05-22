@@ -1,7 +1,9 @@
 ### 5.22
 active ac·​tive | \ ˈak-tiv k本就阻碍，t加重阻碍转移到自身 d
 超车技巧 http://news.bitauto.com/hao/wenzhang/738348
-
+0 10m米 不宜编导
+1 车宽度 15米 可以，高速注意尽量不要
+2车宽度 20米，没问题
 
 ### 5.21
 https://aom.monster
@@ -4727,7 +4729,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMTkzNTcyMiwtMzIyNTkwOTUyLDEzMD
+eyJoaXN0b3J5IjpbMjAzMzc0MjQ4NCwtMzIyNTkwOTUyLDEzMD
 MxMjM2OCwtMTQ2MzM3OTg5LC05MDgzNDA3MzMsLTE0MDkzMjU3
 OTcsLTE4NTAzMTIzNjQsLTExMDYwODMxNDksLTE1Njg5Nzg4MD
 MsLTE2NTM0NzYzMTcsMTUxNDUyNzM0MCwyNzgzMzc3NjMsODQ4
