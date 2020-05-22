@@ -5,6 +5,8 @@ active ac·​tive | \ ˈak-tiv k本就阻碍，t加重阻碍转移到自身 d
 1 车宽度 15米 可以，高速注意尽量不要
 2车宽度 20米，没问题
 
+保险杠下缘3米
+上缘 1米
 ### 5.21
 https://aom.monster
 https://jailbreaker.fun
@@ -4729,11 +4731,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMzc0MjQ4NCwtMzIyNTkwOTUyLDEzMD
-MxMjM2OCwtMTQ2MzM3OTg5LC05MDgzNDA3MzMsLTE0MDkzMjU3
-OTcsLTE4NTAzMTIzNjQsLTExMDYwODMxNDksLTE1Njg5Nzg4MD
-MsLTE2NTM0NzYzMTcsMTUxNDUyNzM0MCwyNzgzMzc3NjMsODQ4
-NDM5NTg4LDQxMTEwMTQ5MSwtNDE4NTQyNDE5LDY0MDUyNjA1OC
-wxNTk0MjkwNjYxLC0xOTA4MzYzNzE2LC01MTc4NjM5OTYsLTgy
-ODkyMjI0Nl19
+eyJoaXN0b3J5IjpbLTEwNjI2MjQ0NzMsLTMyMjU5MDk1MiwxMz
+AzMTIzNjgsLTE0NjMzNzk4OSwtOTA4MzQwNzMzLC0xNDA5MzI1
+Nzk3LC0xODUwMzEyMzY0LC0xMTA2MDgzMTQ5LC0xNTY4OTc4OD
+AzLC0xNjUzNDc2MzE3LDE1MTQ1MjczNDAsMjc4MzM3NzYzLDg0
+ODQzOTU4OCw0MTExMDE0OTEsLTQxODU0MjQxOSw2NDA1MjYwNT
+gsMTU5NDI5MDY2MSwtMTkwODM2MzcxNiwtNTE3ODYzOTk2LC04
+Mjg5MjIyNDZdfQ==
 -->
