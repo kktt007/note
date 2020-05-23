@@ -1,3 +1,9 @@
+### 5.23
+使用$CDPATH
+https://linux.cn/article-12239-1.html
+
+VSCODE
+shell-format
 ### 5.22
 active ac·​tive | \ ˈak-tiv k本就阻碍，t加重阻碍转移到自身 d
 超车技巧 http://news.bitauto.com/hao/wenzhang/738348
@@ -4734,11 +4740,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNjg3Mzc1MCwxOTc2NzIwNDM3LC0xMD
-YyNjI0NDczLC0zMjI1OTA5NTIsMTMwMzEyMzY4LC0xNDYzMzc5
-ODksLTkwODM0MDczMywtMTQwOTMyNTc5NywtMTg1MDMxMjM2NC
-wtMTEwNjA4MzE0OSwtMTU2ODk3ODgwMywtMTY1MzQ3NjMxNywx
-NTE0NTI3MzQwLDI3ODMzNzc2Myw4NDg0Mzk1ODgsNDExMTAxND
-kxLC00MTg1NDI0MTksNjQwNTI2MDU4LDE1OTQyOTA2NjEsLTE5
-MDgzNjM3MTZdfQ==
+eyJoaXN0b3J5IjpbLTEzNzUwNjk4MzQsLTUzNjg3Mzc1MCwxOT
+c2NzIwNDM3LC0xMDYyNjI0NDczLC0zMjI1OTA5NTIsMTMwMzEy
+MzY4LC0xNDYzMzc5ODksLTkwODM0MDczMywtMTQwOTMyNTc5Ny
+wtMTg1MDMxMjM2NCwtMTEwNjA4MzE0OSwtMTU2ODk3ODgwMywt
+MTY1MzQ3NjMxNywxNTE0NTI3MzQwLDI3ODMzNzc2Myw4NDg0Mz
+k1ODgsNDExMTAxNDkxLC00MTg1NDI0MTksNjQwNTI2MDU4LDE1
+OTQyOTA2NjFdfQ==
 -->
