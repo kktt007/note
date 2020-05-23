@@ -20,6 +20,33 @@ active ac·​tive | \ ˈak-tiv k本就阻碍，t加重阻碍转移到自身 d
 
 后（右视镜）:  后视镜下沿，类似门把手中间，此时 还有30到40公分
 左后视镜下沿，50公分 到60公分
+
+=====================
+%s/$/_s 行尾加空行
+/搜索
+/\s\+ 匹配1到多个空格
+%等于1,$
+/g全局替换
+/分隔符
+s空字符
+:%s/\s\+/,/g 替换1多个空格为逗号
+
+https://www.cnblogs.com/xuxm2007/p/3566855.html
+https://www.cnblogs.com/penseur/archive/2011/02/25/1964522.html
+https://blog.csdn.net/zj420964597/article/details/80901708
+https://www.linuxidc.com/Linux/2018-08/153464.htm
+https://cloud.tencent.com/developer/article/1430588
+https://blog.easwy.com/archives/advanced-vim-skills-basic-move-method/
+https://www.cnblogs.com/ifantastic/p/3826433.html
+http://xintq.net/2014/07/31/vim-tricks/
+不局限于思维，不局限于方法
+
+同样需要做大于1的事，不擅长的事，没有效果
+我也知道时间不在，消失也就是数年的事，必须要体验这一世的酸甜苦辣。
+在痛苦的时候，要知道，那是对自我的考验，是否能在当下自己排解，是否能意识到当下光阴的珍贵，意识到生命的脆弱与神奇。
+
+体验的过程，就是生命的过程。 一定让自己体验到更多美妙。
+
 ### 5.21
 https://aom.monster
 https://jailbreaker.fun
@@ -4744,11 +4771,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMTAyODM2OCw2OTAxNjYwNzAsLTEzNz
-UwNjk4MzQsLTUzNjg3Mzc1MCwxOTc2NzIwNDM3LC0xMDYyNjI0
-NDczLC0zMjI1OTA5NTIsMTMwMzEyMzY4LC0xNDYzMzc5ODksLT
-kwODM0MDczMywtMTQwOTMyNTc5NywtMTg1MDMxMjM2NCwtMTEw
-NjA4MzE0OSwtMTU2ODk3ODgwMywtMTY1MzQ3NjMxNywxNTE0NT
-I3MzQwLDI3ODMzNzc2Myw4NDg0Mzk1ODgsNDExMTAxNDkxLC00
-MTg1NDI0MTldfQ==
+eyJoaXN0b3J5IjpbLTU0MzY5MjkyOSwxMzAxMDI4MzY4LDY5MD
+E2NjA3MCwtMTM3NTA2OTgzNCwtNTM2ODczNzUwLDE5NzY3MjA0
+MzcsLTEwNjI2MjQ0NzMsLTMyMjU5MDk1MiwxMzAzMTIzNjgsLT
+E0NjMzNzk4OSwtOTA4MzQwNzMzLC0xNDA5MzI1Nzk3LC0xODUw
+MzEyMzY0LC0xMTA2MDgzMTQ5LC0xNTY4OTc4ODAzLC0xNjUzND
+c2MzE3LDE1MTQ1MjczNDAsMjc4MzM3NzYzLDg0ODQzOTU4OCw0
+MTExMDE0OTFdfQ==
 -->
