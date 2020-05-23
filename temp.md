@@ -10,6 +10,7 @@ Path Intellisense
 Better Align:对其代码https://juejin.im/post/5ebd557e6fb9a0436153da89
 LeetCode https://leetcode.com/和LintCode https://www.lintcode.com/上刷题
 
+https://rwh.readthedocs.io/en/latest/chp/1.html#haskell
 ### 5.22
 active ac·​tive | \ ˈak-tiv k本就阻碍，t加重阻碍转移到自身 d
 超车技巧 http://news.bitauto.com/hao/wenzhang/738348
@@ -4773,11 +4774,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MDE1OTc1MSwtNTQzNjkyOTI5LDEzMD
-EwMjgzNjgsNjkwMTY2MDcwLC0xMzc1MDY5ODM0LC01MzY4NzM3
-NTAsMTk3NjcyMDQzNywtMTA2MjYyNDQ3MywtMzIyNTkwOTUyLD
-EzMDMxMjM2OCwtMTQ2MzM3OTg5LC05MDgzNDA3MzMsLTE0MDkz
-MjU3OTcsLTE4NTAzMTIzNjQsLTExMDYwODMxNDksLTE1Njg5Nz
-g4MDMsLTE2NTM0NzYzMTcsMTUxNDUyNzM0MCwyNzgzMzc3NjMs
-ODQ4NDM5NTg4XX0=
+eyJoaXN0b3J5IjpbLTkzOTAyNDksMTE0MDE1OTc1MSwtNTQzNj
+kyOTI5LDEzMDEwMjgzNjgsNjkwMTY2MDcwLC0xMzc1MDY5ODM0
+LC01MzY4NzM3NTAsMTk3NjcyMDQzNywtMTA2MjYyNDQ3MywtMz
+IyNTkwOTUyLDEzMDMxMjM2OCwtMTQ2MzM3OTg5LC05MDgzNDA3
+MzMsLTE0MDkzMjU3OTcsLTE4NTAzMTIzNjQsLTExMDYwODMxND
+ksLTE1Njg5Nzg4MDMsLTE2NTM0NzYzMTcsMTUxNDUyNzM0MCwy
+NzgzMzc3NjNdfQ==
 -->
