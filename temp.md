@@ -4,6 +4,8 @@ https://linux.cn/article-12239-1.html
 
 VSCODE
 shell-format
+Path Intellisense
+Better Align:对其代码https://juejin.im/post/5ebd557e6fb9a0436153da89
 ### 5.22
 active ac·​tive | \ ˈak-tiv k本就阻碍，t加重阻碍转移到自身 d
 超车技巧 http://news.bitauto.com/hao/wenzhang/738348
@@ -4740,11 +4742,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzUwNjk4MzQsLTUzNjg3Mzc1MCwxOT
-c2NzIwNDM3LC0xMDYyNjI0NDczLC0zMjI1OTA5NTIsMTMwMzEy
-MzY4LC0xNDYzMzc5ODksLTkwODM0MDczMywtMTQwOTMyNTc5Ny
-wtMTg1MDMxMjM2NCwtMTEwNjA4MzE0OSwtMTU2ODk3ODgwMywt
-MTY1MzQ3NjMxNywxNTE0NTI3MzQwLDI3ODMzNzc2Myw4NDg0Mz
-k1ODgsNDExMTAxNDkxLC00MTg1NDI0MTksNjQwNTI2MDU4LDE1
-OTQyOTA2NjFdfQ==
+eyJoaXN0b3J5IjpbNjkwMTY2MDcwLC0xMzc1MDY5ODM0LC01Mz
+Y4NzM3NTAsMTk3NjcyMDQzNywtMTA2MjYyNDQ3MywtMzIyNTkw
+OTUyLDEzMDMxMjM2OCwtMTQ2MzM3OTg5LC05MDgzNDA3MzMsLT
+E0MDkzMjU3OTcsLTE4NTAzMTIzNjQsLTExMDYwODMxNDksLTE1
+Njg5Nzg4MDMsLTE2NTM0NzYzMTcsMTUxNDUyNzM0MCwyNzgzMz
+c3NjMsODQ4NDM5NTg4LDQxMTEwMTQ5MSwtNDE4NTQyNDE5LDY0
+MDUyNjA1OF19
 -->
