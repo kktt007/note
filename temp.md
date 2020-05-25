@@ -1,3 +1,7 @@
+### 5.25
+https://forum.wordreference.com/forums/english-only.6/
+https://www.wordreference.com/
+
 ### 5.23
 当你对这个世界一切了如指掌，对这个世界抱有期待，因为对这个硕大的世界赞叹，对自己的生命，时间的拥有，保持神圣的态度。
 
@@ -4774,11 +4778,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzOTAyNDksMTE0MDE1OTc1MSwtNTQzNj
-kyOTI5LDEzMDEwMjgzNjgsNjkwMTY2MDcwLC0xMzc1MDY5ODM0
-LC01MzY4NzM3NTAsMTk3NjcyMDQzNywtMTA2MjYyNDQ3MywtMz
-IyNTkwOTUyLDEzMDMxMjM2OCwtMTQ2MzM3OTg5LC05MDgzNDA3
-MzMsLTE0MDkzMjU3OTcsLTE4NTAzMTIzNjQsLTExMDYwODMxND
-ksLTE1Njg5Nzg4MDMsLTE2NTM0NzYzMTcsMTUxNDUyNzM0MCwy
-NzgzMzc3NjNdfQ==
+eyJoaXN0b3J5IjpbLTE3NDM5OTA4NjMsLTkzOTAyNDksMTE0MD
+E1OTc1MSwtNTQzNjkyOTI5LDEzMDEwMjgzNjgsNjkwMTY2MDcw
+LC0xMzc1MDY5ODM0LC01MzY4NzM3NTAsMTk3NjcyMDQzNywtMT
+A2MjYyNDQ3MywtMzIyNTkwOTUyLDEzMDMxMjM2OCwtMTQ2MzM3
+OTg5LC05MDgzNDA3MzMsLTE0MDkzMjU3OTcsLTE4NTAzMTIzNj
+QsLTExMDYwODMxNDksLTE1Njg5Nzg4MDMsLTE2NTM0NzYzMTcs
+MTUxNDUyNzM0MF19
 -->
