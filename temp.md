@@ -13,10 +13,13 @@ https://my.oschina.net/u/4382053/blog/3247971
 
 
     disabled_plugins = ["vim-import-js"]
+ 
+ ```
     [[layers]]
 name = "lang#javascript"
 auto_fix = true
 enable_flow_syntax = true
+```
     
 ### 5.26
 https://www.freedesktop.org/software/systemd/man/
@@ -4804,11 +4807,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0ODUzMjAxMSwtOTEyNTI5ODUyLDE0MD
-g2MTcyMzMsMTk2MjM4NTUwLC03MDQ1NTc1NDIsLTEyODM5NDM4
-ODksLTkzOTAyNDksMTE0MDE1OTc1MSwtNTQzNjkyOTI5LDEzMD
-EwMjgzNjgsNjkwMTY2MDcwLC0xMzc1MDY5ODM0LC01MzY4NzM3
-NTAsMTk3NjcyMDQzNywtMTA2MjYyNDQ3MywtMzIyNTkwOTUyLD
-EzMDMxMjM2OCwtMTQ2MzM3OTg5LC05MDgzNDA3MzMsLTE0MDkz
-MjU3OTddfQ==
+eyJoaXN0b3J5IjpbNTE3MjIzMDM5LC05MTI1Mjk4NTIsMTQwOD
+YxNzIzMywxOTYyMzg1NTAsLTcwNDU1NzU0MiwtMTI4Mzk0Mzg4
+OSwtOTM5MDI0OSwxMTQwMTU5NzUxLC01NDM2OTI5MjksMTMwMT
+AyODM2OCw2OTAxNjYwNzAsLTEzNzUwNjk4MzQsLTUzNjg3Mzc1
+MCwxOTc2NzIwNDM3LC0xMDYyNjI0NDczLC0zMjI1OTA5NTIsMT
+MwMzEyMzY4LC0xNDYzMzc5ODksLTkwODM0MDczMywtMTQwOTMy
+NTc5N119
 -->
