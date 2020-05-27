@@ -1,6 +1,8 @@
 ### 5.27
  chocolatey power shell安装
  https://chocolatey.org/docs/installation#non-administrative-install
+ `Set-ExecutionPolicy Bypass -Scope Process -Force;`
+ 
  ```text
 choco install nodejs.install
 ```
@@ -4794,11 +4796,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwODYxNzIzMywxOTYyMzg1NTAsLTcwND
-U1NzU0MiwtMTI4Mzk0Mzg4OSwtOTM5MDI0OSwxMTQwMTU5NzUx
-LC01NDM2OTI5MjksMTMwMTAyODM2OCw2OTAxNjYwNzAsLTEzNz
-UwNjk4MzQsLTUzNjg3Mzc1MCwxOTc2NzIwNDM3LC0xMDYyNjI0
-NDczLC0zMjI1OTA5NTIsMTMwMzEyMzY4LC0xNDYzMzc5ODksLT
-kwODM0MDczMywtMTQwOTMyNTc5NywtMTg1MDMxMjM2NCwtMTEw
-NjA4MzE0OV19
+eyJoaXN0b3J5IjpbLTE3NzYwNTk3NTksMTQwODYxNzIzMywxOT
+YyMzg1NTAsLTcwNDU1NzU0MiwtMTI4Mzk0Mzg4OSwtOTM5MDI0
+OSwxMTQwMTU5NzUxLC01NDM2OTI5MjksMTMwMTAyODM2OCw2OT
+AxNjYwNzAsLTEzNzUwNjk4MzQsLTUzNjg3Mzc1MCwxOTc2NzIw
+NDM3LC0xMDYyNjI0NDczLC0zMjI1OTA5NTIsMTMwMzEyMzY4LC
+0xNDYzMzc5ODksLTkwODM0MDczMywtMTQwOTMyNTc5NywtMTg1
+MDMxMjM2NF19
 -->
