@@ -4,6 +4,8 @@
  ```text
 choco install nodejs.install
 ```
+更多安装包https://chocolatey.org/packages
+
 ### 5.26
 https://www.freedesktop.org/software/systemd/man/
 
@@ -4790,11 +4792,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMDY2ODYxMywtNzA0NTU3NTQyLC0xMj
-gzOTQzODg5LC05MzkwMjQ5LDExNDAxNTk3NTEsLTU0MzY5Mjky
-OSwxMzAxMDI4MzY4LDY5MDE2NjA3MCwtMTM3NTA2OTgzNCwtNT
-M2ODczNzUwLDE5NzY3MjA0MzcsLTEwNjI2MjQ0NzMsLTMyMjU5
-MDk1MiwxMzAzMTIzNjgsLTE0NjMzNzk4OSwtOTA4MzQwNzMzLC
-0xNDA5MzI1Nzk3LC0xODUwMzEyMzY0LC0xMTA2MDgzMTQ5LC0x
-NTY4OTc4ODAzXX0=
+eyJoaXN0b3J5IjpbMTk2MjM4NTUwLC03MDQ1NTc1NDIsLTEyOD
+M5NDM4ODksLTkzOTAyNDksMTE0MDE1OTc1MSwtNTQzNjkyOTI5
+LDEzMDEwMjgzNjgsNjkwMTY2MDcwLC0xMzc1MDY5ODM0LC01Mz
+Y4NzM3NTAsMTk3NjcyMDQzNywtMTA2MjYyNDQ3MywtMzIyNTkw
+OTUyLDEzMDMxMjM2OCwtMTQ2MzM3OTg5LC05MDgzNDA3MzMsLT
+E0MDkzMjU3OTcsLTE4NTAzMTIzNjQsLTExMDYwODMxNDksLTE1
+Njg5Nzg4MDNdfQ==
 -->
