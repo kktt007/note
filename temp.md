@@ -1,5 +1,5 @@
 ### 5.27
- chocolatey power shell安装
+ chocolatey power shell安装(一定要在管理员模式运行)
  https://chocolatey.org/docs/installation#non-administrative-install
  `Set-ExecutionPolicy Bypass -Scope Process -Force;`
  
@@ -4796,11 +4796,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzYwNTk3NTksMTQwODYxNzIzMywxOT
-YyMzg1NTAsLTcwNDU1NzU0MiwtMTI4Mzk0Mzg4OSwtOTM5MDI0
-OSwxMTQwMTU5NzUxLC01NDM2OTI5MjksMTMwMTAyODM2OCw2OT
-AxNjYwNzAsLTEzNzUwNjk4MzQsLTUzNjg3Mzc1MCwxOTc2NzIw
-NDM3LC0xMDYyNjI0NDczLC0zMjI1OTA5NTIsMTMwMzEyMzY4LC
-0xNDYzMzc5ODksLTkwODM0MDczMywtMTQwOTMyNTc5NywtMTg1
-MDMxMjM2NF19
+eyJoaXN0b3J5IjpbNjY0NjM0ODgyLDE0MDg2MTcyMzMsMTk2Mj
+M4NTUwLC03MDQ1NTc1NDIsLTEyODM5NDM4ODksLTkzOTAyNDks
+MTE0MDE1OTc1MSwtNTQzNjkyOTI5LDEzMDEwMjgzNjgsNjkwMT
+Y2MDcwLC0xMzc1MDY5ODM0LC01MzY4NzM3NTAsMTk3NjcyMDQz
+NywtMTA2MjYyNDQ3MywtMzIyNTkwOTUyLDEzMDMxMjM2OCwtMT
+Q2MzM3OTg5LC05MDgzNDA3MzMsLTE0MDkzMjU3OTcsLTE4NTAz
+MTIzNjRdfQ==
 -->
