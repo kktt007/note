@@ -9,6 +9,7 @@ choco install nodejs.install
 更多安装包https://chocolatey.org/packages
 参考
 https://my.oschina.net/u/4382053/blog/3247971
+.install 后缀的包，这个包会出现在系统控制面板里的 卸载或更改程序 里面，你可以把 .install 的包想成是通过安装程序（msi）安装的包。
 
 ### 5.26
 https://www.freedesktop.org/software/systemd/man/
@@ -4796,11 +4797,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY0NjM0ODgyLDE0MDg2MTcyMzMsMTk2Mj
-M4NTUwLC03MDQ1NTc1NDIsLTEyODM5NDM4ODksLTkzOTAyNDks
-MTE0MDE1OTc1MSwtNTQzNjkyOTI5LDEzMDEwMjgzNjgsNjkwMT
-Y2MDcwLC0xMzc1MDY5ODM0LC01MzY4NzM3NTAsMTk3NjcyMDQz
-NywtMTA2MjYyNDQ3MywtMzIyNTkwOTUyLDEzMDMxMjM2OCwtMT
-Q2MzM3OTg5LC05MDgzNDA3MzMsLTE0MDkzMjU3OTcsLTE4NTAz
-MTIzNjRdfQ==
+eyJoaXN0b3J5IjpbLTkxMjUyOTg1MiwxNDA4NjE3MjMzLDE5Nj
+IzODU1MCwtNzA0NTU3NTQyLC0xMjgzOTQzODg5LC05MzkwMjQ5
+LDExNDAxNTk3NTEsLTU0MzY5MjkyOSwxMzAxMDI4MzY4LDY5MD
+E2NjA3MCwtMTM3NTA2OTgzNCwtNTM2ODczNzUwLDE5NzY3MjA0
+MzcsLTEwNjI2MjQ0NzMsLTMyMjU5MDk1MiwxMzAzMTIzNjgsLT
+E0NjMzNzk4OSwtOTA4MzQwNzMzLC0xNDA5MzI1Nzk3LC0xODUw
+MzEyMzY0XX0=
 -->
