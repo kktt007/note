@@ -12,7 +12,12 @@ https://my.oschina.net/u/4382053/blog/3247971
 .install 后缀的包，这个包会出现在系统控制面板里的 卸载或更改程序 里面，你可以把 .install 的包想成是通过安装程序（msi）安装的包。
 
 
-
+    disabled_plugins = ["vim-import-js"]
+    [[layers]]
+name = "lang#javascript"
+auto_fix = true
+enable_flow_syntax = true
+    
 ### 5.26
 https://www.freedesktop.org/software/systemd/man/
 
@@ -4799,7 +4804,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTg1MjQ0MCwtOTEyNTI5ODUyLDE0MD
+eyJoaXN0b3J5IjpbMTU0ODUzMjAxMSwtOTEyNTI5ODUyLDE0MD
 g2MTcyMzMsMTk2MjM4NTUwLC03MDQ1NTc1NDIsLTEyODM5NDM4
 ODksLTkzOTAyNDksMTE0MDE1OTc1MSwtNTQzNjkyOTI5LDEzMD
 EwMjgzNjgsNjkwMTY2MDcwLC0xMzc1MDY5ODM0LC01MzY4NzM3
