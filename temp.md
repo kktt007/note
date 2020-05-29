@@ -1,4 +1,12 @@
 ### 5.29
+不可少的词典
+https://www.collinsdictionary.com/us/dictionary/english/receptacle
+https://www.lexico.com/en/definition/receptacle
+
+rime配置参考
+https://blog.csdn.net/emca/article/details/104827624
+https://www.twblogs.net/a/5cfed52dbd9eee14644efda2
+https://tygasoft.com/guide-for-configuration-of-rime-input-method-on-linux.html
 
 ### 5.28
 https://flowreader.com/home
@@ -4816,11 +4824,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY3NTE0MDIsMTgzNzUxODQsNzgyNjk4Nz
-I5LDUxNzIyMzAzOSwtOTEyNTI5ODUyLDE0MDg2MTcyMzMsMTk2
-MjM4NTUwLC03MDQ1NTc1NDIsLTEyODM5NDM4ODksLTkzOTAyND
-ksMTE0MDE1OTc1MSwtNTQzNjkyOTI5LDEzMDEwMjgzNjgsNjkw
-MTY2MDcwLC0xMzc1MDY5ODM0LC01MzY4NzM3NTAsMTk3NjcyMD
-QzNywtMTA2MjYyNDQ3MywtMzIyNTkwOTUyLDEzMDMxMjM2OF19
-
+eyJoaXN0b3J5IjpbLTEwNDYxNTE3MDksNTY3NTE0MDIsMTgzNz
+UxODQsNzgyNjk4NzI5LDUxNzIyMzAzOSwtOTEyNTI5ODUyLDE0
+MDg2MTcyMzMsMTk2MjM4NTUwLC03MDQ1NTc1NDIsLTEyODM5ND
+M4ODksLTkzOTAyNDksMTE0MDE1OTc1MSwtNTQzNjkyOTI5LDEz
+MDEwMjgzNjgsNjkwMTY2MDcwLC0xMzc1MDY5ODM0LC01MzY4Nz
+M3NTAsMTk3NjcyMDQzNywtMTA2MjYyNDQ3MywtMzIyNTkwOTUy
+XX0=
 -->
