@@ -8,6 +8,7 @@ https://blog.csdn.net/emca/article/details/104827624
 https://www.twblogs.net/a/5cfed52dbd9eee14644efda2
 https://tygasoft.com/guide-for-configuration-of-rime-input-method-on-linux.html
 https://www.da-quan.net/ti/%E5%90%8C%E6%96%87%E8%BE%93%E5%85%A5%E6%B3%95%E4%B8%AD%E6%96%87%E6%96%B9%E6%A1%88/
+http://p1htmlkernalweb.mybluemix.net/articles/%E9%BC%A0%E9%A1%BB%E7%AE%A1%E5%9F%BA%E6%9C%AC%E9%85%8D%E7%BD%AE%EF%BC%88%E4%BD%9B%E7%B3%BB%E4%B8%93%E4%BE%9B%EF%BC%89_3966320_csdn.html
 
 ### 5.28
 https://flowreader.com/home
@@ -4825,11 +4826,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyODAxMjI5OSwtMTA0NjE1MTcwOSw1Nj
-c1MTQwMiwxODM3NTE4NCw3ODI2OTg3MjksNTE3MjIzMDM5LC05
-MTI1Mjk4NTIsMTQwODYxNzIzMywxOTYyMzg1NTAsLTcwNDU1Nz
-U0MiwtMTI4Mzk0Mzg4OSwtOTM5MDI0OSwxMTQwMTU5NzUxLC01
-NDM2OTI5MjksMTMwMTAyODM2OCw2OTAxNjYwNzAsLTEzNzUwNj
-k4MzQsLTUzNjg3Mzc1MCwxOTc2NzIwNDM3LC0xMDYyNjI0NDcz
-XX0=
+eyJoaXN0b3J5IjpbMzk3MDczNzEsLTEwNDYxNTE3MDksNTY3NT
+E0MDIsMTgzNzUxODQsNzgyNjk4NzI5LDUxNzIyMzAzOSwtOTEy
+NTI5ODUyLDE0MDg2MTcyMzMsMTk2MjM4NTUwLC03MDQ1NTc1ND
+IsLTEyODM5NDM4ODksLTkzOTAyNDksMTE0MDE1OTc1MSwtNTQz
+NjkyOTI5LDEzMDEwMjgzNjgsNjkwMTY2MDcwLC0xMzc1MDY5OD
+M0LC01MzY4NzM3NTAsMTk3NjcyMDQzNywtMTA2MjYyNDQ3M119
+
 -->
