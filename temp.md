@@ -1,3 +1,11 @@
+### 5.30
+! Slow urxvt
+URxvt*buffered: false
+
+! Notification
+URxvt*urgentOnBell:         false
+URxvt*visualBell:           false
+
 ### 5.29
 不可少的词典
 https://www.collinsdictionary.com/us/dictionary/english/receptacle
@@ -4826,11 +4834,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk3MDczNzEsLTEwNDYxNTE3MDksNTY3NT
-E0MDIsMTgzNzUxODQsNzgyNjk4NzI5LDUxNzIyMzAzOSwtOTEy
-NTI5ODUyLDE0MDg2MTcyMzMsMTk2MjM4NTUwLC03MDQ1NTc1ND
-IsLTEyODM5NDM4ODksLTkzOTAyNDksMTE0MDE1OTc1MSwtNTQz
-NjkyOTI5LDEzMDEwMjgzNjgsNjkwMTY2MDcwLC0xMzc1MDY5OD
-M0LC01MzY4NzM3NTAsMTk3NjcyMDQzNywtMTA2MjYyNDQ3M119
+eyJoaXN0b3J5IjpbLTE5MDkwODQ4MzQsMzk3MDczNzEsLTEwND
+YxNTE3MDksNTY3NTE0MDIsMTgzNzUxODQsNzgyNjk4NzI5LDUx
+NzIyMzAzOSwtOTEyNTI5ODUyLDE0MDg2MTcyMzMsMTk2MjM4NT
+UwLC03MDQ1NTc1NDIsLTEyODM5NDM4ODksLTkzOTAyNDksMTE0
+MDE1OTc1MSwtNTQzNjkyOTI5LDEzMDEwMjgzNjgsNjkwMTY2MD
+cwLC0xMzc1MDY5ODM0LC01MzY4NzM3NTAsMTk3NjcyMDQzN119
 
 -->
