@@ -1,3 +1,9 @@
+### 6.1
+https://outlook.live.com/owa/
+一定有许多人像我一样，甚至过去很多人的过去也和我一样，在别人身上，我看到了面对这个世界需要的认可，接受，一切就是这样
+
+打个比方，以前一个人说，可以用胸去扩张，其实成功的始终是一部分，其他的人不该走他们的路线，但是必须具备他们的一些认知。
+
 ### 5.30
 https://github.com/the0demiurge/CharlesScripts
 
@@ -4836,11 +4842,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NzMxOTMzNiwzOTcwNzM3MSwtMTA0Nj
-E1MTcwOSw1Njc1MTQwMiwxODM3NTE4NCw3ODI2OTg3MjksNTE3
-MjIzMDM5LC05MTI1Mjk4NTIsMTQwODYxNzIzMywxOTYyMzg1NT
-AsLTcwNDU1NzU0MiwtMTI4Mzk0Mzg4OSwtOTM5MDI0OSwxMTQw
-MTU5NzUxLC01NDM2OTI5MjksMTMwMTAyODM2OCw2OTAxNjYwNz
-AsLTEzNzUwNjk4MzQsLTUzNjg3Mzc1MCwxOTc2NzIwNDM3XX0=
+eyJoaXN0b3J5IjpbMTMzMTMwNTk5NywyMDc3MzE5MzM2LDM5Nz
+A3MzcxLC0xMDQ2MTUxNzA5LDU2NzUxNDAyLDE4Mzc1MTg0LDc4
+MjY5ODcyOSw1MTcyMjMwMzksLTkxMjUyOTg1MiwxNDA4NjE3Mj
+MzLDE5NjIzODU1MCwtNzA0NTU3NTQyLC0xMjgzOTQzODg5LC05
+MzkwMjQ5LDExNDAxNTk3NTEsLTU0MzY5MjkyOSwxMzAxMDI4Mz
+Y4LDY5MDE2NjA3MCwtMTM3NTA2OTgzNCwtNTM2ODczNzUwXX0=
 
 -->
