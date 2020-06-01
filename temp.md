@@ -1,5 +1,10 @@
 ### 6.1
 
+https://www.oxfordreference.com/view/10.1093/oi/authority.20110803100216161
+https://www.collinsdictionary.com/us/dictionary/english/multiplexer
+https://www.computerhope.com/jargon/m/multiplex.htm
+https://www.lexico.com/en/definition/multiplexer
+
 https://outlook.live.com/owa/
 一定有许多人像我一样，甚至过去很多人的过去也和我一样，在别人身上，我看到了面对这个世界需要的认可，接受，一切就是这样
 
@@ -4845,11 +4850,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MzQyODc4MywxMzMxMzA1OTk3LDIwNz
-czMTkzMzYsMzk3MDczNzEsLTEwNDYxNTE3MDksNTY3NTE0MDIs
-MTgzNzUxODQsNzgyNjk4NzI5LDUxNzIyMzAzOSwtOTEyNTI5OD
-UyLDE0MDg2MTcyMzMsMTk2MjM4NTUwLC03MDQ1NTc1NDIsLTEy
-ODM5NDM4ODksLTkzOTAyNDksMTE0MDE1OTc1MSwtNTQzNjkyOT
-I5LDEzMDEwMjgzNjgsNjkwMTY2MDcwLC0xMzc1MDY5ODM0XX0=
+eyJoaXN0b3J5IjpbLTE0NjU3NjAyOTEsLTY3MzQyODc4MywxMz
+MxMzA1OTk3LDIwNzczMTkzMzYsMzk3MDczNzEsLTEwNDYxNTE3
+MDksNTY3NTE0MDIsMTgzNzUxODQsNzgyNjk4NzI5LDUxNzIyMz
+AzOSwtOTEyNTI5ODUyLDE0MDg2MTcyMzMsMTk2MjM4NTUwLC03
+MDQ1NTc1NDIsLTEyODM5NDM4ODksLTkzOTAyNDksMTE0MDE1OT
+c1MSwtNTQzNjkyOTI5LDEzMDEwMjgzNjgsNjkwMTY2MDcwXX0=
 
 -->
