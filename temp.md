@@ -1,5 +1,5 @@
 ### 6.1
-单 
+单词
 https://www.oxfordreference.com/view/10.1093/oi/authority.20110803100216161
 https://www.collinsdictionary.com/us/dictionary/english/multiplexer
 https://www.computerhope.com/jargon/m/multiplex.htm
@@ -4850,7 +4850,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMjE1NTI1NiwtNjczNDI4NzgzLDEzMz
+eyJoaXN0b3J5IjpbLTY3ODcwMjM0NywtNjczNDI4NzgzLDEzMz
 EzMDU5OTcsMjA3NzMxOTMzNiwzOTcwNzM3MSwtMTA0NjE1MTcw
 OSw1Njc1MTQwMiwxODM3NTE4NCw3ODI2OTg3MjksNTE3MjIzMD
 M5LC05MTI1Mjk4NTIsMTQwODYxNzIzMywxOTYyMzg1NTAsLTcw
