@@ -13,6 +13,9 @@ https://outlook.live.com/owa/
 
 打个比方，以前一个人说，可以用胸去扩张，其实成功的始终是一部分，其他的人不该走他们的路线，但是必须具备他们的一些认知。
 
+
+越来越发现要了解一个东西，就是了解整个世界。所谓的难者不会，会者不难就是这个道理。没有什么能不能，行不行，不拘泥于表象，要做的是天人合一，你能感受到整个世界，从来没有充分的突破自己吧，就像是蛋壳里的鸡，这世界，和我，就是一个事
+
 ### 5.30
 https://github.com/the0demiurge/CharlesScripts
 
@@ -4851,11 +4854,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzODM3MDUyMSwtNjc4NzAyMzQ3LC02Nz
-M0Mjg3ODMsMTMzMTMwNTk5NywyMDc3MzE5MzM2LDM5NzA3Mzcx
-LC0xMDQ2MTUxNzA5LDU2NzUxNDAyLDE4Mzc1MTg0LDc4MjY5OD
-cyOSw1MTcyMjMwMzksLTkxMjUyOTg1MiwxNDA4NjE3MjMzLDE5
-NjIzODU1MCwtNzA0NTU3NTQyLC0xMjgzOTQzODg5LC05MzkwMj
-Q5LDExNDAxNTk3NTEsLTU0MzY5MjkyOSwxMzAxMDI4MzY4XX0=
+eyJoaXN0b3J5IjpbLTE3Mzc1NDc1NzUsMTYzODM3MDUyMSwtNj
+c4NzAyMzQ3LC02NzM0Mjg3ODMsMTMzMTMwNTk5NywyMDc3MzE5
+MzM2LDM5NzA3MzcxLC0xMDQ2MTUxNzA5LDU2NzUxNDAyLDE4Mz
+c1MTg0LDc4MjY5ODcyOSw1MTcyMjMwMzksLTkxMjUyOTg1Miwx
+NDA4NjE3MjMzLDE5NjIzODU1MCwtNzA0NTU3NTQyLC0xMjgzOT
+QzODg5LC05MzkwMjQ5LDExNDAxNTk3NTEsLTU0MzY5MjkyOV19
 
 -->
