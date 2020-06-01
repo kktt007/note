@@ -4,6 +4,7 @@ https://www.oxfordreference.com/view/10.1093/oi/authority.20110803100216161
 https://www.collinsdictionary.com/us/dictionary/english/multiplexer
 https://www.computerhope.com/jargon/m/multiplex.htm
 https://www.lexico.com/en/definition/multiplexer
+https://www.oxfordlearnersdictionaries.com/us/definition/american_english/socket
 
 https://outlook.live.com/owa/
 一定有许多人像我一样，甚至过去很多人的过去也和我一样，在别人身上，我看到了面对这个世界需要的认可，接受，一切就是这样
@@ -4850,11 +4851,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3ODcwMjM0NywtNjczNDI4NzgzLDEzMz
-EzMDU5OTcsMjA3NzMxOTMzNiwzOTcwNzM3MSwtMTA0NjE1MTcw
-OSw1Njc1MTQwMiwxODM3NTE4NCw3ODI2OTg3MjksNTE3MjIzMD
-M5LC05MTI1Mjk4NTIsMTQwODYxNzIzMywxOTYyMzg1NTAsLTcw
-NDU1NzU0MiwtMTI4Mzk0Mzg4OSwtOTM5MDI0OSwxMTQwMTU5Nz
-UxLC01NDM2OTI5MjksMTMwMTAyODM2OCw2OTAxNjYwNzBdfQ==
+eyJoaXN0b3J5IjpbMTYzODM3MDUyMSwtNjc4NzAyMzQ3LC02Nz
+M0Mjg3ODMsMTMzMTMwNTk5NywyMDc3MzE5MzM2LDM5NzA3Mzcx
+LC0xMDQ2MTUxNzA5LDU2NzUxNDAyLDE4Mzc1MTg0LDc4MjY5OD
+cyOSw1MTcyMjMwMzksLTkxMjUyOTg1MiwxNDA4NjE3MjMzLDE5
+NjIzODU1MCwtNzA0NTU3NTQyLC0xMjgzOTQzODg5LC05MzkwMj
+Q5LDExNDAxNTk3NTEsLTU0MzY5MjkyOSwxMzAxMDI4MzY4XX0=
 
 -->
