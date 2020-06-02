@@ -99,6 +99,7 @@ set -g @continuum-save-interval '1440'
 
 # 以上插件使用安装tpm
 # git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+# 在Tmux中使用快捷`prefix + I`(注意这里的`I`是大写)安装配置文件
 # List of plugins
 
 set -g @plugin 'tmux-plugins/tpm'
@@ -4964,7 +4965,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NjE3MDg4Nyw0NjU1MzQzMzEsMzMwNz
+eyJoaXN0b3J5IjpbMTQ4OTQ3NDk2Nyw0NjU1MzQzMzEsMzMwNz
 Q4MTY0LC0xNzc3NjgzMjEwLDEyMTA2MDk0MzksMTY1NzA1Njc2
 NywtNjE0OTE5NTc0LC0yMDM1OTI0NjUxLC0xNzM3NTQ3NTc1LD
 E2MzgzNzA1MjEsLTY3ODcwMjM0NywtNjczNDI4NzgzLDEzMzEz
