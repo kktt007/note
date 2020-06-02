@@ -123,6 +123,7 @@ set -g @plugin 'tmux-plugins/tmux-yank'
 set -g @plugin 'tmux-plugins/vim-tmux-navigator'
 
 # vim 中添加 `vim-tmux-navigator`
+# vim-obsession 插件保存 vim/neovim 会话，也需要vim同时安装对应插件
 # Initialize TMUX plugin manager (keep this line at the very bottom of tmux.conf)
 run -b '~/.tmux/plugins/tpm/tpm'
 ```
@@ -4983,7 +4984,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNjc2NDg1LC0xMzE4ODY3OTczLDc0Nj
+eyJoaXN0b3J5IjpbNTEzNTg3MzI4LC0xMzE4ODY3OTczLDc0Nj
 c0NjUzNSwtMTMwOTYyMjkxNSw5MjMzMzMwNzksMTQ4OTQ3NDk2
 Nyw0NjU1MzQzMzEsMzMwNzQ4MTY0LC0xNzc3NjgzMjEwLDEyMT
 A2MDk0MzksMTY1NzA1Njc2NywtNjE0OTE5NTc0LC0yMDM1OTI0
