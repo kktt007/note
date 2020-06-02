@@ -4,6 +4,7 @@ request \ ri-ˈkwest 注意 2个发音，首先i不同于ə，不会变，其次
 tmux 配置
 [快捷键]( https://xpgeng.gitbooks.io/omooc2py/content/guide/Tmux-Guide.html)
 [不同的layout配置](https://xpgeng.gitbooks.io/omooc2py/content/guide/Tmux-Guide.html)
+https://shanyue.tech/op/tmux-setting.html#%E5%AE%89%E8%A3%85
 新建 `session` 的时候带上名字，方便下次 `attach`
 ```
 # 参考https://houdunren.gitee.io/note/soft/tmux.html#%E7%AA%97%E6%A0%BC%E7%AE%A1%E7%90%86
@@ -4952,11 +4953,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMwNzQ4MTY0LC0xNzc3NjgzMjEwLDEyMT
-A2MDk0MzksMTY1NzA1Njc2NywtNjE0OTE5NTc0LC0yMDM1OTI0
-NjUxLC0xNzM3NTQ3NTc1LDE2MzgzNzA1MjEsLTY3ODcwMjM0Ny
-wtNjczNDI4NzgzLDEzMzEzMDU5OTcsMjA3NzMxOTMzNiwzOTcw
-NzM3MSwtMTA0NjE1MTcwOSw1Njc1MTQwMiwxODM3NTE4NCw3OD
-I2OTg3MjksNTE3MjIzMDM5LC05MTI1Mjk4NTIsMTQwODYxNzIz
-M119
+eyJoaXN0b3J5IjpbNDY1NTM0MzMxLDMzMDc0ODE2NCwtMTc3Nz
+Y4MzIxMCwxMjEwNjA5NDM5LDE2NTcwNTY3NjcsLTYxNDkxOTU3
+NCwtMjAzNTkyNDY1MSwtMTczNzU0NzU3NSwxNjM4MzcwNTIxLC
+02Nzg3MDIzNDcsLTY3MzQyODc4MywxMzMxMzA1OTk3LDIwNzcz
+MTkzMzYsMzk3MDczNzEsLTEwNDYxNTE3MDksNTY3NTE0MDIsMT
+gzNzUxODQsNzgyNjk4NzI5LDUxNzIyMzAzOSwtOTEyNTI5ODUy
+XX0=
 -->
