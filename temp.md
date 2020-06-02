@@ -14,6 +14,9 @@ set -g default-terminal "screen-256color"
 # 设置一个不常用的`键作为指令前缀，按键更快些
 set-option -g prefix2 `
 
+# tmux attach 如果无分离终端则新建  
+new-session
+
 # |垂直方向新增面板，默认进入当前目录
 unbind '"'
 bind - splitw -v -c '#{pane_current_path}'
@@ -4948,11 +4951,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MTgyMzUxOCwxMjEwNjA5NDM5LDE2NT
-cwNTY3NjcsLTYxNDkxOTU3NCwtMjAzNTkyNDY1MSwtMTczNzU0
-NzU3NSwxNjM4MzcwNTIxLC02Nzg3MDIzNDcsLTY3MzQyODc4My
-wxMzMxMzA1OTk3LDIwNzczMTkzMzYsMzk3MDczNzEsLTEwNDYx
-NTE3MDksNTY3NTE0MDIsMTgzNzUxODQsNzgyNjk4NzI5LDUxNz
-IyMzAzOSwtOTEyNTI5ODUyLDE0MDg2MTcyMzMsMTk2MjM4NTUw
-XX0=
+eyJoaXN0b3J5IjpbLTE3Nzc2ODMyMTAsMTIxMDYwOTQzOSwxNj
+U3MDU2NzY3LC02MTQ5MTk1NzQsLTIwMzU5MjQ2NTEsLTE3Mzc1
+NDc1NzUsMTYzODM3MDUyMSwtNjc4NzAyMzQ3LC02NzM0Mjg3OD
+MsMTMzMTMwNTk5NywyMDc3MzE5MzM2LDM5NzA3MzcxLC0xMDQ2
+MTUxNzA5LDU2NzUxNDAyLDE4Mzc1MTg0LDc4MjY5ODcyOSw1MT
+cyMjMwMzksLTkxMjUyOTg1MiwxNDA4NjE3MjMzLDE5NjIzODU1
+MF19
 -->
