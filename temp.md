@@ -3,7 +3,7 @@ request \ ri-ˈkwest 注意 2个发音，首先i不同于ə，不会变，其次
 
 个人博客
 https://xulizhao.com/
-
+[tmux恢复vim会话状态](https://www.dazhuanlan.com/2019/10/24/5db0f63c85119/)
 
 使用教程https://www.hanleylee.com/usage-of-tmux.html
 tmux 配置
@@ -4982,11 +4982,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ2NzQ2NTM1LC0xMzA5NjIyOTE1LDkyMz
-MzMzA3OSwxNDg5NDc0OTY3LDQ2NTUzNDMzMSwzMzA3NDgxNjQs
-LTE3Nzc2ODMyMTAsMTIxMDYwOTQzOSwxNjU3MDU2NzY3LC02MT
-Q5MTk1NzQsLTIwMzU5MjQ2NTEsLTE3Mzc1NDc1NzUsMTYzODM3
-MDUyMSwtNjc4NzAyMzQ3LC02NzM0Mjg3ODMsMTMzMTMwNTk5Ny
-wyMDc3MzE5MzM2LDM5NzA3MzcxLC0xMDQ2MTUxNzA5LDU2NzUx
-NDAyXX0=
+eyJoaXN0b3J5IjpbLTEzMTg4Njc5NzMsNzQ2NzQ2NTM1LC0xMz
+A5NjIyOTE1LDkyMzMzMzA3OSwxNDg5NDc0OTY3LDQ2NTUzNDMz
+MSwzMzA3NDgxNjQsLTE3Nzc2ODMyMTAsMTIxMDYwOTQzOSwxNj
+U3MDU2NzY3LC02MTQ5MTk1NzQsLTIwMzU5MjQ2NTEsLTE3Mzc1
+NDc1NzUsMTYzODM3MDUyMSwtNjc4NzAyMzQ3LC02NzM0Mjg3OD
+MsMTMzMTMwNTk5NywyMDc3MzE5MzM2LDM5NzA3MzcxLC0xMDQ2
+MTUxNzA5XX0=
 -->
