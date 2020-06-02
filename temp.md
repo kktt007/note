@@ -9,7 +9,7 @@ request \ ri-ˈkwest 注意 2个发音，首先i不同于ə，不会变，其次
 个人博客
 https://xulizhao.com/
 [tmux恢复vim会话状态](https://www.dazhuanlan.com/2019/10/24/5db0f63c85119/)
-
+https://segmentfault.com/a/1190000008188987
 使用教程https://www.hanleylee.com/usage-of-tmux.html
 tmux 配置
 http://blog.codepiano.com/2018/06/11/tmux-tpm
@@ -4989,11 +4989,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNjE2Mjg3Miw1MTM1ODczMjgsLTEzMT
-g4Njc5NzMsNzQ2NzQ2NTM1LC0xMzA5NjIyOTE1LDkyMzMzMzA3
-OSwxNDg5NDc0OTY3LDQ2NTUzNDMzMSwzMzA3NDgxNjQsLTE3Nz
-c2ODMyMTAsMTIxMDYwOTQzOSwxNjU3MDU2NzY3LC02MTQ5MTk1
-NzQsLTIwMzU5MjQ2NTEsLTE3Mzc1NDc1NzUsMTYzODM3MDUyMS
-wtNjc4NzAyMzQ3LC02NzM0Mjg3ODMsMTMzMTMwNTk5NywyMDc3
-MzE5MzM2XX0=
+eyJoaXN0b3J5IjpbOTYyOTkzMDEyLDExMjYxNjI4NzIsNTEzNT
+g3MzI4LC0xMzE4ODY3OTczLDc0Njc0NjUzNSwtMTMwOTYyMjkx
+NSw5MjMzMzMwNzksMTQ4OTQ3NDk2Nyw0NjU1MzQzMzEsMzMwNz
+Q4MTY0LC0xNzc3NjgzMjEwLDEyMTA2MDk0MzksMTY1NzA1Njc2
+NywtNjE0OTE5NTc0LC0yMDM1OTI0NjUxLC0xNzM3NTQ3NTc1LD
+E2MzgzNzA1MjEsLTY3ODcwMjM0NywtNjczNDI4NzgzLDEzMzEz
+MDU5OTddfQ==
 -->
