@@ -1,4 +1,8 @@
 ### 6.2
+[安装cdir 用来比cd ls 更快的查看预览](
+https://www.tecmint.com/cdir-navigate-folders-and-files-on-linux/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+tecmint+%28Tecmint%3A+Linux+Howto%27s+Guide%29)
+
+Linux下强大IP地址格式转换工具--netmask命令
 
 request \ ri-ˈkwest 注意 2个发音，首先i不同于ə，不会变，其次最后的t因为s的缘故+末尾，所以很轻,不碰牙齿，并且象征性出气嘴型t, 类似out
 
@@ -4985,7 +4989,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDcxMTIxNCw1MTM1ODczMjgsLTEzMT
+eyJoaXN0b3J5IjpbMTEyNjE2Mjg3Miw1MTM1ODczMjgsLTEzMT
 g4Njc5NzMsNzQ2NzQ2NTM1LC0xMzA5NjIyOTE1LDkyMzMzMzA3
 OSwxNDg5NDc0OTY3LDQ2NTUzNDMzMSwzMzA3NDgxNjQsLTE3Nz
 c2ODMyMTAsMTIxMDYwOTQzOSwxNjU3MDU2NzY3LC02MTQ5MTk1
