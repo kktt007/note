@@ -1,6 +1,10 @@
 ### 6.2
 
-tmu
+tmux问题解决
+https://github.com/gpakosz/.tmux/issues/345
+https://github.com/gpakosz/.tmux/issues/146
+https://github.com/gpakosz/.tmux/issues/345
+
 [安装cdir 用来比cd ls 更快的查看预览](
 https://www.tecmint.com/cdir-navigate-folders-and-files-on-linux/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+tecmint+%28Tecmint%3A+Linux+Howto%27s+Guide%29)
 
@@ -4992,11 +4996,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEwMDY4OTE1LDE2NDI2OTg1NzMsOTYyOT
-kzMDEyLDExMjYxNjI4NzIsNTEzNTg3MzI4LC0xMzE4ODY3OTcz
-LDc0Njc0NjUzNSwtMTMwOTYyMjkxNSw5MjMzMzMwNzksMTQ4OT
-Q3NDk2Nyw0NjU1MzQzMzEsMzMwNzQ4MTY0LC0xNzc3NjgzMjEw
-LDEyMTA2MDk0MzksMTY1NzA1Njc2NywtNjE0OTE5NTc0LC0yMD
-M1OTI0NjUxLC0xNzM3NTQ3NTc1LDE2MzgzNzA1MjEsLTY3ODcw
-MjM0N119
+eyJoaXN0b3J5IjpbLTIxNDUwMDk2NTQsMTY0MjY5ODU3Myw5Nj
+I5OTMwMTIsMTEyNjE2Mjg3Miw1MTM1ODczMjgsLTEzMTg4Njc5
+NzMsNzQ2NzQ2NTM1LC0xMzA5NjIyOTE1LDkyMzMzMzA3OSwxND
+g5NDc0OTY3LDQ2NTUzNDMzMSwzMzA3NDgxNjQsLTE3Nzc2ODMy
+MTAsMTIxMDYwOTQzOSwxNjU3MDU2NzY3LC02MTQ5MTk1NzQsLT
+IwMzU5MjQ2NTEsLTE3Mzc1NDc1NzUsMTYzODM3MDUyMSwtNjc4
+NzAyMzQ3XX0=
 -->
