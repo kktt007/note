@@ -115,7 +115,6 @@ set -g @plugin 'tmux-plugins/tmux-urlview'
 set -g @plugin 'tmux-plugins/tmux-prefix-highlight'
 set -g @plugin 'tmux-plugins/tmux-yank'
 
-
 # Initialize TMUX plugin manager (keep this line at the very bottom of tmux.conf)
 run -b '~/.tmux/plugins/tpm/tpm'
 ```
@@ -4976,11 +4975,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDk2MjI5MTUsOTIzMzMzMDc5LDE0OD
-k0NzQ5NjcsNDY1NTM0MzMxLDMzMDc0ODE2NCwtMTc3NzY4MzIx
-MCwxMjEwNjA5NDM5LDE2NTcwNTY3NjcsLTYxNDkxOTU3NCwtMj
-AzNTkyNDY1MSwtMTczNzU0NzU3NSwxNjM4MzcwNTIxLC02Nzg3
-MDIzNDcsLTY3MzQyODc4MywxMzMxMzA1OTk3LDIwNzczMTkzMz
-YsMzk3MDczNzEsLTEwNDYxNTE3MDksNTY3NTE0MDIsMTgzNzUx
-ODRdfQ==
+eyJoaXN0b3J5IjpbMzE1NTIzMTE1LC0xMzA5NjIyOTE1LDkyMz
+MzMzA3OSwxNDg5NDc0OTY3LDQ2NTUzNDMzMSwzMzA3NDgxNjQs
+LTE3Nzc2ODMyMTAsMTIxMDYwOTQzOSwxNjU3MDU2NzY3LC02MT
+Q5MTk1NzQsLTIwMzU5MjQ2NTEsLTE3Mzc1NDc1NzUsMTYzODM3
+MDUyMSwtNjc4NzAyMzQ3LC02NzM0Mjg3ODMsMTMzMTMwNTk5Ny
+wyMDc3MzE5MzM2LDM5NzA3MzcxLC0xMDQ2MTUxNzA5LDU2NzUx
+NDAyXX0=
 -->
