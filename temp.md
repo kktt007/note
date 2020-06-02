@@ -84,6 +84,7 @@ set -wg window-status-separator ""
 run-shell ~/.tmux/plugins/tmux-resurrect/resurrect.tmux
 # 至此安装成功，按下prefix + r重载tmux配置
 # bind r source-file ~/.tmux.conf \; display "已更新"
+# 可能需要 `tmux kill-serve` 后才能更新配置
 
 # 安装 Tmux Continuum
 # Tmux Continuum默认每隔15mins备份一次，我设置的是一天一次
@@ -4947,7 +4948,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MjYwMzg1OSwxMjEwNjA5NDM5LDE2NT
+eyJoaXN0b3J5IjpbMTg3MTgyMzUxOCwxMjEwNjA5NDM5LDE2NT
 cwNTY3NjcsLTYxNDkxOTU3NCwtMjAzNTkyNDY1MSwtMTczNzU0
 NzU3NSwxNjM4MzcwNTIxLC02Nzg3MDIzNDcsLTY3MzQyODc4My
 wxMzMxMzA1OTk3LDIwNzczMTkzMzYsMzk3MDczNzEsLTEwNDYx
