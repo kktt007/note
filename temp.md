@@ -2,7 +2,93 @@
 request \ ri-ˈkwest 注意 2个发音，首先i不同于ə，不会变，其次最后的t因为s的缘故+末尾，所以很轻,不碰牙齿，并且象征性出气嘴型t, 类似out
 
 tmux 配置
-·
+```
+# 参考https://houdunren.gitee.io/note/soft/tmux.html#%E7%AA%97%E6%A0%BC%E7%AE%A1%E7%90%86
+# https://www.cnblogs.com/congbo/archive/2012/08/30/2649420.html
+# https://segmentfault.com/a/1190000018032072
+
+# 开启256 colors支持
+set -g default-terminal "screen-256color"
+# 设置一个不常用的`键作为指令前缀，按键更快些
+set-option -g prefix2 `
+
+# |垂直方向新增面板，默认进入当前目录
+unbind '"'
+bind - splitw -v -c '#{pane_current_path}'
+# -水平方向新增面板，默认进入当前目录
+unbind %
+bind | splitw -h -c '#{pane_current_path}'
+
+# 开启鼠标支持
+set-option -g mouse on
+# 允许鼠标选择窗格
+set -g mouse-select-pane on
+
+# 绑定hjkl键为面板切换的上下左右键
+bind -r k select-pane -U # 绑定k为↑
+bind -r j select-pane -D # 绑定j为↓
+bind -r h select-pane -L # 绑定h为←
+bind -r l select-pane -R # 绑定l为→
+
+# 绑定Ctrl+hjkl键为面板上下左右调整边缘的快捷指令 resizep即resize-pane的别名
+# 绑定Ctrl+k为往↑调整面板边缘10个单元格
+bind -r ^k resizep -U 10
+# 绑定Ctrl+j为往↓调整面板边缘10个单元格
+bind -r ^j resizep -D 10
+# 绑定Ctrl+h为往←调整面板边缘10个单元格
+bind -r ^h resizep -L 10
+# 绑定Ctrl+l为往→调整面板边缘10个单元格
+bind -r ^l resizep -R 10
+
+# 绑定esc键为进入复制模式
+bind Escape copy-mode
+
+# 对于v2.4 以上 版本，绑定快捷键需要使用 -T 选项，发送指令需要使用 -X 选项：
+bind -T copy-mode-vi v send-keys -X begin-selection
+bind -T copy-mode-vi y send-keys -X copy-selection-and-cancel
+
+# 开启vi风格后，支持vi的C-d、C-u、hjkl等快捷键
+setw -g mode-keys vi
+
+# buffer缓存复制到Linux系统粘贴板,需要安装xclip
+bind C-c run " tmux save-buffer - | xclip -i -sel clipboard"
+# Linux系统粘贴板内容复制到会话
+bind C-v run " tmux set-buffer \"$(xclip -o -sel clipboard)\"; tmux paste-buffer"
+
+# Tmux优化
+# 设置窗口的起始下标为1
+set -g base-index 1
+# 设置面板的起始下标为1
+set -g pane-base-index 1
+# 状态栏支持utf8
+set -g status-utf8 on
+# 状态栏刷新时间
+set -g status-interval 1
+# 状态栏列表左对齐
+set -g status-justify left
+# 非当前窗口有内容更新时在状态栏通知
+setw -g monitor-activity on
+set -g visual-activity on
+# 状态栏窗口名称格式
+set -wg window-status-format " #I #W "
+# 状态栏当前窗口名称格式(#I：序号，#w：窗口名称，#F：间隔符)
+set -wg window-status-current-format " #I:#W#F "
+# 状态栏窗口名称之间的间隔
+set -wg window-status-separator ""
+
+# Tmux Resurrect 和 Tmux Continuum，可以永久保存tmux会话
+# Tmux Resurrec安装  
+## cd ~/.tmux && mkdir plugins && git clone  https://github.com/tmux-plugins/tmux-resurrect.git
+run-shell ~/.tmux/plugins/tmux-resurrect/resurrect.tmux
+# 至此安装成功，按下prefix + r重载tmux配置
+# bind r source-file ~/.tmux.conf \; display "已更新"
+
+# 安装 Tmux Continuum
+# Tmux Continuum默认每隔15mins备份一次，我设置的是一天一次
+# 关闭自动备份，只需设置时间间隔为 0 即可
+set -g @continuum-save-interval '1440'
+```
+
 ### 6.1
 单词
 https://www.oxfordreference.com/view/10.1093/oi/authority.20110803100216161
@@ -4859,11 +4945,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY3Nzk5NDMsLTYxNDkxOTU3NCwtMjAzNT
-kyNDY1MSwtMTczNzU0NzU3NSwxNjM4MzcwNTIxLC02Nzg3MDIz
-NDcsLTY3MzQyODc4MywxMzMxMzA1OTk3LDIwNzczMTkzMzYsMz
-k3MDczNzEsLTEwNDYxNTE3MDksNTY3NTE0MDIsMTgzNzUxODQs
-NzgyNjk4NzI5LDUxNzIyMzAzOSwtOTEyNTI5ODUyLDE0MDg2MT
-cyMzMsMTk2MjM4NTUwLC03MDQ1NTc1NDIsLTEyODM5NDM4ODld
-fQ==
+eyJoaXN0b3J5IjpbMTY1NzA1Njc2NywtNjE0OTE5NTc0LC0yMD
+M1OTI0NjUxLC0xNzM3NTQ3NTc1LDE2MzgzNzA1MjEsLTY3ODcw
+MjM0NywtNjczNDI4NzgzLDEzMzEzMDU5OTcsMjA3NzMxOTMzNi
+wzOTcwNzM3MSwtMTA0NjE1MTcwOSw1Njc1MTQwMiwxODM3NTE4
+NCw3ODI2OTg3MjksNTE3MjIzMDM5LC05MTI1Mjk4NTIsMTQwOD
+YxNzIzMywxOTYyMzg1NTAsLTcwNDU1NzU0MiwtMTI4Mzk0Mzg4
+OV19
 -->
