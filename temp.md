@@ -96,6 +96,13 @@ run-shell ~/.tmux/plugins/tmux-resurrect/resurrect.tmux
 # Tmux Continuum默认每隔15mins备份一次，我设置的是一天一次
 # 关闭自动备份，只需设置时间间隔为 0 即可
 set -g @continuum-save-interval '1440'
+
+# 以上插件使用安装tpm
+# git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+# List of plugins
+
+set -g @plugin 'tmux-plugins/tpm'
+set -g @plugin 'tmux-plugins/tmux-sensible'
 ```
 
 ### 6.1
@@ -4954,7 +4961,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMjI2NzYwMyw0NjU1MzQzMzEsMzMwNz
+eyJoaXN0b3J5IjpbLTQzODc0MjI0MSw0NjU1MzQzMzEsMzMwNz
 Q4MTY0LC0xNzc3NjgzMjEwLDEyMTA2MDk0MzksMTY1NzA1Njc2
 NywtNjE0OTE5NTc0LC0yMDM1OTI0NjUxLC0xNzM3NTQ3NTc1LD
 E2MzgzNzA1MjEsLTY3ODcwMjM0NywtNjczNDI4NzgzLDEzMzEz
