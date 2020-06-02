@@ -110,6 +110,7 @@ set -g @continuum-save-interval '1440'
 set -g @plugin 'tmux-plugins/tpm'
 set -g @plugin 'tmux-plugins/tmux-sensible'
 set -g @plugin 'tmux-plugins/tmux-resurrect'
+set -g @plugin 'tmux-plugins/tmux-continuum'
 set -g @plugin 'tmux-plugins/tmux-open'
 set -g @plugin 'tmux-plugins/tmux-urlview'
 set -g @plugin 'tmux-plugins/tmux-prefix-highlight'
@@ -4975,7 +4976,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE1NTIzMTE1LC0xMzA5NjIyOTE1LDkyMz
+eyJoaXN0b3J5IjpbNDk4NDM1NzQ5LC0xMzA5NjIyOTE1LDkyMz
 MzMzA3OSwxNDg5NDc0OTY3LDQ2NTUzNDMzMSwzMzA3NDgxNjQs
 LTE3Nzc2ODMyMTAsMTIxMDYwOTQzOSwxNjU3MDU2NzY3LC02MT
 Q5MTk1NzQsLTIwMzU5MjQ2NTEsLTE3Mzc1NDc1NzUsMTYzODM3
