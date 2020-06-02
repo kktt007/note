@@ -122,6 +122,7 @@ set -g @plugin 'tmux-plugins/tmux-prefix-highlight'
 set -g @plugin 'tmux-plugins/tmux-yank'
 set -g @plugin 'tmux-plugins/vim-tmux-navigator'
 
+# vim 中添加 `vim-tmux-navigator`
 # Initialize TMUX plugin manager (keep this line at the very bottom of tmux.conf)
 run -b '~/.tmux/plugins/tpm/tpm'
 ```
@@ -4982,11 +4983,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTg4Njc5NzMsNzQ2NzQ2NTM1LC0xMz
-A5NjIyOTE1LDkyMzMzMzA3OSwxNDg5NDc0OTY3LDQ2NTUzNDMz
-MSwzMzA3NDgxNjQsLTE3Nzc2ODMyMTAsMTIxMDYwOTQzOSwxNj
-U3MDU2NzY3LC02MTQ5MTk1NzQsLTIwMzU5MjQ2NTEsLTE3Mzc1
-NDc1NzUsMTYzODM3MDUyMSwtNjc4NzAyMzQ3LC02NzM0Mjg3OD
-MsMTMzMTMwNTk5NywyMDc3MzE5MzM2LDM5NzA3MzcxLC0xMDQ2
-MTUxNzA5XX0=
+eyJoaXN0b3J5IjpbMTIyNjc2NDg1LC0xMzE4ODY3OTczLDc0Nj
+c0NjUzNSwtMTMwOTYyMjkxNSw5MjMzMzMwNzksMTQ4OTQ3NDk2
+Nyw0NjU1MzQzMzEsMzMwNzQ4MTY0LC0xNzc3NjgzMjEwLDEyMT
+A2MDk0MzksMTY1NzA1Njc2NywtNjE0OTE5NTc0LC0yMDM1OTI0
+NjUxLC0xNzM3NTQ3NTc1LDE2MzgzNzA1MjEsLTY3ODcwMjM0Ny
+wtNjczNDI4NzgzLDEzMzEzMDU5OTcsMjA3NzMxOTMzNiwzOTcw
+NzM3MV19
 -->
