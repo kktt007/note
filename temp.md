@@ -3,6 +3,7 @@ request \ ri-ˈkwest 注意 2个发音，首先i不同于ə，不会变，其次
 
 tmux 配置
 [快捷键]( https://xpgeng.gitbooks.io/omooc2py/content/guide/Tmux-Guide.html)
+[不同的layout配置](https://xpgeng.gitbooks.io/omooc2py/content/guide/Tmux-Guide.html)
 ```
 # 参考https://houdunren.gitee.io/note/soft/tmux.html#%E7%AA%97%E6%A0%BC%E7%AE%A1%E7%90%86
 # https://www.cnblogs.com/congbo/archive/2012/08/30/2649420.html
@@ -4946,11 +4947,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMDYwOTQzOSwxNjU3MDU2NzY3LC02MT
-Q5MTk1NzQsLTIwMzU5MjQ2NTEsLTE3Mzc1NDc1NzUsMTYzODM3
-MDUyMSwtNjc4NzAyMzQ3LC02NzM0Mjg3ODMsMTMzMTMwNTk5Ny
-wyMDc3MzE5MzM2LDM5NzA3MzcxLC0xMDQ2MTUxNzA5LDU2NzUx
-NDAyLDE4Mzc1MTg0LDc4MjY5ODcyOSw1MTcyMjMwMzksLTkxMj
-UyOTg1MiwxNDA4NjE3MjMzLDE5NjIzODU1MCwtNzA0NTU3NTQy
+eyJoaXN0b3J5IjpbMTM5MjYwMzg1OSwxMjEwNjA5NDM5LDE2NT
+cwNTY3NjcsLTYxNDkxOTU3NCwtMjAzNTkyNDY1MSwtMTczNzU0
+NzU3NSwxNjM4MzcwNTIxLC02Nzg3MDIzNDcsLTY3MzQyODc4My
+wxMzMxMzA1OTk3LDIwNzczMTkzMzYsMzk3MDczNzEsLTEwNDYx
+NTE3MDksNTY3NTE0MDIsMTgzNzUxODQsNzgyNjk4NzI5LDUxNz
+IyMzAzOSwtOTEyNTI5ODUyLDE0MDg2MTcyMzMsMTk2MjM4NTUw
 XX0=
 -->
