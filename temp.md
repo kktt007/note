@@ -2,7 +2,7 @@
 request \ ri-ˈkwest 注意 2个发音，首先i不同于ə，不会变，其次最后的t因为s的缘故+末尾，所以很轻,不碰牙齿，并且象征性出气嘴型t, 类似out
 
 tmux 配置
-k
+[快捷键]( https://xpgeng.gitbooks.io/omooc2py/content/guide/Tmux-Guide.html)
 ```
 # 参考https://houdunren.gitee.io/note/soft/tmux.html#%E7%AA%97%E6%A0%BC%E7%AE%A1%E7%90%86
 # https://www.cnblogs.com/congbo/archive/2012/08/30/2649420.html
@@ -4946,7 +4946,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMzAxMTI5MiwxNjU3MDU2NzY3LC02MT
+eyJoaXN0b3J5IjpbMTIxMDYwOTQzOSwxNjU3MDU2NzY3LC02MT
 Q5MTk1NzQsLTIwMzU5MjQ2NTEsLTE3Mzc1NDc1NzUsMTYzODM3
 MDUyMSwtNjc4NzAyMzQ3LC02NzM0Mjg3ODMsMTMzMTMwNTk5Ny
 wyMDc3MzE5MzM2LDM5NzA3MzcxLC0xMDQ2MTUxNzA5LDU2NzUx
