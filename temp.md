@@ -1,3 +1,5 @@
+### 6.2
+request \ ri-ˈkwest 注意 2个发音，首先i不同于ə，不会变，其次最后的t因为s的缘故+末尾，所以很轻,不碰牙齿，并且象征性出气嘴型t, 类似out
 
 ### 6.1
 单词
@@ -4855,11 +4857,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MzUzODc3OSwtMTczNzU0NzU3NSwxNj
-M4MzcwNTIxLC02Nzg3MDIzNDcsLTY3MzQyODc4MywxMzMxMzA1
-OTk3LDIwNzczMTkzMzYsMzk3MDczNzEsLTEwNDYxNTE3MDksNT
-Y3NTE0MDIsMTgzNzUxODQsNzgyNjk4NzI5LDUxNzIyMzAzOSwt
-OTEyNTI5ODUyLDE0MDg2MTcyMzMsMTk2MjM4NTUwLC03MDQ1NT
-c1NDIsLTEyODM5NDM4ODksLTkzOTAyNDksMTE0MDE1OTc1MV19
-
+eyJoaXN0b3J5IjpbLTIwMzU5MjQ2NTEsLTE3Mzc1NDc1NzUsMT
+YzODM3MDUyMSwtNjc4NzAyMzQ3LC02NzM0Mjg3ODMsMTMzMTMw
+NTk5NywyMDc3MzE5MzM2LDM5NzA3MzcxLC0xMDQ2MTUxNzA5LD
+U2NzUxNDAyLDE4Mzc1MTg0LDc4MjY5ODcyOSw1MTcyMjMwMzks
+LTkxMjUyOTg1MiwxNDA4NjE3MjMzLDE5NjIzODU1MCwtNzA0NT
+U3NTQyLC0xMjgzOTQzODg5LC05MzkwMjQ5LDExNDAxNTk3NTFd
+fQ==
 -->
