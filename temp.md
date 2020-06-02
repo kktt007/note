@@ -85,6 +85,9 @@ set -wg window-status-current-format " #I:#W#F "
 set -wg window-status-separator ""
 
 # Tmux Resurrect 和 Tmux Continuum，可以永久保存tmux会话
+# -   `prefix + Ctrl-s` - save
+# -   `prefix + Ctrl-r` - restore
+# 如果有多个Session可以使用`prefix + s`来选择Session
 # Tmux Resurrec安装  
 ## cd ~/.tmux && mkdir plugins && git clone  https://github.com/tmux-plugins/tmux-resurrect.git
 run-shell ~/.tmux/plugins/tmux-resurrect/resurrect.tmux
@@ -104,6 +107,7 @@ set -g @continuum-save-interval '1440'
 
 set -g @plugin 'tmux-plugins/tpm'
 set -g @plugin 'tmux-plugins/tmux-sensible'
+set -g @plugin 'tmux-plugins/tmux-resurrect'
 
 # Initialize TMUX plugin manager (keep this line at the very bottom of tmux.conf)
 run '~/.tmux/plugins/tpm/tpm'
@@ -4965,11 +4969,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4OTQ3NDk2Nyw0NjU1MzQzMzEsMzMwNz
-Q4MTY0LC0xNzc3NjgzMjEwLDEyMTA2MDk0MzksMTY1NzA1Njc2
-NywtNjE0OTE5NTc0LC0yMDM1OTI0NjUxLC0xNzM3NTQ3NTc1LD
-E2MzgzNzA1MjEsLTY3ODcwMjM0NywtNjczNDI4NzgzLDEzMzEz
-MDU5OTcsMjA3NzMxOTMzNiwzOTcwNzM3MSwtMTA0NjE1MTcwOS
-w1Njc1MTQwMiwxODM3NTE4NCw3ODI2OTg3MjksNTE3MjIzMDM5
-XX0=
+eyJoaXN0b3J5IjpbLTE2MDgxNzU1MjIsMTQ4OTQ3NDk2Nyw0Nj
+U1MzQzMzEsMzMwNzQ4MTY0LC0xNzc3NjgzMjEwLDEyMTA2MDk0
+MzksMTY1NzA1Njc2NywtNjE0OTE5NTc0LC0yMDM1OTI0NjUxLC
+0xNzM3NTQ3NTc1LDE2MzgzNzA1MjEsLTY3ODcwMjM0NywtNjcz
+NDI4NzgzLDEzMzEzMDU5OTcsMjA3NzMxOTMzNiwzOTcwNzM3MS
+wtMTA0NjE1MTcwOSw1Njc1MTQwMiwxODM3NTE4NCw3ODI2OTg3
+MjldfQ==
 -->
