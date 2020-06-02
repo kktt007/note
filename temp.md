@@ -2,6 +2,7 @@
 request \ ri-ˈkwest 注意 2个发音，首先i不同于ə，不会变，其次最后的t因为s的缘故+末尾，所以很轻,不碰牙齿，并且象征性出气嘴型t, 类似out
 
 tmux 配置
+k
 ```
 # 参考https://houdunren.gitee.io/note/soft/tmux.html#%E7%AA%97%E6%A0%BC%E7%AE%A1%E7%90%86
 # https://www.cnblogs.com/congbo/archive/2012/08/30/2649420.html
@@ -4945,11 +4946,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NzA1Njc2NywtNjE0OTE5NTc0LC0yMD
-M1OTI0NjUxLC0xNzM3NTQ3NTc1LDE2MzgzNzA1MjEsLTY3ODcw
-MjM0NywtNjczNDI4NzgzLDEzMzEzMDU5OTcsMjA3NzMxOTMzNi
-wzOTcwNzM3MSwtMTA0NjE1MTcwOSw1Njc1MTQwMiwxODM3NTE4
-NCw3ODI2OTg3MjksNTE3MjIzMDM5LC05MTI1Mjk4NTIsMTQwOD
-YxNzIzMywxOTYyMzg1NTAsLTcwNDU1NzU0MiwtMTI4Mzk0Mzg4
-OV19
+eyJoaXN0b3J5IjpbMTUyMzAxMTI5MiwxNjU3MDU2NzY3LC02MT
+Q5MTk1NzQsLTIwMzU5MjQ2NTEsLTE3Mzc1NDc1NzUsMTYzODM3
+MDUyMSwtNjc4NzAyMzQ3LC02NzM0Mjg3ODMsMTMzMTMwNTk5Ny
+wyMDc3MzE5MzM2LDM5NzA3MzcxLC0xMDQ2MTUxNzA5LDU2NzUx
+NDAyLDE4Mzc1MTg0LDc4MjY5ODcyOSw1MTcyMjMwMzksLTkxMj
+UyOTg1MiwxNDA4NjE3MjMzLDE5NjIzODU1MCwtNzA0NTU3NTQy
+XX0=
 -->
