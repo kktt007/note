@@ -2,6 +2,7 @@
 request \ ri-ˈkwest 注意 2个发音，首先i不同于ə，不会变，其次最后的t因为s的缘故+末尾，所以很轻,不碰牙齿，并且象征性出气嘴型t, 类似out
 
 tmux 配置
+http://blog.codepiano.com/2018/06/11/tmux-tpm
 [快捷键]( https://xpgeng.gitbooks.io/omooc2py/content/guide/Tmux-Guide.html)
 [不同的layout配置](https://xpgeng.gitbooks.io/omooc2py/content/guide/Tmux-Guide.html)
 https://shanyue.tech/op/tmux-setting.html#%E5%AE%89%E8%A3%85
@@ -4953,11 +4954,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY1NTM0MzMxLDMzMDc0ODE2NCwtMTc3Nz
-Y4MzIxMCwxMjEwNjA5NDM5LDE2NTcwNTY3NjcsLTYxNDkxOTU3
-NCwtMjAzNTkyNDY1MSwtMTczNzU0NzU3NSwxNjM4MzcwNTIxLC
-02Nzg3MDIzNDcsLTY3MzQyODc4MywxMzMxMzA1OTk3LDIwNzcz
-MTkzMzYsMzk3MDczNzEsLTEwNDYxNTE3MDksNTY3NTE0MDIsMT
-gzNzUxODQsNzgyNjk4NzI5LDUxNzIyMzAzOSwtOTEyNTI5ODUy
+eyJoaXN0b3J5IjpbLTYzMjI2NzYwMyw0NjU1MzQzMzEsMzMwNz
+Q4MTY0LC0xNzc3NjgzMjEwLDEyMTA2MDk0MzksMTY1NzA1Njc2
+NywtNjE0OTE5NTc0LC0yMDM1OTI0NjUxLC0xNzM3NTQ3NTc1LD
+E2MzgzNzA1MjEsLTY3ODcwMjM0NywtNjczNDI4NzgzLDEzMzEz
+MDU5OTcsMjA3NzMxOTMzNiwzOTcwNzM3MSwtMTA0NjE1MTcwOS
+w1Njc1MTQwMiwxODM3NTE4NCw3ODI2OTg3MjksNTE3MjIzMDM5
 XX0=
 -->
