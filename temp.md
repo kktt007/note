@@ -90,7 +90,7 @@ set -wg window-status-separator ""
 run-shell ~/.tmux/plugins/tmux-resurrect/resurrect.tmux
 # 至此安装成功，按下prefix + r重载tmux配置
 # bind r source-file ~/.tmux.conf \; display "已更新"
-# 可能需要 `tmux kill-serve` 后才能更新配置
+# 可能需要 `tmux kill-serve` 后才能更新配置 tmux source ~/.tmux.conf
 
 # 安装 Tmux Continuum
 # Tmux Continuum默认每隔15mins备份一次，我设置的是一天一次
@@ -103,6 +103,9 @@ set -g @continuum-save-interval '1440'
 
 set -g @plugin 'tmux-plugins/tpm'
 set -g @plugin 'tmux-plugins/tmux-sensible'
+
+# Initialize TMUX plugin manager (keep this line at the very bottom of tmux.conf)
+run '~/.tmux/plugins/tpm/tpm'
 ```
 
 ### 6.1
@@ -4961,7 +4964,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzODc0MjI0MSw0NjU1MzQzMzEsMzMwNz
+eyJoaXN0b3J5IjpbMjA3NjE3MDg4Nyw0NjU1MzQzMzEsMzMwNz
 Q4MTY0LC0xNzc3NjgzMjEwLDEyMTA2MDk0MzksMTY1NzA1Njc2
 NywtNjE0OTE5NTc0LC0yMDM1OTI0NjUxLC0xNzM3NTQ3NTc1LD
 E2MzgzNzA1MjEsLTY3ODcwMjM0NywtNjczNDI4NzgzLDEzMzEz
