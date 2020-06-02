@@ -110,6 +110,10 @@ set -g @continuum-save-interval '1440'
 set -g @plugin 'tmux-plugins/tpm'
 set -g @plugin 'tmux-plugins/tmux-sensible'
 set -g @plugin 'tmux-plugins/tmux-resurrect'
+set -g @plugin 'tmux-plugins/tmux-open'
+set -g @plugin 'tmux-plugins/tmux-sensible'
+[tmux-plugins/tmux-open](https://github.com/tmux-plugins/tmux-open)
+[tmux-plugins/tmux-urlview](https://github.com/tmux-plugins/tmux-urlview)
 
 # Initialize TMUX plugin manager (keep this line at the very bottom of tmux.conf)
 run '~/.tmux/plugins/tpm/tpm'
@@ -4971,11 +4975,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAwMDkwNDY4LDE0ODk0NzQ5NjcsNDY1NT
-M0MzMxLDMzMDc0ODE2NCwtMTc3NzY4MzIxMCwxMjEwNjA5NDM5
-LDE2NTcwNTY3NjcsLTYxNDkxOTU3NCwtMjAzNTkyNDY1MSwtMT
-czNzU0NzU3NSwxNjM4MzcwNTIxLC02Nzg3MDIzNDcsLTY3MzQy
-ODc4MywxMzMxMzA1OTk3LDIwNzczMTkzMzYsMzk3MDczNzEsLT
-EwNDYxNTE3MDksNTY3NTE0MDIsMTgzNzUxODQsNzgyNjk4NzI5
-XX0=
+eyJoaXN0b3J5IjpbLTE0MzUxNzgxOTcsMTQ4OTQ3NDk2Nyw0Nj
+U1MzQzMzEsMzMwNzQ4MTY0LC0xNzc3NjgzMjEwLDEyMTA2MDk0
+MzksMTY1NzA1Njc2NywtNjE0OTE5NTc0LC0yMDM1OTI0NjUxLC
+0xNzM3NTQ3NTc1LDE2MzgzNzA1MjEsLTY3ODcwMjM0NywtNjcz
+NDI4NzgzLDEzMzEzMDU5OTcsMjA3NzMxOTMzNiwzOTcwNzM3MS
+wtMTA0NjE1MTcwOSw1Njc1MTQwMiwxODM3NTE4NCw3ODI2OTg3
+MjldfQ==
 -->
