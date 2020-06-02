@@ -112,6 +112,8 @@ set -g @plugin 'tmux-plugins/tmux-sensible'
 set -g @plugin 'tmux-plugins/tmux-resurrect'
 set -g @plugin 'tmux-plugins/tmux-open'
 set -g @plugin 'tmux-plugins/tmux-urlview'
+set -g @plugin 'tmux-plugins/tmux-prefix-highlight'
+set -g @plugin 'tmux-plugins/tmux-yank'
 
 
 # Initialize TMUX plugin manager (keep this line at the very bottom of tmux.conf)
@@ -4974,7 +4976,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTk3OTk3NjcsOTIzMzMzMDc5LDE0OD
+eyJoaXN0b3J5IjpbLTEzMDk2MjI5MTUsOTIzMzMzMDc5LDE0OD
 k0NzQ5NjcsNDY1NTM0MzMxLDMzMDc0ODE2NCwtMTc3NzY4MzIx
 MCwxMjEwNjA5NDM5LDE2NTcwNTY3NjcsLTYxNDkxOTU3NCwtMj
 AzNTkyNDY1MSwtMTczNzU0NzU3NSwxNjM4MzcwNTIxLC02Nzg3
