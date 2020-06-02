@@ -113,6 +113,7 @@ set -g @plugin 'tmux-plugins/tmux-resurrect'
 set -g @plugin 'tmux-plugins/tmux-open'
 set -g @plugin 'tmux-plugins/tmux-urlview'
 
+
 # Initialize TMUX plugin manager (keep this line at the very bottom of tmux.conf)
 run -b '~/.tmux/plugins/tpm/tpm'
 ```
@@ -4973,11 +4974,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIzMzMzMDc5LDE0ODk0NzQ5NjcsNDY1NT
-M0MzMxLDMzMDc0ODE2NCwtMTc3NzY4MzIxMCwxMjEwNjA5NDM5
-LDE2NTcwNTY3NjcsLTYxNDkxOTU3NCwtMjAzNTkyNDY1MSwtMT
-czNzU0NzU3NSwxNjM4MzcwNTIxLC02Nzg3MDIzNDcsLTY3MzQy
-ODc4MywxMzMxMzA1OTk3LDIwNzczMTkzMzYsMzk3MDczNzEsLT
-EwNDYxNTE3MDksNTY3NTE0MDIsMTgzNzUxODQsNzgyNjk4NzI5
-XX0=
+eyJoaXN0b3J5IjpbLTEzMTk3OTk3NjcsOTIzMzMzMDc5LDE0OD
+k0NzQ5NjcsNDY1NTM0MzMxLDMzMDc0ODE2NCwtMTc3NzY4MzIx
+MCwxMjEwNjA5NDM5LDE2NTcwNTY3NjcsLTYxNDkxOTU3NCwtMj
+AzNTkyNDY1MSwtMTczNzU0NzU3NSwxNjM4MzcwNTIxLC02Nzg3
+MDIzNDcsLTY3MzQyODc4MywxMzMxMzA1OTk3LDIwNzczMTkzMz
+YsMzk3MDczNzEsLTEwNDYxNTE3MDksNTY3NTE0MDIsMTgzNzUx
+ODRdfQ==
 -->
