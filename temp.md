@@ -2,7 +2,7 @@
 request \ ri-ˈkwest 注意 2个发音，首先i不同于ə，不会变，其次最后的t因为s的缘故+末尾，所以很轻,不碰牙齿，并且象征性出气嘴型t, 类似out
 
 tmux 配置
-
+·
 ### 6.1
 单词
 https://www.oxfordreference.com/view/10.1093/oi/authority.20110803100216161
@@ -4859,11 +4859,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNDkxOTU3NCwtMjAzNTkyNDY1MSwtMT
-czNzU0NzU3NSwxNjM4MzcwNTIxLC02Nzg3MDIzNDcsLTY3MzQy
-ODc4MywxMzMxMzA1OTk3LDIwNzczMTkzMzYsMzk3MDczNzEsLT
-EwNDYxNTE3MDksNTY3NTE0MDIsMTgzNzUxODQsNzgyNjk4NzI5
-LDUxNzIyMzAzOSwtOTEyNTI5ODUyLDE0MDg2MTcyMzMsMTk2Mj
-M4NTUwLC03MDQ1NTc1NDIsLTEyODM5NDM4ODksLTkzOTAyNDld
+eyJoaXN0b3J5IjpbNjY3Nzk5NDMsLTYxNDkxOTU3NCwtMjAzNT
+kyNDY1MSwtMTczNzU0NzU3NSwxNjM4MzcwNTIxLC02Nzg3MDIz
+NDcsLTY3MzQyODc4MywxMzMxMzA1OTk3LDIwNzczMTkzMzYsMz
+k3MDczNzEsLTEwNDYxNTE3MDksNTY3NTE0MDIsMTgzNzUxODQs
+NzgyNjk4NzI5LDUxNzIyMzAzOSwtOTEyNTI5ODUyLDE0MDg2MT
+cyMzMsMTk2MjM4NTUwLC03MDQ1NTc1NDIsLTEyODM5NDM4ODld
 fQ==
 -->
