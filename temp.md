@@ -2,6 +2,13 @@
 为 Git 启用一些额外的颜色，这样就可以更容易地阅读命令的输出！
 git config --global color.ui true
 
+https://www.macmillandictionary.com/us/dictionary/american/folk-music
+https://www.wikiwand.com/en/Folk_music
+https://www.collinsdictionary.com/us/dictionary/english/folk-music
+https://www.urbandictionary.com/define.php?term=Folk%20Music
+https://www.yourdictionary.com/folk-music
+https://www.audioenglish.org/dictionary/folk_music.htm
+
 ### 6.3
 https://www.atlassian.com/git/tutorials/dotfiles
 
@@ -5003,11 +5010,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTAzMzM5OTIsLTIxMDE5NTMzNTEsLT
-IxNDUwMDk2NTQsMTY0MjY5ODU3Myw5NjI5OTMwMTIsMTEyNjE2
-Mjg3Miw1MTM1ODczMjgsLTEzMTg4Njc5NzMsNzQ2NzQ2NTM1LC
-0xMzA5NjIyOTE1LDkyMzMzMzA3OSwxNDg5NDc0OTY3LDQ2NTUz
-NDMzMSwzMzA3NDgxNjQsLTE3Nzc2ODMyMTAsMTIxMDYwOTQzOS
-wxNjU3MDU2NzY3LC02MTQ5MTk1NzQsLTIwMzU5MjQ2NTEsLTE3
-Mzc1NDc1NzVdfQ==
+eyJoaXN0b3J5IjpbMTcxNDU1MTQzMSwtMTExMDMzMzk5MiwtMj
+EwMTk1MzM1MSwtMjE0NTAwOTY1NCwxNjQyNjk4NTczLDk2Mjk5
+MzAxMiwxMTI2MTYyODcyLDUxMzU4NzMyOCwtMTMxODg2Nzk3My
+w3NDY3NDY1MzUsLTEzMDk2MjI5MTUsOTIzMzMzMDc5LDE0ODk0
+NzQ5NjcsNDY1NTM0MzMxLDMzMDc0ODE2NCwtMTc3NzY4MzIxMC
+wxMjEwNjA5NDM5LDE2NTcwNTY3NjcsLTYxNDkxOTU3NCwtMjAz
+NTkyNDY1MV19
 -->
