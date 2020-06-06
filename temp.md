@@ -1,3 +1,15 @@
+### 6.6
+1. 安装git
+2. 配置全局git
+git config --global user.name "yourname"
+git config --global user.email "xxyyzz@163.com"
+git config --global credential.helper store
+
+https://blog.csdn.net/watfe/article/details/79761741
+
+3. 生成公钥
+ssh-keygen -t rsa -C "youremail@youremail.com"  
+
 ### 6.5
 为 Git 启用一些额外的颜色，这样就可以更容易地阅读命令的输出！
 git config --global color.ui true
@@ -5012,11 +5024,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MjkwNTUwNiwxNzE0NTUxNDMxLC0xMT
-EwMzMzOTkyLC0yMTAxOTUzMzUxLC0yMTQ1MDA5NjU0LDE2NDI2
-OTg1NzMsOTYyOTkzMDEyLDExMjYxNjI4NzIsNTEzNTg3MzI4LC
-0xMzE4ODY3OTczLDc0Njc0NjUzNSwtMTMwOTYyMjkxNSw5MjMz
-MzMwNzksMTQ4OTQ3NDk2Nyw0NjU1MzQzMzEsMzMwNzQ4MTY0LC
-0xNzc3NjgzMjEwLDEyMTA2MDk0MzksMTY1NzA1Njc2NywtNjE0
-OTE5NTc0XX0=
+eyJoaXN0b3J5IjpbOTI2MTc1MjYsMTg4MjkwNTUwNiwxNzE0NT
+UxNDMxLC0xMTEwMzMzOTkyLC0yMTAxOTUzMzUxLC0yMTQ1MDA5
+NjU0LDE2NDI2OTg1NzMsOTYyOTkzMDEyLDExMjYxNjI4NzIsNT
+EzNTg3MzI4LC0xMzE4ODY3OTczLDc0Njc0NjUzNSwtMTMwOTYy
+MjkxNSw5MjMzMzMwNzksMTQ4OTQ3NDk2Nyw0NjU1MzQzMzEsMz
+MwNzQ4MTY0LC0xNzc3NjgzMjEwLDEyMTA2MDk0MzksMTY1NzA1
+Njc2N119
 -->
