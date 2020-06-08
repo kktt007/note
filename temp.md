@@ -3,6 +3,22 @@ git学习
 https://www.freecodecamp.org/news/tag/github/
 https://coderwall.com/p/7smjkq/multiple-ssh-keys-for-different-accounts-on-github-or-gitlab
 https://www.freecodecamp.org/news/git-ssh-how-to/
+
+- 贝赛尔去
+ctrl + 存在点== 原样拖动
+
+ctrl + 空白点 == 右侧添加拖动辅助
+
+alt + 存在点 == 2面拖动，或变直
+
+alt+ 空白点==添加曲点
+
+点击 空白== 添加/取消 曲点
+
+ctrl + 点击 空白 ==所有标记消失
+ctrl + 点击非空白 == 显示标记
+
+图层面板消失 窗口找回 或F7
 ### 6.6
 1. 安装git
 2. 配置全局git
@@ -5029,11 +5045,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1ODUyMDMxNSwxNzk1MTc3NjM1LDE4OD
-I5MDU1MDYsMTcxNDU1MTQzMSwtMTExMDMzMzk5MiwtMjEwMTk1
-MzM1MSwtMjE0NTAwOTY1NCwxNjQyNjk4NTczLDk2Mjk5MzAxMi
-wxMTI2MTYyODcyLDUxMzU4NzMyOCwtMTMxODg2Nzk3Myw3NDY3
-NDY1MzUsLTEzMDk2MjI5MTUsOTIzMzMzMDc5LDE0ODk0NzQ5Nj
-csNDY1NTM0MzMxLDMzMDc0ODE2NCwtMTc3NzY4MzIxMCwxMjEw
-NjA5NDM5XX0=
+eyJoaXN0b3J5IjpbLTE2NTAzNDE1NzUsLTk1ODUyMDMxNSwxNz
+k1MTc3NjM1LDE4ODI5MDU1MDYsMTcxNDU1MTQzMSwtMTExMDMz
+Mzk5MiwtMjEwMTk1MzM1MSwtMjE0NTAwOTY1NCwxNjQyNjk4NT
+czLDk2Mjk5MzAxMiwxMTI2MTYyODcyLDUxMzU4NzMyOCwtMTMx
+ODg2Nzk3Myw3NDY3NDY1MzUsLTEzMDk2MjI5MTUsOTIzMzMzMD
+c5LDE0ODk0NzQ5NjcsNDY1NTM0MzMxLDMzMDc0ODE2NCwtMTc3
+NzY4MzIxMF19
 -->
