@@ -1,6 +1,7 @@
 ### 6.8
 git学习
 https://www.freecodecamp.org/news/tag/github/
+https://coderwall.com/p/7smjkq/multiple-ssh-keys-for-different-accounts-on-github-or-gitlab
 
 ### 6.6
 1. 安装git
@@ -5028,11 +5029,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4OTE0Njc5LDE4ODI5MDU1MDYsMTcxND
-U1MTQzMSwtMTExMDMzMzk5MiwtMjEwMTk1MzM1MSwtMjE0NTAw
-OTY1NCwxNjQyNjk4NTczLDk2Mjk5MzAxMiwxMTI2MTYyODcyLD
-UxMzU4NzMyOCwtMTMxODg2Nzk3Myw3NDY3NDY1MzUsLTEzMDk2
-MjI5MTUsOTIzMzMzMDc5LDE0ODk0NzQ5NjcsNDY1NTM0MzMxLD
-MzMDc0ODE2NCwtMTc3NzY4MzIxMCwxMjEwNjA5NDM5LDE2NTcw
-NTY3NjddfQ==
+eyJoaXN0b3J5IjpbMTc5NTE3NzYzNSwxODgyOTA1NTA2LDE3MT
+Q1NTE0MzEsLTExMTAzMzM5OTIsLTIxMDE5NTMzNTEsLTIxNDUw
+MDk2NTQsMTY0MjY5ODU3Myw5NjI5OTMwMTIsMTEyNjE2Mjg3Mi
+w1MTM1ODczMjgsLTEzMTg4Njc5NzMsNzQ2NzQ2NTM1LC0xMzA5
+NjIyOTE1LDkyMzMzMzA3OSwxNDg5NDc0OTY3LDQ2NTUzNDMzMS
+wzMzA3NDgxNjQsLTE3Nzc2ODMyMTAsMTIxMDYwOTQzOSwxNjU3
+MDU2NzY3XX0=
 -->
