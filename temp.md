@@ -19,6 +19,10 @@ ctrl + 点击 空白 ==所有标记消失
 ctrl + 点击非空白 == 显示标记
 
 图层面板消失 窗口找回 或F7
+
+http://www.ittribalwo.com/article/1470.html
+**PS填充前景色**的快捷键是：alt + delete，或者Alt+Backspace也可以**填充前景色**。 **PS填充**背景色的快捷键是：ctrl + delete，或者ctrl+Backspace也可以**填充**背景色
+
 ### 6.6
 1. 安装git
 2. 配置全局git
@@ -5045,11 +5049,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTAzNDE1NzUsLTk1ODUyMDMxNSwxNz
-k1MTc3NjM1LDE4ODI5MDU1MDYsMTcxNDU1MTQzMSwtMTExMDMz
-Mzk5MiwtMjEwMTk1MzM1MSwtMjE0NTAwOTY1NCwxNjQyNjk4NT
-czLDk2Mjk5MzAxMiwxMTI2MTYyODcyLDUxMzU4NzMyOCwtMTMx
-ODg2Nzk3Myw3NDY3NDY1MzUsLTEzMDk2MjI5MTUsOTIzMzMzMD
-c5LDE0ODk0NzQ5NjcsNDY1NTM0MzMxLDMzMDc0ODE2NCwtMTc3
-NzY4MzIxMF19
+eyJoaXN0b3J5IjpbMjA4NjM1OTU4MSwtMTY1MDM0MTU3NSwtOT
+U4NTIwMzE1LDE3OTUxNzc2MzUsMTg4MjkwNTUwNiwxNzE0NTUx
+NDMxLC0xMTEwMzMzOTkyLC0yMTAxOTUzMzUxLC0yMTQ1MDA5Nj
+U0LDE2NDI2OTg1NzMsOTYyOTkzMDEyLDExMjYxNjI4NzIsNTEz
+NTg3MzI4LC0xMzE4ODY3OTczLDc0Njc0NjUzNSwtMTMwOTYyMj
+kxNSw5MjMzMzMwNzksMTQ4OTQ3NDk2Nyw0NjU1MzQzMzEsMzMw
+NzQ4MTY0XX0=
 -->
