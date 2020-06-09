@@ -1,4 +1,12 @@
+### 6.9
+破解软件
+http://www.zhanshaoyi.com/
 
+空白页的方法
+http://www.zhanshaoyi.com/8237.html
+
+自由变换
+http://www.zhanshaoyi.com/901.html
 
 ### 6.8
 git学习
@@ -5051,7 +5059,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MTYwNzg3MywyMDg2MzU5NTgxLC0xNj
+eyJoaXN0b3J5IjpbLTkwMzU3MzU3MywyMDg2MzU5NTgxLC0xNj
 UwMzQxNTc1LC05NTg1MjAzMTUsMTc5NTE3NzYzNSwxODgyOTA1
 NTA2LDE3MTQ1NTE0MzEsLTExMTAzMzM5OTIsLTIxMDE5NTMzNT
 EsLTIxNDUwMDk2NTQsMTY0MjY5ODU3Myw5NjI5OTMwMTIsMTEy
