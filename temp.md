@@ -4,6 +4,8 @@
 https://www.jianshu.com/p/601df7e35bb0
 https://zhuanlan.zhihu.com/p/34151368
 
+https://github.com/lra/mackup/tree/master/doc
+
 ### 6.9
 破解软件
 http://www.zhanshaoyi.com/
@@ -5067,11 +5069,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzEwNTYwLDQyNjI1NjYyNSwtOTAzNT
-czNTczLDIwODYzNTk1ODEsLTE2NTAzNDE1NzUsLTk1ODUyMDMx
-NSwxNzk1MTc3NjM1LDE4ODI5MDU1MDYsMTcxNDU1MTQzMSwtMT
-ExMDMzMzk5MiwtMjEwMTk1MzM1MSwtMjE0NTAwOTY1NCwxNjQy
-Njk4NTczLDk2Mjk5MzAxMiwxMTI2MTYyODcyLDUxMzU4NzMyOC
-wtMTMxODg2Nzk3Myw3NDY3NDY1MzUsLTEzMDk2MjI5MTUsOTIz
-MzMzMDc5XX0=
+eyJoaXN0b3J5IjpbMTAxNjQyMzAyMCwtMTE3MTA1NjAsNDI2Mj
+U2NjI1LC05MDM1NzM1NzMsMjA4NjM1OTU4MSwtMTY1MDM0MTU3
+NSwtOTU4NTIwMzE1LDE3OTUxNzc2MzUsMTg4MjkwNTUwNiwxNz
+E0NTUxNDMxLC0xMTEwMzMzOTkyLC0yMTAxOTUzMzUxLC0yMTQ1
+MDA5NjU0LDE2NDI2OTg1NzMsOTYyOTkzMDEyLDExMjYxNjI4Nz
+IsNTEzNTg3MzI4LC0xMzE4ODY3OTczLDc0Njc0NjUzNSwtMTMw
+OTYyMjkxNV19
 -->
