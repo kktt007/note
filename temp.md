@@ -4,8 +4,9 @@
 https://www.jianshu.com/p/601df7e35bb0
 https://zhuanlan.zhihu.com/p/34151368
 
+### backup dotfiles for linux
 https://github.com/lra/mackup/tree/master/doc
-
+https://wiki.archlinux.org/index.php/Dotfiles
 
 ### 6.9
 破解软件
@@ -5070,7 +5071,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODQ5NTQ0MzQsMTAxNjQyMzAyMCwtMT
+eyJoaXN0b3J5IjpbLTEzNjAwNDQxOTMsMTAxNjQyMzAyMCwtMT
 E3MTA1NjAsNDI2MjU2NjI1LC05MDM1NzM1NzMsMjA4NjM1OTU4
 MSwtMTY1MDM0MTU3NSwtOTU4NTIwMzE1LDE3OTUxNzc2MzUsMT
 g4MjkwNTUwNiwxNzE0NTUxNDMxLC0xMTEwMzMzOTkyLC0yMTAx
