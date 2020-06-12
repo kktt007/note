@@ -19,7 +19,7 @@ PS新建的也就是画布大小 ，但是导入图片后并不改变 图片比�
 
 分辨率指英寸密度
 
-我的7567 电脑 15.6 Inch 显示比例16:9  	Full-HD(FHD)  	LCD Dimensions: 	14.187x8.187"
+我的7567 电脑 15.6 Inch 显示比例16:9  	Full-HD(FHD)  	LCD Dimensions: 	14.187x8.187" 344mm*193mm
 破解软件
 https://www.zuketcreation.com/category/applikasi/
 https://zchacker.blogspot.com/
@@ -5120,7 +5120,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTI4ODE5OTYsMTQzMDY5NDIxMCwtMT
+eyJoaXN0b3J5IjpbLTExMTYzNDMzNjAsMTQzMDY5NDIxMCwtMT
 M3MTQ2MDAxNCw3NDU4Mzc0OCwtMTE5MDMyOTUzMiwtMTM2MDA0
 NDE5MywxMDE2NDIzMDIwLC0xMTcxMDU2MCw0MjYyNTY2MjUsLT
 kwMzU3MzU3MywyMDg2MzU5NTgxLC0xNjUwMzQxNTc1LC05NTg1
