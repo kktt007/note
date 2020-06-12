@@ -1,3 +1,15 @@
+### 6.12
+破解软件
+https://www.zuketcreation.com/category/applikasi/
+https://zchacker.blogspot.com/
+https://karanpc.com/
+https://adnanpc.com/category/activator/
+https://pcwonderland.com/
+https://www.52pojie.cn/forum-16-1.html
+https://www.y4f.net/ziyuanbeifen/jingpinruanjian
+https://www.8282.info/index.php/category/windows-software/
+http://dl4all.cc/software/
+
 ### 6.11 
 邮件英语
 
@@ -5071,11 +5083,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjAwNDQxOTMsMTAxNjQyMzAyMCwtMT
-E3MTA1NjAsNDI2MjU2NjI1LC05MDM1NzM1NzMsMjA4NjM1OTU4
-MSwtMTY1MDM0MTU3NSwtOTU4NTIwMzE1LDE3OTUxNzc2MzUsMT
-g4MjkwNTUwNiwxNzE0NTUxNDMxLC0xMTEwMzMzOTkyLC0yMTAx
-OTUzMzUxLC0yMTQ1MDA5NjU0LDE2NDI2OTg1NzMsOTYyOTkzMD
-EyLDExMjYxNjI4NzIsNTEzNTg3MzI4LC0xMzE4ODY3OTczLDc0
-Njc0NjUzNV19
+eyJoaXN0b3J5IjpbLTExOTAzMjk1MzIsLTEzNjAwNDQxOTMsMT
+AxNjQyMzAyMCwtMTE3MTA1NjAsNDI2MjU2NjI1LC05MDM1NzM1
+NzMsMjA4NjM1OTU4MSwtMTY1MDM0MTU3NSwtOTU4NTIwMzE1LD
+E3OTUxNzc2MzUsMTg4MjkwNTUwNiwxNzE0NTUxNDMxLC0xMTEw
+MzMzOTkyLC0yMTAxOTUzMzUxLC0yMTQ1MDA5NjU0LDE2NDI2OT
+g1NzMsOTYyOTkzMDEyLDExMjYxNjI4NzIsNTEzNTg3MzI4LC0x
+MzE4ODY3OTczXX0=
 -->
