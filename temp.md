@@ -25,6 +25,7 @@ pixel (px)是 picture 和element(元素) ，像素 有时叫,pel(picture element
 
 dpi==打印分辨率
 
+https://www.jianshu.com/p/3b612fb6d685
 当图片的分辨率是72ppi（dpi）时，1pt = 1px；  
 当图片的分辨率是72*2ppi（dpi）时，1pt = 2px；
 
@@ -5147,11 +5148,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2ODEzNzg0Nyw0NjczNzE4ODgsMTg1ND
-Q5MjI1MywtMjU5MDUwOTg1LDExMjk5MTUxNjYsMjA1NjIzNTMy
-NCwtMTM2NDM5NzE4NSwxNzg1NjM1MTg1LC0yODkwMzMxNzQsLT
-g1MTE0NjIsMjEzNjYyMDYxNSwtMTM2NTI3MzczOSwtMTExNjM0
-MzM2MCwxNDMwNjk0MjEwLC0xMzcxNDYwMDE0LDc0NTgzNzQ4LC
-0xMTkwMzI5NTMyLC0xMzYwMDQ0MTkzLDEwMTY0MjMwMjAsLTEx
-NzEwNTYwXX0=
+eyJoaXN0b3J5IjpbODA5Njk0MjQ5LDQ2NzM3MTg4OCwxODU0ND
+kyMjUzLC0yNTkwNTA5ODUsMTEyOTkxNTE2NiwyMDU2MjM1MzI0
+LC0xMzY0Mzk3MTg1LDE3ODU2MzUxODUsLTI4OTAzMzE3NCwtOD
+UxMTQ2MiwyMTM2NjIwNjE1LC0xMzY1MjczNzM5LC0xMTE2MzQz
+MzYwLDE0MzA2OTQyMTAsLTEzNzE0NjAwMTQsNzQ1ODM3NDgsLT
+ExOTAzMjk1MzIsLTEzNjAwNDQxOTMsMTAxNjQyMzAyMCwtMTE3
+MTA1NjBdfQ==
 -->
