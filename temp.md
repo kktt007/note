@@ -29,6 +29,7 @@ pixel (px)是 picture 和element(元素) ，像素 有时叫,pel(picture element
 我的7567 电脑 15.6 Inch(内屏) 显示比例16:9  	Full-HD(FHD)  	LCD Dimensions: 	344mm*193mm
 344 mm = 13.5433 inch 1920/13.5433 = ~ 142 193 mm = 7.59843 inch 1080/7.59843 = ~ 142 所以DPI 设置成144
 
+15.6 inch :2203/15.6约141
 屏幕尺寸:对角线长度 
 分辨率: 横向像素*纵向像素(px)
 
@@ -5139,11 +5140,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1OTA1MDk4NSwxMTI5OTE1MTY2LDIwNT
-YyMzUzMjQsLTEzNjQzOTcxODUsMTc4NTYzNTE4NSwtMjg5MDMz
-MTc0LC04NTExNDYyLDIxMzY2MjA2MTUsLTEzNjUyNzM3MzksLT
-ExMTYzNDMzNjAsMTQzMDY5NDIxMCwtMTM3MTQ2MDAxNCw3NDU4
-Mzc0OCwtMTE5MDMyOTUzMiwtMTM2MDA0NDE5MywxMDE2NDIzMD
-IwLC0xMTcxMDU2MCw0MjYyNTY2MjUsLTkwMzU3MzU3MywyMDg2
-MzU5NTgxXX0=
+eyJoaXN0b3J5IjpbMTg1NDQ5MjI1MywtMjU5MDUwOTg1LDExMj
+k5MTUxNjYsMjA1NjIzNTMyNCwtMTM2NDM5NzE4NSwxNzg1NjM1
+MTg1LC0yODkwMzMxNzQsLTg1MTE0NjIsMjEzNjYyMDYxNSwtMT
+M2NTI3MzczOSwtMTExNjM0MzM2MCwxNDMwNjk0MjEwLC0xMzcx
+NDYwMDE0LDc0NTgzNzQ4LC0xMTkwMzI5NTMyLC0xMzYwMDQ0MT
+kzLDEwMTY0MjMwMjAsLTExNzEwNTYwLDQyNjI1NjYyNSwtOTAz
+NTczNTczXX0=
 -->
