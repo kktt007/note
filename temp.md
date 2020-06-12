@@ -10,6 +10,17 @@ https://www.y4f.net/ziyuanbeifen/jingpinruanjian
 https://www.8282.info/index.php/category/windows-software/
 http://dl4all.cc/software/
 
+
+这个我理解
+https://github.com/yxjxx/dotfiles
+https://github.com/willprice/dotfiles
+
+使用stow
+https://writingco.de/blog/how-i-manage-my-dotfiles-using-gnu-stow/
+
+基础命令
+https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je
+
 ### 6.11 
 邮件英语
 
@@ -5083,11 +5094,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTAzMjk1MzIsLTEzNjAwNDQxOTMsMT
-AxNjQyMzAyMCwtMTE3MTA1NjAsNDI2MjU2NjI1LC05MDM1NzM1
-NzMsMjA4NjM1OTU4MSwtMTY1MDM0MTU3NSwtOTU4NTIwMzE1LD
-E3OTUxNzc2MzUsMTg4MjkwNTUwNiwxNzE0NTUxNDMxLC0xMTEw
-MzMzOTkyLC0yMTAxOTUzMzUxLC0yMTQ1MDA5NjU0LDE2NDI2OT
-g1NzMsOTYyOTkzMDEyLDExMjYxNjI4NzIsNTEzNTg3MzI4LC0x
-MzE4ODY3OTczXX0=
+eyJoaXN0b3J5IjpbNzQ1ODM3NDgsLTExOTAzMjk1MzIsLTEzNj
+AwNDQxOTMsMTAxNjQyMzAyMCwtMTE3MTA1NjAsNDI2MjU2NjI1
+LC05MDM1NzM1NzMsMjA4NjM1OTU4MSwtMTY1MDM0MTU3NSwtOT
+U4NTIwMzE1LDE3OTUxNzc2MzUsMTg4MjkwNTUwNiwxNzE0NTUx
+NDMxLC0xMTEwMzMzOTkyLC0yMTAxOTUzMzUxLC0yMTQ1MDA5Nj
+U0LDE2NDI2OTg1NzMsOTYyOTkzMDEyLDExMjYxNjI4NzIsNTEz
+NTg3MzI4XX0=
 -->
