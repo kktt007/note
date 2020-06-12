@@ -10,6 +10,8 @@ https://www.y4f.net/ziyuanbeifen/jingpinruanjian
 https://www.8282.info/index.php/category/windows-software/
 http://dl4all.cc/software/
 
+说的在理
+https://github.com/twpayne/chezmoi/blob/master/README.md#i-already-have-a-system-to-manage-my-dotfiles-why-should-i-use-chezmoi
 
 这个我理解
 https://github.com/yxjxx/dotfiles
@@ -5094,11 +5096,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ1ODM3NDgsLTExOTAzMjk1MzIsLTEzNj
-AwNDQxOTMsMTAxNjQyMzAyMCwtMTE3MTA1NjAsNDI2MjU2NjI1
-LC05MDM1NzM1NzMsMjA4NjM1OTU4MSwtMTY1MDM0MTU3NSwtOT
-U4NTIwMzE1LDE3OTUxNzc2MzUsMTg4MjkwNTUwNiwxNzE0NTUx
-NDMxLC0xMTEwMzMzOTkyLC0yMTAxOTUzMzUxLC0yMTQ1MDA5Nj
-U0LDE2NDI2OTg1NzMsOTYyOTkzMDEyLDExMjYxNjI4NzIsNTEz
-NTg3MzI4XX0=
+eyJoaXN0b3J5IjpbLTEzNzE0NjAwMTQsNzQ1ODM3NDgsLTExOT
+AzMjk1MzIsLTEzNjAwNDQxOTMsMTAxNjQyMzAyMCwtMTE3MTA1
+NjAsNDI2MjU2NjI1LC05MDM1NzM1NzMsMjA4NjM1OTU4MSwtMT
+Y1MDM0MTU3NSwtOTU4NTIwMzE1LDE3OTUxNzc2MzUsMTg4Mjkw
+NTUwNiwxNzE0NTUxNDMxLC0xMTEwMzMzOTkyLC0yMTAxOTUzMz
+UxLC0yMTQ1MDA5NjU0LDE2NDI2OTg1NzMsOTYyOTkzMDEyLDEx
+MjYxNjI4NzJdfQ==
 -->
