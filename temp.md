@@ -19,7 +19,8 @@ dpi：Dots Per Inch，每英寸长度上的点数，在打印领域使用。 取
 ppi：Pixels Per Inch，屏幕像素密度，每英寸屏幕所拥有的像素数，在电脑显示领域使用。
 pixel (px)是 picture 和element(元素) ，像素 有时叫,pel(picture element)
 
-分辨率1920*1080 与屏幕分辨率ppi和打印机分辨率dpi无关，它表示的是“像素数量”不要理解为面积，跟面积无任何关系。
+分辨率1920*1080  (屏幕上的像素总数) 与屏幕分辨率ppi和打印机分辨率dpi无关，它表示的是“像素数量”不要理解为面积，跟面积无任何关系。
+
 
 300×300 PPI分辨率，即表示水平方向与垂直方向上每英寸长度上的像素数都是300，也可表示为一平方英寸内有9万（300×300）像素。两个相邻像素之间的距离：1英寸/300=2.54cm/300=0.085mm。
 
@@ -5126,7 +5127,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzODM5ODgwMywtODUxMTQ2MiwyMTM2Nj
+eyJoaXN0b3J5IjpbLTI4OTAzMzE3NCwtODUxMTQ2MiwyMTM2Nj
 IwNjE1LC0xMzY1MjczNzM5LC0xMTE2MzQzMzYwLDE0MzA2OTQy
 MTAsLTEzNzE0NjAwMTQsNzQ1ODM3NDgsLTExOTAzMjk1MzIsLT
 EzNjAwNDQxOTMsMTAxNjQyMzAyMCwtMTE3MTA1NjAsNDI2MjU2
