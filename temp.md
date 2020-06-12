@@ -17,6 +17,7 @@ PS新建的也就是画布大小 ，但是导入图片后并不改变 图片比�
 
 dpi：Dots Per Inch，每英寸长度上的点数，在打印领域使用。 取代以下。
 ppi：Pixels Per Inch，屏幕像素密度，每英寸屏幕所拥有的像素数，在电脑显示领域使用。
+pixel 是 picture 和element(元素) ，像素 有时叫,pel(picture element)
 
 300×300 PPI分辨率，即表示水平方向与垂直方向上每英寸长度上的像素数都是300，也可表示为一平方英寸内有9万（300×300）像素。两个相邻像素之间的距离：1英寸/300=2.54cm/300=0.085mm。
 
@@ -5123,11 +5124,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjUyNzM3MzksLTExMTYzNDMzNjAsMT
-QzMDY5NDIxMCwtMTM3MTQ2MDAxNCw3NDU4Mzc0OCwtMTE5MDMy
-OTUzMiwtMTM2MDA0NDE5MywxMDE2NDIzMDIwLC0xMTcxMDU2MC
-w0MjYyNTY2MjUsLTkwMzU3MzU3MywyMDg2MzU5NTgxLC0xNjUw
-MzQxNTc1LC05NTg1MjAzMTUsMTc5NTE3NzYzNSwxODgyOTA1NT
-A2LDE3MTQ1NTE0MzEsLTExMTAzMzM5OTIsLTIxMDE5NTMzNTEs
-LTIxNDUwMDk2NTRdfQ==
+eyJoaXN0b3J5IjpbMjEzNjYyMDYxNSwtMTM2NTI3MzczOSwtMT
+ExNjM0MzM2MCwxNDMwNjk0MjEwLC0xMzcxNDYwMDE0LDc0NTgz
+NzQ4LC0xMTkwMzI5NTMyLC0xMzYwMDQ0MTkzLDEwMTY0MjMwMj
+AsLTExNzEwNTYwLDQyNjI1NjYyNSwtOTAzNTczNTczLDIwODYz
+NTk1ODEsLTE2NTAzNDE1NzUsLTk1ODUyMDMxNSwxNzk1MTc3Nj
+M1LDE4ODI5MDU1MDYsMTcxNDU1MTQzMSwtMTExMDMzMzk5Miwt
+MjEwMTk1MzM1MV19
 -->
