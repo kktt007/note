@@ -1,5 +1,14 @@
 ### 6.12
 
+图像大小	不改变画布可见区域 (改变图像比例) , 一般不调节
+画布大小	不改变图像真实大小 (改变可见部分区域)， 
+
+显示器相当于PS的画布，打开图片后 等比例显示大小，图片和随着显示器不一二出现不用程度的高矮
+
+PS新建的也就是画布大小 ，但是导入图片后并不改变 图片比例， 改变的是等比例随画笔变化，
+
+像素尺寸，也称显示大小或显示尺寸，等同于图像的像素值。
+一种是打印尺寸，也称打印大小，需要同时参考像素尺寸和打印分辨率才能确定。
 
 破解软件
 https://www.zuketcreation.com/category/applikasi/
@@ -5101,7 +5110,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MzA0MjY2MiwtMTM3MTQ2MDAxNCw3ND
+eyJoaXN0b3J5IjpbMTQzMDY5NDIxMCwtMTM3MTQ2MDAxNCw3ND
 U4Mzc0OCwtMTE5MDMyOTUzMiwtMTM2MDA0NDE5MywxMDE2NDIz
 MDIwLC0xMTcxMDU2MCw0MjYyNTY2MjUsLTkwMzU3MzU3MywyMD
 g2MzU5NTgxLC0xNjUwMzQxNTc1LC05NTg1MjAzMTUsMTc5NTE3
