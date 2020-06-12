@@ -28,6 +28,8 @@ pixel (px)是 picture 和element(元素) ，像素 有时叫,pel(picture element
 
 我的7567 电脑 15.6 Inch 显示比例16:9  	Full-HD(FHD)  	LCD Dimensions: 	344mm*193mm
 
+屏幕尺寸:对角线长度 
+分辨率: 横向像素*纵向像素(px)
 
 px，pixel，像素，电子屏幕上组成一幅图画或image的基本单元。  
 pt， point，点，印刷行业常用单位，等于1/72英寸。  
@@ -5136,11 +5138,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NjIzNTMyNCwtMTM2NDM5NzE4NSwxNz
-g1NjM1MTg1LC0yODkwMzMxNzQsLTg1MTE0NjIsMjEzNjYyMDYx
-NSwtMTM2NTI3MzczOSwtMTExNjM0MzM2MCwxNDMwNjk0MjEwLC
-0xMzcxNDYwMDE0LDc0NTgzNzQ4LC0xMTkwMzI5NTMyLC0xMzYw
-MDQ0MTkzLDEwMTY0MjMwMjAsLTExNzEwNTYwLDQyNjI1NjYyNS
-wtOTAzNTczNTczLDIwODYzNTk1ODEsLTE2NTAzNDE1NzUsLTk1
-ODUyMDMxNV19
+eyJoaXN0b3J5IjpbMTEyOTkxNTE2NiwyMDU2MjM1MzI0LC0xMz
+Y0Mzk3MTg1LDE3ODU2MzUxODUsLTI4OTAzMzE3NCwtODUxMTQ2
+MiwyMTM2NjIwNjE1LC0xMzY1MjczNzM5LC0xMTE2MzQzMzYwLD
+E0MzA2OTQyMTAsLTEzNzE0NjAwMTQsNzQ1ODM3NDgsLTExOTAz
+Mjk1MzIsLTEzNjAwNDQxOTMsMTAxNjQyMzAyMCwtMTE3MTA1Nj
+AsNDI2MjU2NjI1LC05MDM1NzM1NzMsMjA4NjM1OTU4MSwtMTY1
+MDM0MTU3NV19
 -->
