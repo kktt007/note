@@ -10,6 +10,16 @@ PS新建的也就是画布大小 ，但是导入图片后并不改变 图片比�
 像素尺寸，也称显示大小或显示尺寸，等同于图像的像素值。
 一种是打印尺寸，也称打印大小，需要同时参考像素尺寸和打印分辨率才能确定。
 
+[参考](https://jerkwin.github.io/2014/08/20/%E5%83%8F%E7%B4%A0,%E5%88%86%E8%BE%A8%E7%8E%87,%E5%B1%8F%E5%B9%95%E5%A4%A7%E5%B0%8F,%E5%AE%9E%E9%99%85%E5%A4%A7%E5%B0%8F,%E6%89%93%E5%8D%B0%E5%A4%A7%E5%B0%8F%E4%B9%8B%E9%97%B4%E7%9A%84%E5%85%B3%E7%B3%BB/)
+像素（Pixel）可理解为是不同亮度、色调、色相、色温、灰度等的颜色信息，是构成影像的最小单位，对应于相机感光器件上的感光最小单位。大部分数码相机标示的是CCD的像素数，对应CCD上光电感应元件的数量。
+
+分辨率=像素(点)数/面积，为像素的“点密度”，表示单位长度中所包含的像素数目。
+
+300×300 PPI分辨率，即表示水平方向与垂直方向上每英寸长度上的像素数都是300，也可表示为一平方英寸内有9万（300×300）像素。两个相邻像素之间的距离：1英寸/300=2.54cm/300=0.085mm。
+
+分辨率指英寸密度
+
+我的7567 电脑 15.6 Inch 显示比例16:9  	Full-HD(FHD)  	LCD Dimensions: 	14.187x8.187"
 破解软件
 https://www.zuketcreation.com/category/applikasi/
 https://zchacker.blogspot.com/
@@ -5110,11 +5120,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMDY5NDIxMCwtMTM3MTQ2MDAxNCw3ND
-U4Mzc0OCwtMTE5MDMyOTUzMiwtMTM2MDA0NDE5MywxMDE2NDIz
-MDIwLC0xMTcxMDU2MCw0MjYyNTY2MjUsLTkwMzU3MzU3MywyMD
-g2MzU5NTgxLC0xNjUwMzQxNTc1LC05NTg1MjAzMTUsMTc5NTE3
-NzYzNSwxODgyOTA1NTA2LDE3MTQ1NTE0MzEsLTExMTAzMzM5OT
-IsLTIxMDE5NTMzNTEsLTIxNDUwMDk2NTQsMTY0MjY5ODU3Myw5
-NjI5OTMwMTJdfQ==
+eyJoaXN0b3J5IjpbLTE2MTI4ODE5OTYsMTQzMDY5NDIxMCwtMT
+M3MTQ2MDAxNCw3NDU4Mzc0OCwtMTE5MDMyOTUzMiwtMTM2MDA0
+NDE5MywxMDE2NDIzMDIwLC0xMTcxMDU2MCw0MjYyNTY2MjUsLT
+kwMzU3MzU3MywyMDg2MzU5NTgxLC0xNjUwMzQxNTc1LC05NTg1
+MjAzMTUsMTc5NTE3NzYzNSwxODgyOTA1NTA2LDE3MTQ1NTE0Mz
+EsLTExMTAzMzM5OTIsLTIxMDE5NTMzNTEsLTIxNDUwMDk2NTQs
+MTY0MjY5ODU3M119
 -->
