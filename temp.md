@@ -25,6 +25,8 @@ pixel (px)是 picture 和element(元素) ，像素 有时叫,pel(picture element
 
 dpi==打印分辨率
 
+当图片的分辨率是72ppi（dpi）时，1pt = 1px；  
+当图片的分辨率是72*2ppi（dpi）时，1pt = 2px；
 
 
 300×300 PPI分辨率，即表示水平方向与垂直方向上每英寸长度上的像素数都是300，也可表示为一平方英寸内有9万（300×300）像素。两个相邻像素之间的距离：1英寸/300=2.54cm/300=0.085mm。
@@ -5145,11 +5147,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY3MzcxODg4LDE4NTQ0OTIyNTMsLTI1OT
-A1MDk4NSwxMTI5OTE1MTY2LDIwNTYyMzUzMjQsLTEzNjQzOTcx
-ODUsMTc4NTYzNTE4NSwtMjg5MDMzMTc0LC04NTExNDYyLDIxMz
-Y2MjA2MTUsLTEzNjUyNzM3MzksLTExMTYzNDMzNjAsMTQzMDY5
-NDIxMCwtMTM3MTQ2MDAxNCw3NDU4Mzc0OCwtMTE5MDMyOTUzMi
-wtMTM2MDA0NDE5MywxMDE2NDIzMDIwLC0xMTcxMDU2MCw0MjYy
-NTY2MjVdfQ==
+eyJoaXN0b3J5IjpbLTQ2ODEzNzg0Nyw0NjczNzE4ODgsMTg1ND
+Q5MjI1MywtMjU5MDUwOTg1LDExMjk5MTUxNjYsMjA1NjIzNTMy
+NCwtMTM2NDM5NzE4NSwxNzg1NjM1MTg1LC0yODkwMzMxNzQsLT
+g1MTE0NjIsMjEzNjYyMDYxNSwtMTM2NTI3MzczOSwtMTExNjM0
+MzM2MCwxNDMwNjk0MjEwLC0xMzcxNDYwMDE0LDc0NTgzNzQ4LC
+0xMTkwMzI5NTMyLC0xMzYwMDQ0MTkzLDEwMTY0MjMwMjAsLTEx
+NzEwNTYwXX0=
 -->
