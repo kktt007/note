@@ -15,6 +15,9 @@ PS新建的也就是画布大小 ，但是导入图片后并不改变 图片比�
 
 分辨率=像素(点)数/面积，为像素的“点密度”，表示单位长度中所包含的像素数目。
 
+dpi：Dots Per Inch，每英寸长度上的点数，在打印领域使用。 取代以下。
+ppi：Pixels Per Inch，屏幕像素密度，每英寸屏幕所拥有的像素数，在电脑显示领域使用。
+
 300×300 PPI分辨率，即表示水平方向与垂直方向上每英寸长度上的像素数都是300，也可表示为一平方英寸内有9万（300×300）像素。两个相邻像素之间的距离：1英寸/300=2.54cm/300=0.085mm。
 
 分辨率指英寸密度
@@ -5120,11 +5123,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTYzNDMzNjAsMTQzMDY5NDIxMCwtMT
-M3MTQ2MDAxNCw3NDU4Mzc0OCwtMTE5MDMyOTUzMiwtMTM2MDA0
-NDE5MywxMDE2NDIzMDIwLC0xMTcxMDU2MCw0MjYyNTY2MjUsLT
-kwMzU3MzU3MywyMDg2MzU5NTgxLC0xNjUwMzQxNTc1LC05NTg1
-MjAzMTUsMTc5NTE3NzYzNSwxODgyOTA1NTA2LDE3MTQ1NTE0Mz
-EsLTExMTAzMzM5OTIsLTIxMDE5NTMzNTEsLTIxNDUwMDk2NTQs
-MTY0MjY5ODU3M119
+eyJoaXN0b3J5IjpbLTEzNjUyNzM3MzksLTExMTYzNDMzNjAsMT
+QzMDY5NDIxMCwtMTM3MTQ2MDAxNCw3NDU4Mzc0OCwtMTE5MDMy
+OTUzMiwtMTM2MDA0NDE5MywxMDE2NDIzMDIwLC0xMTcxMDU2MC
+w0MjYyNTY2MjUsLTkwMzU3MzU3MywyMDg2MzU5NTgxLC0xNjUw
+MzQxNTc1LC05NTg1MjAzMTUsMTc5NTE3NzYzNSwxODgyOTA1NT
+A2LDE3MTQ1NTE0MzEsLTExMTAzMzM5OTIsLTIxMDE5NTMzNTEs
+LTIxNDUwMDk2NTRdfQ==
 -->
