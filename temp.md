@@ -17,7 +17,7 @@ PS新建的也就是画布大小 ，但是导入图片后并不改变 图片比�
 
 dpi：Dots Per Inch，每英寸长度上的点数，在打印领域使用。 取代以下。
 ppi：Pixels Per Inch，屏幕像素密度，每英寸屏幕所拥有的像素数，在电脑显示领域使用。
-pixel 是 picture 和element(元素) ，像素 有时叫,pel(picture element)
+pixel (px)是 picture 和element(元素) ，像素 有时叫,pel(picture element)
 
 分辨率1920*1080 与屏幕分辨率ppi和打印机分辨率dpi无关，它表示的是“像素数量”不要理解为面积，跟面积无任何关系。
 
@@ -5126,11 +5126,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MTE0NjIsMjEzNjYyMDYxNSwtMTM2NT
-I3MzczOSwtMTExNjM0MzM2MCwxNDMwNjk0MjEwLC0xMzcxNDYw
-MDE0LDc0NTgzNzQ4LC0xMTkwMzI5NTMyLC0xMzYwMDQ0MTkzLD
-EwMTY0MjMwMjAsLTExNzEwNTYwLDQyNjI1NjYyNSwtOTAzNTcz
-NTczLDIwODYzNTk1ODEsLTE2NTAzNDE1NzUsLTk1ODUyMDMxNS
-wxNzk1MTc3NjM1LDE4ODI5MDU1MDYsMTcxNDU1MTQzMSwtMTEx
-MDMzMzk5Ml19
+eyJoaXN0b3J5IjpbMTMzODM5ODgwMywtODUxMTQ2MiwyMTM2Nj
+IwNjE1LC0xMzY1MjczNzM5LC0xMTE2MzQzMzYwLDE0MzA2OTQy
+MTAsLTEzNzE0NjAwMTQsNzQ1ODM3NDgsLTExOTAzMjk1MzIsLT
+EzNjAwNDQxOTMsMTAxNjQyMzAyMCwtMTE3MTA1NjAsNDI2MjU2
+NjI1LC05MDM1NzM1NzMsMjA4NjM1OTU4MSwtMTY1MDM0MTU3NS
+wtOTU4NTIwMzE1LDE3OTUxNzc2MzUsMTg4MjkwNTUwNiwxNzE0
+NTUxNDMxXX0=
 -->
