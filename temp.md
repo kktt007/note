@@ -23,6 +23,9 @@ https://writingco.de/blog/how-i-manage-my-dotfiles-using-gnu-stow/
 基础命令
 https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je
 
+- dry run模式
+https://www.computerhope.com/jargon/d/dryrun.htm
+
 ### 6.11 
 邮件英语
 
@@ -5096,11 +5099,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzE0NjAwMTQsNzQ1ODM3NDgsLTExOT
-AzMjk1MzIsLTEzNjAwNDQxOTMsMTAxNjQyMzAyMCwtMTE3MTA1
-NjAsNDI2MjU2NjI1LC05MDM1NzM1NzMsMjA4NjM1OTU4MSwtMT
-Y1MDM0MTU3NSwtOTU4NTIwMzE1LDE3OTUxNzc2MzUsMTg4Mjkw
-NTUwNiwxNzE0NTUxNDMxLC0xMTEwMzMzOTkyLC0yMTAxOTUzMz
-UxLC0yMTQ1MDA5NjU0LDE2NDI2OTg1NzMsOTYyOTkzMDEyLDEx
-MjYxNjI4NzJdfQ==
+eyJoaXN0b3J5IjpbNjI1NzY0Mjg2LC0xMzcxNDYwMDE0LDc0NT
+gzNzQ4LC0xMTkwMzI5NTMyLC0xMzYwMDQ0MTkzLDEwMTY0MjMw
+MjAsLTExNzEwNTYwLDQyNjI1NjYyNSwtOTAzNTczNTczLDIwOD
+YzNTk1ODEsLTE2NTAzNDE1NzUsLTk1ODUyMDMxNSwxNzk1MTc3
+NjM1LDE4ODI5MDU1MDYsMTcxNDU1MTQzMSwtMTExMDMzMzk5Mi
+wtMjEwMTk1MzM1MSwtMjE0NTAwOTY1NCwxNjQyNjk4NTczLDk2
+Mjk5MzAxMl19
 -->
