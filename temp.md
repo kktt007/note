@@ -26,7 +26,7 @@ pixel (px)是 picture 和element(元素) ，像素 有时叫,pel(picture element
 
 分辨率指英寸密度
 
-我的7567 电脑 15.6 Inch 显示比例16:9  	Full-HD(FHD)  	LCD Dimensions: 	14.187x8.187" 344mm*193mm
+我的7567 电脑 15.6 Inch 显示比例16:9  	Full-HD(FHD)  	LCD Dimensions: 	344mm*193mm
 破解软件
 https://www.zuketcreation.com/category/applikasi/
 https://zchacker.blogspot.com/
@@ -5127,11 +5127,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4OTAzMzE3NCwtODUxMTQ2MiwyMTM2Nj
-IwNjE1LC0xMzY1MjczNzM5LC0xMTE2MzQzMzYwLDE0MzA2OTQy
-MTAsLTEzNzE0NjAwMTQsNzQ1ODM3NDgsLTExOTAzMjk1MzIsLT
-EzNjAwNDQxOTMsMTAxNjQyMzAyMCwtMTE3MTA1NjAsNDI2MjU2
-NjI1LC05MDM1NzM1NzMsMjA4NjM1OTU4MSwtMTY1MDM0MTU3NS
-wtOTU4NTIwMzE1LDE3OTUxNzc2MzUsMTg4MjkwNTUwNiwxNzE0
-NTUxNDMxXX0=
+eyJoaXN0b3J5IjpbLTIwNTk0ODQ0NzUsLTI4OTAzMzE3NCwtOD
+UxMTQ2MiwyMTM2NjIwNjE1LC0xMzY1MjczNzM5LC0xMTE2MzQz
+MzYwLDE0MzA2OTQyMTAsLTEzNzE0NjAwMTQsNzQ1ODM3NDgsLT
+ExOTAzMjk1MzIsLTEzNjAwNDQxOTMsMTAxNjQyMzAyMCwtMTE3
+MTA1NjAsNDI2MjU2NjI1LC05MDM1NzM1NzMsMjA4NjM1OTU4MS
+wtMTY1MDM0MTU3NSwtOTU4NTIwMzE1LDE3OTUxNzc2MzUsMTg4
+MjkwNTUwNl19
 -->
