@@ -2,6 +2,7 @@
 软件合集网站
 https://rework.tools/dev/git-client/
 https://hackernoon.com/tagged/tech
+https://www.geek-share.com/cate/linux.html
 
 ### 6.12
 
@@ -5153,7 +5154,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1OTI0OTcxMSwxMTk0MDExNDUzLDgwOT
+eyJoaXN0b3J5IjpbMTk2Nzg4ODQ3NCwxMTk0MDExNDUzLDgwOT
 Y5NDI0OSw0NjczNzE4ODgsMTg1NDQ5MjI1MywtMjU5MDUwOTg1
 LDExMjk5MTUxNjYsMjA1NjIzNTMyNCwtMTM2NDM5NzE4NSwxNz
 g1NjM1MTg1LC0yODkwMzMxNzQsLTg1MTE0NjIsMjEzNjYyMDYx
