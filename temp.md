@@ -4,6 +4,10 @@ https://rework.tools/dev/git-client/
 https://hackernoon.com/tagged/tech
 https://www.geek-share.com/cate/linux.html
 
+https://kaopubear.top/blog/2020-03-15-weeklyshare3/
+https://juejin.im/post/5eb614b05188256d8e65591e
+
+
 ### 6.12
 
 图像大小	不改变画布可见区域 (改变图像比例) , 一般不调节
@@ -5154,11 +5158,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5Mjc1NDY3NiwxOTY3ODg4NDc0LDExOT
-QwMTE0NTMsODA5Njk0MjQ5LDQ2NzM3MTg4OCwxODU0NDkyMjUz
-LC0yNTkwNTA5ODUsMTEyOTkxNTE2NiwyMDU2MjM1MzI0LC0xMz
-Y0Mzk3MTg1LDE3ODU2MzUxODUsLTI4OTAzMzE3NCwtODUxMTQ2
-MiwyMTM2NjIwNjE1LC0xMzY1MjczNzM5LC0xMTE2MzQzMzYwLD
-E0MzA2OTQyMTAsLTEzNzE0NjAwMTQsNzQ1ODM3NDgsLTExOTAz
-Mjk1MzJdfQ==
+eyJoaXN0b3J5IjpbLTE5MzY0NTg3MzgsMTQ5Mjc1NDY3NiwxOT
+Y3ODg4NDc0LDExOTQwMTE0NTMsODA5Njk0MjQ5LDQ2NzM3MTg4
+OCwxODU0NDkyMjUzLC0yNTkwNTA5ODUsMTEyOTkxNTE2NiwyMD
+U2MjM1MzI0LC0xMzY0Mzk3MTg1LDE3ODU2MzUxODUsLTI4OTAz
+MzE3NCwtODUxMTQ2MiwyMTM2NjIwNjE1LC0xMzY1MjczNzM5LC
+0xMTE2MzQzMzYwLDE0MzA2OTQyMTAsLTEzNzE0NjAwMTQsNzQ1
+ODM3NDhdfQ==
 -->
