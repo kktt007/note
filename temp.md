@@ -1,5 +1,5 @@
 ### 6.13
-软件合集网站
+效率工具导航 
 https://rework.tools/dev/git-client/
 https://hackernoon.com/tagged/tech
 https://www.geek-share.com/cate/linux.html
@@ -5154,11 +5154,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2Nzg4ODQ3NCwxMTk0MDExNDUzLDgwOT
-Y5NDI0OSw0NjczNzE4ODgsMTg1NDQ5MjI1MywtMjU5MDUwOTg1
-LDExMjk5MTUxNjYsMjA1NjIzNTMyNCwtMTM2NDM5NzE4NSwxNz
-g1NjM1MTg1LC0yODkwMzMxNzQsLTg1MTE0NjIsMjEzNjYyMDYx
-NSwtMTM2NTI3MzczOSwtMTExNjM0MzM2MCwxNDMwNjk0MjEwLC
-0xMzcxNDYwMDE0LDc0NTgzNzQ4LC0xMTkwMzI5NTMyLC0xMzYw
-MDQ0MTkzXX0=
+eyJoaXN0b3J5IjpbMTQ5Mjc1NDY3NiwxOTY3ODg4NDc0LDExOT
+QwMTE0NTMsODA5Njk0MjQ5LDQ2NzM3MTg4OCwxODU0NDkyMjUz
+LC0yNTkwNTA5ODUsMTEyOTkxNTE2NiwyMDU2MjM1MzI0LC0xMz
+Y0Mzk3MTg1LDE3ODU2MzUxODUsLTI4OTAzMzE3NCwtODUxMTQ2
+MiwyMTM2NjIwNjE1LC0xMzY1MjczNzM5LC0xMTE2MzQzMzYwLD
+E0MzA2OTQyMTAsLTEzNzE0NjAwMTQsNzQ1ODM3NDgsLTExOTAz
+Mjk1MzJdfQ==
 -->
