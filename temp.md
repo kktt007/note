@@ -6,6 +6,7 @@ windows重平台，游戏
 i3教程
 https://godliuyang.wang/2019/08/24/manjaro-i3wm-huan-jing-pei-zhi-pian/
 https://liarlee.site/2019/10/22/Linux/Linux_ChangeGnometoi3wm/
+https://ryanlue.com/posts/2019-06-13-kde-i3
 ### 6.13
 效率工具导航 
 https://rework.tools/dev/git-client/
@@ -5167,11 +5168,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMDgxMDE0NiwxMDAzNTMwNjI3LC0xOT
-M2NDU4NzM4LDE0OTI3NTQ2NzYsMTk2Nzg4ODQ3NCwxMTk0MDEx
-NDUzLDgwOTY5NDI0OSw0NjczNzE4ODgsMTg1NDQ5MjI1MywtMj
-U5MDUwOTg1LDExMjk5MTUxNjYsMjA1NjIzNTMyNCwtMTM2NDM5
-NzE4NSwxNzg1NjM1MTg1LC0yODkwMzMxNzQsLTg1MTE0NjIsMj
-EzNjYyMDYxNSwtMTM2NTI3MzczOSwtMTExNjM0MzM2MCwxNDMw
-Njk0MjEwXX0=
+eyJoaXN0b3J5IjpbLTE5NzAyNzk3OSwtNDAwODEwMTQ2LDEwMD
+M1MzA2MjcsLTE5MzY0NTg3MzgsMTQ5Mjc1NDY3NiwxOTY3ODg4
+NDc0LDExOTQwMTE0NTMsODA5Njk0MjQ5LDQ2NzM3MTg4OCwxOD
+U0NDkyMjUzLC0yNTkwNTA5ODUsMTEyOTkxNTE2NiwyMDU2MjM1
+MzI0LC0xMzY0Mzk3MTg1LDE3ODU2MzUxODUsLTI4OTAzMzE3NC
+wtODUxMTQ2MiwyMTM2NjIwNjE1LC0xMzY1MjczNzM5LC0xMTE2
+MzQzMzYwXX0=
 -->
