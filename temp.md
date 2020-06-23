@@ -1,3 +1,11 @@
+### 6.23
+linux重后端
+macos重前端，视频领域强悍
+windows重平台，游戏
+
+i3教程
+https://godliuyang.wang/2019/08/24/manjaro-i3wm-huan-jing-pei-zhi-pian/
+https://liarlee.site/2019/10/22/Linux/Linux_ChangeGnometoi3wm/
 ### 6.13
 效率工具导航 
 https://rework.tools/dev/git-client/
@@ -5159,11 +5167,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMzUzMDYyNywtMTkzNjQ1ODczOCwxND
-kyNzU0Njc2LDE5Njc4ODg0NzQsMTE5NDAxMTQ1Myw4MDk2OTQy
-NDksNDY3MzcxODg4LDE4NTQ0OTIyNTMsLTI1OTA1MDk4NSwxMT
-I5OTE1MTY2LDIwNTYyMzUzMjQsLTEzNjQzOTcxODUsMTc4NTYz
-NTE4NSwtMjg5MDMzMTc0LC04NTExNDYyLDIxMzY2MjA2MTUsLT
-EzNjUyNzM3MzksLTExMTYzNDMzNjAsMTQzMDY5NDIxMCwtMTM3
-MTQ2MDAxNF19
+eyJoaXN0b3J5IjpbLTQwMDgxMDE0NiwxMDAzNTMwNjI3LC0xOT
+M2NDU4NzM4LDE0OTI3NTQ2NzYsMTk2Nzg4ODQ3NCwxMTk0MDEx
+NDUzLDgwOTY5NDI0OSw0NjczNzE4ODgsMTg1NDQ5MjI1MywtMj
+U5MDUwOTg1LDExMjk5MTUxNjYsMjA1NjIzNTMyNCwtMTM2NDM5
+NzE4NSwxNzg1NjM1MTg1LC0yODkwMzMxNzQsLTg1MTE0NjIsMj
+EzNjYyMDYxNSwtMTM2NTI3MzczOSwtMTExNjM0MzM2MCwxNDMw
+Njk0MjEwXX0=
 -->
