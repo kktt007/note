@@ -1,3 +1,22 @@
+### 6.24
+贝塞尔曲线
+```
+ctrl + 存在点== 原样拖动
+
+ctrl + 空白点 == 右侧添加拖动辅助
+
+alt + 存在点 == 2面拖动，或变直
+
+alt+ 空白点==添加曲点
+
+点击 空白== 添加/取消 曲点
+
+ctrl + 点击 空白 ==所有标记消失
+ctrl + 点击非空白 == 显示标记
+
+图层面板消失 窗口找回 或F7
+```
+
 https://www.gnu.org/software/stow/manual/stow.html
 
 -  jux-638
@@ -5564,11 +5583,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk4NTExMjAsMTQ2ODU1MDYzLDYyNzEzND
-gsLTE0OTY3NTgzNTQsLTY2MDgyMTk1NSwtMTYyNDM5MDAxNiwt
-MjE3OTUxOCwtMjEzMzg4ODg3MCwtMTk3MDI3OTc5LC00MDA4MT
-AxNDYsMTAwMzUzMDYyNywtMTkzNjQ1ODczOCwxNDkyNzU0Njc2
-LDE5Njc4ODg0NzQsMTE5NDAxMTQ1Myw4MDk2OTQyNDksNDY3Mz
-cxODg4LDE4NTQ0OTIyNTMsLTI1OTA1MDk4NSwxMTI5OTE1MTY2
+eyJoaXN0b3J5IjpbLTE2NzcyNDUyMSw0OTg1MTEyMCwxNDY4NT
+UwNjMsNjI3MTM0OCwtMTQ5Njc1ODM1NCwtNjYwODIxOTU1LC0x
+NjI0MzkwMDE2LC0yMTc5NTE4LC0yMTMzODg4ODcwLC0xOTcwMj
+c5NzksLTQwMDgxMDE0NiwxMDAzNTMwNjI3LC0xOTM2NDU4NzM4
+LDE0OTI3NTQ2NzYsMTk2Nzg4ODQ3NCwxMTk0MDExNDUzLDgwOT
+Y5NDI0OSw0NjczNzE4ODgsMTg1NDQ5MjI1MywtMjU5MDUwOTg1
 XX0=
 -->
