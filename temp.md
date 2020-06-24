@@ -5262,13 +5262,313 @@ v2ray配置
 }
 ```
 
+
+## gesture for chrome
+```
+{
+  "isGesturesOff": false,
+  "cfgver": 4.1,
+  "others": {
+    "tuilink": false
+  },
+  "normal": {
+    "gesture": true,
+    "drag": true,
+    "scroll": false,
+    "scrollgesture": false,
+    "strokegesture": false,
+    "autocancel": false,
+    "autocancelvalue": 2,
+    "lasttab": false,
+    "scrolleffects": true,
+    "newtabposition": "chrome",
+    "minilength": 10,
+    "capturetype": "jpeg",
+    "jpegquality": 100,
+    "cancelcontextmenu": true,
+    "dbclicktime": 600,
+    "cursorimg": null,
+    "cursorimgscale": 1,
+    "hidetrash": false,
+    "clickedOptin": true
+  },
+  "gesture": {
+    "gestureui": true,
+    "stroke": true,
+    "direct": true,
+    "tooltip": true,
+    "strokecolor": "4E1485",
+    "strokewidth": 5,
+    "strokeopa": 0.8,
+    "directcolor": "778899",
+    "directopa": 0.9,
+    "tooltipcolor": "120310",
+    "tooltipwidth": 18,
+    "tooltipopa": 0.9,
+    "geskey": "right",
+    "stenable": false,
+    "gholdkey": "none",
+    "gholdkeydisable": "alt",
+    "gholdkeytype": "enable",
+    "gesPos": "cc",
+    "gesture": [
+      {
+        "direct": "L",
+        "action": "G_back",
+        "whitelist": []
+      },
+      {
+        "direct": "R",
+        "action": "G_go",
+        "whitelist": []
+      },
+      {
+        "direct": "U",
+        "action": "G_up",
+        "whitelist": []
+      },
+      {
+        "direct": "D",
+        "action": "G_down",
+        "whitelist": []
+      },
+      {
+        "direct": "DR",
+        "action": "G_closerighttabs",
+        "whitelist": []
+      },
+      {
+        "direct": "LU",
+        "action": "G_reclosedtab",
+        "moreTarget": "newfront",
+        "morePosition": "chrome",
+        "morePinned": "unpinned",
+        "moreDes": "Reopen closed tab",
+        "whitelist": []
+      },
+      {
+        "direct": "RD",
+        "action": "G_lasttab",
+        "whitelist": []
+      },
+      {
+        "direct": "RU",
+        "action": "G_top",
+        "whitelist": []
+      },
+      {
+        "direct": "UD",
+        "action": "G_reload",
+        "whitelist": []
+      },
+      {
+        "direct": "UDU",
+        "action": "G_reloadclear",
+        "whitelist": []
+      },
+      {
+        "direct": "UL",
+        "action": "G_lefttab",
+        "whitelist": []
+      },
+      {
+        "direct": "UR",
+        "action": "G_righttab",
+        "whitelist": []
+      },
+      {
+        "direct": "RDLU",
+        "action": "G_crxsettings",
+        "moreDes": "CrxMouse settings",
+        "morePinned": "unpinned",
+        "morePosition": "chrome",
+        "moreTarget": "newfront",
+        "whitelist": []
+      },
+      {
+        "direct": "DL",
+        "action": "G_closelefttabs",
+        "whitelist": []
+      },
+      {
+        "direct": "DRU",
+        "action": "G_fullscreen",
+        "whitelist": []
+      },
+      {
+        "direct": "LD",
+        "action": "G_firsttab",
+        "whitelist": []
+      }
+    ]
+  },
+  "drag": {
+    "dragui": true,
+    "dstroke": true,
+    "ddirect": true,
+    "dtooltip": true,
+    "dstrokecolor": "4E1485",
+    "dstrokewidth": 5,
+    "dstrokeopa": 0.8,
+    "ddirectcolor": "778899",
+    "ddirectopa": 0.9,
+    "dtooltipcolor": "120310",
+    "dtooltipwidth": 18,
+    "dtooltipopa": 0.9,
+    "dragtext": true,
+    "draglink": true,
+    "dragimage": true,
+    "draginput": false,
+    "setdragurl": true,
+    "imgfirstcheck": false,
+    "imgfirst": "none",
+    "dholdkey": "none",
+    "text": [
+      {
+        "direct": "L",
+        "action": "T_search",
+        "moreDes": "Use %name to search \"%s\"(New tab & Background)",
+        "morePinned": "unpinned",
+        "morePosition": "left",
+        "moreTarget": "newback",
+        "moreTsearch": "sgoogle"
+      },
+      {
+        "direct": "R",
+        "action": "T_search",
+        "moreDes": "Use %name to search \"%s\"(New tab & Front)",
+        "morePinned": "unpinned",
+        "morePosition": "right",
+        "moreTarget": "newfront",
+        "moreTsearch": "sgoogle"
+      },
+      {
+        "direct": "D",
+        "action": "T_copytext"
+      }
+    ],
+    "link": [
+      {
+        "direct": "L",
+        "action": "L_open",
+        "moreDes": "Open link in new tab(New tab & Background)",
+        "morePinned": "unpinned",
+        "morePosition": "left",
+        "moreTarget": "newback"
+      },
+      {
+        "direct": "R",
+        "action": "L_open",
+        "moreDes": "Open link in new tab(New tab & Front)",
+        "morePinned": "unpinned",
+        "morePosition": "right",
+        "moreTarget": "newfront"
+      },
+      {
+        "direct": "D",
+        "action": "L_copytext"
+      },
+      {
+        "direct": "U",
+        "action": "L_copyurl"
+      }
+    ],
+    "image": [
+      {
+        "direct": "L",
+        "action": "I_open",
+        "moreDes": "Open image in new tab(New tab & Background)",
+        "morePinned": "unpinned",
+        "morePosition": "left",
+        "moreTarget": "newback"
+      },
+      {
+        "direct": "R",
+        "action": "I_open",
+        "moreDes": "Open image in new tab(New tab & Front)",
+        "morePinned": "unpinned",
+        "morePosition": "right",
+        "moreTarget": "newfront"
+      },
+      {
+        "direct": "D",
+        "action": "I_save"
+      }
+    ]
+  },
+  "scroll": {
+    "smooth": true,
+    "scrollspeed": 3,
+    "scrollaccele": 1
+  },
+  "scrollgesture": {
+    "tablist": true,
+    "tablistkey": "right",
+    "tablistVisual": true,
+    "sgsleftenable": true,
+    "sgsrightenable": false,
+    "sgsleft": [
+      {
+        "action": "G_top"
+      },
+      {
+        "action": "G_bottom"
+      }
+    ],
+    "sgsright": [
+      {
+        "action": "G_top"
+      },
+      {
+        "action": "G_bottom"
+      }
+    ],
+    "fastSwitch": false,
+    "reverseFS": false
+  },
+  "strokegesture": {
+    "strpress": "up",
+    "strleftenable": true,
+    "strleft": [
+      {
+        "action": "G_none"
+      },
+      {
+        "action": "G_righttab"
+      }
+    ],
+    "strmiddleenable": false,
+    "strmiddle": [
+      {
+        "action": "G_lefttab"
+      },
+      {
+        "action": "G_righttab"
+      }
+    ],
+    "strrightenable": true,
+    "strright": [
+      {
+        "action": "G_lefttab"
+      },
+      {
+        "action": "G_none"
+      }
+    ]
+  },
+  "extid": "jlgkpaicikihijadgifklkbpdajbkhjo",
+  "optedout": false,
+  "sync": true
+}
+```
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2ODU1MDYzLDYyNzEzNDgsLTE0OTY3NT
-gzNTQsLTY2MDgyMTk1NSwtMTYyNDM5MDAxNiwtMjE3OTUxOCwt
-MjEzMzg4ODg3MCwtMTk3MDI3OTc5LC00MDA4MTAxNDYsMTAwMz
-UzMDYyNywtMTkzNjQ1ODczOCwxNDkyNzU0Njc2LDE5Njc4ODg0
-NzQsMTE5NDAxMTQ1Myw4MDk2OTQyNDksNDY3MzcxODg4LDE4NT
-Q0OTIyNTMsLTI1OTA1MDk4NSwxMTI5OTE1MTY2LDIwNTYyMzUz
-MjRdfQ==
+eyJoaXN0b3J5IjpbNDk4NTExMjAsMTQ2ODU1MDYzLDYyNzEzND
+gsLTE0OTY3NTgzNTQsLTY2MDgyMTk1NSwtMTYyNDM5MDAxNiwt
+MjE3OTUxOCwtMjEzMzg4ODg3MCwtMTk3MDI3OTc5LC00MDA4MT
+AxNDYsMTAwMzUzMDYyNywtMTkzNjQ1ODczOCwxNDkyNzU0Njc2
+LDE5Njc4ODg0NzQsMTE5NDAxMTQ1Myw4MDk2OTQyNDksNDY3Mz
+cxODg4LDE4NTQ0OTIyNTMsLTI1OTA1MDk4NSwxMTI5OTE1MTY2
+XX0=
 -->
