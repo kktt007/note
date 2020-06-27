@@ -1,8 +1,19 @@
 ### 6.27
+
 firefox 不能打开gamil网址问题
 
-1. 打开about:support 选择try safe mode 启动后如果可以，那就是插件问题
-2. 如果不是插件问题，打开 about:profiles， 选择 restart normally
+1. 打开about:support 选择try safe mode 启动后如果可以，那就是插件问题(give firefox a tune up不要选reflesh，虽然保留个人信息和书签，但是扩展主题重置了)
+
+2. 不是插件还可能是Turn off hardware acceleration，打开about:preferences,performance里面，Use recommended performance settings勾取消，下面的Use hardware acceleration when available也取消，然后重启
+
+3. 如果不是插件问题，打开 about:profiles， 选择 restart normally 尽量不用，可能有问题
+
+
+about:addons 打开插件
+
+
+Disable DNS prefetching
+打开 about:config 输入enternetwork.dns.disablePrefetch 选择ok
 
 ### 6.24
 贝塞尔曲线
@@ -5589,7 +5600,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NDQ5MDQ0MiwtMTY3NzI0NTIxLDQ5OD
+eyJoaXN0b3J5IjpbMTAwNTk1NjkxMSwtMTY3NzI0NTIxLDQ5OD
 UxMTIwLDE0Njg1NTA2Myw2MjcxMzQ4LC0xNDk2NzU4MzU0LC02
 NjA4MjE5NTUsLTE2MjQzOTAwMTYsLTIxNzk1MTgsLTIxMzM4OD
 g4NzAsLTE5NzAyNzk3OSwtNDAwODEwMTQ2LDEwMDM1MzA2Mjcs
