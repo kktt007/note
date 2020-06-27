@@ -6,14 +6,13 @@ firefox 不能打开gamil网址问题
 
 2. 不是插件还可能是Turn off hardware acceleration，打开about:preferences,performance里面，Use recommended performance settings勾取消，下面的Use hardware acceleration when available也取消，然后重启
 
-3. 如果不是插件问题，打开 about:profiles， 选择 restart normally 尽量不用，可能有问题
+3. Disable DNS prefetching
+打开 about:config 输入enternetwork.dns.disablePrefetch 选择ok
+
+4. 如果不是插件问题，打开 about:profiles， 选择 restart normally 尽量不用，可能有问题
 
 
 about:addons 打开插件
-
-
-Disable DNS prefetching
-打开 about:config 输入enternetwork.dns.disablePrefetch 选择ok
 
 ### 6.24
 贝塞尔曲线
@@ -5600,11 +5599,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNTk1NjkxMSwtMTY3NzI0NTIxLDQ5OD
-UxMTIwLDE0Njg1NTA2Myw2MjcxMzQ4LC0xNDk2NzU4MzU0LC02
-NjA4MjE5NTUsLTE2MjQzOTAwMTYsLTIxNzk1MTgsLTIxMzM4OD
-g4NzAsLTE5NzAyNzk3OSwtNDAwODEwMTQ2LDEwMDM1MzA2Mjcs
-LTE5MzY0NTg3MzgsMTQ5Mjc1NDY3NiwxOTY3ODg4NDc0LDExOT
-QwMTE0NTMsODA5Njk0MjQ5LDQ2NzM3MTg4OCwxODU0NDkyMjUz
-XX0=
+eyJoaXN0b3J5IjpbLTE2NTUyNzg3MDksMTAwNTk1NjkxMSwtMT
+Y3NzI0NTIxLDQ5ODUxMTIwLDE0Njg1NTA2Myw2MjcxMzQ4LC0x
+NDk2NzU4MzU0LC02NjA4MjE5NTUsLTE2MjQzOTAwMTYsLTIxNz
+k1MTgsLTIxMzM4ODg4NzAsLTE5NzAyNzk3OSwtNDAwODEwMTQ2
+LDEwMDM1MzA2MjcsLTE5MzY0NTg3MzgsMTQ5Mjc1NDY3NiwxOT
+Y3ODg4NDc0LDExOTQwMTE0NTMsODA5Njk0MjQ5LDQ2NzM3MTg4
+OF19
 -->
