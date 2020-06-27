@@ -1,3 +1,9 @@
+### 6.27
+firefox 不能打开gamil网址问题
+
+1. 打开about:support 选择try safe mode 启动后如果可以，那就是插件问题
+2. 如果不是插件问题，打开 about:profiles， 选择 restart normally
+
 ### 6.24
 贝塞尔曲线
 ```
@@ -5583,11 +5589,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzcyNDUyMSw0OTg1MTEyMCwxNDY4NT
-UwNjMsNjI3MTM0OCwtMTQ5Njc1ODM1NCwtNjYwODIxOTU1LC0x
-NjI0MzkwMDE2LC0yMTc5NTE4LC0yMTMzODg4ODcwLC0xOTcwMj
-c5NzksLTQwMDgxMDE0NiwxMDAzNTMwNjI3LC0xOTM2NDU4NzM4
-LDE0OTI3NTQ2NzYsMTk2Nzg4ODQ3NCwxMTk0MDExNDUzLDgwOT
-Y5NDI0OSw0NjczNzE4ODgsMTg1NDQ5MjI1MywtMjU5MDUwOTg1
+eyJoaXN0b3J5IjpbMTk5NDQ5MDQ0MiwtMTY3NzI0NTIxLDQ5OD
+UxMTIwLDE0Njg1NTA2Myw2MjcxMzQ4LC0xNDk2NzU4MzU0LC02
+NjA4MjE5NTUsLTE2MjQzOTAwMTYsLTIxNzk1MTgsLTIxMzM4OD
+g4NzAsLTE5NzAyNzk3OSwtNDAwODEwMTQ2LDEwMDM1MzA2Mjcs
+LTE5MzY0NTg3MzgsMTQ5Mjc1NDY3NiwxOTY3ODg4NDc0LDExOT
+QwMTE0NTMsODA5Njk0MjQ5LDQ2NzM3MTg4OCwxODU0NDkyMjUz
 XX0=
 -->
