@@ -14,6 +14,11 @@ firefox 不能打开gamil网址问题
 
 about:addons 打开插件
 
+ps学习
+https://documents.sessions.edu/eforms/courseware/coursedocuments/photoshop_ii/lesson1.html
+https://helpx.adobe.com/cn/photoshop/using/free-transformations-images-shapes-paths.html
+https://helpx.adobe.com/cn/photoshop/using/default-keyboard-shortcuts.html
+https://helpx.adobe.com/photoshop/using/editing-paths.html
 ### 6.24
 贝塞尔曲线
 ```
@@ -5599,11 +5604,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTUyNzg3MDksMTAwNTk1NjkxMSwtMT
-Y3NzI0NTIxLDQ5ODUxMTIwLDE0Njg1NTA2Myw2MjcxMzQ4LC0x
-NDk2NzU4MzU0LC02NjA4MjE5NTUsLTE2MjQzOTAwMTYsLTIxNz
-k1MTgsLTIxMzM4ODg4NzAsLTE5NzAyNzk3OSwtNDAwODEwMTQ2
-LDEwMDM1MzA2MjcsLTE5MzY0NTg3MzgsMTQ5Mjc1NDY3NiwxOT
-Y3ODg4NDc0LDExOTQwMTE0NTMsODA5Njk0MjQ5LDQ2NzM3MTg4
-OF19
+eyJoaXN0b3J5IjpbMTc4OTE0Mzk3OSwtMTY1NTI3ODcwOSwxMD
+A1OTU2OTExLC0xNjc3MjQ1MjEsNDk4NTExMjAsMTQ2ODU1MDYz
+LDYyNzEzNDgsLTE0OTY3NTgzNTQsLTY2MDgyMTk1NSwtMTYyND
+M5MDAxNiwtMjE3OTUxOCwtMjEzMzg4ODg3MCwtMTk3MDI3OTc5
+LC00MDA4MTAxNDYsMTAwMzUzMDYyNywtMTkzNjQ1ODczOCwxND
+kyNzU0Njc2LDE5Njc4ODg0NzQsMTE5NDAxMTQ1Myw4MDk2OTQy
+NDldfQ==
 -->
