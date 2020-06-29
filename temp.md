@@ -5,7 +5,7 @@ PS透明水印:
 - 图透明度30%(小了太淡)
 - 填充0%
 - 混合选项:
-    - 颜色叠加: 正常模式 白色 
+    - 颜色叠加: 正常模式 白色 (添加一种颜色在上面)
     - 不透明度60%或更小，
     - 投影: 黑色影子(60%即可)
     - 距离，扩展，大小 一般0即可
@@ -5640,11 +5640,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzM1NDYwNTIsLTE4MDcwMzg0ODYsLT
-I2NzAwMDg0OSwtMTU3OTY2MjQ5NCwtMTE1MTkyOTA3NSwtNzEx
-Mjg0NzgsMTc4OTE0Mzk3OSwtMTY1NTI3ODcwOSwxMDA1OTU2OT
-ExLC0xNjc3MjQ1MjEsNDk4NTExMjAsMTQ2ODU1MDYzLDYyNzEz
-NDgsLTE0OTY3NTgzNTQsLTY2MDgyMTk1NSwtMTYyNDM5MDAxNi
-wtMjE3OTUxOCwtMjEzMzg4ODg3MCwtMTk3MDI3OTc5LC00MDA4
-MTAxNDZdfQ==
+eyJoaXN0b3J5IjpbLTQ4NDE1NjA0NywtMTgwNzAzODQ4NiwtMj
+Y3MDAwODQ5LC0xNTc5NjYyNDk0LC0xMTUxOTI5MDc1LC03MTEy
+ODQ3OCwxNzg5MTQzOTc5LC0xNjU1Mjc4NzA5LDEwMDU5NTY5MT
+EsLTE2NzcyNDUyMSw0OTg1MTEyMCwxNDY4NTUwNjMsNjI3MTM0
+OCwtMTQ5Njc1ODM1NCwtNjYwODIxOTU1LC0xNjI0MzkwMDE2LC
+0yMTc5NTE4LC0yMTMzODg4ODcwLC0xOTcwMjc5NzksLTQwMDgx
+MDE0Nl19
 -->
