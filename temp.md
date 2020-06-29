@@ -1,6 +1,16 @@
 ### 6.29
+PS透明水印:
+半透明水印
 
-screen to gift
+- 图透明度30%(小了太淡)
+- 填充0%
+- 混合选项:
+    - 颜色叠加: 正常模式 白色
+    - 不透明度60%
+    - 投影: 黑色影子(60%即可)
+    - 距离，扩展，大小 一般0即可
+
+screentogif
 2.0 和ffmeng最佳
 失败大全
 
@@ -5630,11 +5640,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NDI3NTk2LC0xNTc5NjYyNDk0LC0xMT
-UxOTI5MDc1LC03MTEyODQ3OCwxNzg5MTQzOTc5LC0xNjU1Mjc4
-NzA5LDEwMDU5NTY5MTEsLTE2NzcyNDUyMSw0OTg1MTEyMCwxND
-Y4NTUwNjMsNjI3MTM0OCwtMTQ5Njc1ODM1NCwtNjYwODIxOTU1
-LC0xNjI0MzkwMDE2LC0yMTc5NTE4LC0yMTMzODg4ODcwLC0xOT
-cwMjc5NzksLTQwMDgxMDE0NiwxMDAzNTMwNjI3LC0xOTM2NDU4
-NzM4XX0=
+eyJoaXN0b3J5IjpbLTI2NzAwMDg0OSwtMTU3OTY2MjQ5NCwtMT
+E1MTkyOTA3NSwtNzExMjg0NzgsMTc4OTE0Mzk3OSwtMTY1NTI3
+ODcwOSwxMDA1OTU2OTExLC0xNjc3MjQ1MjEsNDk4NTExMjAsMT
+Q2ODU1MDYzLDYyNzEzNDgsLTE0OTY3NTgzNTQsLTY2MDgyMTk1
+NSwtMTYyNDM5MDAxNiwtMjE3OTUxOCwtMjEzMzg4ODg3MCwtMT
+k3MDI3OTc5LC00MDA4MTAxNDYsMTAwMzUzMDYyNywtMTkzNjQ1
+ODczOF19
 -->
