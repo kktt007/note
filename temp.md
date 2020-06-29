@@ -1,3 +1,25 @@
+### 6.29
+失败大全
+
+张朝阳: 
+哀其不幸，怒其不争
+管理松散，当大好人，太宽容信任
+沉浸在昨日的光环，措施搜索，社交
+过于重视品牌和营销，忽略产品和技术
+张朝阳长时间的无为之治，导致搜狐内部派系斗争激烈，内耗明显，人才大量流失
+我看是无为没错，错在根本没治
+
+张朝阳和《天龙八部》中的慕容复很像，一个是放不下未来，一个是放不下过去。一个是放不下当皇帝的梦想，一个是放不下做教父的荣光。
+慕容复从没想过，大燕复国，能为百姓带来什么；张朝阳似乎也没有想过，搜狐复兴，能为用户带来什么体验，能为社会带来什么变革。
+马云似乎避开了他所有的错
+
+
+[PS](http://reader.epubee.com/books/mobile/94/94c00c1ff0fc5365513e9500c41e49c5/text00007.html)
+https://zhuanlan.zhihu.com/p/130914811
+shell 相关
+https://github.com/dunwu/blog/blob/master/source/_posts/coding/shell.md
+https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md
+
 ### 6.27
 
 firefox 不能打开gamil网址问题
@@ -5604,11 +5626,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4OTE0Mzk3OSwtMTY1NTI3ODcwOSwxMD
-A1OTU2OTExLC0xNjc3MjQ1MjEsNDk4NTExMjAsMTQ2ODU1MDYz
-LDYyNzEzNDgsLTE0OTY3NTgzNTQsLTY2MDgyMTk1NSwtMTYyND
-M5MDAxNiwtMjE3OTUxOCwtMjEzMzg4ODg3MCwtMTk3MDI3OTc5
-LC00MDA4MTAxNDYsMTAwMzUzMDYyNywtMTkzNjQ1ODczOCwxND
-kyNzU0Njc2LDE5Njc4ODg0NzQsMTE5NDAxMTQ1Myw4MDk2OTQy
-NDldfQ==
+eyJoaXN0b3J5IjpbLTcxMTI4NDc4LDE3ODkxNDM5NzksLTE2NT
+UyNzg3MDksMTAwNTk1NjkxMSwtMTY3NzI0NTIxLDQ5ODUxMTIw
+LDE0Njg1NTA2Myw2MjcxMzQ4LC0xNDk2NzU4MzU0LC02NjA4Mj
+E5NTUsLTE2MjQzOTAwMTYsLTIxNzk1MTgsLTIxMzM4ODg4NzAs
+LTE5NzAyNzk3OSwtNDAwODEwMTQ2LDEwMDM1MzA2MjcsLTE5Mz
+Y0NTg3MzgsMTQ5Mjc1NDY3NiwxOTY3ODg4NDc0LDExOTQwMTE0
+NTNdfQ==
 -->
