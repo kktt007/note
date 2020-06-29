@@ -15,7 +15,7 @@ screen to gift
 慕容复从没想过，大燕复国，能为百姓带来什么；张朝阳似乎也没有想过，搜狐复兴，能为用户带来什么体验，能为社会带来什么变革。
 马云似乎避开了他所有的错
 
-da
+diagram tools: ## Braindump
 [PS](http://reader.epubee.com/books/mobile/94/94c00c1ff0fc5365513e9500c41e49c5/text00007.html)
 https://zhuanlan.zhihu.com/p/130914811
 [https://github.com/jobbole/awesome-design-cn](https://github.com/jobbole/awesome-design-cn)
@@ -5629,11 +5629,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM3Njg5NzM5LC0xMTUxOTI5MDc1LC03MT
-EyODQ3OCwxNzg5MTQzOTc5LC0xNjU1Mjc4NzA5LDEwMDU5NTY5
-MTEsLTE2NzcyNDUyMSw0OTg1MTEyMCwxNDY4NTUwNjMsNjI3MT
-M0OCwtMTQ5Njc1ODM1NCwtNjYwODIxOTU1LC0xNjI0MzkwMDE2
-LC0yMTc5NTE4LC0yMTMzODg4ODcwLC0xOTcwMjc5NzksLTQwMD
-gxMDE0NiwxMDAzNTMwNjI3LC0xOTM2NDU4NzM4LDE0OTI3NTQ2
-NzZdfQ==
+eyJoaXN0b3J5IjpbLTE1Nzk2NjI0OTQsLTExNTE5MjkwNzUsLT
+cxMTI4NDc4LDE3ODkxNDM5NzksLTE2NTUyNzg3MDksMTAwNTk1
+NjkxMSwtMTY3NzI0NTIxLDQ5ODUxMTIwLDE0Njg1NTA2Myw2Mj
+cxMzQ4LC0xNDk2NzU4MzU0LC02NjA4MjE5NTUsLTE2MjQzOTAw
+MTYsLTIxNzk1MTgsLTIxMzM4ODg4NzAsLTE5NzAyNzk3OSwtND
+AwODEwMTQ2LDEwMDM1MzA2MjcsLTE5MzY0NTg3MzgsMTQ5Mjc1
+NDY3Nl19
 -->
