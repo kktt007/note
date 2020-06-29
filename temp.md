@@ -18,6 +18,7 @@ screen to gift
 
 [PS](http://reader.epubee.com/books/mobile/94/94c00c1ff0fc5365513e9500c41e49c5/text00007.html)
 https://zhuanlan.zhihu.com/p/130914811
+[https://github.com/jobbole/awesome-design-cn](https://github.com/jobbole/awesome-design-cn)
 shell 相关
 https://github.com/dunwu/blog/blob/master/source/_posts/coding/shell.md
 https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md
@@ -5628,11 +5629,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTE5MjkwNzUsLTcxMTI4NDc4LDE3OD
-kxNDM5NzksLTE2NTUyNzg3MDksMTAwNTk1NjkxMSwtMTY3NzI0
-NTIxLDQ5ODUxMTIwLDE0Njg1NTA2Myw2MjcxMzQ4LC0xNDk2Nz
-U4MzU0LC02NjA4MjE5NTUsLTE2MjQzOTAwMTYsLTIxNzk1MTgs
-LTIxMzM4ODg4NzAsLTE5NzAyNzk3OSwtNDAwODEwMTQ2LDEwMD
-M1MzA2MjcsLTE5MzY0NTg3MzgsMTQ5Mjc1NDY3NiwxOTY3ODg4
-NDc0XX0=
+eyJoaXN0b3J5IjpbLTg2MDk5Njg1MCwtMTE1MTkyOTA3NSwtNz
+ExMjg0NzgsMTc4OTE0Mzk3OSwtMTY1NTI3ODcwOSwxMDA1OTU2
+OTExLC0xNjc3MjQ1MjEsNDk4NTExMjAsMTQ2ODU1MDYzLDYyNz
+EzNDgsLTE0OTY3NTgzNTQsLTY2MDgyMTk1NSwtMTYyNDM5MDAx
+NiwtMjE3OTUxOCwtMjEzMzg4ODg3MCwtMTk3MDI3OTc5LC00MD
+A4MTAxNDYsMTAwMzUzMDYyNywtMTkzNjQ1ODczOCwxNDkyNzU0
+Njc2XX0=
 -->
