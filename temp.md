@@ -1,5 +1,9 @@
 
 ### 7.4
+
+https://riptutorial.com/bash
+http://folk.ntnu.no/geirha/bashguide.pdf
+
 vivo xplay6
 1.19.2
 1.16.6
@@ -5659,7 +5663,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDAxOTk4ODgsMTMwMTIxNzE2LC00MD
+eyJoaXN0b3J5IjpbLTIwNTY3ODM4NzAsMTMwMTIxNzE2LC00MD
 MxMjU0MzYsLTEyNjI4ODgyNjAsLTQ4NDE1NjA0NywtMTgwNzAz
 ODQ4NiwtMjY3MDAwODQ5LC0xNTc5NjYyNDk0LC0xMTUxOTI5MD
 c1LC03MTEyODQ3OCwxNzg5MTQzOTc5LC0xNjU1Mjc4NzA5LDEw
