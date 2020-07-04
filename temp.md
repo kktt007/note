@@ -6,6 +6,7 @@
 https://bash.cyberciti.biz/guide/Shebang
 https://www.gnu.org/software/coreutils/manual/html_node/env-invocation.html
 https://devhints.io/bash
+https://github.com/denysdovhan/bash-handbook/blob/master/translations/zh-CN/README.md
 
 ### 7.1
 C:\Users\Administrator\AppData\Local\Temp 临时文件路径
@@ -5652,11 +5653,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMzEyNTQzNiwtMTI2Mjg4ODI2MCwtND
-g0MTU2MDQ3LC0xODA3MDM4NDg2LC0yNjcwMDA4NDksLTE1Nzk2
-NjI0OTQsLTExNTE5MjkwNzUsLTcxMTI4NDc4LDE3ODkxNDM5Nz
-ksLTE2NTUyNzg3MDksMTAwNTk1NjkxMSwtMTY3NzI0NTIxLDQ5
-ODUxMTIwLDE0Njg1NTA2Myw2MjcxMzQ4LC0xNDk2NzU4MzU0LC
-02NjA4MjE5NTUsLTE2MjQzOTAwMTYsLTIxNzk1MTgsLTIxMzM4
-ODg4NzBdfQ==
+eyJoaXN0b3J5IjpbMTMwMTIxNzE2LC00MDMxMjU0MzYsLTEyNj
+I4ODgyNjAsLTQ4NDE1NjA0NywtMTgwNzAzODQ4NiwtMjY3MDAw
+ODQ5LC0xNTc5NjYyNDk0LC0xMTUxOTI5MDc1LC03MTEyODQ3OC
+wxNzg5MTQzOTc5LC0xNjU1Mjc4NzA5LDEwMDU5NTY5MTEsLTE2
+NzcyNDUyMSw0OTg1MTEyMCwxNDY4NTUwNjMsNjI3MTM0OCwtMT
+Q5Njc1ODM1NCwtNjYwODIxOTU1LC0xNjI0MzkwMDE2LC0yMTc5
+NTE4XX0=
 -->
