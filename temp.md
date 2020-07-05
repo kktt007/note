@@ -8,6 +8,9 @@ Xplay6 9008 PD1610_D_1.18.3
 [https://yunpanzhushou.com](https://yunpanzhushou.com/)
 [http://www.zhuzhupan.com](http://www.zhuzhupan.com/)
 
+
+[http://www.mackxin.com/nav.html(http://www.mackxin.com/nav.html)
+[https://dh.xuetu20.com/](https://dh.xuetu20.com/)
 ### 7.4
 bash script 教程
 https://riptutorial.com/bash
@@ -5672,7 +5675,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMDA3Njc2Myw0NDQzMDMwMTUsMTMwMT
+eyJoaXN0b3J5IjpbLTcyMDcwMTAxMiw0NDQzMDMwMTUsMTMwMT
 IxNzE2LC00MDMxMjU0MzYsLTEyNjI4ODgyNjAsLTQ4NDE1NjA0
 NywtMTgwNzAzODQ4NiwtMjY3MDAwODQ5LC0xNTc5NjYyNDk0LC
 0xMTUxOTI5MDc1LC03MTEyODQ3OCwxNzg5MTQzOTc5LC0xNjU1
