@@ -7,7 +7,8 @@ Xplay6 9008 PD1610_D_1.18.3
 [https://www.tutupan.com](https://www.tutupan.com/)
 [https://yunpanzhushou.com](https://yunpanzhushou.com/)
 [http://www.zhuzhupan.com](http://www.zhuzhupan.com/)
-
+[https://www.fastsoso.cn/](https://www.fastsoso.cn/)
+[https://wowenda.com/](https://wowenda.com/)
 
 [http://www.mackxin.com/nav.html(http://www.mackxin.com/nav.html)
 [https://dh.xuetu20.com/](https://dh.xuetu20.com/)
@@ -5675,11 +5676,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMDcwMTAxMiw0NDQzMDMwMTUsMTMwMT
-IxNzE2LC00MDMxMjU0MzYsLTEyNjI4ODgyNjAsLTQ4NDE1NjA0
-NywtMTgwNzAzODQ4NiwtMjY3MDAwODQ5LC0xNTc5NjYyNDk0LC
-0xMTUxOTI5MDc1LC03MTEyODQ3OCwxNzg5MTQzOTc5LC0xNjU1
-Mjc4NzA5LDEwMDU5NTY5MTEsLTE2NzcyNDUyMSw0OTg1MTEyMC
-wxNDY4NTUwNjMsNjI3MTM0OCwtMTQ5Njc1ODM1NCwtNjYwODIx
-OTU1XX0=
+eyJoaXN0b3J5IjpbLTE5Mzk0NTc5MjAsNDQ0MzAzMDE1LDEzMD
+EyMTcxNiwtNDAzMTI1NDM2LC0xMjYyODg4MjYwLC00ODQxNTYw
+NDcsLTE4MDcwMzg0ODYsLTI2NzAwMDg0OSwtMTU3OTY2MjQ5NC
+wtMTE1MTkyOTA3NSwtNzExMjg0NzgsMTc4OTE0Mzk3OSwtMTY1
+NTI3ODcwOSwxMDA1OTU2OTExLC0xNjc3MjQ1MjEsNDk4NTExMj
+AsMTQ2ODU1MDYzLDYyNzEzNDgsLTE0OTY3NTgzNTQsLTY2MDgy
+MTk1NV19
 -->
