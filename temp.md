@@ -9,8 +9,10 @@ Xplay6 9008 PD1610_D_1.18.3
 [http://www.zhuzhupan.com](http://www.zhuzhupan.com/)
 [https://www.fastsoso.cn/](https://www.fastsoso.cn/)
 [https://wowenda.com/](https://wowenda.com/)
+[https://www.chaonengsou.com/](https://www.chaonengsou.com/)
 
-[http://www.mackxin.com/nav.html(http://www.mackxin.com/nav.html)
+[http://hao.misiai.com/#/](http://hao.misiai.com/#/)
+[http://www.mackxin.com/nav.html](http://www.mackxin.com/nav.html)
 [https://dh.xuetu20.com/](https://dh.xuetu20.com/)
 ### 7.4
 bash script 教程
@@ -5676,11 +5678,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzk0NTc5MjAsNDQ0MzAzMDE1LDEzMD
-EyMTcxNiwtNDAzMTI1NDM2LC0xMjYyODg4MjYwLC00ODQxNTYw
-NDcsLTE4MDcwMzg0ODYsLTI2NzAwMDg0OSwtMTU3OTY2MjQ5NC
-wtMTE1MTkyOTA3NSwtNzExMjg0NzgsMTc4OTE0Mzk3OSwtMTY1
-NTI3ODcwOSwxMDA1OTU2OTExLC0xNjc3MjQ1MjEsNDk4NTExMj
-AsMTQ2ODU1MDYzLDYyNzEzNDgsLTE0OTY3NTgzNTQsLTY2MDgy
-MTk1NV19
+eyJoaXN0b3J5IjpbNDk1MzQ4ODY3LDQ0NDMwMzAxNSwxMzAxMj
+E3MTYsLTQwMzEyNTQzNiwtMTI2Mjg4ODI2MCwtNDg0MTU2MDQ3
+LC0xODA3MDM4NDg2LC0yNjcwMDA4NDksLTE1Nzk2NjI0OTQsLT
+ExNTE5MjkwNzUsLTcxMTI4NDc4LDE3ODkxNDM5NzksLTE2NTUy
+Nzg3MDksMTAwNTk1NjkxMSwtMTY3NzI0NTIxLDQ5ODUxMTIwLD
+E0Njg1NTA2Myw2MjcxMzQ4LC0xNDk2NzU4MzU0LC02NjA4MjE5
+NTVdfQ==
 -->
