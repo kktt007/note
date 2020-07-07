@@ -1,3 +1,13 @@
+### 7.7
+shell script
+根据喜好，则一而入
+https://www.learnshell.org/
+https://www.shellscript.sh/
+https://www.udemy.com/
+https://www.udemy.com/course/shell-scripting-i/
+https://tldp.org/LDP/abs/abs-guide.pdf
+https://fog.ccsf.edu/~gboyd/cs160b/online/index.html
+
 ## 网盘
 Xplay6 9008 PD1610_D_1.18.3
 [http://www.bdsoba.com](http://www.bdsoba.com/)
@@ -5678,11 +5688,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk1MzQ4ODY3LDQ0NDMwMzAxNSwxMzAxMj
-E3MTYsLTQwMzEyNTQzNiwtMTI2Mjg4ODI2MCwtNDg0MTU2MDQ3
-LC0xODA3MDM4NDg2LC0yNjcwMDA4NDksLTE1Nzk2NjI0OTQsLT
-ExNTE5MjkwNzUsLTcxMTI4NDc4LDE3ODkxNDM5NzksLTE2NTUy
-Nzg3MDksMTAwNTk1NjkxMSwtMTY3NzI0NTIxLDQ5ODUxMTIwLD
-E0Njg1NTA2Myw2MjcxMzQ4LC0xNDk2NzU4MzU0LC02NjA4MjE5
-NTVdfQ==
+eyJoaXN0b3J5IjpbLTE4MDQyOTYwNTUsNDk1MzQ4ODY3LDQ0ND
+MwMzAxNSwxMzAxMjE3MTYsLTQwMzEyNTQzNiwtMTI2Mjg4ODI2
+MCwtNDg0MTU2MDQ3LC0xODA3MDM4NDg2LC0yNjcwMDA4NDksLT
+E1Nzk2NjI0OTQsLTExNTE5MjkwNzUsLTcxMTI4NDc4LDE3ODkx
+NDM5NzksLTE2NTUyNzg3MDksMTAwNTk1NjkxMSwtMTY3NzI0NT
+IxLDQ5ODUxMTIwLDE0Njg1NTA2Myw2MjcxMzQ4LC0xNDk2NzU4
+MzU0XX0=
 -->
