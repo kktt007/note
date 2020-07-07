@@ -4,6 +4,9 @@
 还有 一定要有更多的节点，背单词是小孩子做的是，足够专心，可以这样。现在环境不一样了，运用为主。一定要从文章中去习得所有。
 多一个节点，多一份效率，如果你想解决足够时间，并且最高效掌握知识和提高人生效率，必须启用最智慧模式
 
+
+一直以来，觉得要改变世界，但是运气不够，连自己的命运都改变不了，努力也不够，空有一颗无知的心，其实到后来，是我们被世界改变了而已，世界并不需要被改变，我们才是真正的主体，其实被改变没什么，只是因为时间在变，我们遇到了未知的更好的自己
+
 今天看到的中英也只是很多人根据不同文章归纳出来的而已，我应该有自己的
 
 难在变化中找不便，变化中找规律，对变的把握和不变的把握，世事多变，我亦能应万变
@@ -5699,11 +5702,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMTU2NzQ3NCwtOTQ2OTA4MTc1LC0xOT
-A4NjYxMDI4LC0xODA0Mjk2MDU1LDQ5NTM0ODg2Nyw0NDQzMDMw
-MTUsMTMwMTIxNzE2LC00MDMxMjU0MzYsLTEyNjI4ODgyNjAsLT
-Q4NDE1NjA0NywtMTgwNzAzODQ4NiwtMjY3MDAwODQ5LC0xNTc5
-NjYyNDk0LC0xMTUxOTI5MDc1LC03MTEyODQ3OCwxNzg5MTQzOT
-c5LC0xNjU1Mjc4NzA5LDEwMDU5NTY5MTEsLTE2NzcyNDUyMSw0
-OTg1MTEyMF19
+eyJoaXN0b3J5IjpbNDY1MjI1NjksMTUyMTU2NzQ3NCwtOTQ2OT
+A4MTc1LC0xOTA4NjYxMDI4LC0xODA0Mjk2MDU1LDQ5NTM0ODg2
+Nyw0NDQzMDMwMTUsMTMwMTIxNzE2LC00MDMxMjU0MzYsLTEyNj
+I4ODgyNjAsLTQ4NDE1NjA0NywtMTgwNzAzODQ4NiwtMjY3MDAw
+ODQ5LC0xNTc5NjYyNDk0LC0xMTUxOTI5MDc1LC03MTEyODQ3OC
+wxNzg5MTQzOTc5LC0xNjU1Mjc4NzA5LDEwMDU5NTY5MTEsLTE2
+NzcyNDUyMV19
 -->
