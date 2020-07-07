@@ -4,6 +4,7 @@
 还有 一定要有更多的节点，背单词是小孩子做的是，足够专心，可以这样。现在环境不一样了，运用为主。一定要从文章中去习得所有。
 多一个节点，多一份效率，如果你想解决足够时间，并且最高效掌握知识和提高人生效率，必须启用最智慧模式
 
+今天看到的中英也只是很多人根据不同文章归纳出来的而已，我应该有自己的
 
 难在变化中找不便，变化中找规律，对变的把握和不变的把握，世事多变，我亦能应万变
 
@@ -5698,7 +5699,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMzIxMTIxMywtOTQ2OTA4MTc1LC0xOT
+eyJoaXN0b3J5IjpbMTUyMTU2NzQ3NCwtOTQ2OTA4MTc1LC0xOT
 A4NjYxMDI4LC0xODA0Mjk2MDU1LDQ5NTM0ODg2Nyw0NDQzMDMw
 MTUsMTMwMTIxNzE2LC00MDMxMjU0MzYsLTEyNjI4ODgyNjAsLT
 Q4NDE1NjA0NywtMTgwNzAzODQ4NiwtMjY3MDAwODQ5LC0xNTc5
