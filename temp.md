@@ -1,4 +1,9 @@
 ### 7.7
+体会
+除了必有一句话让你get到一个词
+还有 一定要有更多的节点，背单词是小孩子做的是，足够专心，可以这样。现在环境不一样了，运用为主。一定要从文章中去习得所有。
+多一个节点，多一份效率，如果你想解决足够时间，并且最高效掌握知识和提高人生效率，必须启用最智慧模式
+
 难在变化中找不便，变化中找规律，对变的把握和不变的把握，世事多变，我亦能应万变
 
 如果你将来要使用并熟练使用一个单词，现在就该对他的一切了如指掌，而不是永远不使用他
@@ -5692,11 +5697,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NjkwODE3NSwtMTkwODY2MTAyOCwtMT
-gwNDI5NjA1NSw0OTUzNDg4NjcsNDQ0MzAzMDE1LDEzMDEyMTcx
-NiwtNDAzMTI1NDM2LC0xMjYyODg4MjYwLC00ODQxNTYwNDcsLT
-E4MDcwMzg0ODYsLTI2NzAwMDg0OSwtMTU3OTY2MjQ5NCwtMTE1
-MTkyOTA3NSwtNzExMjg0NzgsMTc4OTE0Mzk3OSwtMTY1NTI3OD
-cwOSwxMDA1OTU2OTExLC0xNjc3MjQ1MjEsNDk4NTExMjAsMTQ2
-ODU1MDYzXX0=
+eyJoaXN0b3J5IjpbNTA3NTMzNjkxLC05NDY5MDgxNzUsLTE5MD
+g2NjEwMjgsLTE4MDQyOTYwNTUsNDk1MzQ4ODY3LDQ0NDMwMzAx
+NSwxMzAxMjE3MTYsLTQwMzEyNTQzNiwtMTI2Mjg4ODI2MCwtND
+g0MTU2MDQ3LC0xODA3MDM4NDg2LC0yNjcwMDA4NDksLTE1Nzk2
+NjI0OTQsLTExNTE5MjkwNzUsLTcxMTI4NDc4LDE3ODkxNDM5Nz
+ksLTE2NTUyNzg3MDksMTAwNTk1NjkxMSwtMTY3NzI0NTIxLDQ5
+ODUxMTIwXX0=
 -->
