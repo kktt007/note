@@ -1,7 +1,12 @@
 ### tj v2配置
 1. 火狐使用use enabled第一个，这样ip111就正常
+v2rayn
 2. http使用10809端口
+3. 开启http并不使用系统代理
 
+trojan-qt5
+4. 直连模式
+5. 激活服务器
 
 **V2ray Linux客户端：**
 [https://tlanyan.me/v2ray-clients-download/](https://tlanyan.me/v2ray-clients-download/)
@@ -5863,11 +5868,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkzNTQwOTksLTE0NTIzNzc4ODUsNDY1Mj
-I1NjksMTUyMTU2NzQ3NCwtOTQ2OTA4MTc1LC0xOTA4NjYxMDI4
-LC0xODA0Mjk2MDU1LDQ5NTM0ODg2Nyw0NDQzMDMwMTUsMTMwMT
-IxNzE2LC00MDMxMjU0MzYsLTEyNjI4ODgyNjAsLTQ4NDE1NjA0
-NywtMTgwNzAzODQ4NiwtMjY3MDAwODQ5LC0xNTc5NjYyNDk0LC
-0xMTUxOTI5MDc1LC03MTEyODQ3OCwxNzg5MTQzOTc5LC0xNjU1
-Mjc4NzA5XX0=
+eyJoaXN0b3J5IjpbLTE2OTAzMDQzNDksLTE0NTIzNzc4ODUsND
+Y1MjI1NjksMTUyMTU2NzQ3NCwtOTQ2OTA4MTc1LC0xOTA4NjYx
+MDI4LC0xODA0Mjk2MDU1LDQ5NTM0ODg2Nyw0NDQzMDMwMTUsMT
+MwMTIxNzE2LC00MDMxMjU0MzYsLTEyNjI4ODgyNjAsLTQ4NDE1
+NjA0NywtMTgwNzAzODQ4NiwtMjY3MDAwODQ5LC0xNTc5NjYyND
+k0LC0xMTUxOTI5MDc1LC03MTEyODQ3OCwxNzg5MTQzOTc5LC0x
+NjU1Mjc4NzA5XX0=
 -->
