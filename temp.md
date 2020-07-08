@@ -8,7 +8,9 @@ trojan-qt5
 4. 直连模式
 5. 激活服务器
 
-jto
+trojan官方客户端使用的是socks5代理
+只需配置浏览器插件socks5即可
+
 
 **V2ray Linux客户端：**
 [https://tlanyan.me/v2ray-clients-download/](https://tlanyan.me/v2ray-clients-download/)
@@ -5870,11 +5872,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NjI2NDIwOCwtMTY5MDMwNDM0OSwtMT
-Q1MjM3Nzg4NSw0NjUyMjU2OSwxNTIxNTY3NDc0LC05NDY5MDgx
-NzUsLTE5MDg2NjEwMjgsLTE4MDQyOTYwNTUsNDk1MzQ4ODY3LD
-Q0NDMwMzAxNSwxMzAxMjE3MTYsLTQwMzEyNTQzNiwtMTI2Mjg4
-ODI2MCwtNDg0MTU2MDQ3LC0xODA3MDM4NDg2LC0yNjcwMDA4ND
-ksLTE1Nzk2NjI0OTQsLTExNTE5MjkwNzUsLTcxMTI4NDc4LDE3
-ODkxNDM5NzldfQ==
+eyJoaXN0b3J5IjpbLTExMTM2Njk5OTUsLTE2OTAzMDQzNDksLT
+E0NTIzNzc4ODUsNDY1MjI1NjksMTUyMTU2NzQ3NCwtOTQ2OTA4
+MTc1LC0xOTA4NjYxMDI4LC0xODA0Mjk2MDU1LDQ5NTM0ODg2Ny
+w0NDQzMDMwMTUsMTMwMTIxNzE2LC00MDMxMjU0MzYsLTEyNjI4
+ODgyNjAsLTQ4NDE1NjA0NywtMTgwNzAzODQ4NiwtMjY3MDAwOD
+Q5LC0xNTc5NjYyNDk0LC0xMTUxOTI5MDc1LC03MTEyODQ3OCwx
+Nzg5MTQzOTc5XX0=
 -->
