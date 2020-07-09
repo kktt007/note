@@ -1,6 +1,6 @@
 ### 7.9
 
-支持raw模式的在线存储
+支持raw模式的在线存储 直链
 https://hastebin.com/raw/jigejitawe
 [https://pastebin.fun/raw/IJ2we5Htzc](https://pastebin.fun/raw/IJ2we5Htzc)
 https://files.catbox.moe/pntjm8.txt
@@ -5899,7 +5899,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MTY4OTAwMCwxMDY0MDEzNjIzLDE4ND
+eyJoaXN0b3J5IjpbMTgyNDMxNjU2MiwxMDY0MDEzNjIzLDE4ND
 I0NjY4MDcsLTg3MDE3NTQzNSwtMjA3MjE0MDExNywtOTgyODgx
 Myw4NTU3NzQxNDUsLTE1OTY4MzE2ODksLTE4MjA4NTE2MjMsLT
 ExMTM2Njk5OTUsLTE2OTAzMDQzNDksLTE0NTIzNzc4ODUsNDY1
