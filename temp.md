@@ -41,6 +41,18 @@ https://github.com/dutchcoders/transfer.sh/
 https://uguu.se/
 https://app.tmp.link/?tmpui_page=/workspace
 
+-   [https://s-ul.eu](https://s-ul.eu) (File and image hosting)
+    
+-   [https://catbox.moe](https://catbox.moe) (Files upto 200MB and image hosting)
+    
+-   [https://put.re](https://put.re) (Files upto 100MB and image hosting)
+    
+-   [https://imgur.com](https://imgur.com) (Image hosting, has image compression for anonymous uploads only)
+    
+-   [https://tinyupload.com](https://tinyupload.com) (Files upto 50MB hosting)
+    
+-   [https://upload.teknik.io](https://upload.teknik.io) (Files upto 256MB, Optional expiration after certain time)
+
 别说一生，我们连一天都没有逃出来。想要过好一生，每天都是有个机会。
 ### clash
 https://chuansongme.com/n/2662123953021
@@ -5933,7 +5945,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNzY4NjYyMSwtMTcxOTA5ODg4OSw4Nz
+eyJoaXN0b3J5IjpbLTIyOTE4OTQyMCwtMTcxOTA5ODg4OSw4Nz
 czMTYwMzAsLTEyMzQ1Nzk5OTYsMTgyNDMxNjU2MiwxMDY0MDEz
 NjIzLDE4NDI0NjY4MDcsLTg3MDE3NTQzNSwtMjA3MjE0MDExNy
 wtOTgyODgxMyw4NTU3NzQxNDUsLTE1OTY4MzE2ODksLTE4MjA4
