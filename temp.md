@@ -35,6 +35,7 @@ images to vgy.me, code to hastebin.com, videos to sendvid.com, binary files to t
 [https://www.file.io/](https://www.file.io/)
 
 http://www.uploader.space/
+https://gofile.io/
 
 可以了解 
 https://github.com/dutchcoders/transfer.sh/
@@ -5947,11 +5948,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NDk3NzA4MCwtMjI5MTg5NDIwLC0xNz
-E5MDk4ODg5LDg3NzMxNjAzMCwtMTIzNDU3OTk5NiwxODI0MzE2
-NTYyLDEwNjQwMTM2MjMsMTg0MjQ2NjgwNywtODcwMTc1NDM1LC
-0yMDcyMTQwMTE3LC05ODI4ODEzLDg1NTc3NDE0NSwtMTU5Njgz
-MTY4OSwtMTgyMDg1MTYyMywtMTExMzY2OTk5NSwtMTY5MDMwND
-M0OSwtMTQ1MjM3Nzg4NSw0NjUyMjU2OSwxNTIxNTY3NDc0LC05
-NDY5MDgxNzVdfQ==
+eyJoaXN0b3J5IjpbLTE2NzgyODc3MjAsMTI1NDk3NzA4MCwtMj
+I5MTg5NDIwLC0xNzE5MDk4ODg5LDg3NzMxNjAzMCwtMTIzNDU3
+OTk5NiwxODI0MzE2NTYyLDEwNjQwMTM2MjMsMTg0MjQ2NjgwNy
+wtODcwMTc1NDM1LC0yMDcyMTQwMTE3LC05ODI4ODEzLDg1NTc3
+NDE0NSwtMTU5NjgzMTY4OSwtMTgyMDg1MTYyMywtMTExMzY2OT
+k5NSwtMTY5MDMwNDM0OSwtMTQ1MjM3Nzg4NSw0NjUyMjU2OSwx
+NTIxNTY3NDc0XX0=
 -->
