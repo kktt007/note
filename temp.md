@@ -2,6 +2,7 @@
 
 支持raw模式的在线存储
 https://hastebin.com/raw/jigejitawe
+[https://pastebin.fun/raw/IJ2we5Htzc](https://pastebin.fun/raw/IJ2we5Htzc)
 https://catbox.moe/
 
 images to vgy.me, code to hastebin.com, videos to sendvid.com, binary files to transfer.sh
@@ -5898,11 +5899,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NDAxMzYyMywxODQyNDY2ODA3LC04Nz
-AxNzU0MzUsLTIwNzIxNDAxMTcsLTk4Mjg4MTMsODU1Nzc0MTQ1
-LC0xNTk2ODMxNjg5LC0xODIwODUxNjIzLC0xMTEzNjY5OTk1LC
-0xNjkwMzA0MzQ5LC0xNDUyMzc3ODg1LDQ2NTIyNTY5LDE1MjE1
-Njc0NzQsLTk0NjkwODE3NSwtMTkwODY2MTAyOCwtMTgwNDI5Nj
-A1NSw0OTUzNDg4NjcsNDQ0MzAzMDE1LDEzMDEyMTcxNiwtNDAz
-MTI1NDM2XX0=
+eyJoaXN0b3J5IjpbOTE5ODY5MTg2LDEwNjQwMTM2MjMsMTg0Mj
+Q2NjgwNywtODcwMTc1NDM1LC0yMDcyMTQwMTE3LC05ODI4ODEz
+LDg1NTc3NDE0NSwtMTU5NjgzMTY4OSwtMTgyMDg1MTYyMywtMT
+ExMzY2OTk5NSwtMTY5MDMwNDM0OSwtMTQ1MjM3Nzg4NSw0NjUy
+MjU2OSwxNTIxNTY3NDc0LC05NDY5MDgxNzUsLTE5MDg2NjEwMj
+gsLTE4MDQyOTYwNTUsNDk1MzQ4ODY3LDQ0NDMwMzAxNSwxMzAx
+MjE3MTZdfQ==
 -->
