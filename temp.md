@@ -9,6 +9,28 @@ https://files.catbox.moe/pntjm8.txt
 https://cdn-01.bayfiles.com/32JbT4E8o4/017732be-1594275522/OmegaOptions.bak
 images to vgy.me, code to hastebin.com, videos to sendvid.com, binary files to transfer.sh
 
+>Single Files
+
+  
+
+[https://void.cat/](https://void.cat/)
+
+  
+
+[https://bayfiles.com/](https://bayfiles.com/)
+
+  
+
+[https://anonfiles.com/](https://anonfiles.com/)
+
+  
+
+[https://onedrive.live.com/about/en-us/](https://onedrive.live.com/about/en-us/)
+
+  
+
+[https://www.file.io/](https://www.file.io/)
+
 可以了解 
 https://github.com/dutchcoders/transfer.sh/
 
@@ -5908,11 +5930,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcyMzg2OTEwLC0xNzE5MDk4ODg5LDg3Nz
-MxNjAzMCwtMTIzNDU3OTk5NiwxODI0MzE2NTYyLDEwNjQwMTM2
-MjMsMTg0MjQ2NjgwNywtODcwMTc1NDM1LC0yMDcyMTQwMTE3LC
-05ODI4ODEzLDg1NTc3NDE0NSwtMTU5NjgzMTY4OSwtMTgyMDg1
-MTYyMywtMTExMzY2OTk5NSwtMTY5MDMwNDM0OSwtMTQ1MjM3Nz
-g4NSw0NjUyMjU2OSwxNTIxNTY3NDc0LC05NDY5MDgxNzUsLTE5
-MDg2NjEwMjhdfQ==
+eyJoaXN0b3J5IjpbLTE2MTIxMjQ4MjYsLTE3MTkwOTg4ODksOD
+c3MzE2MDMwLC0xMjM0NTc5OTk2LDE4MjQzMTY1NjIsMTA2NDAx
+MzYyMywxODQyNDY2ODA3LC04NzAxNzU0MzUsLTIwNzIxNDAxMT
+csLTk4Mjg4MTMsODU1Nzc0MTQ1LC0xNTk2ODMxNjg5LC0xODIw
+ODUxNjIzLC0xMTEzNjY5OTk1LC0xNjkwMzA0MzQ5LC0xNDUyMz
+c3ODg1LDQ2NTIyNTY5LDE1MjE1Njc0NzQsLTk0NjkwODE3NSwt
+MTkwODY2MTAyOF19
 -->
