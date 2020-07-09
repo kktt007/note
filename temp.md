@@ -2,6 +2,7 @@
 
 支持raw模式的在线存储
 https://hastebin.com/raw/jigejitawe
+images to vgy.me, code to hastebin.com, videos to sendvid.com, binary files to transfer.sh
 
 别说一生，我们连一天都没有逃出来。想要过好一生，每天都是有个机会。
 ### clash
@@ -5895,11 +5896,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MDE3NTQzNSwtMjA3MjE0MDExNywtOT
-gyODgxMyw4NTU3NzQxNDUsLTE1OTY4MzE2ODksLTE4MjA4NTE2
-MjMsLTExMTM2Njk5OTUsLTE2OTAzMDQzNDksLTE0NTIzNzc4OD
-UsNDY1MjI1NjksMTUyMTU2NzQ3NCwtOTQ2OTA4MTc1LC0xOTA4
-NjYxMDI4LC0xODA0Mjk2MDU1LDQ5NTM0ODg2Nyw0NDQzMDMwMT
-UsMTMwMTIxNzE2LC00MDMxMjU0MzYsLTEyNjI4ODgyNjAsLTQ4
-NDE1NjA0N119
+eyJoaXN0b3J5IjpbMTg0MjQ2NjgwNywtODcwMTc1NDM1LC0yMD
+cyMTQwMTE3LC05ODI4ODEzLDg1NTc3NDE0NSwtMTU5NjgzMTY4
+OSwtMTgyMDg1MTYyMywtMTExMzY2OTk5NSwtMTY5MDMwNDM0OS
+wtMTQ1MjM3Nzg4NSw0NjUyMjU2OSwxNTIxNTY3NDc0LC05NDY5
+MDgxNzUsLTE5MDg2NjEwMjgsLTE4MDQyOTYwNTUsNDk1MzQ4OD
+Y3LDQ0NDMwMzAxNSwxMzAxMjE3MTYsLTQwMzEyNTQzNiwtMTI2
+Mjg4ODI2MF19
 -->
