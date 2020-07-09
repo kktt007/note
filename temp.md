@@ -392,6 +392,8 @@ https://javdoe.tv/movie/star-paradise-moko-027-my-horny-friend-said-that-he-d-fo
 
 https://javtc.tv/movie/prestige-rdt-218-jav-beauty-wearing-no-underwear-as-i-admired-the-sultry-of-married-woman.html
 
+https://javdoe.tv/studio/star-paradise/page-2.html
+
 https://svjav.com/tem-033/
 https://svjav.com/tag/close-up/
  UNDERWEAR
@@ -5959,11 +5961,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY2Njk5NDk1LDE4MjI5NDgyOTQsLTE0MD
-c4OTg4MTQsLTMyMDg5ODYwNSwxMjU0OTc3MDgwLC0yMjkxODk0
-MjAsLTE3MTkwOTg4ODksODc3MzE2MDMwLC0xMjM0NTc5OTk2LD
-E4MjQzMTY1NjIsMTA2NDAxMzYyMywxODQyNDY2ODA3LC04NzAx
-NzU0MzUsLTIwNzIxNDAxMTcsLTk4Mjg4MTMsODU1Nzc0MTQ1LC
-0xNTk2ODMxNjg5LC0xODIwODUxNjIzLC0xMTEzNjY5OTk1LC0x
-NjkwMzA0MzQ5XX0=
+eyJoaXN0b3J5IjpbMTUwMDU3NDQ3NSw1NjY2OTk0OTUsMTgyMj
+k0ODI5NCwtMTQwNzg5ODgxNCwtMzIwODk4NjA1LDEyNTQ5Nzcw
+ODAsLTIyOTE4OTQyMCwtMTcxOTA5ODg4OSw4NzczMTYwMzAsLT
+EyMzQ1Nzk5OTYsMTgyNDMxNjU2MiwxMDY0MDEzNjIzLDE4NDI0
+NjY4MDcsLTg3MDE3NTQzNSwtMjA3MjE0MDExNywtOTgyODgxMy
+w4NTU3NzQxNDUsLTE1OTY4MzE2ODksLTE4MjA4NTE2MjMsLTEx
+MTM2Njk5OTVdfQ==
 -->
