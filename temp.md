@@ -5,6 +5,7 @@ https://hastebin.com/raw/jigejitawe
 [https://pastebin.fun/raw/IJ2we5Htzc](https://pastebin.fun/raw/IJ2we5Htzc)
 支持文件的直链
 https://files.catbox.moe/pntjm8.txt
+https://bayfiles.com/
 
 images to vgy.me, code to hastebin.com, videos to sendvid.com, binary files to transfer.sh
 
@@ -5900,11 +5901,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzQ1Nzk5OTYsMTgyNDMxNjU2MiwxMD
-Y0MDEzNjIzLDE4NDI0NjY4MDcsLTg3MDE3NTQzNSwtMjA3MjE0
-MDExNywtOTgyODgxMyw4NTU3NzQxNDUsLTE1OTY4MzE2ODksLT
-E4MjA4NTE2MjMsLTExMTM2Njk5OTUsLTE2OTAzMDQzNDksLTE0
-NTIzNzc4ODUsNDY1MjI1NjksMTUyMTU2NzQ3NCwtOTQ2OTA4MT
-c1LC0xOTA4NjYxMDI4LC0xODA0Mjk2MDU1LDQ5NTM0ODg2Nyw0
-NDQzMDMwMTVdfQ==
+eyJoaXN0b3J5IjpbODc3MzE2MDMwLC0xMjM0NTc5OTk2LDE4Mj
+QzMTY1NjIsMTA2NDAxMzYyMywxODQyNDY2ODA3LC04NzAxNzU0
+MzUsLTIwNzIxNDAxMTcsLTk4Mjg4MTMsODU1Nzc0MTQ1LC0xNT
+k2ODMxNjg5LC0xODIwODUxNjIzLC0xMTEzNjY5OTk1LC0xNjkw
+MzA0MzQ5LC0xNDUyMzc3ODg1LDQ2NTIyNTY5LDE1MjE1Njc0Nz
+QsLTk0NjkwODE3NSwtMTkwODY2MTAyOCwtMTgwNDI5NjA1NSw0
+OTUzNDg4NjddfQ==
 -->
