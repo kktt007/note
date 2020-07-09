@@ -37,6 +37,8 @@ images to vgy.me, code to hastebin.com, videos to sendvid.com, binary files to t
 http://www.uploader.space/
 https://gofile.io/
 
+https://srv-file22.gofile.io/download/S4Iu9d/OmegaOptions.bak
+
 可以了解 
 https://github.com/dutchcoders/transfer.sh/
 
@@ -5948,11 +5950,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzgyODc3MjAsMTI1NDk3NzA4MCwtMj
-I5MTg5NDIwLC0xNzE5MDk4ODg5LDg3NzMxNjAzMCwtMTIzNDU3
-OTk5NiwxODI0MzE2NTYyLDEwNjQwMTM2MjMsMTg0MjQ2NjgwNy
-wtODcwMTc1NDM1LC0yMDcyMTQwMTE3LC05ODI4ODEzLDg1NTc3
-NDE0NSwtMTU5NjgzMTY4OSwtMTgyMDg1MTYyMywtMTExMzY2OT
-k5NSwtMTY5MDMwNDM0OSwtMTQ1MjM3Nzg4NSw0NjUyMjU2OSwx
-NTIxNTY3NDc0XX0=
+eyJoaXN0b3J5IjpbLTMyMDg5ODYwNSwxMjU0OTc3MDgwLC0yMj
+kxODk0MjAsLTE3MTkwOTg4ODksODc3MzE2MDMwLC0xMjM0NTc5
+OTk2LDE4MjQzMTY1NjIsMTA2NDAxMzYyMywxODQyNDY2ODA3LC
+04NzAxNzU0MzUsLTIwNzIxNDAxMTcsLTk4Mjg4MTMsODU1Nzc0
+MTQ1LC0xNTk2ODMxNjg5LC0xODIwODUxNjIzLC0xMTEzNjY5OT
+k1LC0xNjkwMzA0MzQ5LC0xNDUyMzc3ODg1LDQ2NTIyNTY5LDE1
+MjE1Njc0NzRdfQ==
 -->
