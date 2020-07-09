@@ -3,10 +3,10 @@
 支持raw模式的txt直链
 https://hastebin.com/raw/jigejitawe
 [https://pastebin.fun/raw/IJ2we5Htzc](https://pastebin.fun/raw/IJ2we5Htzc)
-支持文件的直链
-https://files.catbox.moe/pntjm8.txt
-https://bayfiles.com/
 
+支持文件的直链 ,记得要get到下载链接才行
+https://files.catbox.moe/pntjm8.txt
+https://cdn-01.bayfiles.com/32JbT4E8o4/017732be-1594275522/OmegaOptions.bak
 images to vgy.me, code to hastebin.com, videos to sendvid.com, binary files to transfer.sh
 
 别说一生，我们连一天都没有逃出来。想要过好一生，每天都是有个机会。
@@ -5901,11 +5901,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc3MzE2MDMwLC0xMjM0NTc5OTk2LDE4Mj
-QzMTY1NjIsMTA2NDAxMzYyMywxODQyNDY2ODA3LC04NzAxNzU0
-MzUsLTIwNzIxNDAxMTcsLTk4Mjg4MTMsODU1Nzc0MTQ1LC0xNT
-k2ODMxNjg5LC0xODIwODUxNjIzLC0xMTEzNjY5OTk1LC0xNjkw
-MzA0MzQ5LC0xNDUyMzc3ODg1LDQ2NTIyNTY5LDE1MjE1Njc0Nz
-QsLTk0NjkwODE3NSwtMTkwODY2MTAyOCwtMTgwNDI5NjA1NSw0
-OTUzNDg4NjddfQ==
+eyJoaXN0b3J5IjpbLTE3MTkwOTg4ODksODc3MzE2MDMwLC0xMj
+M0NTc5OTk2LDE4MjQzMTY1NjIsMTA2NDAxMzYyMywxODQyNDY2
+ODA3LC04NzAxNzU0MzUsLTIwNzIxNDAxMTcsLTk4Mjg4MTMsOD
+U1Nzc0MTQ1LC0xNTk2ODMxNjg5LC0xODIwODUxNjIzLC0xMTEz
+NjY5OTk1LC0xNjkwMzA0MzQ5LC0xNDUyMzc3ODg1LDQ2NTIyNT
+Y5LDE1MjE1Njc0NzQsLTk0NjkwODE3NSwtMTkwODY2MTAyOCwt
+MTgwNDI5NjA1NV19
 -->
