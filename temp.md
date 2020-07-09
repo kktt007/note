@@ -9,6 +9,9 @@ https://files.catbox.moe/pntjm8.txt
 https://cdn-01.bayfiles.com/32JbT4E8o4/017732be-1594275522/OmegaOptions.bak
 images to vgy.me, code to hastebin.com, videos to sendvid.com, binary files to transfer.sh
 
+可以了解 
+https://github.com/dutchcoders/transfer.sh/
+
 别说一生，我们连一天都没有逃出来。想要过好一生，每天都是有个机会。
 ### clash
 https://chuansongme.com/n/2662123953021
@@ -5901,11 +5904,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTkwOTg4ODksODc3MzE2MDMwLC0xMj
-M0NTc5OTk2LDE4MjQzMTY1NjIsMTA2NDAxMzYyMywxODQyNDY2
-ODA3LC04NzAxNzU0MzUsLTIwNzIxNDAxMTcsLTk4Mjg4MTMsOD
-U1Nzc0MTQ1LC0xNTk2ODMxNjg5LC0xODIwODUxNjIzLC0xMTEz
-NjY5OTk1LC0xNjkwMzA0MzQ5LC0xNDUyMzc3ODg1LDQ2NTIyNT
-Y5LDE1MjE1Njc0NzQsLTk0NjkwODE3NSwtMTkwODY2MTAyOCwt
-MTgwNDI5NjA1NV19
+eyJoaXN0b3J5IjpbMTMwODE3NzI0MCwtMTcxOTA5ODg4OSw4Nz
+czMTYwMzAsLTEyMzQ1Nzk5OTYsMTgyNDMxNjU2MiwxMDY0MDEz
+NjIzLDE4NDI0NjY4MDcsLTg3MDE3NTQzNSwtMjA3MjE0MDExNy
+wtOTgyODgxMyw4NTU3NzQxNDUsLTE1OTY4MzE2ODksLTE4MjA4
+NTE2MjMsLTExMTM2Njk5OTUsLTE2OTAzMDQzNDksLTE0NTIzNz
+c4ODUsNDY1MjI1NjksMTUyMTU2NzQ3NCwtOTQ2OTA4MTc1LC0x
+OTA4NjYxMDI4XX0=
 -->
