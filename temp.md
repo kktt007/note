@@ -1,3 +1,9 @@
+### 7.10
+重复重复重复
+那些简单的道理，小的时候不觉得如何，长大后开始觉得，越来越容易丢失一些东西，所以简单的事会成为困难
+到后来真的只是为了认识或保持更纯粹的自己，不被生活淹没，不被自己丢失，自己成了自己的决定者，创造者
+
+
 ### 7.9
 参考
 https://github.com/H1dd3nM1nd/FileHostList/blob/master/FileHosts.txt
@@ -5961,11 +5967,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMDU3NDQ3NSw1NjY2OTk0OTUsMTgyMj
-k0ODI5NCwtMTQwNzg5ODgxNCwtMzIwODk4NjA1LDEyNTQ5Nzcw
-ODAsLTIyOTE4OTQyMCwtMTcxOTA5ODg4OSw4NzczMTYwMzAsLT
-EyMzQ1Nzk5OTYsMTgyNDMxNjU2MiwxMDY0MDEzNjIzLDE4NDI0
-NjY4MDcsLTg3MDE3NTQzNSwtMjA3MjE0MDExNywtOTgyODgxMy
-w4NTU3NzQxNDUsLTE1OTY4MzE2ODksLTE4MjA4NTE2MjMsLTEx
-MTM2Njk5OTVdfQ==
+eyJoaXN0b3J5IjpbMTY0MzAxNDg4MiwxNTAwNTc0NDc1LDU2Nj
+Y5OTQ5NSwxODIyOTQ4Mjk0LC0xNDA3ODk4ODE0LC0zMjA4OTg2
+MDUsMTI1NDk3NzA4MCwtMjI5MTg5NDIwLC0xNzE5MDk4ODg5LD
+g3NzMxNjAzMCwtMTIzNDU3OTk5NiwxODI0MzE2NTYyLDEwNjQw
+MTM2MjMsMTg0MjQ2NjgwNywtODcwMTc1NDM1LC0yMDcyMTQwMT
+E3LC05ODI4ODEzLDg1NTc3NDE0NSwtMTU5NjgzMTY4OSwtMTgy
+MDg1MTYyM119
 -->
