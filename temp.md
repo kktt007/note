@@ -12,6 +12,10 @@ images to vgy.me, code to hastebin.com, videos to sendvid.com, binary files to t
 可以了解 
 https://github.com/dutchcoders/transfer.sh/
 
+临时文件存储
+https://uguu.se/
+https://app.tmp.link/?tmpui_page=/workspace
+
 别说一生，我们连一天都没有逃出来。想要过好一生，每天都是有个机会。
 ### clash
 https://chuansongme.com/n/2662123953021
@@ -5904,11 +5908,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwODE3NzI0MCwtMTcxOTA5ODg4OSw4Nz
-czMTYwMzAsLTEyMzQ1Nzk5OTYsMTgyNDMxNjU2MiwxMDY0MDEz
-NjIzLDE4NDI0NjY4MDcsLTg3MDE3NTQzNSwtMjA3MjE0MDExNy
-wtOTgyODgxMyw4NTU3NzQxNDUsLTE1OTY4MzE2ODksLTE4MjA4
-NTE2MjMsLTExMTM2Njk5OTUsLTE2OTAzMDQzNDksLTE0NTIzNz
-c4ODUsNDY1MjI1NjksMTUyMTU2NzQ3NCwtOTQ2OTA4MTc1LC0x
-OTA4NjYxMDI4XX0=
+eyJoaXN0b3J5IjpbODcyMzg2OTEwLC0xNzE5MDk4ODg5LDg3Nz
+MxNjAzMCwtMTIzNDU3OTk5NiwxODI0MzE2NTYyLDEwNjQwMTM2
+MjMsMTg0MjQ2NjgwNywtODcwMTc1NDM1LC0yMDcyMTQwMTE3LC
+05ODI4ODEzLDg1NTc3NDE0NSwtMTU5NjgzMTY4OSwtMTgyMDg1
+MTYyMywtMTExMzY2OTk5NSwtMTY5MDMwNDM0OSwtMTQ1MjM3Nz
+g4NSw0NjUyMjU2OSwxNTIxNTY3NDc0LC05NDY5MDgxNzUsLTE5
+MDg2NjEwMjhdfQ==
 -->
