@@ -1,8 +1,9 @@
 ### 7.9
 
-支持raw模式的在线存储 直链
+支持raw模式的txt直链
 https://hastebin.com/raw/jigejitawe
 [https://pastebin.fun/raw/IJ2we5Htzc](https://pastebin.fun/raw/IJ2we5Htzc)
+支持文件的直链
 https://files.catbox.moe/pntjm8.txt
 
 images to vgy.me, code to hastebin.com, videos to sendvid.com, binary files to transfer.sh
@@ -5899,11 +5900,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNDMxNjU2MiwxMDY0MDEzNjIzLDE4ND
-I0NjY4MDcsLTg3MDE3NTQzNSwtMjA3MjE0MDExNywtOTgyODgx
-Myw4NTU3NzQxNDUsLTE1OTY4MzE2ODksLTE4MjA4NTE2MjMsLT
-ExMTM2Njk5OTUsLTE2OTAzMDQzNDksLTE0NTIzNzc4ODUsNDY1
-MjI1NjksMTUyMTU2NzQ3NCwtOTQ2OTA4MTc1LC0xOTA4NjYxMD
-I4LC0xODA0Mjk2MDU1LDQ5NTM0ODg2Nyw0NDQzMDMwMTUsMTMw
-MTIxNzE2XX0=
+eyJoaXN0b3J5IjpbLTEyMzQ1Nzk5OTYsMTgyNDMxNjU2MiwxMD
+Y0MDEzNjIzLDE4NDI0NjY4MDcsLTg3MDE3NTQzNSwtMjA3MjE0
+MDExNywtOTgyODgxMyw4NTU3NzQxNDUsLTE1OTY4MzE2ODksLT
+E4MjA4NTE2MjMsLTExMTM2Njk5OTUsLTE2OTAzMDQzNDksLTE0
+NTIzNzc4ODUsNDY1MjI1NjksMTUyMTU2NzQ3NCwtOTQ2OTA4MT
+c1LC0xOTA4NjYxMDI4LC0xODA0Mjk2MDU1LDQ5NTM0ODg2Nyw0
+NDQzMDMwMTVdfQ==
 -->
