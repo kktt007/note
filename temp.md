@@ -3,6 +3,11 @@
 那些简单的道理，小的时候不觉得如何，长大后开始觉得，越来越容易丢失一些东西，所以简单的事会成为困难
 到后来真的只是为了认识或保持更纯粹的自己，不被生活淹没，不被自己丢失，自己成了自己的决定者，创造者
 
+网络活动:
+https://www.isiyuan.net/sort/hdzx
+http://m.xiaohuiyl.com/news/list_12.html
+http://cu.manmanbuy.com/cx_0_10_jx_New_1.aspx
+https://www.201u.com/list/5.html
 
 ### 7.9
 参考
@@ -5967,11 +5972,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MzAxNDg4MiwxNTAwNTc0NDc1LDU2Nj
-Y5OTQ5NSwxODIyOTQ4Mjk0LC0xNDA3ODk4ODE0LC0zMjA4OTg2
-MDUsMTI1NDk3NzA4MCwtMjI5MTg5NDIwLC0xNzE5MDk4ODg5LD
-g3NzMxNjAzMCwtMTIzNDU3OTk5NiwxODI0MzE2NTYyLDEwNjQw
-MTM2MjMsMTg0MjQ2NjgwNywtODcwMTc1NDM1LC0yMDcyMTQwMT
-E3LC05ODI4ODEzLDg1NTc3NDE0NSwtMTU5NjgzMTY4OSwtMTgy
-MDg1MTYyM119
+eyJoaXN0b3J5IjpbODMwMTY5MjAsMTY0MzAxNDg4MiwxNTAwNT
+c0NDc1LDU2NjY5OTQ5NSwxODIyOTQ4Mjk0LC0xNDA3ODk4ODE0
+LC0zMjA4OTg2MDUsMTI1NDk3NzA4MCwtMjI5MTg5NDIwLC0xNz
+E5MDk4ODg5LDg3NzMxNjAzMCwtMTIzNDU3OTk5NiwxODI0MzE2
+NTYyLDEwNjQwMTM2MjMsMTg0MjQ2NjgwNywtODcwMTc1NDM1LC
+0yMDcyMTQwMTE3LC05ODI4ODEzLDg1NTc3NDE0NSwtMTU5Njgz
+MTY4OV19
 -->
