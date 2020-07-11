@@ -8,6 +8,7 @@ https://wiki.gentoo.org/wiki/Bash
 https://wiki-dev.bash-hackers.org/start
 https://wiki.freephile.org/wiki/Bash
 https://wiki.inursub.net/Category:Linux
+https://www.tldp.org/LDP/abs/html/biblio.html
 
 ### 7.10
 重复重复重复
@@ -5983,11 +5984,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxODE1NjE3NywtOTUwMzIyMzk2LDEzMz
-I3NTYxMzcsLTE1NTQ3NDA4NzMsMTQwNTkxNTk4OCw4MzAxNjky
-MCwxNjQzMDE0ODgyLDE1MDA1NzQ0NzUsNTY2Njk5NDk1LDE4Mj
-I5NDgyOTQsLTE0MDc4OTg4MTQsLTMyMDg5ODYwNSwxMjU0OTc3
-MDgwLC0yMjkxODk0MjAsLTE3MTkwOTg4ODksODc3MzE2MDMwLC
-0xMjM0NTc5OTk2LDE4MjQzMTY1NjIsMTA2NDAxMzYyMywxODQy
-NDY2ODA3XX0=
+eyJoaXN0b3J5IjpbNjcxNDAxNTMyLC05NTAzMjIzOTYsMTMzMj
+c1NjEzNywtMTU1NDc0MDg3MywxNDA1OTE1OTg4LDgzMDE2OTIw
+LDE2NDMwMTQ4ODIsMTUwMDU3NDQ3NSw1NjY2OTk0OTUsMTgyMj
+k0ODI5NCwtMTQwNzg5ODgxNCwtMzIwODk4NjA1LDEyNTQ5Nzcw
+ODAsLTIyOTE4OTQyMCwtMTcxOTA5ODg4OSw4NzczMTYwMzAsLT
+EyMzQ1Nzk5OTYsMTgyNDMxNjU2MiwxMDY0MDEzNjIzLDE4NDI0
+NjY4MDddfQ==
 -->
