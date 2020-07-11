@@ -373,12 +373,85 @@ to accept behaviour and beliefs that are different from your own, although you m
 
 [Aygun -- surgical motor](http://www.aygun.com/en/surgical-motor-systems-k-1)
  ritten with tackit(httpsstaeditio
+
+### 0711
+review
+Let's review what has happened so far.
+The committee is reviewing the current situation.
+
+committee 
+a committee meeting
+
+numerical
+the pages are not in numerical order.
+keep your files in numerical order.
+
+devorce
+The last I heard they were getting a divorce.
+I'm sure my views on marriage are coloured by my parents' divorce.
+She came out of the divorce settlement a rich woman.
+
+settlement
+As part of their divorce settlement, Jeff agreed to let Polly keep the house.
+They reached an out-of-court settlement
+
+Trial  \ ˈtrī(-ə)l
+She was a real trial to her parents when she younger.
+They're doing clinical trials on a new drug.
+the hearing of statements and showing of objects, etc. in a law court to judge if a person is guilty of a crime or to decide a case or a legal matter:
+trial proceedings
+
+Sue
+we intend to sue for damages.
+She is suing her husband for divorce.
+
+rebel
+He was a rebel when he was a teenager and dyed his hair pink.
+
+opposed ==completely different
+adj. His view of the situation is diametrically (= very strongly) opposed to mine.
+
+diametric  \ ˌdī-ə-ˈme-trik diametrically == completely
+Father and son had dismetrically opposed views on politics.
+
+
+Be more of sth than sth
+There were more of them than there used to be, he was sure of it.
+There was more of everything than there were people.
+
+Interest
+You should put the money in a savings account where is will earn interest.
+
+On behalf of/ As the agent of
+
+Rent
+n. I pay a higher rent than the others tenants because my room is bigger.
+v. I rented a car from a garage so that I could get about.
+
+Tenant  ˈte-nənt 
+A person or organization that uses a building or land and pays rent to its owner.
+
+liue \ ˈlü  in lieu (of)
+They gave some book in lieu of payment for the work I did.
+
+shed
+You need to shed a few pounds.
+A snake was shedding its skin.
+Decidous trees shed their leaves each autumn.
+
+deciduous  \ di-ˈsi-jə-wəs
+adj. Adeciduous tree loses its leaves in autumn and grows new ones in the spring.
+
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUyODA3NDczLDE2MDYwMTcxNTgsLTYxOT
-Y0MzQ5NSwxMTAyODMxMzMxLC0yMTc4MDQ2NjYsLTg2MjUzMDcz
-NCwxODQxMjUyNTk4LDMwMzAwMjk5NywyNjc2MTMyMTksODkyOD
-A3NDI5LC00MDczMDQwNTgsMTc4MzQwMTg4MCwyMDA2OTIwNTMs
-LTQzMTEzOTI5MCwxNDY5OTM2MTA5LC0xMDA2ODcwNzk1LC05ND
-Q2MDI4NDksNDI0MTc2NzI0LDM1MDAwMDY1NSw2OTY3MTE3NTld
-fQ==
+eyJoaXN0b3J5IjpbLTE0Mzk4MDU4MzAsNDUyODA3NDczLDE2MD
+YwMTcxNTgsLTYxOTY0MzQ5NSwxMTAyODMxMzMxLC0yMTc4MDQ2
+NjYsLTg2MjUzMDczNCwxODQxMjUyNTk4LDMwMzAwMjk5NywyNj
+c2MTMyMTksODkyODA3NDI5LC00MDczMDQwNTgsMTc4MzQwMTg4
+MCwyMDA2OTIwNTMsLTQzMTEzOTI5MCwxNDY5OTM2MTA5LC0xMD
+A2ODcwNzk1LC05NDQ2MDI4NDksNDI0MTc2NzI0LDM1MDAwMDY1
+NV19
 -->
