@@ -1,3 +1,6 @@
+-   `vivaldi-ffmpeg-codecs`: [https://aur.archlinux.org/packages/vivaldi-ffmpeg-codecs/](https://aur.archlinux.org/packages/vivaldi-ffmpeg-codecs/)
+-   `vivaldi-widevine`: [https://aur.archlinux.org/packages/vivaldi-widevine/](https://aur.archlinux.org/packages/vivaldi-widevine/)
+
 学习
 https://pegasuswang.readthedocs.io/zh/latest/
 bash
@@ -5987,11 +5990,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkxMDI0NjcwLDY3MTQwMTUzMiwtOTUwMz
-IyMzk2LDEzMzI3NTYxMzcsLTE1NTQ3NDA4NzMsMTQwNTkxNTk4
-OCw4MzAxNjkyMCwxNjQzMDE0ODgyLDE1MDA1NzQ0NzUsNTY2Nj
-k5NDk1LDE4MjI5NDgyOTQsLTE0MDc4OTg4MTQsLTMyMDg5ODYw
-NSwxMjU0OTc3MDgwLC0yMjkxODk0MjAsLTE3MTkwOTg4ODksOD
-c3MzE2MDMwLC0xMjM0NTc5OTk2LDE4MjQzMTY1NjIsMTA2NDAx
-MzYyM119
+eyJoaXN0b3J5IjpbLTQ2NjcyNDA5OCw2OTEwMjQ2NzAsNjcxND
+AxNTMyLC05NTAzMjIzOTYsMTMzMjc1NjEzNywtMTU1NDc0MDg3
+MywxNDA1OTE1OTg4LDgzMDE2OTIwLDE2NDMwMTQ4ODIsMTUwMD
+U3NDQ3NSw1NjY2OTk0OTUsMTgyMjk0ODI5NCwtMTQwNzg5ODgx
+NCwtMzIwODk4NjA1LDEyNTQ5NzcwODAsLTIyOTE4OTQyMCwtMT
+cxOTA5ODg4OSw4NzczMTYwMzAsLTEyMzQ1Nzk5OTYsMTgyNDMx
+NjU2Ml19
 -->
