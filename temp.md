@@ -6,6 +6,7 @@ http://mywiki.wooledge.org/
 https://wiki.gentoo.org/wiki/Bash
 善于寻找http://linuxcommand.org/lc3_resources.php
 https://wiki-dev.bash-hackers.org/start
+https://wiki.freephile.org/wiki/Bash
 
 ### 7.10
 重复重复重复
@@ -5981,11 +5982,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMjc1NjEzNywtMTU1NDc0MDg3MywxND
-A1OTE1OTg4LDgzMDE2OTIwLDE2NDMwMTQ4ODIsMTUwMDU3NDQ3
-NSw1NjY2OTk0OTUsMTgyMjk0ODI5NCwtMTQwNzg5ODgxNCwtMz
-IwODk4NjA1LDEyNTQ5NzcwODAsLTIyOTE4OTQyMCwtMTcxOTA5
-ODg4OSw4NzczMTYwMzAsLTEyMzQ1Nzk5OTYsMTgyNDMxNjU2Mi
-wxMDY0MDEzNjIzLDE4NDI0NjY4MDcsLTg3MDE3NTQzNSwtMjA3
-MjE0MDExN119
+eyJoaXN0b3J5IjpbLTk1MDMyMjM5NiwxMzMyNzU2MTM3LC0xNT
+U0NzQwODczLDE0MDU5MTU5ODgsODMwMTY5MjAsMTY0MzAxNDg4
+MiwxNTAwNTc0NDc1LDU2NjY5OTQ5NSwxODIyOTQ4Mjk0LC0xND
+A3ODk4ODE0LC0zMjA4OTg2MDUsMTI1NDk3NzA4MCwtMjI5MTg5
+NDIwLC0xNzE5MDk4ODg5LDg3NzMxNjAzMCwtMTIzNDU3OTk5Ni
+wxODI0MzE2NTYyLDEwNjQwMTM2MjMsMTg0MjQ2NjgwNywtODcw
+MTc1NDM1XX0=
 -->
