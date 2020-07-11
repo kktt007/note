@@ -9,6 +9,9 @@ https://wiki-dev.bash-hackers.org/start
 https://wiki.freephile.org/wiki/Bash
 https://wiki.inursub.net/Category:Linux
 https://www.tldp.org/LDP/abs/html/biblio.html
+https://bertvv.github.io/cheat-sheets/Bash.html
+https://mxlinux.org/wiki/other/writing-bash-scripts/
+
 
 ### 7.10
 重复重复重复
@@ -5984,11 +5987,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcxNDAxNTMyLC05NTAzMjIzOTYsMTMzMj
-c1NjEzNywtMTU1NDc0MDg3MywxNDA1OTE1OTg4LDgzMDE2OTIw
-LDE2NDMwMTQ4ODIsMTUwMDU3NDQ3NSw1NjY2OTk0OTUsMTgyMj
-k0ODI5NCwtMTQwNzg5ODgxNCwtMzIwODk4NjA1LDEyNTQ5Nzcw
-ODAsLTIyOTE4OTQyMCwtMTcxOTA5ODg4OSw4NzczMTYwMzAsLT
-EyMzQ1Nzk5OTYsMTgyNDMxNjU2MiwxMDY0MDEzNjIzLDE4NDI0
-NjY4MDddfQ==
+eyJoaXN0b3J5IjpbNjkxMDI0NjcwLDY3MTQwMTUzMiwtOTUwMz
+IyMzk2LDEzMzI3NTYxMzcsLTE1NTQ3NDA4NzMsMTQwNTkxNTk4
+OCw4MzAxNjkyMCwxNjQzMDE0ODgyLDE1MDA1NzQ0NzUsNTY2Nj
+k5NDk1LDE4MjI5NDgyOTQsLTE0MDc4OTg4MTQsLTMyMDg5ODYw
+NSwxMjU0OTc3MDgwLC0yMjkxODk0MjAsLTE3MTkwOTg4ODksOD
+c3MzE2MDMwLC0xMjM0NTc5OTk2LDE4MjQzMTY1NjIsMTA2NDAx
+MzYyM119
 -->
