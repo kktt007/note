@@ -2,7 +2,10 @@
 https://pegasuswang.readthedocs.io/zh/latest/
 bash
 http://mywiki.wooledge.org/
- 
+善于发现https://wiki.archlinux.org/index.php/Bash
+https://wiki.gentoo.org/wiki/Bash
+善于寻找http://linuxcommand.org/lc3_resources.php
+https://wiki-dev.bash-hackers.org/start
 
 ### 7.10
 重复重复重复
@@ -5978,7 +5981,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyOTIxMTU3MSwtMTU1NDc0MDg3MywxND
+eyJoaXN0b3J5IjpbMTMzMjc1NjEzNywtMTU1NDc0MDg3MywxND
 A1OTE1OTg4LDgzMDE2OTIwLDE2NDMwMTQ4ODIsMTUwMDU3NDQ3
 NSw1NjY2OTk0OTUsMTgyMjk0ODI5NCwtMTQwNzg5ODgxNCwtMz
 IwODk4NjA1LDEyNTQ5NzcwODAsLTIyOTE4OTQyMCwtMTcxOTA5
