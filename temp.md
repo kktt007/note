@@ -1,4 +1,4 @@
-http://www.lymslive.top/blog/20180807_1.html
+vim 教程http://www.lymslive.top/blog/20180807_1.html
 
 -   `vivaldi-ffmpeg-codecs`: [https://aur.archlinux.org/packages/vivaldi-ffmpeg-codecs/](https://aur.archlinux.org/packages/vivaldi-ffmpeg-codecs/)
 -   `vivaldi-widevine`: [https://aur.archlinux.org/packages/vivaldi-widevine/](https://aur.archlinux.org/packages/vivaldi-widevine/)
@@ -5992,11 +5992,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjcxMTIzNDQsLTQ2NjcyNDA5OCw2OT
-EwMjQ2NzAsNjcxNDAxNTMyLC05NTAzMjIzOTYsMTMzMjc1NjEz
-NywtMTU1NDc0MDg3MywxNDA1OTE1OTg4LDgzMDE2OTIwLDE2ND
-MwMTQ4ODIsMTUwMDU3NDQ3NSw1NjY2OTk0OTUsMTgyMjk0ODI5
-NCwtMTQwNzg5ODgxNCwtMzIwODk4NjA1LDEyNTQ5NzcwODAsLT
-IyOTE4OTQyMCwtMTcxOTA5ODg4OSw4NzczMTYwMzAsLTEyMzQ1
-Nzk5OTZdfQ==
+eyJoaXN0b3J5IjpbNDkwNTAwOTkyLC00NjY3MjQwOTgsNjkxMD
+I0NjcwLDY3MTQwMTUzMiwtOTUwMzIyMzk2LDEzMzI3NTYxMzcs
+LTE1NTQ3NDA4NzMsMTQwNTkxNTk4OCw4MzAxNjkyMCwxNjQzMD
+E0ODgyLDE1MDA1NzQ0NzUsNTY2Njk5NDk1LDE4MjI5NDgyOTQs
+LTE0MDc4OTg4MTQsLTMyMDg5ODYwNSwxMjU0OTc3MDgwLC0yMj
+kxODk0MjAsLTE3MTkwOTg4ODksODc3MzE2MDMwLC0xMjM0NTc5
+OTk2XX0=
 -->
