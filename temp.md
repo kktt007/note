@@ -1,3 +1,52 @@
+### 7.14
+问题字符交换 https://www.coder.work/article/1104975
+
+正则相关
+https://www.coder.work/blog?tag=regex
+
+https://www.regular-expressions.info/refbasic.html
+
+https://www.danvk.org/josephus.html 问题得出ruby
+
+世界问题
+https://zhuanfou.com/
+
+vim 哲学 https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim
+学习https://medium.com/actualize-network/how-to-learn-vim-a-four-week-plan-cd8b376a9b85
+根据https://github.com/topics/vim-plugins
+go ruby 必选咯
+### go: 
+- goland
+- vscode
+- vim go
+
+书籍
+Go语言圣经 https://docs.hacknode.org/gopl-zh/index.html
+书籍 https://github.com/ty4z2008/Qix/blob/master/golang.md
+意外收获有英语 https://blog.microdba.com/Qix/
+
+###ruby:
+
+- RubyMine
+- vscode
+
+综合书籍
+https://github.com/justjavac/free-programming-books-zh_CN
+https://github.com/porcelainHeart/learning-resource
+
+ruby书籍
+https://geek-docs.com/ruby/ruby-tutorial/ruby-tutorial.html
+https://www.ruby-lang.org/zh_cn/documentation/
+http://gitbook.net/ruby/index.html
+https://github.com/EZLippi/practical-programming-books#ruby
+https://ruby-china.org/wiki
+看看别人怎么学的更有帮助 https://github.com/chenge/simple-ruby-guide-zh
+过来人重新思考 https://github.com/dsh0416/ruby-relearning
+
+其他人走过的路的经验参考 https://github.com/wendellhu95/blog/issues/13
+
+关键在于刻意学习：不是简单的重复，而是选择一个具有挑战性的、稍稍超出现有能力的任务，尝试完成它，分析你的表现和成果，纠正失误，然后不断重复再重复这个过程。银弹似乎不存在：即使天才如莫扎特，4 岁开始作曲，在创作第一首世界级音乐之前也积淀了 13 年的时间。披头士在 1964 年接连空降音乐榜单首位，登上 Ed Sullivan 秀并成为现象级乐队，似乎是一夜之间发生的事情，但他们从 1957 年起就开始在利物浦的小俱乐部里表演。尽管他们早年就征服了乐迷，但直到 1967 年发表了 Sgt. Peppers 后才受到音乐批评界的褒扬。
+
 vim 教程http://www.lymslive.top/blog/20180807_1.html
 
 -   `vivaldi-ffmpeg-codecs`: [https://aur.archlinux.org/packages/vivaldi-ffmpeg-codecs/](https://aur.archlinux.org/packages/vivaldi-ffmpeg-codecs/)
@@ -5992,11 +6041,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkwNTAwOTkyLC00NjY3MjQwOTgsNjkxMD
-I0NjcwLDY3MTQwMTUzMiwtOTUwMzIyMzk2LDEzMzI3NTYxMzcs
-LTE1NTQ3NDA4NzMsMTQwNTkxNTk4OCw4MzAxNjkyMCwxNjQzMD
-E0ODgyLDE1MDA1NzQ0NzUsNTY2Njk5NDk1LDE4MjI5NDgyOTQs
-LTE0MDc4OTg4MTQsLTMyMDg5ODYwNSwxMjU0OTc3MDgwLC0yMj
-kxODk0MjAsLTE3MTkwOTg4ODksODc3MzE2MDMwLC0xMjM0NTc5
-OTk2XX0=
+eyJoaXN0b3J5IjpbMjAyMzc4MzA5Miw0OTA1MDA5OTIsLTQ2Nj
+cyNDA5OCw2OTEwMjQ2NzAsNjcxNDAxNTMyLC05NTAzMjIzOTYs
+MTMzMjc1NjEzNywtMTU1NDc0MDg3MywxNDA1OTE1OTg4LDgzMD
+E2OTIwLDE2NDMwMTQ4ODIsMTUwMDU3NDQ3NSw1NjY2OTk0OTUs
+MTgyMjk0ODI5NCwtMTQwNzg5ODgxNCwtMzIwODk4NjA1LDEyNT
+Q5NzcwODAsLTIyOTE4OTQyMCwtMTcxOTA5ODg4OSw4NzczMTYw
+MzBdfQ==
 -->
