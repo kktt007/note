@@ -56,6 +56,12 @@ ctrl + shift + n 新建空白图层 ctrl + d 取消蚂蚁线
 焦距长  景物范围小 景深浅 光圈大
 物距越长，景深越大；物距越短，景深越小。(废话)
 
+实际操作: F6.3 焦距21小 光圈小于 景深深 暗于 模糊于 5.6 焦距25 景深浅 结论 景深浅会清晰点 (同级别焦距20的也模糊)  所以对于平面物体，不要考虑景深深， 只要浅 所以焦距大， 光圈大即可
+结论:
+光圈大(5.6以下) 焦距长 距离近  景深浅参考
+https://photoblog.hk/50182/focal_length/
+https://www.jianshu.com/p/a290b5b3d623
+
 ### PS直接打开原图修改  置换不改变画布和图像
 只要涉及图像大小(变形)，画布就随图像改变(画布调整大小以形成新的像素)
 1. 直接打开  图片为原始像素 (图像即画布)
@@ -72,6 +78,6 @@ ctrl + shift + n 新建空白图层 ctrl + d 取消蚂蚁线
 
 教程 https://thomaskksj.tuchong.com/t/15249114/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgzOTU2ODc0LC0xNTI1NzcxMTU3LDE3Mz
-Y2ODAyMTUsMzg4Mzk4MDEwXX0=
+eyJoaXN0b3J5IjpbLTE1NzYyMjIxODEsOTgzOTU2ODc0LC0xNT
+I1NzcxMTU3LDE3MzY2ODAyMTUsMzg4Mzk4MDEwXX0=
 -->
