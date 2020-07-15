@@ -69,7 +69,9 @@ ctrl + shift + n 新建空白图层 ctrl + d 取消蚂蚁线
 3. 照片再拖入: 以被拖入的为准 (以被画布为准显示)小到大，小的画布扩充了，大到小，被裁减了
 
 其实区别就是只有导入的时候决定了像素
+
+教程 https://thomaskksj.tuchong.com/t/15249114/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjU3NzExNTcsMTczNjY4MDIxNSwzOD
-gzOTgwMTBdfQ==
+eyJoaXN0b3J5IjpbOTgzOTU2ODc0LC0xNTI1NzcxMTU3LDE3Mz
+Y2ODAyMTUsMzg4Mzk4MDEwXX0=
 -->
