@@ -54,6 +54,7 @@ ctrl + shift + n 新建空白图层 ctrl + d 取消蚂蚁线
 焦平面都是清楚的
 
 焦距长  景物范围小 景深浅 光圈大
+物距越长，景深越大；物距越短，景深越小。(废话)
 
 ### PS直接打开原图修改  置换不改变画布和图像
 只要涉及图像大小(变形)，画布就随图像改变(画布调整大小以形成新的像素)
@@ -69,5 +70,6 @@ ctrl + shift + n 新建空白图层 ctrl + d 取消蚂蚁线
 
 其实区别就是只有导入的时候决定了像素
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNjY4MDIxNSwzODgzOTgwMTBdfQ==
+eyJoaXN0b3J5IjpbLTE1MjU3NzExNTcsMTczNjY4MDIxNSwzOD
+gzOTgwMTBdfQ==
 -->
