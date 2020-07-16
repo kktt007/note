@@ -77,7 +77,11 @@ https://www.jianshu.com/p/a290b5b3d623
 其实区别就是只有导入的时候决定了像素
 
 教程 https://thomaskksj.tuchong.com/t/15249114/
+
+ps 学习
+https://www.imagejoy.com/category/photoshop
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNzQ1MTk1MCw5ODM5NTY4NzQsLTE1Mj
-U3NzExNTcsMTczNjY4MDIxNSwzODgzOTgwMTBdfQ==
+eyJoaXN0b3J5IjpbLTEwMzE1ODU0NzMsMjAwNzQ1MTk1MCw5OD
+M5NTY4NzQsLTE1MjU3NzExNTcsMTczNjY4MDIxNSwzODgzOTgw
+MTBdfQ==
 -->
