@@ -80,8 +80,9 @@ https://www.jianshu.com/p/a290b5b3d623
 
 ps 学习
 https://www.imagejoy.com/category/photoshop
+https://helpx.adobe.com/hk_zh/photoshop/using/default-keyboard-shortcuts.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzE1ODU0NzMsMjAwNzQ1MTk1MCw5OD
-M5NTY4NzQsLTE1MjU3NzExNTcsMTczNjY4MDIxNSwzODgzOTgw
-MTBdfQ==
+eyJoaXN0b3J5IjpbLTMwNDk2MTMzMywtMTAzMTU4NTQ3MywyMD
+A3NDUxOTUwLDk4Mzk1Njg3NCwtMTUyNTc3MTE1NywxNzM2Njgw
+MjE1LDM4ODM5ODAxMF19
 -->
