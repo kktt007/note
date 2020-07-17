@@ -1,5 +1,16 @@
 ### 0717
 
+vscode参考
+https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
+
+https://github.com/Microsoft/vscode-tips-and-tricks
+
+https://code.visualstudio.com/docs/editor/codebasics
+
+https://johnpapa.net/refactoring-with-visual-studio-code/
+
+https://code.visualstudio.com/docs/getstarted/keybindings
+
 人起的就是转化的作用
 学习的过程追求的不是纯粹的结果，而是结果导向，结果来验证。我们确实了太多了基础理论常识，有多熟悉的过程，将来就有多游刃有余
 
@@ -6063,11 +6074,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTEyOTA4MzcsLTEzNjY1OTkyNzEsLT
-k4NjMxNDI3MCwyMDIzNzgzMDkyLDQ5MDUwMDk5MiwtNDY2NzI0
-MDk4LDY5MTAyNDY3MCw2NzE0MDE1MzIsLTk1MDMyMjM5NiwxMz
-MyNzU2MTM3LC0xNTU0NzQwODczLDE0MDU5MTU5ODgsODMwMTY5
-MjAsMTY0MzAxNDg4MiwxNTAwNTc0NDc1LDU2NjY5OTQ5NSwxOD
-IyOTQ4Mjk0LC0xNDA3ODk4ODE0LC0zMjA4OTg2MDUsMTI1NDk3
-NzA4MF19
+eyJoaXN0b3J5IjpbMTU5NjE0NzMxMywtMTM2NjU5OTI3MSwtOT
+g2MzE0MjcwLDIwMjM3ODMwOTIsNDkwNTAwOTkyLC00NjY3MjQw
+OTgsNjkxMDI0NjcwLDY3MTQwMTUzMiwtOTUwMzIyMzk2LDEzMz
+I3NTYxMzcsLTE1NTQ3NDA4NzMsMTQwNTkxNTk4OCw4MzAxNjky
+MCwxNjQzMDE0ODgyLDE1MDA1NzQ0NzUsNTY2Njk5NDk1LDE4Mj
+I5NDgyOTQsLTE0MDc4OTg4MTQsLTMyMDg5ODYwNSwxMjU0OTc3
+MDgwXX0=
 -->
