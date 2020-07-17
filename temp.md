@@ -1,3 +1,23 @@
+### 0717
+人起的就是转化的作用
+学习的过程追求的不是纯粹的结果，而是结果导向，结果来验证。我们确实了太多了基础理论常识，有多熟悉的过程，将来就有多游刃有余
+
+官方文档:
+https://helpx.adobe.com/cn/photoshop/tutorials.html
+https://helpx.adobe.com/cn/photoshop/user-guide.html?topic=/cn/zh-Hans/photoshop/morehelp/drawing_and_painting.ug.js
+
+技巧:
+https://www.psquan.com/jichu
+https://www.html.cn/tools/photoshop/
+
+Julieanne Kost是一名Adobe Photoshop官方布道者
+工具面板中的任何工具都可以使用只包含一个字母的快捷键来选择，按字母将选择相应的工具，按Shift+快捷键将遍历一组工具。例如，按P键将选择钢笔工具，按Shift+P快捷键可在钢笔工具和自由钢笔工具之间切换
+
+使用钢笔工具绘制路径时，应使用尽可能少的点来创建所需的形状。使用的点越少，曲线越平滑，文件的效率越高。
+
+http://cn.epubee.com/files.aspx 搜索: Adobe Photoshop CS6中文版经典教程
+
+PS中的置入快捷键是“Alt+f+l”
 
 ### 7.14
 问题字符交换 https://www.coder.work/article/1104975
@@ -6042,11 +6062,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NjMxNDI3MCwyMDIzNzgzMDkyLDQ5MD
-UwMDk5MiwtNDY2NzI0MDk4LDY5MTAyNDY3MCw2NzE0MDE1MzIs
-LTk1MDMyMjM5NiwxMzMyNzU2MTM3LC0xNTU0NzQwODczLDE0MD
-U5MTU5ODgsODMwMTY5MjAsMTY0MzAxNDg4MiwxNTAwNTc0NDc1
-LDU2NjY5OTQ5NSwxODIyOTQ4Mjk0LC0xNDA3ODk4ODE0LC0zMj
-A4OTg2MDUsMTI1NDk3NzA4MCwtMjI5MTg5NDIwLC0xNzE5MDk4
-ODg5XX0=
+eyJoaXN0b3J5IjpbLTEzNjY1OTkyNzEsLTk4NjMxNDI3MCwyMD
+IzNzgzMDkyLDQ5MDUwMDk5MiwtNDY2NzI0MDk4LDY5MTAyNDY3
+MCw2NzE0MDE1MzIsLTk1MDMyMjM5NiwxMzMyNzU2MTM3LC0xNT
+U0NzQwODczLDE0MDU5MTU5ODgsODMwMTY5MjAsMTY0MzAxNDg4
+MiwxNTAwNTc0NDc1LDU2NjY5OTQ5NSwxODIyOTQ4Mjk0LC0xND
+A3ODk4ODE0LC0zMjA4OTg2MDUsMTI1NDk3NzA4MCwtMjI5MTg5
+NDIwXX0=
 -->
