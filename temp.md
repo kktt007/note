@@ -31,6 +31,37 @@ http://cn.epubee.com/files.aspx 搜索: Adobe Photoshop CS6中文版经典教程
 
 PS中的置入快捷键是“Alt+f+l”
 
+
+英语
+
+发音
+音标
+英英
+句子里
+其他人纠正
+积累
+
+
+客户 需求
+你的价格决定了客户
+你的产品决定了客户
+解决产品的定制
+
+
+你只看到了他的部分价值，看不到他的缺陷
+看似对是因为只看到当前逻辑，有的条件吗考虑到，或者还没出现，有的却在消失，你掌握的条件吧足以形成客观的看法
+
+最好还是需要明白自己百分之九十是错的，以这个为基础去毫不留情的检视自己。同时以必定成功的信心去行动。
+没有比当下更值得珍惜的了
+如果以后更糟，那就该好好珍惜当下
+如果以后更好，那是自己努力取得的回报
+
+
+https://github.com/lucerion/vim-as-a-ruby-ide
+关于ruby插件
+essential
+
+
 ### 7.14
 问题字符交换 https://www.coder.work/article/1104975
 
@@ -6074,11 +6105,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NjE0NzMxMywtMTM2NjU5OTI3MSwtOT
-g2MzE0MjcwLDIwMjM3ODMwOTIsNDkwNTAwOTkyLC00NjY3MjQw
-OTgsNjkxMDI0NjcwLDY3MTQwMTUzMiwtOTUwMzIyMzk2LDEzMz
-I3NTYxMzcsLTE1NTQ3NDA4NzMsMTQwNTkxNTk4OCw4MzAxNjky
-MCwxNjQzMDE0ODgyLDE1MDA1NzQ0NzUsNTY2Njk5NDk1LDE4Mj
-I5NDgyOTQsLTE0MDc4OTg4MTQsLTMyMDg5ODYwNSwxMjU0OTc3
-MDgwXX0=
+eyJoaXN0b3J5IjpbLTk5NDE1ODk4MCwxNTk2MTQ3MzEzLC0xMz
+Y2NTk5MjcxLC05ODYzMTQyNzAsMjAyMzc4MzA5Miw0OTA1MDA5
+OTIsLTQ2NjcyNDA5OCw2OTEwMjQ2NzAsNjcxNDAxNTMyLC05NT
+AzMjIzOTYsMTMzMjc1NjEzNywtMTU1NDc0MDg3MywxNDA1OTE1
+OTg4LDgzMDE2OTIwLDE2NDMwMTQ4ODIsMTUwMDU3NDQ3NSw1Nj
+Y2OTk0OTUsMTgyMjk0ODI5NCwtMTQwNzg5ODgxNCwtMzIwODk4
+NjA1XX0=
 -->
