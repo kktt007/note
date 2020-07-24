@@ -1,3 +1,9 @@
+### 0724
+https://pan.baidu.com/share/init?surl=E2Ps02l6WNTu5cJdtwamJA
+
+https://greasyfork.org/zh-CN/users/247205-newday-me 脚本下载
+https://pan.baidu.com/s/1E2Ps02l6WNTu5cJdtwamJA#list/path=%2F 这样就能打开百度云
+
 ### 0721
 switchy omege备份文件OmegaOptions108089
 ```
@@ -6120,11 +6126,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjU2OTM4MTAsMTgyMjI3NjQ2OSwtOT
-k0MTU4OTgwLDE1OTYxNDczMTMsLTEzNjY1OTkyNzEsLTk4NjMx
-NDI3MCwyMDIzNzgzMDkyLDQ5MDUwMDk5MiwtNDY2NzI0MDk4LD
-Y5MTAyNDY3MCw2NzE0MDE1MzIsLTk1MDMyMjM5NiwxMzMyNzU2
-MTM3LC0xNTU0NzQwODczLDE0MDU5MTU5ODgsODMwMTY5MjAsMT
-Y0MzAxNDg4MiwxNTAwNTc0NDc1LDU2NjY5OTQ5NSwxODIyOTQ4
-Mjk0XX0=
+eyJoaXN0b3J5IjpbLTU3MzIzODAxNSwxODIyMjc2NDY5LC05OT
+QxNTg5ODAsMTU5NjE0NzMxMywtMTM2NjU5OTI3MSwtOTg2MzE0
+MjcwLDIwMjM3ODMwOTIsNDkwNTAwOTkyLC00NjY3MjQwOTgsNj
+kxMDI0NjcwLDY3MTQwMTUzMiwtOTUwMzIyMzk2LDEzMzI3NTYx
+MzcsLTE1NTQ3NDA4NzMsMTQwNTkxNTk4OCw4MzAxNjkyMCwxNj
+QzMDE0ODgyLDE1MDA1NzQ0NzUsNTY2Njk5NDk1LDE4MjI5NDgy
+OTRdfQ==
 -->
