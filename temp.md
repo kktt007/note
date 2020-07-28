@@ -7,6 +7,8 @@ https://github.com/pluwen/China-Domain-Whitelist/blob/master/white-list.sorl
 https://github.com/cldgonz/gfw_wl/blob/master/list.txt
 
 [https://github.com/ACL4SSR/ACL4SSR/tree/master/Clash](https://github.com/ACL4SSR/ACL4SSR/tree/master/Clash)
+
+[https://github.com/pexcn/daily/](https://github.com/pexcn/daily/)
 clash规则
 http://mgek.cc/public/
 http://121.43.151.57:25500/sub?target=clash
@@ -6152,11 +6154,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MDE4NzY1MywxNDA2Mjg1ODM2LDk2Mj
-kyNjQ0NywxNzc2OTQ1ODg4LC01NzMyMzgwMTUsMTgyMjI3NjQ2
-OSwtOTk0MTU4OTgwLDE1OTYxNDczMTMsLTEzNjY1OTkyNzEsLT
-k4NjMxNDI3MCwyMDIzNzgzMDkyLDQ5MDUwMDk5MiwtNDY2NzI0
-MDk4LDY5MTAyNDY3MCw2NzE0MDE1MzIsLTk1MDMyMjM5NiwxMz
-MyNzU2MTM3LC0xNTU0NzQwODczLDE0MDU5MTU5ODgsODMwMTY5
-MjBdfQ==
+eyJoaXN0b3J5IjpbLTE5NDg2OTUwNDIsLTI3MDE4NzY1MywxND
+A2Mjg1ODM2LDk2MjkyNjQ0NywxNzc2OTQ1ODg4LC01NzMyMzgw
+MTUsMTgyMjI3NjQ2OSwtOTk0MTU4OTgwLDE1OTYxNDczMTMsLT
+EzNjY1OTkyNzEsLTk4NjMxNDI3MCwyMDIzNzgzMDkyLDQ5MDUw
+MDk5MiwtNDY2NzI0MDk4LDY5MTAyNDY3MCw2NzE0MDE1MzIsLT
+k1MDMyMjM5NiwxMzMyNzU2MTM3LC0xNTU0NzQwODczLDE0MDU5
+MTU5ODhdfQ==
 -->
