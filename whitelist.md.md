@@ -1,3 +1,5 @@
+gfan.com
+dell.com
 00cdn.com
 0daydown.com
 10010.com
@@ -1158,5 +1160,6 @@ update.googleapis.com
 www-googletagmanager.l.google.com
 www.gstatic.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNTc0NzIzLDcxOTM5NDA1MF19
+eyJoaXN0b3J5IjpbNjg1NzAxMTkwLC03MjU3NDcyMyw3MTkzOT
+QwNTBdfQ==
 -->
