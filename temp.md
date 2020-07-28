@@ -1,7 +1,14 @@
 ### 0728
 clash规则
-
-### 0727
+http://mgek.cc/public/
+http://121.43.151.57:25500/sub?target=clash
+https://github.com/ACL4SSR/ACL4SSR/blob/master/Clash/GoogleCN.list
+https://github.com/ACL4SSR/ACL4SSR/blob/master/nobanAD.acl
+https://code.aliyun.com/felixonmars/dnsmasq-china-list/blob/master/google.china.conf
+https://github.com/felixonmars/dnsmasq-china-list/blob/master/google.china.conf
+https://list.zhaoting.li/
+### 0
+727
 蓝奏云
 https://pan.lanzou.com/u/likunah
 https://www.lanzous.com/b497720
@@ -6137,11 +6144,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMjI2MTAsMTc3Njk0NTg4OCwtNTczMj
-M4MDE1LDE4MjIyNzY0NjksLTk5NDE1ODk4MCwxNTk2MTQ3MzEz
-LC0xMzY2NTk5MjcxLC05ODYzMTQyNzAsMjAyMzc4MzA5Miw0OT
-A1MDA5OTIsLTQ2NjcyNDA5OCw2OTEwMjQ2NzAsNjcxNDAxNTMy
-LC05NTAzMjIzOTYsMTMzMjc1NjEzNywtMTU1NDc0MDg3MywxND
-A1OTE1OTg4LDgzMDE2OTIwLDE2NDMwMTQ4ODIsMTUwMDU3NDQ3
-NV19
+eyJoaXN0b3J5IjpbLTIxNDQ5NDM3OTgsMTc3Njk0NTg4OCwtNT
+czMjM4MDE1LDE4MjIyNzY0NjksLTk5NDE1ODk4MCwxNTk2MTQ3
+MzEzLC0xMzY2NTk5MjcxLC05ODYzMTQyNzAsMjAyMzc4MzA5Mi
+w0OTA1MDA5OTIsLTQ2NjcyNDA5OCw2OTEwMjQ2NzAsNjcxNDAx
+NTMyLC05NTAzMjIzOTYsMTMzMjc1NjEzNywtMTU1NDc0MDg3My
+wxNDA1OTE1OTg4LDgzMDE2OTIwLDE2NDMwMTQ4ODIsMTUwMDU3
+NDQ3NV19
 -->
