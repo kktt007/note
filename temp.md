@@ -1,5 +1,9 @@
 ### 0728
-我的白名单用到的
+我的白名单用到的参考网站
+https://github.com/pluwen/China-Domain-Whitelist/blob/master/white-list.sorl
+
+https://github.com/cldgonz/gfw_wl/blob/master/list.txt
+
 clash规则
 http://mgek.cc/public/
 http://121.43.151.57:25500/sub?target=clash
@@ -6145,11 +6149,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjM5NTM0NiwxNzc2OTQ1ODg4LC01Nz
-MyMzgwMTUsMTgyMjI3NjQ2OSwtOTk0MTU4OTgwLDE1OTYxNDcz
-MTMsLTEzNjY1OTkyNzEsLTk4NjMxNDI3MCwyMDIzNzgzMDkyLD
-Q5MDUwMDk5MiwtNDY2NzI0MDk4LDY5MTAyNDY3MCw2NzE0MDE1
-MzIsLTk1MDMyMjM5NiwxMzMyNzU2MTM3LC0xNTU0NzQwODczLD
-E0MDU5MTU5ODgsODMwMTY5MjAsMTY0MzAxNDg4MiwxNTAwNTc0
-NDc1XX0=
+eyJoaXN0b3J5IjpbOTYyOTI2NDQ3LDE3NzY5NDU4ODgsLTU3Mz
+IzODAxNSwxODIyMjc2NDY5LC05OTQxNTg5ODAsMTU5NjE0NzMx
+MywtMTM2NjU5OTI3MSwtOTg2MzE0MjcwLDIwMjM3ODMwOTIsND
+kwNTAwOTkyLC00NjY3MjQwOTgsNjkxMDI0NjcwLDY3MTQwMTUz
+MiwtOTUwMzIyMzk2LDEzMzI3NTYxMzcsLTE1NTQ3NDA4NzMsMT
+QwNTkxNTk4OCw4MzAxNjkyMCwxNjQzMDE0ODgyLDE1MDA1NzQ0
+NzVdfQ==
 -->
