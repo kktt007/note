@@ -1,3 +1,4 @@
+
 00cdn.com
 
 0daydown.com
@@ -2484,19 +2485,11 @@ dl.google.com
 
 dl.l.google.com
 
-doubleclick.net
-
 fonts.googleapis.com
 
 fonts.gstatic.com
 
 googleadservices.com
-
-google-analytics.com
-
-googleanalytics.com
-
-googlesyndication.com
 
 googletagmanager.com
 
@@ -2540,15 +2533,11 @@ recaptcha.net
 
 redirector.gvt1.com
 
-safebrowsing-cache.google.com
-
 safebrowsing.googleapis.com
 
 ssl-google-analytics.l.google.com
 
 ssl.gstatic.com
-
-toolbarqueries.google.com
 
 tools.google.com
 
@@ -2560,9 +2549,25 @@ update.googleapis.com
 
 www-googletagmanager.l.google.com
 
-www.gstatic.com 
+www.gstatic.com
+
+  
+
+以下是谷歌边缘网络
+
+doubleclick.net 172.217.27.142
+
+google-analytics.com 172.217.160.68
+
+googleanalytics.com 172.217.27.132
+
+googlesyndication.com 172.217.160.100
+
+safebrowsing-cache.google.com
+
+toolbarqueries.google.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTUyOTIxNTAsMzAwMjY1MzcyLC0xMj
-Y1NDM5Mzc4LC0xNTY0NTc2MzM4LC03MjU3NDcyMyw3MTkzOTQw
-NTBdfQ==
+eyJoaXN0b3J5IjpbLTc3NzY5MjIzOCwtMTU1NTI5MjE1MCwzMD
+AyNjUzNzIsLTEyNjU0MzkzNzgsLTE1NjQ1NzYzMzgsLTcyNTc0
+NzIzLDcxOTM5NDA1MF19
 -->
