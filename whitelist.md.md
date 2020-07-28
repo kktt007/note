@@ -649,7 +649,6 @@ ownload01.logi.com
 oxfordartonline.com
 oxfordbibliographies.com
 oxfordmusiconline.com
-p.bjango.com
 p2cdn.com
 paipai.com
 panda.tv
@@ -1164,6 +1163,6 @@ update.googleapis.com
 www-googletagmanager.l.google.com
 www.gstatic.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjQ1NzYzMzgsLTcyNTc0NzIzLDcxOT
-M5NDA1MF19
+eyJoaXN0b3J5IjpbLTEyNjU0MzkzNzgsLTE1NjQ1NzYzMzgsLT
+cyNTc0NzIzLDcxOTM5NDA1MF19
 -->
