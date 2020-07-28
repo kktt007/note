@@ -1,5 +1,7 @@
 ### 0728
 我的白名单用到的参考网站
+[http://yuanlam.xyz/clash1step/rule-provider/raw/commit/42b229fa46e44d0ab4fee652d6762597787aaf1e/%E5%85%A8%E7%90%83%E7%BD%91%E7%BB%9C/Domestic.list](http://yuanlam.xyz/clash1step/rule-provider/raw/commit/42b229fa46e44d0ab4fee652d6762597787aaf1e/%E5%85%A8%E7%90%83%E7%BD%91%E7%BB%9C/Domestic.list)
+
 https://github.com/pluwen/China-Domain-Whitelist/blob/master/white-list.sorl
 
 https://github.com/cldgonz/gfw_wl/blob/master/list.txt
@@ -6150,11 +6152,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNjI4NTgzNiw5NjI5MjY0NDcsMTc3Nj
-k0NTg4OCwtNTczMjM4MDE1LDE4MjIyNzY0NjksLTk5NDE1ODk4
-MCwxNTk2MTQ3MzEzLC0xMzY2NTk5MjcxLC05ODYzMTQyNzAsMj
-AyMzc4MzA5Miw0OTA1MDA5OTIsLTQ2NjcyNDA5OCw2OTEwMjQ2
-NzAsNjcxNDAxNTMyLC05NTAzMjIzOTYsMTMzMjc1NjEzNywtMT
-U1NDc0MDg3MywxNDA1OTE1OTg4LDgzMDE2OTIwLDE2NDMwMTQ4
-ODJdfQ==
+eyJoaXN0b3J5IjpbLTI3MDE4NzY1MywxNDA2Mjg1ODM2LDk2Mj
+kyNjQ0NywxNzc2OTQ1ODg4LC01NzMyMzgwMTUsMTgyMjI3NjQ2
+OSwtOTk0MTU4OTgwLDE1OTYxNDczMTMsLTEzNjY1OTkyNzEsLT
+k4NjMxNDI3MCwyMDIzNzgzMDkyLDQ5MDUwMDk5MiwtNDY2NzI0
+MDk4LDY5MTAyNDY3MCw2NzE0MDE1MzIsLTk1MDMyMjM5NiwxMz
+MyNzU2MTM3LC0xNTU0NzQwODczLDE0MDU5MTU5ODgsODMwMTY5
+MjBdfQ==
 -->
