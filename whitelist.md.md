@@ -18,7 +18,7 @@
 189store.com
 199it.com
 21cn.com
-343480.com
+ip111.cn
 360.com
 360buy.com
 360buyimg.com
@@ -374,11 +374,6 @@ helpshift.com
 hichina.com
 hicloud.com
 hitv.com
-hkserversolution.com
-hmanhua.com
-hockeyapp.net
-holdle.com
-hollisterco.com
 hongxiu.com
 hostbuf.com
 houxu.app
@@ -952,11 +947,6 @@ ykimg.com
 youdao.com
 youku.com
 ys168.com
-ytoken.com
-ytoken.io
-ytoken.org
-ytokenapi.com
-ytokencap.com
 yuanlam.xyz
 yuewen.com
 yunjiasu-cdn.net
@@ -1168,5 +1158,5 @@ update.googleapis.com
 www-googletagmanager.l.google.com
 www.gstatic.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE5Mzk0MDUwXX0=
+eyJoaXN0b3J5IjpbLTcyNTc0NzIzLDcxOTM5NDA1MF19
 -->
