@@ -1,4 +1,6 @@
 ### 0730
+daily english网站
+[https://tw.blog.voicetube.com/archives/category/daily-english/](https://tw.blog.voicetube.com/archives/category/daily-english/)
 
 gv保号
 [https://www.moidea.info/archives/apply-for-google-voice-tutorial-using-american-mobile-phone-number.html](https://www.moidea.info/archives/apply-for-google-voice-tutorial-using-american-mobile-phone-number.html)
@@ -6168,7 +6170,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NTExMTg3OSwtNzk5OTEwNTY3LC0xNT
+eyJoaXN0b3J5IjpbLTc3MjA3NzkxMSwtNzk5OTEwNTY3LC0xNT
 E1MTIzNjE3LC0xOTQ4Njk1MDQyLC0yNzAxODc2NTMsMTQwNjI4
 NTgzNiw5NjI5MjY0NDcsMTc3Njk0NTg4OCwtNTczMjM4MDE1LD
 E4MjIyNzY0NjksLTk5NDE1ODk4MCwxNTk2MTQ3MzEzLC0xMzY2
