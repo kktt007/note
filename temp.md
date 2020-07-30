@@ -1,4 +1,17 @@
 ### 0730
+
+建模 纯建模silo/mode/犀牛
+雕刻 zbrush/mudbox/3d coat  
+    拓扑软件 topogun
+    nv软件 制作纹理 转换成二维平面
+贴图(真实，风格化)ps /body paint(c4d中的模块)
+特效(独立体系) 分为: 粒子，流体，毛发，布料  realflow/maya中的x-gen插件/
+渲染 
+c4d
+blender
+3D 动画 Autodesk MAYA、3D MAX
+
+
 daily english网站
 [https://tw.blog.voicetube.com/archives/category/daily-english/](https://tw.blog.voicetube.com/archives/category/daily-english/)
 
@@ -6170,11 +6183,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MjA3NzkxMSwtNzk5OTEwNTY3LC0xNT
-E1MTIzNjE3LC0xOTQ4Njk1MDQyLC0yNzAxODc2NTMsMTQwNjI4
-NTgzNiw5NjI5MjY0NDcsMTc3Njk0NTg4OCwtNTczMjM4MDE1LD
-E4MjIyNzY0NjksLTk5NDE1ODk4MCwxNTk2MTQ3MzEzLC0xMzY2
-NTk5MjcxLC05ODYzMTQyNzAsMjAyMzc4MzA5Miw0OTA1MDA5OT
-IsLTQ2NjcyNDA5OCw2OTEwMjQ2NzAsNjcxNDAxNTMyLC05NTAz
-MjIzOTZdfQ==
+eyJoaXN0b3J5IjpbLTE5Mzg2MzU1MDQsLTc3MjA3NzkxMSwtNz
+k5OTEwNTY3LC0xNTE1MTIzNjE3LC0xOTQ4Njk1MDQyLC0yNzAx
+ODc2NTMsMTQwNjI4NTgzNiw5NjI5MjY0NDcsMTc3Njk0NTg4OC
+wtNTczMjM4MDE1LDE4MjIyNzY0NjksLTk5NDE1ODk4MCwxNTk2
+MTQ3MzEzLC0xMzY2NTk5MjcxLC05ODYzMTQyNzAsMjAyMzc4Mz
+A5Miw0OTA1MDA5OTIsLTQ2NjcyNDA5OCw2OTEwMjQ2NzAsNjcx
+NDAxNTMyXX0=
 -->
