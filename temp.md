@@ -1,3 +1,7 @@
+### 0730
+gv保号
+[https://www.moidea.info/archives/apply-for-google-voice-tutorial-using-american-mobile-phone-number.html](https://www.moidea.info/archives/apply-for-google-voice-tutorial-using-american-mobile-phone-number.html)
+
 ### 0728
 我的白名单用到的参考网站
 [http://yuanlam.xyz/clash1step/rule-provider/raw/commit/42b229fa46e44d0ab4fee652d6762597787aaf1e/%E5%85%A8%E7%90%83%E7%BD%91%E7%BB%9C/Domestic.list](http://yuanlam.xyz/clash1step/rule-provider/raw/commit/42b229fa46e44d0ab4fee652d6762597787aaf1e/%E5%85%A8%E7%90%83%E7%BD%91%E7%BB%9C/Domestic.list)
@@ -6154,11 +6158,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDg2OTUwNDIsLTI3MDE4NzY1MywxND
-A2Mjg1ODM2LDk2MjkyNjQ0NywxNzc2OTQ1ODg4LC01NzMyMzgw
-MTUsMTgyMjI3NjQ2OSwtOTk0MTU4OTgwLDE1OTYxNDczMTMsLT
-EzNjY1OTkyNzEsLTk4NjMxNDI3MCwyMDIzNzgzMDkyLDQ5MDUw
-MDk5MiwtNDY2NzI0MDk4LDY5MTAyNDY3MCw2NzE0MDE1MzIsLT
-k1MDMyMjM5NiwxMzMyNzU2MTM3LC0xNTU0NzQwODczLDE0MDU5
-MTU5ODhdfQ==
+eyJoaXN0b3J5IjpbLTE1MTUxMjM2MTcsLTE5NDg2OTUwNDIsLT
+I3MDE4NzY1MywxNDA2Mjg1ODM2LDk2MjkyNjQ0NywxNzc2OTQ1
+ODg4LC01NzMyMzgwMTUsMTgyMjI3NjQ2OSwtOTk0MTU4OTgwLD
+E1OTYxNDczMTMsLTEzNjY1OTkyNzEsLTk4NjMxNDI3MCwyMDIz
+NzgzMDkyLDQ5MDUwMDk5MiwtNDY2NzI0MDk4LDY5MTAyNDY3MC
+w2NzE0MDE1MzIsLTk1MDMyMjM5NiwxMzMyNzU2MTM3LC0xNTU0
+NzQwODczXX0=
 -->
