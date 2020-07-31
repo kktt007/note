@@ -1,3 +1,12 @@
+### 0731
+关系到cdn
+https://raw.githubusercontent.com/hq450/fancyss/master/rules/cdn.txt
+https://github.com/felixonmars/dnsmasq-china-list/blob/master/ns-whitelist.txt
+https://raw.githubusercontent.com/pexcn/daily/gh-pages/chinalist/chinalist.txt
+https://r0uter.github.io/ss.conf-for-surge/whitelist.conf
+https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list
+http://yuanlam.xyz/clash1step/rule-provider/commit/09aaac87d5189664e2711686f4ff6c99b0fd44c9.diff
+
 ### 0730
 
 建模 纯建模silo/mode/犀牛
@@ -6183,11 +6192,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzg2MzU1MDQsLTc3MjA3NzkxMSwtNz
-k5OTEwNTY3LC0xNTE1MTIzNjE3LC0xOTQ4Njk1MDQyLC0yNzAx
-ODc2NTMsMTQwNjI4NTgzNiw5NjI5MjY0NDcsMTc3Njk0NTg4OC
-wtNTczMjM4MDE1LDE4MjIyNzY0NjksLTk5NDE1ODk4MCwxNTk2
-MTQ3MzEzLC0xMzY2NTk5MjcxLC05ODYzMTQyNzAsMjAyMzc4Mz
-A5Miw0OTA1MDA5OTIsLTQ2NjcyNDA5OCw2OTEwMjQ2NzAsNjcx
-NDAxNTMyXX0=
+eyJoaXN0b3J5IjpbLTE2MTA2MDk1NzEsLTE5Mzg2MzU1MDQsLT
+c3MjA3NzkxMSwtNzk5OTEwNTY3LC0xNTE1MTIzNjE3LC0xOTQ4
+Njk1MDQyLC0yNzAxODc2NTMsMTQwNjI4NTgzNiw5NjI5MjY0ND
+csMTc3Njk0NTg4OCwtNTczMjM4MDE1LDE4MjIyNzY0NjksLTk5
+NDE1ODk4MCwxNTk2MTQ3MzEzLC0xMzY2NTk5MjcxLC05ODYzMT
+QyNzAsMjAyMzc4MzA5Miw0OTA1MDA5OTIsLTQ2NjcyNDA5OCw2
+OTEwMjQ2NzBdfQ==
 -->
