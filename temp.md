@@ -6,6 +6,7 @@ https://raw.githubusercontent.com/pexcn/daily/gh-pages/chinalist/chinalist.txt
 https://r0uter.github.io/ss.conf-for-surge/whitelist.conf
 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list
 http://yuanlam.xyz/clash1step/rule-provider/commit/09aaac87d5189664e2711686f4ff6c99b0fd44c9.diff
+[https://github.com/clash1step/rule-provider/tree/master/%E5%85%A8%E7%90%83%E7%BD%91%E7%BB%9C](https://github.com/clash1step/rule-provider/tree/master/%E5%85%A8%E7%90%83%E7%BD%91%E7%BB%9C)
 
 ### 0730
 
@@ -6192,11 +6193,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTA2MDk1NzEsLTE5Mzg2MzU1MDQsLT
-c3MjA3NzkxMSwtNzk5OTEwNTY3LC0xNTE1MTIzNjE3LC0xOTQ4
-Njk1MDQyLC0yNzAxODc2NTMsMTQwNjI4NTgzNiw5NjI5MjY0ND
-csMTc3Njk0NTg4OCwtNTczMjM4MDE1LDE4MjIyNzY0NjksLTk5
-NDE1ODk4MCwxNTk2MTQ3MzEzLC0xMzY2NTk5MjcxLC05ODYzMT
-QyNzAsMjAyMzc4MzA5Miw0OTA1MDA5OTIsLTQ2NjcyNDA5OCw2
-OTEwMjQ2NzBdfQ==
+eyJoaXN0b3J5IjpbMTI1NDkxNjA1NCwtMTYxMDYwOTU3MSwtMT
+kzODYzNTUwNCwtNzcyMDc3OTExLC03OTk5MTA1NjcsLTE1MTUx
+MjM2MTcsLTE5NDg2OTUwNDIsLTI3MDE4NzY1MywxNDA2Mjg1OD
+M2LDk2MjkyNjQ0NywxNzc2OTQ1ODg4LC01NzMyMzgwMTUsMTgy
+MjI3NjQ2OSwtOTk0MTU4OTgwLDE1OTYxNDczMTMsLTEzNjY1OT
+kyNzEsLTk4NjMxNDI3MCwyMDIzNzgzMDkyLDQ5MDUwMDk5Miwt
+NDY2NzI0MDk4XX0=
 -->
