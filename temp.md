@@ -8,6 +8,7 @@ https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list
 http://yuanlam.xyz/clash1step/rule-provider/commit/09aaac87d5189664e2711686f4ff6c99b0fd44c9.diff
 [https://github.com/clash1step/rule-provider/tree/master/%E5%85%A8%E7%90%83%E7%BD%91%E7%BB%9C](https://github.com/clash1step/rule-provider/tree/master/%E5%85%A8%E7%90%83%E7%BD%91%E7%BB%9C)
 [http://yuanlam.xyz/explore/repos](http://yuanlam.xyz/explore/repos)
+[https://github.com/DivineEngine/Profiles/tree/master](https://github.com/DivineEngine/Profiles/tree/master)
 
 ### 0730
 
@@ -6194,11 +6195,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzMwNTQ0NDksMTI1NDkxNjA1NCwtMT
-YxMDYwOTU3MSwtMTkzODYzNTUwNCwtNzcyMDc3OTExLC03OTk5
-MTA1NjcsLTE1MTUxMjM2MTcsLTE5NDg2OTUwNDIsLTI3MDE4Nz
-Y1MywxNDA2Mjg1ODM2LDk2MjkyNjQ0NywxNzc2OTQ1ODg4LC01
-NzMyMzgwMTUsMTgyMjI3NjQ2OSwtOTk0MTU4OTgwLDE1OTYxND
-czMTMsLTEzNjY1OTkyNzEsLTk4NjMxNDI3MCwyMDIzNzgzMDky
-LDQ5MDUwMDk5Ml19
+eyJoaXN0b3J5IjpbOTI3ODg2NDY0LDEyNTQ5MTYwNTQsLTE2MT
+A2MDk1NzEsLTE5Mzg2MzU1MDQsLTc3MjA3NzkxMSwtNzk5OTEw
+NTY3LC0xNTE1MTIzNjE3LC0xOTQ4Njk1MDQyLC0yNzAxODc2NT
+MsMTQwNjI4NTgzNiw5NjI5MjY0NDcsMTc3Njk0NTg4OCwtNTcz
+MjM4MDE1LDE4MjIyNzY0NjksLTk5NDE1ODk4MCwxNTk2MTQ3Mz
+EzLC0xMzY2NTk5MjcxLC05ODYzMTQyNzAsMjAyMzc4MzA5Miw0
+OTA1MDA5OTJdfQ==
 -->
