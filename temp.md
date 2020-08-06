@@ -8,7 +8,7 @@ dimension \ də-ˈmen(t)-shən
 团结的力量，美国正是团结才有了近代的辉煌，中国也是。这个世界因为团结而进步，其实从对里面看问题，不只是简单意义上的对立了，对立层面和当前层面一样，值得尊重，并且在很大意义上作为本面的无限补充。我最近一直发现对立的层面上所拥有看不到的全局，因为一旦真正了解的对立面，并且能够以对立为主体，现主体为对立，那样就明白了。
 对于不理解的东西，不能从当前的角度来理解了，那样永远只是当前的理解，这个世界的神奇在于此
 
-
+视野，大视野是你一个人 以一个人的心境很难拥有的。有的人是行万里路才获得的，而有的人倘若真没有机会的话，难道就让自己永远这么渺小吗。智慧不仅是思考的一切方式，更重要的是打开心门，打开智慧门，打开一切，从芸芸众生，从世界变迁，从抽象和具体，每一刻的每一个事物，客观，主观，独立，联系，运动，静止，放在不用的环境不停的去审视，而获得属于自己的人生视野和智慧
 
 
 ### 0731
@@ -6208,7 +6208,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3Mjk4NDY0Niw5MTA3MDcxMDYsLTI3OD
+eyJoaXN0b3J5IjpbLTE2NjA1NDE0NCw5MTA3MDcxMDYsLTI3OD
 U2NDQ3OCwtMTQ2NTEzNjEzMSw5Mjc4ODY0NjQsMTI1NDkxNjA1
 NCwtMTYxMDYwOTU3MSwtMTkzODYzNTUwNCwtNzcyMDc3OTExLC
 03OTk5MTA1NjcsLTE1MTUxMjM2MTcsLTE5NDg2OTUwNDIsLTI3
