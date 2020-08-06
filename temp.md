@@ -2,6 +2,8 @@
 查看单词各种变形
 [https://www.niftyword.com/prefix-suffix-derived/safe/](https://www.niftyword.com/prefix-suffix-derived/safe/)
 
+[https://www.freethesaurus.com/safe](https://www.freethesaurus.com/safe)
+
 ### 0731
 关系到cdn
 https://raw.githubusercontent.com/hq450/fancyss/master/rules/cdn.txt
@@ -6199,11 +6201,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjUxMzYxMzEsOTI3ODg2NDY0LDEyNT
-Q5MTYwNTQsLTE2MTA2MDk1NzEsLTE5Mzg2MzU1MDQsLTc3MjA3
-NzkxMSwtNzk5OTEwNTY3LC0xNTE1MTIzNjE3LC0xOTQ4Njk1MD
-QyLC0yNzAxODc2NTMsMTQwNjI4NTgzNiw5NjI5MjY0NDcsMTc3
-Njk0NTg4OCwtNTczMjM4MDE1LDE4MjIyNzY0NjksLTk5NDE1OD
-k4MCwxNTk2MTQ3MzEzLC0xMzY2NTk5MjcxLC05ODYzMTQyNzAs
-MjAyMzc4MzA5Ml19
+eyJoaXN0b3J5IjpbLTI3ODU2NDQ3OCwtMTQ2NTEzNjEzMSw5Mj
+c4ODY0NjQsMTI1NDkxNjA1NCwtMTYxMDYwOTU3MSwtMTkzODYz
+NTUwNCwtNzcyMDc3OTExLC03OTk5MTA1NjcsLTE1MTUxMjM2MT
+csLTE5NDg2OTUwNDIsLTI3MDE4NzY1MywxNDA2Mjg1ODM2LDk2
+MjkyNjQ0NywxNzc2OTQ1ODg4LC01NzMyMzgwMTUsMTgyMjI3Nj
+Q2OSwtOTk0MTU4OTgwLDE1OTYxNDczMTMsLTEzNjY1OTkyNzEs
+LTk4NjMxNDI3MF19
 -->
