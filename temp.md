@@ -6,7 +6,7 @@
 
 dimension \ də-ˈmen(t)-shən
 团结的力量，美国正是团结才有了近代的辉煌，中国也是。这个世界因为团结而进步，其实从对里面看问题，不只是简单意义上的对立了，对立层面和当前层面一样，值得尊重，并且在很大意义上作为本面的无限补充。我最近一直发现对立的层面上所拥有看不到的全局，因为一旦真正了解的对立面，并且能够以对立为主体，现主体为对立，那样就明白了。
-
+对于不理解的东西，不能从当前的角度来理解了，那样永远只是当前的理解，这个世界的神奇在于此
 
 
 ### 0731
@@ -6206,7 +6206,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzODY2OTcwLC0yNzg1NjQ0NzgsLTE0Nj
+eyJoaXN0b3J5IjpbOTEwNzA3MTA2LC0yNzg1NjQ0NzgsLTE0Nj
 UxMzYxMzEsOTI3ODg2NDY0LDEyNTQ5MTYwNTQsLTE2MTA2MDk1
 NzEsLTE5Mzg2MzU1MDQsLTc3MjA3NzkxMSwtNzk5OTEwNTY3LC
 0xNTE1MTIzNjE3LC0xOTQ4Njk1MDQyLC0yNzAxODc2NTMsMTQw
