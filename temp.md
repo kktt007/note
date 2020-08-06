@@ -8,6 +8,7 @@ dimension \ də-ˈmen(t)-shən
 团结的力量，美国正是团结才有了近代的辉煌，中国也是。这个世界因为团结而进步，其实从对里面看问题，不只是简单意义上的对立了，对立层面和当前层面一样，值得尊重，并且在很大意义上作为本面的无限补充。我最近一直发现对立的层面上所拥有看不到的全局，因为一旦真正了解的对立面，并且能够以对立为主体，现主体为对立，那样就明白了。
 
 
+
 ### 0731
 关系到cdn
 https://raw.githubusercontent.com/hq450/fancyss/master/rules/cdn.txt
@@ -6205,11 +6206,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2OTkwMDA4OCwtMjc4NTY0NDc4LC0xND
-Y1MTM2MTMxLDkyNzg4NjQ2NCwxMjU0OTE2MDU0LC0xNjEwNjA5
-NTcxLC0xOTM4NjM1NTA0LC03NzIwNzc5MTEsLTc5OTkxMDU2Ny
-wtMTUxNTEyMzYxNywtMTk0ODY5NTA0MiwtMjcwMTg3NjUzLDE0
-MDYyODU4MzYsOTYyOTI2NDQ3LDE3NzY5NDU4ODgsLTU3MzIzOD
-AxNSwxODIyMjc2NDY5LC05OTQxNTg5ODAsMTU5NjE0NzMxMywt
-MTM2NjU5OTI3MV19
+eyJoaXN0b3J5IjpbMjEzODY2OTcwLC0yNzg1NjQ0NzgsLTE0Nj
+UxMzYxMzEsOTI3ODg2NDY0LDEyNTQ5MTYwNTQsLTE2MTA2MDk1
+NzEsLTE5Mzg2MzU1MDQsLTc3MjA3NzkxMSwtNzk5OTEwNTY3LC
+0xNTE1MTIzNjE3LC0xOTQ4Njk1MDQyLC0yNzAxODc2NTMsMTQw
+NjI4NTgzNiw5NjI5MjY0NDcsMTc3Njk0NTg4OCwtNTczMjM4MD
+E1LDE4MjIyNzY0NjksLTk5NDE1ODk4MCwxNTk2MTQ3MzEzLC0x
+MzY2NTk5MjcxXX0=
 -->
