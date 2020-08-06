@@ -1,5 +1,7 @@
 ### 0806
-查看单词各种
+查看单词各种变形
+[https://www.niftyword.com/prefix-suffix-derived/safe/](https://www.niftyword.com/prefix-suffix-derived/safe/)
+
 ### 0731
 关系到cdn
 https://raw.githubusercontent.com/hq450/fancyss/master/rules/cdn.txt
@@ -6197,11 +6199,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNDY4NjYxNCw5Mjc4ODY0NjQsMTI1ND
-kxNjA1NCwtMTYxMDYwOTU3MSwtMTkzODYzNTUwNCwtNzcyMDc3
-OTExLC03OTk5MTA1NjcsLTE1MTUxMjM2MTcsLTE5NDg2OTUwND
-IsLTI3MDE4NzY1MywxNDA2Mjg1ODM2LDk2MjkyNjQ0NywxNzc2
-OTQ1ODg4LC01NzMyMzgwMTUsMTgyMjI3NjQ2OSwtOTk0MTU4OT
-gwLDE1OTYxNDczMTMsLTEzNjY1OTkyNzEsLTk4NjMxNDI3MCwy
-MDIzNzgzMDkyXX0=
+eyJoaXN0b3J5IjpbLTE0NjUxMzYxMzEsOTI3ODg2NDY0LDEyNT
+Q5MTYwNTQsLTE2MTA2MDk1NzEsLTE5Mzg2MzU1MDQsLTc3MjA3
+NzkxMSwtNzk5OTEwNTY3LC0xNTE1MTIzNjE3LC0xOTQ4Njk1MD
+QyLC0yNzAxODc2NTMsMTQwNjI4NTgzNiw5NjI5MjY0NDcsMTc3
+Njk0NTg4OCwtNTczMjM4MDE1LDE4MjIyNzY0NjksLTk5NDE1OD
+k4MCwxNTk2MTQ3MzEzLC0xMzY2NTk5MjcxLC05ODYzMTQyNzAs
+MjAyMzc4MzA5Ml19
 -->
