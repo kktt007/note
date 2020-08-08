@@ -12,12 +12,15 @@ https://github.com/exah-io/minimal-arch-linux
 
 https://github.com/AnarchyLinux/installer
 
-bash tutor
+bash tutor 比如查询sed
 
 https://tldp.org/LDP/abs/html/index.html
 
 https://linuxreviews.org/Advanced_Bash-Scripting_Guide
 
+[https://www.computerhope.com/unix.htm](https://www.computerhope.com/unix.htm)
+
+[https://www.gnu.org/software/software.html](https://www.gnu.org/software/software.html)
 
 
 ### 0806
@@ -6230,11 +6233,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTY0Mjk3NTIsLTE2NjA1NDE0NCw5MT
-A3MDcxMDYsLTI3ODU2NDQ3OCwtMTQ2NTEzNjEzMSw5Mjc4ODY0
-NjQsMTI1NDkxNjA1NCwtMTYxMDYwOTU3MSwtMTkzODYzNTUwNC
-wtNzcyMDc3OTExLC03OTk5MTA1NjcsLTE1MTUxMjM2MTcsLTE5
-NDg2OTUwNDIsLTI3MDE4NzY1MywxNDA2Mjg1ODM2LDk2MjkyNj
-Q0NywxNzc2OTQ1ODg4LC01NzMyMzgwMTUsMTgyMjI3NjQ2OSwt
-OTk0MTU4OTgwXX0=
+eyJoaXN0b3J5IjpbMTIzODkyMjI3NywtMTQ1NjQyOTc1MiwtMT
+Y2MDU0MTQ0LDkxMDcwNzEwNiwtMjc4NTY0NDc4LC0xNDY1MTM2
+MTMxLDkyNzg4NjQ2NCwxMjU0OTE2MDU0LC0xNjEwNjA5NTcxLC
+0xOTM4NjM1NTA0LC03NzIwNzc5MTEsLTc5OTkxMDU2NywtMTUx
+NTEyMzYxNywtMTk0ODY5NTA0MiwtMjcwMTg3NjUzLDE0MDYyOD
+U4MzYsOTYyOTI2NDQ3LDE3NzY5NDU4ODgsLTU3MzIzODAxNSwx
+ODIyMjc2NDY5XX0=
 -->
