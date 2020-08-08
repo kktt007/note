@@ -1,5 +1,12 @@
 ### 0808
-archlinux install scripts reference
+机械类名词
+https://wenku.baidu.com/view/de46abefe009581b6bd9eb02.html
+
+http://www.hxen.com/word/kyyy/2008-02-18/25550.html
+
+http://www.chinatungsten.com/dictionary-of-tungsten/Dictionary-of-Machinery.pdf
+
+### arch linux install scripts reference
 
 https://github.com/picodotdev/alis
 https://picodotdev.github.io/alis/
@@ -6238,11 +6245,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NDQ2NTc5LDEyMzg5MjIyNzcsLTE0NT
-Y0Mjk3NTIsLTE2NjA1NDE0NCw5MTA3MDcxMDYsLTI3ODU2NDQ3
-OCwtMTQ2NTEzNjEzMSw5Mjc4ODY0NjQsMTI1NDkxNjA1NCwtMT
-YxMDYwOTU3MSwtMTkzODYzNTUwNCwtNzcyMDc3OTExLC03OTk5
-MTA1NjcsLTE1MTUxMjM2MTcsLTE5NDg2OTUwNDIsLTI3MDE4Nz
-Y1MywxNDA2Mjg1ODM2LDk2MjkyNjQ0NywxNzc2OTQ1ODg4LC01
-NzMyMzgwMTVdfQ==
+eyJoaXN0b3J5IjpbLTY1NTc4MDA5MiwxODc0NDY1NzksMTIzOD
+kyMjI3NywtMTQ1NjQyOTc1MiwtMTY2MDU0MTQ0LDkxMDcwNzEw
+NiwtMjc4NTY0NDc4LC0xNDY1MTM2MTMxLDkyNzg4NjQ2NCwxMj
+U0OTE2MDU0LC0xNjEwNjA5NTcxLC0xOTM4NjM1NTA0LC03NzIw
+Nzc5MTEsLTc5OTkxMDU2NywtMTUxNTEyMzYxNywtMTk0ODY5NT
+A0MiwtMjcwMTg3NjUzLDE0MDYyODU4MzYsOTYyOTI2NDQ3LDE3
+NzY5NDU4ODhdfQ==
 -->
