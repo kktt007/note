@@ -22,6 +22,11 @@ https://linuxreviews.org/Advanced_Bash-Scripting_Guide
 
 [https://www.gnu.org/software/software.html](https://www.gnu.org/software/software.html)
 
+[https://pubs.opengroup.org/onlinepubs/7908799/xcuix.html](https://pubs.opengroup.org/onlinepubs/7908799/xcuix.html)
+
+[https://www.gnu.org/software/sed/manual/sed.html](https://www.gnu.org/software/sed/manual/sed.html)
+
+
 
 ### 0806
 查看单词各种变形
@@ -6233,11 +6238,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzODkyMjI3NywtMTQ1NjQyOTc1MiwtMT
-Y2MDU0MTQ0LDkxMDcwNzEwNiwtMjc4NTY0NDc4LC0xNDY1MTM2
-MTMxLDkyNzg4NjQ2NCwxMjU0OTE2MDU0LC0xNjEwNjA5NTcxLC
-0xOTM4NjM1NTA0LC03NzIwNzc5MTEsLTc5OTkxMDU2NywtMTUx
-NTEyMzYxNywtMTk0ODY5NTA0MiwtMjcwMTg3NjUzLDE0MDYyOD
-U4MzYsOTYyOTI2NDQ3LDE3NzY5NDU4ODgsLTU3MzIzODAxNSwx
-ODIyMjc2NDY5XX0=
+eyJoaXN0b3J5IjpbMTg3NDQ2NTc5LDEyMzg5MjIyNzcsLTE0NT
+Y0Mjk3NTIsLTE2NjA1NDE0NCw5MTA3MDcxMDYsLTI3ODU2NDQ3
+OCwtMTQ2NTEzNjEzMSw5Mjc4ODY0NjQsMTI1NDkxNjA1NCwtMT
+YxMDYwOTU3MSwtMTkzODYzNTUwNCwtNzcyMDc3OTExLC03OTk5
+MTA1NjcsLTE1MTUxMjM2MTcsLTE5NDg2OTUwNDIsLTI3MDE4Nz
+Y1MywxNDA2Mjg1ODM2LDk2MjkyNjQ0NywxNzc2OTQ1ODg4LC01
+NzMyMzgwMTVdfQ==
 -->
