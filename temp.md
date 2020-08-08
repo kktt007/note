@@ -1,5 +1,5 @@
 ### 0808
-
+个人见解，名词可以根据图片，中文来形成脑图概念，而句子或短语或者语境类一定要使用母语思维和逻辑
 机械类名词
 Dictionary-of-Machinery
 
@@ -6248,7 +6248,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc4OTA4NTk3LC02NTU3ODAwOTIsMTg3ND
+eyJoaXN0b3J5IjpbMzYzMjI3NTE2LC02NTU3ODAwOTIsMTg3ND
 Q2NTc5LDEyMzg5MjIyNzcsLTE0NTY0Mjk3NTIsLTE2NjA1NDE0
 NCw5MTA3MDcxMDYsLTI3ODU2NDQ3OCwtMTQ2NTEzNjEzMSw5Mj
 c4ODY0NjQsMTI1NDkxNjA1NCwtMTYxMDYwOTU3MSwtMTkzODYz
