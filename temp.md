@@ -1,3 +1,25 @@
+### 0808
+archlinux install scripts reference
+
+https://github.com/picodotdev/alis
+https://picodotdev.github.io/alis/
+
+https://github.com/YangMame/Arch-Linux-Installer
+
+https://github.com/bianjp/archlinux-installer
+
+https://github.com/exah-io/minimal-arch-linux
+
+https://github.com/AnarchyLinux/installer
+
+bash tutor
+
+https://tldp.org/LDP/abs/html/index.html
+
+https://linuxreviews.org/Advanced_Bash-Scripting_Guide
+
+
+
 ### 0806
 查看单词各种变形
 [https://www.niftyword.com/prefix-suffix-derived/safe/](https://www.niftyword.com/prefix-suffix-derived/safe/)
@@ -6208,11 +6230,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjA1NDE0NCw5MTA3MDcxMDYsLTI3OD
-U2NDQ3OCwtMTQ2NTEzNjEzMSw5Mjc4ODY0NjQsMTI1NDkxNjA1
-NCwtMTYxMDYwOTU3MSwtMTkzODYzNTUwNCwtNzcyMDc3OTExLC
-03OTk5MTA1NjcsLTE1MTUxMjM2MTcsLTE5NDg2OTUwNDIsLTI3
-MDE4NzY1MywxNDA2Mjg1ODM2LDk2MjkyNjQ0NywxNzc2OTQ1OD
-g4LC01NzMyMzgwMTUsMTgyMjI3NjQ2OSwtOTk0MTU4OTgwLDE1
-OTYxNDczMTNdfQ==
+eyJoaXN0b3J5IjpbLTE0NTY0Mjk3NTIsLTE2NjA1NDE0NCw5MT
+A3MDcxMDYsLTI3ODU2NDQ3OCwtMTQ2NTEzNjEzMSw5Mjc4ODY0
+NjQsMTI1NDkxNjA1NCwtMTYxMDYwOTU3MSwtMTkzODYzNTUwNC
+wtNzcyMDc3OTExLC03OTk5MTA1NjcsLTE1MTUxMjM2MTcsLTE5
+NDg2OTUwNDIsLTI3MDE4NzY1MywxNDA2Mjg1ODM2LDk2MjkyNj
+Q0NywxNzc2OTQ1ODg4LC01NzMyMzgwMTUsMTgyMjI3NjQ2OSwt
+OTk0MTU4OTgwXX0=
 -->
