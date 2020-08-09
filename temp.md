@@ -2,6 +2,8 @@
 个人见解，名词可以根据图片，中文来形成脑图概念，而句子或短语或者语境类一定要使用母语思维和逻辑
 机械类名词
 
+专业术语
+[http://yingyucihui.scientrans.com/shenghuocihui/](http://yingyucihui.scientrans.com/shenghuocihui/)
 
 Dictionary-of-Machinery
 
@@ -6250,11 +6252,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTU3NTg4ODgsMzYzMjI3NTE2LC02NT
-U3ODAwOTIsMTg3NDQ2NTc5LDEyMzg5MjIyNzcsLTE0NTY0Mjk3
-NTIsLTE2NjA1NDE0NCw5MTA3MDcxMDYsLTI3ODU2NDQ3OCwtMT
-Q2NTEzNjEzMSw5Mjc4ODY0NjQsMTI1NDkxNjA1NCwtMTYxMDYw
-OTU3MSwtMTkzODYzNTUwNCwtNzcyMDc3OTExLC03OTk5MTA1Nj
-csLTE1MTUxMjM2MTcsLTE5NDg2OTUwNDIsLTI3MDE4NzY1Mywx
-NDA2Mjg1ODM2XX0=
+eyJoaXN0b3J5IjpbMTYyNTkwOTExOCwtMTE5NTc1ODg4OCwzNj
+MyMjc1MTYsLTY1NTc4MDA5MiwxODc0NDY1NzksMTIzODkyMjI3
+NywtMTQ1NjQyOTc1MiwtMTY2MDU0MTQ0LDkxMDcwNzEwNiwtMj
+c4NTY0NDc4LC0xNDY1MTM2MTMxLDkyNzg4NjQ2NCwxMjU0OTE2
+MDU0LC0xNjEwNjA5NTcxLC0xOTM4NjM1NTA0LC03NzIwNzc5MT
+EsLTc5OTkxMDU2NywtMTUxNTEyMzYxNywtMTk0ODY5NTA0Miwt
+MjcwMTg3NjUzXX0=
 -->
