@@ -1,4 +1,12 @@
 ### 0812
+
+quantity \ ˈkwän-tə-tē  注意发音 后面t随前面同样发t不变
+
+这世界在极大极小中极变  人生的困难被分割成了每一天，每一天分成了每一小段，愚笨的人接受了一切，聪明并且有心性的人知道时间的珍贵，不愿意浪费时间，将每天的片段看出了，与其每天片段的被摆布，到不如将这坑放到足够大，去填补这坑，去改变自己，聪明的人看出了这世界隐藏的秘密，有天然的，有人为的，有后天的。
+
+你必须动起来才能活(世界的大道)，寻找客户和潜在客户，还有潜力客户
+你必须清楚别人让你看到的，和世界本来有的，有的已被人发现，有的需要 (人事)，将现有的思路用全新的角度去审视理解，用新的方式
+
 在线音频下载插件# Video Downloader Ultimate
 
 
@@ -6256,11 +6264,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTcyNjQxNDcsMTYyNTkwOTExOCwtMT
-E5NTc1ODg4OCwzNjMyMjc1MTYsLTY1NTc4MDA5MiwxODc0NDY1
-NzksMTIzODkyMjI3NywtMTQ1NjQyOTc1MiwtMTY2MDU0MTQ0LD
-kxMDcwNzEwNiwtMjc4NTY0NDc4LC0xNDY1MTM2MTMxLDkyNzg4
-NjQ2NCwxMjU0OTE2MDU0LC0xNjEwNjA5NTcxLC0xOTM4NjM1NT
-A0LC03NzIwNzc5MTEsLTc5OTkxMDU2NywtMTUxNTEyMzYxNywt
-MTk0ODY5NTA0Ml19
+eyJoaXN0b3J5IjpbMTA1NDc3NjYxNiwtMTA5NzI2NDE0NywxNj
+I1OTA5MTE4LC0xMTk1NzU4ODg4LDM2MzIyNzUxNiwtNjU1Nzgw
+MDkyLDE4NzQ0NjU3OSwxMjM4OTIyMjc3LC0xNDU2NDI5NzUyLC
+0xNjYwNTQxNDQsOTEwNzA3MTA2LC0yNzg1NjQ0NzgsLTE0NjUx
+MzYxMzEsOTI3ODg2NDY0LDEyNTQ5MTYwNTQsLTE2MTA2MDk1Nz
+EsLTE5Mzg2MzU1MDQsLTc3MjA3NzkxMSwtNzk5OTEwNTY3LC0x
+NTE1MTIzNjE3XX0=
 -->
