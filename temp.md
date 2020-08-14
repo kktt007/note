@@ -1,4 +1,4 @@
-### 0814
+### 0815
 apk mod:
 
 https://apkmaza.net/category/android-apps/
@@ -10,6 +10,63 @@ https://apkmark.com/category/application/
 https://apk4all.com/android/genres/productivity/
 
 在线 Google Play APK下载 https://apkpure.com/cn/region-free-apk-download
+
+
+subway station
+地铁站 
+
+bus station/stop
+汽车站 
+
+railway station
+火车站 
+
+taxi/cab
+计程车
+
+
+the fare is charged according to the meter.
+按调表收费的(meter: water/gas/electricity meter)
+
+Please drop me off at the intersection.
+请在十字路口让我下车。intersection :\ ˌin-tər-ˈsek-shən
+
+Keep the change.
+不用找钱了。
+
+first-class/second-class ticket
+一等票/二等票
+
+Where is this train heading to?
+这辆火车开往哪里 
+
+Could you please tell me which bus is going to the zoo?
+你可以告诉我哪辆公车去动物园吗?
+
+Bus #3 will stop at the zoo.
+3号车会停在动物园
+
+How much/What is the fare.
+fare: [countable] the price you pay to travel somewhere by bus, train, plane etc.
+bus fare(公车价格) air fare(机票价格) taxi fare(计程车费用)
+
+Do I need to transfer?
+需要转车吗 
+
+Miss, you missed your train.
+小姐，你错过你的火车了。
+
+interpreted
+
+honour \ ˈä-nər
+
+commitment
+
+explicitly
+
+analogy
+
+visualize
 
 ### 0812
 
@@ -6277,11 +6334,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjExMjkxMjk3LDEwNTQ3NzY2MTYsLTEwOT
-cyNjQxNDcsMTYyNTkwOTExOCwtMTE5NTc1ODg4OCwzNjMyMjc1
-MTYsLTY1NTc4MDA5MiwxODc0NDY1NzksMTIzODkyMjI3NywtMT
-Q1NjQyOTc1MiwtMTY2MDU0MTQ0LDkxMDcwNzEwNiwtMjc4NTY0
-NDc4LC0xNDY1MTM2MTMxLDkyNzg4NjQ2NCwxMjU0OTE2MDU0LC
-0xNjEwNjA5NTcxLC0xOTM4NjM1NTA0LC03NzIwNzc5MTEsLTc5
-OTkxMDU2N119
+eyJoaXN0b3J5IjpbLTg1NzQyMzIwOCw2MTEyOTEyOTcsMTA1ND
+c3NjYxNiwtMTA5NzI2NDE0NywxNjI1OTA5MTE4LC0xMTk1NzU4
+ODg4LDM2MzIyNzUxNiwtNjU1NzgwMDkyLDE4NzQ0NjU3OSwxMj
+M4OTIyMjc3LC0xNDU2NDI5NzUyLC0xNjYwNTQxNDQsOTEwNzA3
+MTA2LC0yNzg1NjQ0NzgsLTE0NjUxMzYxMzEsOTI3ODg2NDY0LD
+EyNTQ5MTYwNTQsLTE2MTA2MDk1NzEsLTE5Mzg2MzU1MDQsLTc3
+MjA3NzkxMV19
 -->
