@@ -1,5 +1,12 @@
 ### 0819
+ctrl+alt+shift+e 盖印图层
+https://www.html.cn/tools/photoshop/
+
+导出最高画质图片
+
+点击【文件】-【储存】，在弹出的【JPEG选项】中，品质选择12，格式选项选择【连续】，【扫描】选择5。这样输出的照片就是最佳画质照片。
 绘图软件
+
 参考 https://kknews.cc/zh-hk/tech/5m33568.html
 
 ppt更擅长产品演示
@@ -6405,11 +6412,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MjMzMTQ0NiwtODU3NDIzMjA4LDYxMT
-I5MTI5NywxMDU0Nzc2NjE2LC0xMDk3MjY0MTQ3LDE2MjU5MDkx
-MTgsLTExOTU3NTg4ODgsMzYzMjI3NTE2LC02NTU3ODAwOTIsMT
-g3NDQ2NTc5LDEyMzg5MjIyNzcsLTE0NTY0Mjk3NTIsLTE2NjA1
-NDE0NCw5MTA3MDcxMDYsLTI3ODU2NDQ3OCwtMTQ2NTEzNjEzMS
-w5Mjc4ODY0NjQsMTI1NDkxNjA1NCwtMTYxMDYwOTU3MSwtMTkz
-ODYzNTUwNF19
+eyJoaXN0b3J5IjpbLTQ2NTY2NjU0NywtMzYyMzMxNDQ2LC04NT
+c0MjMyMDgsNjExMjkxMjk3LDEwNTQ3NzY2MTYsLTEwOTcyNjQx
+NDcsMTYyNTkwOTExOCwtMTE5NTc1ODg4OCwzNjMyMjc1MTYsLT
+Y1NTc4MDA5MiwxODc0NDY1NzksMTIzODkyMjI3NywtMTQ1NjQy
+OTc1MiwtMTY2MDU0MTQ0LDkxMDcwNzEwNiwtMjc4NTY0NDc4LC
+0xNDY1MTM2MTMxLDkyNzg4NjQ2NCwxMjU0OTE2MDU0LC0xNjEw
+NjA5NTcxXX0=
 -->
