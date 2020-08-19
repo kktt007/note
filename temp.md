@@ -1,3 +1,74 @@
+### 0819
+绘图软件
+参考 https://kknews.cc/zh-hk/tech/5m33568.html
+
+ppt更擅长产品演示
+
+亿图 大师级
+visio 大师级
+
+以上也擅长 流程+图
+
+
+PS 大佬级（不适合商标 位图，大量文字无解）
+
+adobe illustrator 祖师级（线条图形）
+扁平2.5D等距插画风格
+
+
+Indesign 多文本 多页风格，排序
+
+ps側重修圖，ai側重製圖
+
+印刷的用ai，打印噴繪用ps
+
+id就是排版，純設計方面幾乎用不到
+
+創意設計：ai>ps>id
+
+圖像處理：ps>ai>id
+
+綜合排版：id>ai>ps
+
+
+问题:
+字体选择 颜色搭配 设计思路
+
+网站
+花瓣
+
+https://www.zcool.com.cn/article/ZMTE2NzY4MA==.html
+
+标准
+有无符号库中的箭头形状
+
+找买家
+推销
+
+edraw 
+HFU3E-KF9F4-FJR9GJ-KJG94-KG9G4
+MG9H4-KG9GJ-KG9JG4-KG944-G9444
+M9GN5-MG9NG-IG9G4-KG944-KG9H44
+Serial Key 2020
+JF4IGR-JG9R4W-NVUBR-JHF43-KJGF93
+JFH44-KF9JH4-KF9J44-KF9J44-KF944
+J9HT4-KG9J44-K94HR4-M94NR-JFI4R
+Code Generator 2020
+JF8F4-JG94H-JG94H4-JG94H43-JG94HR
+JG94H-G9H43-JG94H3-JG94HJ-KG9HJ4
+JG94HR-KG9H4-KF49H-KI4HR-MG9H4
+
+https://softoroom.net/ptopic48228.html
+
+https://cracked.to/Thread-Cracked-CRACK-ADOBE-CC-2019-2020-GENP-V2-6-2
+Adobe Deluxe Patcher v2.2
+https://www.ghpym.com/ai2020.html
+https://cloud.189.cn/t/ea2YV332URVv 解压密码 @vposy
+
+
+https://github.com/Hackl0us/SS-Rule-Snippet/tree/master/%E8%A7%84%E5%88%99%E7%89%87%E6%AE%B5%E9%9B%86/%E5%9F%BA%E7%A1%80%E8%A7%84%E5%88%99%E9%9B%86
+
+
 ### 0815
 apk mod:
 
@@ -6334,11 +6405,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NzQyMzIwOCw2MTEyOTEyOTcsMTA1ND
-c3NjYxNiwtMTA5NzI2NDE0NywxNjI1OTA5MTE4LC0xMTk1NzU4
-ODg4LDM2MzIyNzUxNiwtNjU1NzgwMDkyLDE4NzQ0NjU3OSwxMj
-M4OTIyMjc3LC0xNDU2NDI5NzUyLC0xNjYwNTQxNDQsOTEwNzA3
-MTA2LC0yNzg1NjQ0NzgsLTE0NjUxMzYxMzEsOTI3ODg2NDY0LD
-EyNTQ5MTYwNTQsLTE2MTA2MDk1NzEsLTE5Mzg2MzU1MDQsLTc3
-MjA3NzkxMV19
+eyJoaXN0b3J5IjpbLTM2MjMzMTQ0NiwtODU3NDIzMjA4LDYxMT
+I5MTI5NywxMDU0Nzc2NjE2LC0xMDk3MjY0MTQ3LDE2MjU5MDkx
+MTgsLTExOTU3NTg4ODgsMzYzMjI3NTE2LC02NTU3ODAwOTIsMT
+g3NDQ2NTc5LDEyMzg5MjIyNzcsLTE0NTY0Mjk3NTIsLTE2NjA1
+NDE0NCw5MTA3MDcxMDYsLTI3ODU2NDQ3OCwtMTQ2NTEzNjEzMS
+w5Mjc4ODY0NjQsMTI1NDkxNjA1NCwtMTYxMDYwOTU3MSwtMTkz
+ODYzNTUwNF19
 -->
