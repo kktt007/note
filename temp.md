@@ -1,3 +1,35 @@
+### 0821
+enthusiasm \ in-ˈthü-zē-ˌa-zəm
+enthusiastic \ in-ˌthü-zē-ˈa-stik
+a strong feeling of interest and enjoyment about something and an eagerness to be involved in it
+
+go about == set about == begin
+
+invoke 
+ to use a law, principle, or theory to support your views
+ 
+
+
+https://subsignal.org/doc/AliensBashTutorial.html
+
+https://www.grymoire.com/Unix/Awk.html
+
+一些基础常识
+https://ryanstutorials.net/bash-scripting-tutorial/bash-variables.php
+
+https://www.tutorialspoint.com/unix/unix-special-variables.htm
+
+https://bash.cyberciti.biz/guide/Bash_special_parameters
+    $*
+    $@
+    $#
+    $?
+    $-
+    $$
+    $!
+    $0
+    $_
+
 ### 0819
 ctrl+alt+shift+e 盖印图层
 https://www.html.cn/tools/photoshop/
@@ -6412,11 +6444,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NTY2NjU0NywtMzYyMzMxNDQ2LC04NT
-c0MjMyMDgsNjExMjkxMjk3LDEwNTQ3NzY2MTYsLTEwOTcyNjQx
-NDcsMTYyNTkwOTExOCwtMTE5NTc1ODg4OCwzNjMyMjc1MTYsLT
-Y1NTc4MDA5MiwxODc0NDY1NzksMTIzODkyMjI3NywtMTQ1NjQy
-OTc1MiwtMTY2MDU0MTQ0LDkxMDcwNzEwNiwtMjc4NTY0NDc4LC
-0xNDY1MTM2MTMxLDkyNzg4NjQ2NCwxMjU0OTE2MDU0LC0xNjEw
-NjA5NTcxXX0=
+eyJoaXN0b3J5IjpbLTI1NDk0NTk2MCwtNDY1NjY2NTQ3LC0zNj
+IzMzE0NDYsLTg1NzQyMzIwOCw2MTEyOTEyOTcsMTA1NDc3NjYx
+NiwtMTA5NzI2NDE0NywxNjI1OTA5MTE4LC0xMTk1NzU4ODg4LD
+M2MzIyNzUxNiwtNjU1NzgwMDkyLDE4NzQ0NjU3OSwxMjM4OTIy
+Mjc3LC0xNDU2NDI5NzUyLC0xNjYwNTQxNDQsOTEwNzA3MTA2LC
+0yNzg1NjQ0NzgsLTE0NjUxMzYxMzEsOTI3ODg2NDY0LDEyNTQ5
+MTYwNTRdfQ==
 -->
