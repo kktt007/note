@@ -1,3 +1,33 @@
+### 0822
+http://xed.ch/help/awk.html
+
+https://www.shortcutfoo.com/app/dojos/awk/cheatsheet
+
+https://www.gnu.org/software/gawk/manual/gawk.html
+
+
+https://awk.readthedocs.io/en/latest/chapter-one.html
+
+http://mypages.iit.edu/~shamsuddin/itmo417/
+
+https://www.programmersought.com/article/2736551830/
+
+https://www.cloud2help.com/awk-commands-in-linux-unix/#AWK-NR-Command
+
+https://www.cyberithub.com/awk-command-in-linux-part-1/#16_Print_7th_Column_of_every_Line_which_does_not_contains_keyword_root
+
+https://riptutorial.com/awk
+
+delimiter  \ di-ˈli-mə-tər
+This line of code uses the comma as a delimiter.
+
+偶尔看看东西，或搜索，能发现不一样
+https://www.v2ex.com/go/linux
+
+看别人的在线日记
+http://www.lapuda.org/
+
+
 ### 0821
 enthusiasm \ in-ˈthü-zē-ˌa-zəm
 enthusiastic \ in-ˌthü-zē-ˈa-stik
@@ -6444,11 +6474,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NDk0NTk2MCwtNDY1NjY2NTQ3LC0zNj
-IzMzE0NDYsLTg1NzQyMzIwOCw2MTEyOTEyOTcsMTA1NDc3NjYx
-NiwtMTA5NzI2NDE0NywxNjI1OTA5MTE4LC0xMTk1NzU4ODg4LD
-M2MzIyNzUxNiwtNjU1NzgwMDkyLDE4NzQ0NjU3OSwxMjM4OTIy
-Mjc3LC0xNDU2NDI5NzUyLC0xNjYwNTQxNDQsOTEwNzA3MTA2LC
-0yNzg1NjQ0NzgsLTE0NjUxMzYxMzEsOTI3ODg2NDY0LDEyNTQ5
-MTYwNTRdfQ==
+eyJoaXN0b3J5IjpbNjU0NjkwMzEsLTI1NDk0NTk2MCwtNDY1Nj
+Y2NTQ3LC0zNjIzMzE0NDYsLTg1NzQyMzIwOCw2MTEyOTEyOTcs
+MTA1NDc3NjYxNiwtMTA5NzI2NDE0NywxNjI1OTA5MTE4LC0xMT
+k1NzU4ODg4LDM2MzIyNzUxNiwtNjU1NzgwMDkyLDE4NzQ0NjU3
+OSwxMjM4OTIyMjc3LC0xNDU2NDI5NzUyLC0xNjYwNTQxNDQsOT
+EwNzA3MTA2LC0yNzg1NjQ0NzgsLTE0NjUxMzYxMzEsOTI3ODg2
+NDY0XX0=
 -->
