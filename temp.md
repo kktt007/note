@@ -1,4 +1,14 @@
 ### 0822
+
+牛码五笔编码规则
+1.常规汉字（键面字根以外的汉字），依前三后一顺序键入字根代码，不足四码加识别码。
+2.单拆字根（蓝色字根）与双码字根（紫色字根）成独体字时，按常规汉字拆分取码。如非hd/hdhd、麻oss/ossi、片thg/thgn、予cs/csj、矛cst/cste、马cg/cgd。
+
+以下黑色部分 报户口 +按顺序，部首不足补l
+    3.普通字根（黑色字根）成独体字时，报户口+首次末笔画取码，不足四码加空格，如米oyty、二fgg_。
+    
+    4.偏旁部首，报户口+首次末笔画取码，不足四码补l，直至四码。如犭etnt、亻wthl、丿ttll。 乙nnl
+    
 http://xed.ch/help/awk.html
 
 https://www.shortcutfoo.com/app/dojos/awk/cheatsheet
@@ -6474,11 +6484,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU0NjkwMzEsLTI1NDk0NTk2MCwtNDY1Nj
-Y2NTQ3LC0zNjIzMzE0NDYsLTg1NzQyMzIwOCw2MTEyOTEyOTcs
-MTA1NDc3NjYxNiwtMTA5NzI2NDE0NywxNjI1OTA5MTE4LC0xMT
-k1NzU4ODg4LDM2MzIyNzUxNiwtNjU1NzgwMDkyLDE4NzQ0NjU3
-OSwxMjM4OTIyMjc3LC0xNDU2NDI5NzUyLC0xNjYwNTQxNDQsOT
-EwNzA3MTA2LC0yNzg1NjQ0NzgsLTE0NjUxMzYxMzEsOTI3ODg2
-NDY0XX0=
+eyJoaXN0b3J5IjpbMTg3MzE1NjU3Miw2NTQ2OTAzMSwtMjU0OT
+Q1OTYwLC00NjU2NjY1NDcsLTM2MjMzMTQ0NiwtODU3NDIzMjA4
+LDYxMTI5MTI5NywxMDU0Nzc2NjE2LC0xMDk3MjY0MTQ3LDE2Mj
+U5MDkxMTgsLTExOTU3NTg4ODgsMzYzMjI3NTE2LC02NTU3ODAw
+OTIsMTg3NDQ2NTc5LDEyMzg5MjIyNzcsLTE0NTY0Mjk3NTIsLT
+E2NjA1NDE0NCw5MTA3MDcxMDYsLTI3ODU2NDQ3OCwtMTQ2NTEz
+NjEzMV19
 -->
