@@ -1,3 +1,7 @@
+#### 0825
+道理都懂，就是思路很清晰的时候，毫无情绪和干扰的情况自己能作出很认可的选择。
+一旦因素设计较多，问题就显现了，清楚来了，问题复杂了，在利益中摇摆了，各种，思路就完全是另一个样子了。或许量子力学就告诉我们。我们看到的只是我们看到的情况，还有更多种可能，到底哪一种，每个看到的，看不到的因素都在起着作用，因不同，果也不同。所以，我们考虑问题要把所有因素都考虑进去，包括我们考虑和观察本身。
+
 ### 0822
 
 牛码五笔编码规则
@@ -6484,11 +6488,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MzE1NjU3Miw2NTQ2OTAzMSwtMjU0OT
-Q1OTYwLC00NjU2NjY1NDcsLTM2MjMzMTQ0NiwtODU3NDIzMjA4
-LDYxMTI5MTI5NywxMDU0Nzc2NjE2LC0xMDk3MjY0MTQ3LDE2Mj
-U5MDkxMTgsLTExOTU3NTg4ODgsMzYzMjI3NTE2LC02NTU3ODAw
-OTIsMTg3NDQ2NTc5LDEyMzg5MjIyNzcsLTE0NTY0Mjk3NTIsLT
-E2NjA1NDE0NCw5MTA3MDcxMDYsLTI3ODU2NDQ3OCwtMTQ2NTEz
-NjEzMV19
+eyJoaXN0b3J5IjpbLTM1NDAyNzkyMSwxODczMTU2NTcyLDY1ND
+Y5MDMxLC0yNTQ5NDU5NjAsLTQ2NTY2NjU0NywtMzYyMzMxNDQ2
+LC04NTc0MjMyMDgsNjExMjkxMjk3LDEwNTQ3NzY2MTYsLTEwOT
+cyNjQxNDcsMTYyNTkwOTExOCwtMTE5NTc1ODg4OCwzNjMyMjc1
+MTYsLTY1NTc4MDA5MiwxODc0NDY1NzksMTIzODkyMjI3NywtMT
+Q1NjQyOTc1MiwtMTY2MDU0MTQ0LDkxMDcwNzEwNiwtMjc4NTY0
+NDc4XX0=
 -->
