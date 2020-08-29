@@ -19,7 +19,7 @@ https://www.tutorialspoint.com/unix_commands/index.htm
 https://pubs.opengroup.org/onlinepubs/007908799/xcuix.html
 https://tecrobust.com/tag/linux-commands/
 https://www.ibm.com/support/knowledgecenter/SSLTBW_2.2.0/com.ibm.zos.v2r2.bpxa500/shcmddes.htm
-
+https://tldp.org/LDP/abs/html/index.html
 https://man.cx/
 https://www.mkssoftware.com/docs/cmd_index.asp
 https://linuxize.com/tags/terminal/
@@ -6532,11 +6532,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMTM3OTMwNSwtMTM4MjY2OTI3NCwtMT
-AyMzMyOTc3NCwxNTIyMDk5NTUxLC0zNTQwMjc5MjEsMTg3MzE1
-NjU3Miw2NTQ2OTAzMSwtMjU0OTQ1OTYwLC00NjU2NjY1NDcsLT
-M2MjMzMTQ0NiwtODU3NDIzMjA4LDYxMTI5MTI5NywxMDU0Nzc2
-NjE2LC0xMDk3MjY0MTQ3LDE2MjU5MDkxMTgsLTExOTU3NTg4OD
-gsMzYzMjI3NTE2LC02NTU3ODAwOTIsMTg3NDQ2NTc5LDEyMzg5
-MjIyNzddfQ==
+eyJoaXN0b3J5IjpbLTIwMjM3NTM2MjYsLTkwMTM3OTMwNSwtMT
+M4MjY2OTI3NCwtMTAyMzMyOTc3NCwxNTIyMDk5NTUxLC0zNTQw
+Mjc5MjEsMTg3MzE1NjU3Miw2NTQ2OTAzMSwtMjU0OTQ1OTYwLC
+00NjU2NjY1NDcsLTM2MjMzMTQ0NiwtODU3NDIzMjA4LDYxMTI5
+MTI5NywxMDU0Nzc2NjE2LC0xMDk3MjY0MTQ3LDE2MjU5MDkxMT
+gsLTExOTU3NTg4ODgsMzYzMjI3NTE2LC02NTU3ODAwOTIsMTg3
+NDQ2NTc5XX0=
 -->
