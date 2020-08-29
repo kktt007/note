@@ -18,6 +18,7 @@ https://geekflare.com/linux-find-commands/
 https://www.tutorialspoint.com/unix_commands/index.htm
 https://pubs.opengroup.org/onlinepubs/007908799/xcuix.html
 https://tecrobust.com/tag/linux-commands/
+https://www.ibm.com/support/knowledgecenter/SSLTBW_2.2.0/com.ibm.zos.v2r2.bpxa500/shcmddes.htm
 
 https://man.cx/
 https://www.mkssoftware.com/docs/cmd_index.asp
@@ -6531,11 +6532,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODI2NjkyNzQsLTEwMjMzMjk3NzQsMT
-UyMjA5OTU1MSwtMzU0MDI3OTIxLDE4NzMxNTY1NzIsNjU0Njkw
-MzEsLTI1NDk0NTk2MCwtNDY1NjY2NTQ3LC0zNjIzMzE0NDYsLT
-g1NzQyMzIwOCw2MTEyOTEyOTcsMTA1NDc3NjYxNiwtMTA5NzI2
-NDE0NywxNjI1OTA5MTE4LC0xMTk1NzU4ODg4LDM2MzIyNzUxNi
-wtNjU1NzgwMDkyLDE4NzQ0NjU3OSwxMjM4OTIyMjc3LC0xNDU2
-NDI5NzUyXX0=
+eyJoaXN0b3J5IjpbLTkwMTM3OTMwNSwtMTM4MjY2OTI3NCwtMT
+AyMzMyOTc3NCwxNTIyMDk5NTUxLC0zNTQwMjc5MjEsMTg3MzE1
+NjU3Miw2NTQ2OTAzMSwtMjU0OTQ1OTYwLC00NjU2NjY1NDcsLT
+M2MjMzMTQ0NiwtODU3NDIzMjA4LDYxMTI5MTI5NywxMDU0Nzc2
+NjE2LC0xMDk3MjY0MTQ3LDE2MjU5MDkxMTgsLTExOTU3NTg4OD
+gsMzYzMjI3NTE2LC02NTU3ODAwOTIsMTg3NDQ2NTc5LDEyMzg5
+MjIyNzddfQ==
 -->
