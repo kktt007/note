@@ -1,3 +1,20 @@
+#### 0829
+linux command 
+https://man7.org/linux/man-pages/dir_all_by_section.html
+https://www.linux.org/docs/man1/cat.html
+https://ss64.com/bash/
+https://dashdash.io/1
+https://www.computerhope.com/unix.htm
+https://www.tutorialspoint.com/unix_commands/index.htm
+
+linux shell script exercise
+https://www.journaldev.com/118/linux-rename-multiple-files-extension
+
+command leanring
+https://linoxide.com/category/linux-command/
+https://linoxide.com/linux-command/20-ls-command-linux/
+https://geekflare.com/linux-find-commands/
+
 
 #### 0825
 道理都懂，就是思路很清晰的时候，毫无情绪和干扰的情况自己能作出很认可的选择。
@@ -6489,7 +6506,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NTI0NjMzNSwtMzU0MDI3OTIxLDE4Nz
+eyJoaXN0b3J5IjpbMTUyMjA5OTU1MSwtMzU0MDI3OTIxLDE4Nz
 MxNTY1NzIsNjU0NjkwMzEsLTI1NDk0NTk2MCwtNDY1NjY2NTQ3
 LC0zNjIzMzE0NDYsLTg1NzQyMzIwOCw2MTEyOTEyOTcsMTA1ND
 c3NjYxNiwtMTA5NzI2NDE0NywxNjI1OTA5MTE4LC0xMTk1NzU4
