@@ -1,3 +1,4 @@
+
 #### 0825
 道理都懂，就是思路很清晰的时候，毫无情绪和干扰的情况自己能作出很认可的选择。
 一旦因素设计较多，问题就显现了，清楚来了，问题复杂了，在利益中摇摆了，各种，思路就完全是另一个样子了。或许量子力学就告诉我们。我们看到的只是我们看到的情况，还有更多种可能，到底哪一种，每个看到的，看不到的因素都在起着作用，因不同，果也不同。所以，我们考虑问题要把所有因素都考虑进去，包括我们考虑和观察本身。
@@ -6488,11 +6489,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NDAyNzkyMSwxODczMTU2NTcyLDY1ND
-Y5MDMxLC0yNTQ5NDU5NjAsLTQ2NTY2NjU0NywtMzYyMzMxNDQ2
-LC04NTc0MjMyMDgsNjExMjkxMjk3LDEwNTQ3NzY2MTYsLTEwOT
-cyNjQxNDcsMTYyNTkwOTExOCwtMTE5NTc1ODg4OCwzNjMyMjc1
-MTYsLTY1NTc4MDA5MiwxODc0NDY1NzksMTIzODkyMjI3NywtMT
-Q1NjQyOTc1MiwtMTY2MDU0MTQ0LDkxMDcwNzEwNiwtMjc4NTY0
-NDc4XX0=
+eyJoaXN0b3J5IjpbLTI0NTI0NjMzNSwtMzU0MDI3OTIxLDE4Nz
+MxNTY1NzIsNjU0NjkwMzEsLTI1NDk0NTk2MCwtNDY1NjY2NTQ3
+LC0zNjIzMzE0NDYsLTg1NzQyMzIwOCw2MTEyOTEyOTcsMTA1ND
+c3NjYxNiwtMTA5NzI2NDE0NywxNjI1OTA5MTE4LC0xMTk1NzU4
+ODg4LDM2MzIyNzUxNiwtNjU1NzgwMDkyLDE4NzQ0NjU3OSwxMj
+M4OTIyMjc3LC0xNDU2NDI5NzUyLC0xNjYwNTQxNDQsOTEwNzA3
+MTA2XX0=
 -->
