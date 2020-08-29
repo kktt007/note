@@ -1,6 +1,8 @@
 #### 0829
 
-archlinux install sc
+archlinux install script
+https://github.com/picodotdev/alis
+
 linux command 
 https://man7.org/linux/man-pages/dir_all_by_section.html
 https://www.linux.org/docs/man1/cat.html
@@ -6534,11 +6536,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkyNzA1NTM3LC0yMDIzNzUzNjI2LC05MD
-EzNzkzMDUsLTEzODI2NjkyNzQsLTEwMjMzMjk3NzQsMTUyMjA5
-OTU1MSwtMzU0MDI3OTIxLDE4NzMxNTY1NzIsNjU0NjkwMzEsLT
-I1NDk0NTk2MCwtNDY1NjY2NTQ3LC0zNjIzMzE0NDYsLTg1NzQy
-MzIwOCw2MTEyOTEyOTcsMTA1NDc3NjYxNiwtMTA5NzI2NDE0Ny
-wxNjI1OTA5MTE4LC0xMTk1NzU4ODg4LDM2MzIyNzUxNiwtNjU1
-NzgwMDkyXX0=
+eyJoaXN0b3J5IjpbNzEyMDcyMDQxLDc5MjcwNTUzNywtMjAyMz
+c1MzYyNiwtOTAxMzc5MzA1LC0xMzgyNjY5Mjc0LC0xMDIzMzI5
+Nzc0LDE1MjIwOTk1NTEsLTM1NDAyNzkyMSwxODczMTU2NTcyLD
+Y1NDY5MDMxLC0yNTQ5NDU5NjAsLTQ2NTY2NjU0NywtMzYyMzMx
+NDQ2LC04NTc0MjMyMDgsNjExMjkxMjk3LDEwNTQ3NzY2MTYsLT
+EwOTcyNjQxNDcsMTYyNTkwOTExOCwtMTE5NTc1ODg4OCwzNjMy
+Mjc1MTZdfQ==
 -->
