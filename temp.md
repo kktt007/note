@@ -15,6 +15,20 @@ https://linoxide.com/category/linux-command/
 https://linoxide.com/linux-command/20-ls-command-linux/
 https://geekflare.com/linux-find-commands/
 
+https://www.tutorialspoint.com/unix_commands/index.htm
+https://pubs.opengroup.org/onlinepubs/007908799/xcuix.html
+https://tecrobust.com/tag/linux-commands/
+
+https://man.cx/
+https://www.mkssoftware.com/docs/cmd_index.asp
+https://linuxize.com/tags/terminal/
+https://www.tecmint.com/category/linux-commands/
+https://www.thegeekdiary.com/category/linux/
+https://cloudaffaire.com/tag/linux-commands/
+https://linuxconfig.org/learning-linux-commands-ls
+https://www.mkssoftware.com/docs/man1/ls.1.asp
+https://www.2daygeek.com/category/linux-tutorials/
+
 
 英语发音
 explain \ ik-ˈsplān v 
@@ -6517,11 +6531,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjMzMjk3NzQsMTUyMjA5OTU1MSwtMz
-U0MDI3OTIxLDE4NzMxNTY1NzIsNjU0NjkwMzEsLTI1NDk0NTk2
-MCwtNDY1NjY2NTQ3LC0zNjIzMzE0NDYsLTg1NzQyMzIwOCw2MT
-EyOTEyOTcsMTA1NDc3NjYxNiwtMTA5NzI2NDE0NywxNjI1OTA5
-MTE4LC0xMTk1NzU4ODg4LDM2MzIyNzUxNiwtNjU1NzgwMDkyLD
-E4NzQ0NjU3OSwxMjM4OTIyMjc3LC0xNDU2NDI5NzUyLC0xNjYw
-NTQxNDRdfQ==
+eyJoaXN0b3J5IjpbLTEzODI2NjkyNzQsLTEwMjMzMjk3NzQsMT
+UyMjA5OTU1MSwtMzU0MDI3OTIxLDE4NzMxNTY1NzIsNjU0Njkw
+MzEsLTI1NDk0NTk2MCwtNDY1NjY2NTQ3LC0zNjIzMzE0NDYsLT
+g1NzQyMzIwOCw2MTEyOTEyOTcsMTA1NDc3NjYxNiwtMTA5NzI2
+NDE0NywxNjI1OTA5MTE4LC0xMTk1NzU4ODg4LDM2MzIyNzUxNi
+wtNjU1NzgwMDkyLDE4NzQ0NjU3OSwxMjM4OTIyMjc3LC0xNDU2
+NDI5NzUyXX0=
 -->
