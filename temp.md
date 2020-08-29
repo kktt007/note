@@ -16,6 +16,17 @@ https://linoxide.com/linux-command/20-ls-command-linux/
 https://geekflare.com/linux-find-commands/
 
 
+英语发音
+explain \ ik-ˈsplān v 
+explainable \ ik-​ˈsplā-​nə-​bəl adj
+explanation  \ ˌek-splə-ˈnā-shən noun
+
+https://www.englishclub.com/pronunciation/
+http://www.wordstress.info/
+https://www.esl-lounge.com/student/pronunciation.php
+
+
+
 #### 0825
 道理都懂，就是思路很清晰的时候，毫无情绪和干扰的情况自己能作出很认可的选择。
 一旦因素设计较多，问题就显现了，清楚来了，问题复杂了，在利益中摇摆了，各种，思路就完全是另一个样子了。或许量子力学就告诉我们。我们看到的只是我们看到的情况，还有更多种可能，到底哪一种，每个看到的，看不到的因素都在起着作用，因不同，果也不同。所以，我们考虑问题要把所有因素都考虑进去，包括我们考虑和观察本身。
@@ -6506,11 +6517,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMjA5OTU1MSwtMzU0MDI3OTIxLDE4Nz
-MxNTY1NzIsNjU0NjkwMzEsLTI1NDk0NTk2MCwtNDY1NjY2NTQ3
-LC0zNjIzMzE0NDYsLTg1NzQyMzIwOCw2MTEyOTEyOTcsMTA1ND
-c3NjYxNiwtMTA5NzI2NDE0NywxNjI1OTA5MTE4LC0xMTk1NzU4
-ODg4LDM2MzIyNzUxNiwtNjU1NzgwMDkyLDE4NzQ0NjU3OSwxMj
-M4OTIyMjc3LC0xNDU2NDI5NzUyLC0xNjYwNTQxNDQsOTEwNzA3
-MTA2XX0=
+eyJoaXN0b3J5IjpbLTEwMjMzMjk3NzQsMTUyMjA5OTU1MSwtMz
+U0MDI3OTIxLDE4NzMxNTY1NzIsNjU0NjkwMzEsLTI1NDk0NTk2
+MCwtNDY1NjY2NTQ3LC0zNjIzMzE0NDYsLTg1NzQyMzIwOCw2MT
+EyOTEyOTcsMTA1NDc3NjYxNiwtMTA5NzI2NDE0NywxNjI1OTA5
+MTE4LC0xMTk1NzU4ODg4LDM2MzIyNzUxNiwtNjU1NzgwMDkyLD
+E4NzQ0NjU3OSwxMjM4OTIyMjc3LC0xNDU2NDI5NzUyLC0xNjYw
+NTQxNDRdfQ==
 -->
