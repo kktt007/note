@@ -1,4 +1,15 @@
-### 
+### 阿里云配置
+阿里云设置解析(https 全站加速等都不开启，只设置cdn解析)
+CNAME	*	默认	all.kktt007.top.w.kunlunca.com		600	正常
+CNAME	img	默认	img.kktt007.top.qiniudns.com		600	正常
+TXT	_dnsauth	默认	201910010000002jl0vwtsm3ashi3ue8edvuhs7x5evb61c5wru945wogu47hlr0		600	正常
+CNAME	image	默认	kktt007.b0.aicdn.com		600	正常
+CNAME	i	默认	kktt007.oss-cn-shanghai.aliyuncs.com		600	正常
+CNAME	@	默认	kktt007.top.w.kunlungr.com		600	暂停
+						
+https://cdnnext.console.aliyun.com/domain/list						
+https://dns.console.aliyun.com/?spm=5176.100251.111252.22.56f24f15uR9xwz#/dns/domainList						
+
 
 ### 运动
 https://www.leha.com/health/785087
@@ -6541,7 +6552,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIwMDQzMzE1LDE0NjA3MDIxOTYsNzkyNz
+eyJoaXN0b3J5IjpbOTQ4ODc3ODI0LDE0NjA3MDIxOTYsNzkyNz
 A1NTM3LC0yMDIzNzUzNjI2LC05MDEzNzkzMDUsLTEzODI2Njky
 NzQsLTEwMjMzMjk3NzQsMTUyMjA5OTU1MSwtMzU0MDI3OTIxLD
 E4NzMxNTY1NzIsNjU0NjkwMzEsLTI1NDk0NTk2MCwtNDY1NjY2
