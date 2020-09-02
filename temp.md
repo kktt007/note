@@ -1,4 +1,18 @@
-###### 阿里云配置
+### rss在线阅读
+2/8 定律 各种2/8定律 
+(原本的好社会网络理论中的)
+https://www.aljazeera.com/xml/rss/all.xml
+https://www.livemint.com/rss/news
+https://www.livemint.com/rss/politics
+https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+
+https://feedly.com/
+https://www.inoreader.com/
+https://feedreader.com/
+https://flowreader.com/
+https://theoldreader.com/
+
+### 阿里云配置
 阿里云设置解析(https 全站加速等都不开启，只设置cdn解析)
 CNAME	*	默认	all.kktt007.top.w.kunlunca.com		600	正常
 CNAME	img	默认	img.kktt007.top.qiniudns.com		600	正常
@@ -6552,7 +6566,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MTE1NzI0MSw5NDg4Nzc4MjQsMTQ2MD
+eyJoaXN0b3J5IjpbMTE1NTk5MzEzMCw5NDg4Nzc4MjQsMTQ2MD
 cwMjE5Niw3OTI3MDU1MzcsLTIwMjM3NTM2MjYsLTkwMTM3OTMw
 NSwtMTM4MjY2OTI3NCwtMTAyMzMyOTc3NCwxNTIyMDk5NTUxLC
 0zNTQwMjc5MjEsMTg3MzE1NjU3Miw2NTQ2OTAzMSwtMjU0OTQ1
