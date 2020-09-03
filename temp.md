@@ -1,3 +1,56 @@
+### 0903
+所以要跳出框框想问题，跳出视野，跳出时代，跳出能跳出的一切，跳出跳出
+走到哪 学到哪, 做是学 学是做 做就是做 学就是学 学不是做 做不是学(其实这样的佛语方式才是外一个东西的本质理解，注意看当中的不是部分，对立面部分的重要意义。) 我觉的做是另外一码事，学是学，做是做，没有输出就永远没有形成闭环，永远处于断裂状态，没有一次输出，永远不知道自己擅长和不擅长哪一个。
+永远不会知道如何获得隐性知识，只有自己能把东西继续挖掘，或者玩转了，才能说明的确是习得了这个事物。
+通过对重音的理解发现，如果我不曾真正理解和探索过重音并形成自己的总结能被大脑理解，后续我是如何也不能够继续挖掘，而且不能继续横向发展的。知识永远不是纵横的而是交错的
+三维动画
+三维工程机械模拟动画制作
+
+clay \ ˈklā 这个单词最快并且最最高效的理解方式就是看图，其他方法都是扯，都是在图这个原本的基础上引申，所以探究，不断细化，追根刨底是了解事物最高效直接的方法。
+
+animation  \ ˌa-nə-ˈmā-shən enthusiasm and energy 注意重音
+首先是 元音是0 非爆破是-1  爆破是1 0-1,-11 4 音节规则是中间分段
+animate \ ˈa-nə-mət 注意重音
+eager  \ ˈē-gər 注意重音 元音能做重音 冰鞋注意ea组合
+
+
+independent \ ˌin-də-ˈpen-dənt 注意重音
+photograph \ ˈfō-tə-ˌgraf 注意重音 A photo, short for photograph, is always taken with a camera.
+intelligent \ in-ˈte-lə-jənt 注意重音
+representation \ ˌre-pri-ˌzen-ˈtā-shən 注意重音
+delimit  \ di-ˈli-mət 注意重音
+
+vigour \ ˈvi-gər 注意发音  这个词只有辅音，所以必须v做重音
+He began working with renewed vigour.
+
+重音上的o 发 ō
+似乎l归类为爆破类
+似乎规则是爆破音+非爆破组合一个音节， (元音归属到非爆破)非爆破或若干非爆破可以单独形成一个音节
+元音+非爆破 或者 非爆破+非爆破 形成次重音
+非爆破最多做次重，
+
+pediatric  \ ˌpē-dē-ˈa-trik 注音重音，这里为什么以a来重，个人目前待验证的有1 字母词源组合分 2 安音节分(爆+非爆+非爆+爆，因为爆肯定要加东西跟，而且为了音节长度，所以很合理) 3 按词性
+
+feasibility \ ˌfē-​zə-​ˈbi-​lə-​tē 5个音节的 首先以元单词为主，词缀重音
+
+creature \ ˈkrē-chər 错误读音
+Blue whales are the largest creature ever to have lived.
+
+A being is any living creature.
+
+enthusiasm  \ in-ˈthü-zē-ˌa-zəm 
+You might show enthusiasm if you find out that all the shoes are on sale for 70 percent off today.
+
+
+三维动画设计、制作，企业宣传片，虚拟现实，建筑漫游动画，三维机械动画，产品展示动画，广告栏目包装，等三维服务。
+https://huke88.com/dynamic/10-0-0-0-0-2-1-16-1/
+https://www.c4dku.com/ziyuan/moxing/0-0-0-1.html
+https://c4dsky.com
+C4D 用于传媒动画等三维视觉设计
+SketchUp 用于建筑景观室内等空间设计
+
+C4D+AE能解决
+
 ### rss在线阅读
 2/8 定律 各种2/8定律 
 (原本的好社会网络理论中的)
@@ -6566,11 +6619,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NTk5MzEzMCw5NDg4Nzc4MjQsMTQ2MD
-cwMjE5Niw3OTI3MDU1MzcsLTIwMjM3NTM2MjYsLTkwMTM3OTMw
-NSwtMTM4MjY2OTI3NCwtMTAyMzMyOTc3NCwxNTIyMDk5NTUxLC
-0zNTQwMjc5MjEsMTg3MzE1NjU3Miw2NTQ2OTAzMSwtMjU0OTQ1
-OTYwLC00NjU2NjY1NDcsLTM2MjMzMTQ0NiwtODU3NDIzMjA4LD
-YxMTI5MTI5NywxMDU0Nzc2NjE2LC0xMDk3MjY0MTQ3LDE2MjU5
-MDkxMThdfQ==
+eyJoaXN0b3J5IjpbODUzOTExODg5LDExNTU5OTMxMzAsOTQ4OD
+c3ODI0LDE0NjA3MDIxOTYsNzkyNzA1NTM3LC0yMDIzNzUzNjI2
+LC05MDEzNzkzMDUsLTEzODI2NjkyNzQsLTEwMjMzMjk3NzQsMT
+UyMjA5OTU1MSwtMzU0MDI3OTIxLDE4NzMxNTY1NzIsNjU0Njkw
+MzEsLTI1NDk0NTk2MCwtNDY1NjY2NTQ3LC0zNjIzMzE0NDYsLT
+g1NzQyMzIwOCw2MTEyOTEyOTcsMTA1NDc3NjYxNiwtMTA5NzI2
+NDE0N119
 -->
