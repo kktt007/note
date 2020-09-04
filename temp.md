@@ -1,3 +1,89 @@
+### 0904
+https://www.britannica.com/topic/flag-of-China
+
+世界各国国旗
+https://www.united-states-flag.com/world.html
+世界地图
+https://geology.com/world/world-map.shtml
+http://www.pronounceeverything.com/worldmap.html
+
+关于重音学习
+类似三维文本里
+人名群众是腐败的源动力
+其他人已经探索出来的规律，无论是人类还是自然还是社会规律，都可以直接用，可以去验证，总结
+重音是词性决定的
+
+以-ate结尾的动词，它的重音一般落在第一个音节上； imitate \ ˈi-mə-ˌtāt 
+以-tion结尾的名词，它的重音一般落在倒数第二个音节。 imitation  \ ˌi-mə-ˈtā-shən
+
+双音节单词，如果是名词，它的重音一般落在第一个音节上，如果是动词，它的重音一般落在第二个音节上。
+名词理论上是前面重音
+
+n. 0. icon \ ˈī-ˌkän 注意重音  名词所以前面是重音，然后c爆破，所以改成次重音。
+
+n. 1. breakthrough \ ˈbrāk-ˌthrü   
+n. 6. revolutionary \ ˌre-və-ˈlü-shə-ˌner-ē
+
+
+
+同形异性词
+名词 动词
+present present
+
+record record
+
+suspect suspect
+
+contract contract
+
+defect defect
+
+contest contest
+
+以后缀ee, ette, ique, ese, eer 和 ain 结尾的单词，其重音总是落在这些后缀上，也就是说它们的重音永远在最后那个音节上。
+
+employee
+trainee
+cassette
+cigarette
+unique
+boutique
+Japanese
+Chinese
+engineer
+volunteer
+maintain
+explain
+
+反身代词的重音永远落在最后那个音节上。
+
+myself
+himself
+yourself
+herself
+itself
+ourselves
+themselves
+
+真正实用的语音规则必须满足两个条件才能称得上神奇。
+
+第一，内容要全面，即必须涵盖所有常用的语音规则及其全部细节。
+
+第二，要突出实用性，忽略学术性。所谓实用性无外乎两点，a. 讲解的内容既要正规、系统，还要保证通俗易懂，这要求老师自己首先要对全部的语音规则融会贯通；b. 要有贴近生活的原声资料，视频或音频格式都行。
+
+这点我承认，不全面在引入变量后会导致规则的变化，所以全面的重要性。
+
+
+嘴巴上，可以在遇到相同情景的时候脱口而出这首诗的所以音标（汉语拼音）。表达你想表达的勤俭节约的思想。这就是一种语言表达的内化途径：阅读理解→听力发音→大量重复（听觉和发音器官）→脱口而出（情景再现）英语口语也是这样：阅读理解（理解文字背后的意思）→听力发音（分析发音现象，熟悉文字对应的听觉形象）→大量跟读（嘴巴上形成肌肉记忆）→情景再现（想表达某种意思的时候嘴巴上脱口而出已经形成肌肉记忆的发音动作）
+
+作者：Jason杰森锅
+链接：https://www.zhihu.com/question/397259311/answer/1246020880
+来源：知乎
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
+breakthrough
+
+
 ### 0903
 所以要跳出框框想问题，跳出视野，跳出时代，跳出能跳出的一切，跳出跳出
 走到哪 学到哪, 做是学 学是做 做就是做 学就是学 学不是做 做不是学(其实这样的佛语方式才是外一个东西的本质理解，注意看当中的不是部分，对立面部分的重要意义。) 我觉的做是另外一码事，学是学，做是做，没有输出就永远没有形成闭环，永远处于断裂状态，没有一次输出，永远不知道自己擅长和不擅长哪一个。
@@ -6619,11 +6705,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUzOTExODg5LDExNTU5OTMxMzAsOTQ4OD
-c3ODI0LDE0NjA3MDIxOTYsNzkyNzA1NTM3LC0yMDIzNzUzNjI2
-LC05MDEzNzkzMDUsLTEzODI2NjkyNzQsLTEwMjMzMjk3NzQsMT
-UyMjA5OTU1MSwtMzU0MDI3OTIxLDE4NzMxNTY1NzIsNjU0Njkw
-MzEsLTI1NDk0NTk2MCwtNDY1NjY2NTQ3LC0zNjIzMzE0NDYsLT
-g1NzQyMzIwOCw2MTEyOTEyOTcsMTA1NDc3NjYxNiwtMTA5NzI2
-NDE0N119
+eyJoaXN0b3J5IjpbMTc2MzU2MDYyMCw4NTM5MTE4ODksMTE1NT
+k5MzEzMCw5NDg4Nzc4MjQsMTQ2MDcwMjE5Niw3OTI3MDU1Mzcs
+LTIwMjM3NTM2MjYsLTkwMTM3OTMwNSwtMTM4MjY2OTI3NCwtMT
+AyMzMyOTc3NCwxNTIyMDk5NTUxLC0zNTQwMjc5MjEsMTg3MzE1
+NjU3Miw2NTQ2OTAzMSwtMjU0OTQ1OTYwLC00NjU2NjY1NDcsLT
+M2MjMzMTQ0NiwtODU3NDIzMjA4LDYxMTI5MTI5NywxMDU0Nzc2
+NjE2XX0=
 -->
