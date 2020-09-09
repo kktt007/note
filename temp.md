@@ -1,5 +1,25 @@
 ### 0909
 012
+对于标准输出的重定向操作，>等同于1>
+2>&1
+&>
+
+https://segmentfault.com/q/1010000002454596
+https://cloud.tencent.com/developer/article/1139965
+& 是一个描述符，如果1或2前不加&，会被当成一个普通文件。
+https://blog.51cto.com/bovin/1863433
+
+0表示标准输入
+1表示标准输出
+2表示标准错误输出
+> 默认为标准输出重定向，与 1> 相同
+
+1>&2 意思是把标准输出重定向到标准错误。
+
+2>&1 意思是把标准错误输出重定向到标准输出。
+
+&>filename 意思是把标准输出和标准错误输出都重定向到文件filename中。
+
 学习google https://www.gtricks.com/page/4/
 [ImageAssistant Batch Image Downloader](https://chrome.google.com/webstore/detail/imageassistant-batch-imag/dbjbempljhcmhlfpfacalomonjpalpko)
 
@@ -6723,7 +6743,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDQ0MDU2NzksLTEzNTk0MjYxMDQsNz
+eyJoaXN0b3J5IjpbLTE2MDEzODkzOTgsLTEzNTk0MjYxMDQsNz
 A1ODM1ODUsMTc2MzU2MDYyMCw4NTM5MTE4ODksMTE1NTk5MzEz
 MCw5NDg4Nzc4MjQsMTQ2MDcwMjE5Niw3OTI3MDU1MzcsLTIwMj
 M3NTM2MjYsLTkwMTM3OTMwNSwtMTM4MjY2OTI3NCwtMTAyMzMy
