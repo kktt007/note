@@ -1,5 +1,8 @@
 ### 0909
-012
+suid sgid
+https://my.oschina.net/junn/blog/169381
+
+- 012
 对于标准输出的重定向操作，>等同于1>
 2>&1
 &>
@@ -6743,7 +6746,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDEzODkzOTgsLTEzNTk0MjYxMDQsNz
+eyJoaXN0b3J5IjpbLTE2NzgwNjg5OTQsLTEzNTk0MjYxMDQsNz
 A1ODM1ODUsMTc2MzU2MDYyMCw4NTM5MTE4ODksMTE1NTk5MzEz
 MCw5NDg4Nzc4MjQsMTQ2MDcwMjE5Niw3OTI3MDU1MzcsLTIwMj
 M3NTM2MjYsLTkwMTM3OTMwNSwtMTM4MjY2OTI3NCwtMTAyMzMy
