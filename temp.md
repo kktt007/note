@@ -2,6 +2,11 @@
 学习google https://www.gtricks.com/page/4/
 [ImageAssistant Batch Image Downloader](https://chrome.google.com/webstore/detail/imageassistant-batch-imag/dbjbempljhcmhlfpfacalomonjpalpko)
 
+打开路径
+当编辑器用 `data:text/html, <html contenteditable>`
+在新标签中打开搜索alter+enter
+拖动视频音频文件打开
+
 ### 0905
 http://www.aboutlinux.info/2005/10/10-seconds-guide-to-bash-shell.html
 http://www.ee.surrey.ac.uk/Teaching/Unix/unix1.html
@@ -6717,11 +6722,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTk0MjYxMDQsNzA1ODM1ODUsMTc2Mz
-U2MDYyMCw4NTM5MTE4ODksMTE1NTk5MzEzMCw5NDg4Nzc4MjQs
-MTQ2MDcwMjE5Niw3OTI3MDU1MzcsLTIwMjM3NTM2MjYsLTkwMT
-M3OTMwNSwtMTM4MjY2OTI3NCwtMTAyMzMyOTc3NCwxNTIyMDk5
-NTUxLC0zNTQwMjc5MjEsMTg3MzE1NjU3Miw2NTQ2OTAzMSwtMj
-U0OTQ1OTYwLC00NjU2NjY1NDcsLTM2MjMzMTQ0NiwtODU3NDIz
-MjA4XX0=
+eyJoaXN0b3J5IjpbLTY3MDI0MDYyOCwtMTM1OTQyNjEwNCw3MD
+U4MzU4NSwxNzYzNTYwNjIwLDg1MzkxMTg4OSwxMTU1OTkzMTMw
+LDk0ODg3NzgyNCwxNDYwNzAyMTk2LDc5MjcwNTUzNywtMjAyMz
+c1MzYyNiwtOTAxMzc5MzA1LC0xMzgyNjY5Mjc0LC0xMDIzMzI5
+Nzc0LDE1MjIwOTk1NTEsLTM1NDAyNzkyMSwxODczMTU2NTcyLD
+Y1NDY5MDMxLC0yNTQ5NDU5NjAsLTQ2NTY2NjU0NywtMzYyMzMx
+NDQ2XX0=
 -->
