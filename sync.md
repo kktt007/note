@@ -181,7 +181,7 @@ eyJzZWFyY2hFbmdpbmVzIjpbeyJuYW1lIjoiZ29vZ2xlIiwidXJsIjoiaHR0cHM6Ly93d3cuZ29vZ2xl
 
 "vsicons.dontShowNewVersionMessage": true,
 
-"sync.gist": "e91647653ad84531e49495dfc4d63d3a",
+"sync.gist": "去bitwarden找",
 
 "editor.wordWrap": "on",
 
@@ -241,9 +241,9 @@ eyJzZWFyY2hFbmdpbmVzIjpbeyJuYW1lIjoiZ29vZ2xlIiwidXJsIjoiaHR0cHM6Ly93d3cuZ29vZ2xl
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMjAwMTczOCwtMzQyMDA5MzgwLC05ND
-AwMzc2MDgsMzMyMzA1MzgyLC0xMDU0MjcyMDYxLC0xNjE0MDEx
-MDU0LC0xODQ2MzcyMzU1LDYyMjc3MzQ1OSwtMTQ2MDIxMjg5MS
-w2NzY2MDI0MzksLTE5Mjg0NTM3ODksOTE0MTkzMzYsLTk2NzM0
-NjE1MiwtOTIzMTA0MjQ1XX0=
+eyJoaXN0b3J5IjpbOTYzNTQ4MDMzLC0zNDIwMDkzODAsLTk0MD
+AzNzYwOCwzMzIzMDUzODIsLTEwNTQyNzIwNjEsLTE2MTQwMTEw
+NTQsLTE4NDYzNzIzNTUsNjIyNzczNDU5LC0xNDYwMjEyODkxLD
+Y3NjYwMjQzOSwtMTkyODQ1Mzc4OSw5MTQxOTMzNiwtOTY3MzQ2
+MTUyLC05MjMxMDQyNDVdfQ==
 -->
