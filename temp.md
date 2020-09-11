@@ -1,6 +1,13 @@
 ### 0911
 Markdown Preview Github Styling vs插件
 
+https://onlinelibrary.wiley.com/doi/10.1002/9781118589007.ch1
+https://www.theguardian.com/business/glossary-business-terms-a-z-jargon
+https://www.sensrtrx.com/manufacturing-glossary-key-terms/
+https://blog.hubspot.com/marketing/inbound-marketing-glossary-list
+https://www.leightoninteractive.com/blog/15-key-words-you-need-to-know-in-the-pr-industry
+
+
 ### 0909
 suid sgid
 https://my.oschina.net/junn/blog/169381
@@ -6749,11 +6756,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc4MDI5MTg1LC0xNjc4MDY4OTk0LC0xMz
-U5NDI2MTA0LDcwNTgzNTg1LDE3NjM1NjA2MjAsODUzOTExODg5
-LDExNTU5OTMxMzAsOTQ4ODc3ODI0LDE0NjA3MDIxOTYsNzkyNz
-A1NTM3LC0yMDIzNzUzNjI2LC05MDEzNzkzMDUsLTEzODI2Njky
-NzQsLTEwMjMzMjk3NzQsMTUyMjA5OTU1MSwtMzU0MDI3OTIxLD
-E4NzMxNTY1NzIsNjU0NjkwMzEsLTI1NDk0NTk2MCwtNDY1NjY2
-NTQ3XX0=
+eyJoaXN0b3J5IjpbMTU2MjE2NzUyOSw0NzgwMjkxODUsLTE2Nz
+gwNjg5OTQsLTEzNTk0MjYxMDQsNzA1ODM1ODUsMTc2MzU2MDYy
+MCw4NTM5MTE4ODksMTE1NTk5MzEzMCw5NDg4Nzc4MjQsMTQ2MD
+cwMjE5Niw3OTI3MDU1MzcsLTIwMjM3NTM2MjYsLTkwMTM3OTMw
+NSwtMTM4MjY2OTI3NCwtMTAyMzMyOTc3NCwxNTIyMDk5NTUxLC
+0zNTQwMjc5MjEsMTg3MzE1NjU3Miw2NTQ2OTAzMSwtMjU0OTQ1
+OTYwXX0=
 -->
