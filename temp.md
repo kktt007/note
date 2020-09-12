@@ -1,3 +1,37 @@
+### 0912
+焦距短  景深大
+
+，在图片处理的角度上来说，最简单通过PS裁剪改变像素（相差）即可消除，更甚者，于相机本身来说适马，富士，佳能，尼康都有做相应的改良措施，比如重排感光元件数组和使用多段低通滤镜（如2楼所说）等等。
+
+以下针对近物,焦距都要大于30才清晰 越大越好 尽量不少与25 
+M模式一定要大于5 至少F6.3 焦距至少30  时间小了似乎会糊，时间大于1/80(不取) 1/50
+M模式光圈大会太亮
+AV 模式小于5 F4.5起   虚化地区会大 焦距至少25
+
+光圈优先是指由机器自动测光系统计算出暴光量的值，然后根据你选定的光圈大小自动决定用多少的快门。
+
+快门优先是指由机器自动测光系统计算出曝光量的值，然后根据你选定的快门速度自动决定用多大的光圈。
+
+[曝光模式转盘](http://www.xinhuanet.com/foto/2018-03/12/c_129828013.htm)
+
+https://f1.allesedv.com/google.com/search?q=%s&tbm=isch
+https://www.google.com/search?q=%s&tbm=isch
+
+https://api.faviconkit.com/openmultipleurl.com/
+%s
+
+https://api.faviconkit.com/google.com/search?q=%s/64
+https://www.google.com/search?q=%s
+
+可能要增加的插件
+https://marketplace.visualstudio.com/items?itemName=fivethree.vscode-hugo-snippets
+
+https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks
+
+https://marketplace.visualstudio.com/items?itemName=mkxml.vscode-filesize&ssr=false#overview
+
+[markdown相关](https://github.com/Vanessa219/vditor)
+
 ### 0911
 Markdown Preview Github Styling vs插件
 
@@ -6756,11 +6790,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MjE2NzUyOSw0NzgwMjkxODUsLTE2Nz
-gwNjg5OTQsLTEzNTk0MjYxMDQsNzA1ODM1ODUsMTc2MzU2MDYy
-MCw4NTM5MTE4ODksMTE1NTk5MzEzMCw5NDg4Nzc4MjQsMTQ2MD
-cwMjE5Niw3OTI3MDU1MzcsLTIwMjM3NTM2MjYsLTkwMTM3OTMw
-NSwtMTM4MjY2OTI3NCwtMTAyMzMyOTc3NCwxNTIyMDk5NTUxLC
-0zNTQwMjc5MjEsMTg3MzE1NjU3Miw2NTQ2OTAzMSwtMjU0OTQ1
-OTYwXX0=
+eyJoaXN0b3J5IjpbLTg2MzI4NzIzMiwxNTYyMTY3NTI5LDQ3OD
+AyOTE4NSwtMTY3ODA2ODk5NCwtMTM1OTQyNjEwNCw3MDU4MzU4
+NSwxNzYzNTYwNjIwLDg1MzkxMTg4OSwxMTU1OTkzMTMwLDk0OD
+g3NzgyNCwxNDYwNzAyMTk2LDc5MjcwNTUzNywtMjAyMzc1MzYy
+NiwtOTAxMzc5MzA1LC0xMzgyNjY5Mjc0LC0xMDIzMzI5Nzc0LD
+E1MjIwOTk1NTEsLTM1NDAyNzkyMSwxODczMTU2NTcyLDY1NDY5
+MDMxXX0=
 -->
