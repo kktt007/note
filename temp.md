@@ -4,6 +4,42 @@ https://www.onesearch.com/yhs/search;_ylt=AwrXpnSAw15fa0YAiRvFnIlQ?p=%s&fr=yhs-o
 
 https://translate.google.cn#auto/zh-CN/%s
 https://translate.google.cn#auto/en/%s
+
+## 0914
+CHMOD 除了linux还有unix
+new word
+
+3-dimensional views
+front view
+side view 
+top view
+
+auxiliary \ ȯg-ˈzil-yə-rē
+auxiliary staff/nurses
+
+sketch
+inclined
+Karen didn’t feel inclined to help.
+There'll be time for a swim if you feel so inclined.
+ 
+ 
+slanted
+the sun's rays slanted through the trees
+
+inherent \ in-ˈher-ənt
+I have an inherent distrust of lawyers.
+
+
+talent \ ˈta-lənt
+Her talent for music showed at an early age.
+
+rear \ ˈrir 和back区别
+They mean the same, so which you use is a stylistic preference.
+
+stylistic
+relating to the particular way an artist, writer, musician etc makes or performs something, especially the technical features or methods they use
+
+sculpture \ ˈskəlp-chər 
 ### 0912
 焦距短  景深大
 
@@ -6796,11 +6832,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQzNzkwNDQ3LC04NjMyODcyMzIsMTU2Mj
-E2NzUyOSw0NzgwMjkxODUsLTE2NzgwNjg5OTQsLTEzNTk0MjYx
-MDQsNzA1ODM1ODUsMTc2MzU2MDYyMCw4NTM5MTE4ODksMTE1NT
-k5MzEzMCw5NDg4Nzc4MjQsMTQ2MDcwMjE5Niw3OTI3MDU1Mzcs
-LTIwMjM3NTM2MjYsLTkwMTM3OTMwNSwtMTM4MjY2OTI3NCwtMT
-AyMzMyOTc3NCwxNTIyMDk5NTUxLC0zNTQwMjc5MjEsMTg3MzE1
-NjU3Ml19
+eyJoaXN0b3J5IjpbLTI2ODE2NDQ3OSw5NDM3OTA0NDcsLTg2Mz
+I4NzIzMiwxNTYyMTY3NTI5LDQ3ODAyOTE4NSwtMTY3ODA2ODk5
+NCwtMTM1OTQyNjEwNCw3MDU4MzU4NSwxNzYzNTYwNjIwLDg1Mz
+kxMTg4OSwxMTU1OTkzMTMwLDk0ODg3NzgyNCwxNDYwNzAyMTk2
+LDc5MjcwNTUzNywtMjAyMzc1MzYyNiwtOTAxMzc5MzA1LC0xMz
+gyNjY5Mjc0LC0xMDIzMzI5Nzc0LDE1MjIwOTk1NTEsLTM1NDAy
+NzkyMV19
 -->
