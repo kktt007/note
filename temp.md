@@ -1,3 +1,9 @@
+### 0914
+添加到默认搜索引擎
+https://www.onesearch.com/yhs/search;_ylt=AwrXpnSAw15fa0YAiRvFnIlQ?p=%s&fr=yhs-ono-df&fr2=sfp&hspart=ono&hsimp=yhs-df&intl=us&iscqry=
+
+https://translate.google.cn#auto/zh-CN/%s
+https://translate.google.cn#auto/en/%s
 ### 0912
 焦距短  景深大
 
@@ -6790,11 +6796,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MzI4NzIzMiwxNTYyMTY3NTI5LDQ3OD
-AyOTE4NSwtMTY3ODA2ODk5NCwtMTM1OTQyNjEwNCw3MDU4MzU4
-NSwxNzYzNTYwNjIwLDg1MzkxMTg4OSwxMTU1OTkzMTMwLDk0OD
-g3NzgyNCwxNDYwNzAyMTk2LDc5MjcwNTUzNywtMjAyMzc1MzYy
-NiwtOTAxMzc5MzA1LC0xMzgyNjY5Mjc0LC0xMDIzMzI5Nzc0LD
-E1MjIwOTk1NTEsLTM1NDAyNzkyMSwxODczMTU2NTcyLDY1NDY5
-MDMxXX0=
+eyJoaXN0b3J5IjpbOTQzNzkwNDQ3LC04NjMyODcyMzIsMTU2Mj
+E2NzUyOSw0NzgwMjkxODUsLTE2NzgwNjg5OTQsLTEzNTk0MjYx
+MDQsNzA1ODM1ODUsMTc2MzU2MDYyMCw4NTM5MTE4ODksMTE1NT
+k5MzEzMCw5NDg4Nzc4MjQsMTQ2MDcwMjE5Niw3OTI3MDU1Mzcs
+LTIwMjM3NTM2MjYsLTkwMTM3OTMwNSwtMTM4MjY2OTI3NCwtMT
+AyMzMyOTc3NCwxNTIyMDk5NTUxLC0zNTQwMjc5MjEsMTg3MzE1
+NjU3Ml19
 -->
