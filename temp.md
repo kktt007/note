@@ -1,3 +1,37 @@
+### 0919
+运用 实例才是学习，对每个没有实战过的所有进行实例。
+
+递归算法
+排序算法 冒泡 快速排序 常见的内部排序算法有：插入排序、希尔排序、选择排序、冒泡排序、归并排序、快速排序、堆排序、基数排序等
+回文数
+https://www.cxyxiaowu.com/7072.html
+https://www.cnblogs.com/libra-yong/tag/%E7%AE%97%E6%B3%95/
+http://www.haodaquan.com/7/1
+http://www.zzvips.com/jiaoben/
+ruby https://c.lanmit.com/bianchengkaifa/Ruby/
+
+
+go https://www.cnblogs.com/personblog/tag/Go/
+
+bash https://github.com/tiankonguse/bash-study
+
+编程常用英语词汇https://www.runoob.com/w3cnote/common-english-terminology-in-programming.html
+常用命令全拼https://www.runoob.com/w3cnote/linux-command-full-fight.html
+
+
+github搜索https://www.gitlogs.com/
+技术搜索 https://stackoverflow.com/
+书籍搜索 https://www.jiumodiary.com/
+学术搜索 https://www.semanticscholar.org/ http://bismilbooks.com/
+搜完后可 下载 http://www.pdfsearchengine.net/ http://188.166.46.4 https://all-ebook.info/ https://pdfget.com/ https://epdf.pub/en/ https://b-ok.global/ http://droppdf.com/ https://avxhm.is/  https://tavaz.xyz/ https://coderprog.com/  https://allbooksworld.com/  http://en.bookfi.net/ http://ebook3000.com/Software/Unix-Software/index.htmlhttp://2020ok.com/3849.htm 
+类似网站搜索 https://www.sitelike.org/ 
+
+TLDP 国内地址 https://ftp.sjtu.edu.cn/Linux-HOWTO/guides.html
+
+2D 3D 插件 https://www.downloadpirate.com/
+
+学学英语 看看书 https://manybooks.net/
+
 ### 0914
 添加到默认搜索引擎
 https://www.onesearch.com/yhs/search;_ylt=AwrXpnSAw15fa0YAiRvFnIlQ?p=%s&fr=yhs-ono-df&fr2=sfp&hspart=ono&hsimp=yhs-df&intl=us&iscqry=
@@ -6832,11 +6866,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2ODE2NDQ3OSw5NDM3OTA0NDcsLTg2Mz
-I4NzIzMiwxNTYyMTY3NTI5LDQ3ODAyOTE4NSwtMTY3ODA2ODk5
-NCwtMTM1OTQyNjEwNCw3MDU4MzU4NSwxNzYzNTYwNjIwLDg1Mz
-kxMTg4OSwxMTU1OTkzMTMwLDk0ODg3NzgyNCwxNDYwNzAyMTk2
-LDc5MjcwNTUzNywtMjAyMzc1MzYyNiwtOTAxMzc5MzA1LC0xMz
-gyNjY5Mjc0LC0xMDIzMzI5Nzc0LDE1MjIwOTk1NTEsLTM1NDAy
-NzkyMV19
+eyJoaXN0b3J5IjpbLTE4MDkzNTQzODksLTI2ODE2NDQ3OSw5ND
+M3OTA0NDcsLTg2MzI4NzIzMiwxNTYyMTY3NTI5LDQ3ODAyOTE4
+NSwtMTY3ODA2ODk5NCwtMTM1OTQyNjEwNCw3MDU4MzU4NSwxNz
+YzNTYwNjIwLDg1MzkxMTg4OSwxMTU1OTkzMTMwLDk0ODg3Nzgy
+NCwxNDYwNzAyMTk2LDc5MjcwNTUzNywtMjAyMzc1MzYyNiwtOT
+AxMzc5MzA1LC0xMzgyNjY5Mjc0LC0xMDIzMzI5Nzc0LDE1MjIw
+OTk1NTFdfQ==
 -->
