@@ -17,6 +17,15 @@ bash https://github.com/tiankonguse/bash-study
 
 编程常用英语词汇https://www.runoob.com/w3cnote/common-english-terminology-in-programming.html
 常用命令全拼https://www.runoob.com/w3cnote/linux-command-full-fight.html
+缩写 https://abbreviations.woxikon.com/computing-abbreviations-and-acronyms
+[linux common abbreviation](https://www.codetd.com/en/article/8587002)
+https://404guy.com/20181019/linux-command-abbreviation-meaning/
+[Linux common command full spell](https://www.programmersought.com/article/4606146764/)
+查询 https://en.wikibooks.org/wiki/Main_Page
+https://wiki.c2.com/
+
+https://www.bookstack.cn/read/Open-Source-Travel-Handbook/1c6e21a5fb6ad22b.md
+
 
 
 github搜索https://www.gitlogs.com/
@@ -6866,11 +6875,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDkzNTQzODksLTI2ODE2NDQ3OSw5ND
-M3OTA0NDcsLTg2MzI4NzIzMiwxNTYyMTY3NTI5LDQ3ODAyOTE4
-NSwtMTY3ODA2ODk5NCwtMTM1OTQyNjEwNCw3MDU4MzU4NSwxNz
-YzNTYwNjIwLDg1MzkxMTg4OSwxMTU1OTkzMTMwLDk0ODg3Nzgy
-NCwxNDYwNzAyMTk2LDc5MjcwNTUzNywtMjAyMzc1MzYyNiwtOT
-AxMzc5MzA1LC0xMzgyNjY5Mjc0LC0xMDIzMzI5Nzc0LDE1MjIw
-OTk1NTFdfQ==
+eyJoaXN0b3J5IjpbLTExNDc5NDAzODEsLTE4MDkzNTQzODksLT
+I2ODE2NDQ3OSw5NDM3OTA0NDcsLTg2MzI4NzIzMiwxNTYyMTY3
+NTI5LDQ3ODAyOTE4NSwtMTY3ODA2ODk5NCwtMTM1OTQyNjEwNC
+w3MDU4MzU4NSwxNzYzNTYwNjIwLDg1MzkxMTg4OSwxMTU1OTkz
+MTMwLDk0ODg3NzgyNCwxNDYwNzAyMTk2LDc5MjcwNTUzNywtMj
+AyMzc1MzYyNiwtOTAxMzc5MzA1LC0xMzgyNjY5Mjc0LC0xMDIz
+MzI5Nzc0XX0=
 -->
