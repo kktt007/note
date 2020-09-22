@@ -1,3 +1,356 @@
+## 0922
+暂时不用的vim配置，还是用spacevim吧，水平不够别浪费生命了
+在开始自己配置插件之前，你应该至少完成了一遍 vimtutor （终端里输入 "vimtutor zh"），熟悉 vim 的基本操作，并且了解 vim script 的基本语法（ vim 里输入 :help usr_41.txt ）。
+
+'airblade/vim-gitgutter',
+'bundle/clever-f.vim',
+'bundle/CompleteParameter.vim',
+'bundle/context_filetype.vim',
+'bundle/defx-git',
+'bundle/defx-icons',
+'bundle/defx.nvim',
+'bundle/delimitMate',
+'bundle/deoplete-dictionary',
+'bundle/deoplete.nvim',
+'bundle/editorconfig-vim',
+'bundle/fcitx.vim',
+'bundle/gruvbox',
+'bundle/indentLine',
+'bundle/neco-syntax',
+'bundle/neoformat',
+'bundle/neoinclude.vim',
+'bundle/neomake',
+'bundle/neopairs.vim',
+'bundle/neosnippet-snippets',
+'bundle/neosnippet.vim',
+'bundle/nerdcommenter',
+'bundle/nerdtree',
+'bundle/nvim-yarp',
+'bundle/open-browser.vim',
+'bundle/tabular',
+'bundle/tagbar',
+'bundle/tagbar-makefile.vim',
+'bundle/tagbar-proto.vim',
+'bundle/unite.vim',
+'bundle/vim-airline',
+'bundle/vim-airline-themes',
+'bundle/vim-bepo',
+'bundle/vim-better-whitespace',
+'bundle/vim-choosewin',
+'bundle/vim-easymotion'
+'bundle/vim-easyoperator-line'
+'bundle/vim-emoji'
+'bundle/vim-expand-region',
+'bundle/vim-grepper' ,
+'bundle/vim-hug-neovim-rpc',
+'bundle/vim-jplus',
+'bundle/vim-matchup',
+'bundle/vim-repeat'
+'bundle/vim-snippets',
+'bundle/vim-startify',
+'bundle/vim-surround'
+'bundle/vim-table-mode'
+'bundle/vim-textobj-entire'
+'bundle/vim-textobj-indent'
+'bundle/vim-textobj-line'
+'bundle/vim-textobj-user'
+'bundle/vimfiler.vim',
+'bundle/vimproc.vim',
+'bundle/wildfire.vim',
+'christoomey/vim-tmux-navigator',
+'edkolev/tmuxline.vim',
+'itchyny/calendar.vim',
+'junegunn/goyo.vim',
+'junegunn/limelight.vim',
+'junegunn/rainbow_parentheses.vim',
+'lambdalisue/gina.vim',
+'lambdalisue/vim-gita',
+'lymslive/vimloo',
+'lymslive/vnote',
+'maralla/completor-neosnippet',
+'maralla/completor.vim',
+'MattesGroeger/vim-bookmarks',
+'mattn/vim-terminal',
+'mbbill/fencview',
+'neoclide/coc.nvim',
+'prabirshrestha/asyncomplete-buffer.vim',
+'prabirshrestha/asyncomplete.vim',
+'Shougo/deol.nvim'])
+'Shougo/echodoc.vim',
+'Shougo/neocomplcache.vim',
+'Shougo/neocomplete',
+'Shougo/vimshell.vim',
+'simnalamburt/vim-mundo',
+'SirVer/ultisnips',
+'tmux-plugins/vim-tmux',
+'tpope/vim-dispatch',
+'tpope/vim-fugitive',
+'tpope/vim-scriptease',
+'Valloric/YouCompleteMe',
+'wsdjeg/git.vim',
+'wsdjeg/Mysql.vim',
+'wsdjeg/SourceCounter.vim',
+'wsdjeg/vim-cheat',
+'Xuyuanp/nerdtree-git-plugin',
+'yami-beta/asyncomplete-omni.vim',
+
+
+vim学习按键 http://aiezu.com/article/vim_shortcut_keys.html
+
+参考 https://vimjc.com
+https://blog.csdn.net/amoscykl/article/details/80616688
+https://blog.csdn.net/weixin_38815998/article/details/103589090
+https://linux.cn/article-11644-1.html
+https://www.cnblogs.com/write-hua/p/7697762.html
+https://blog.easwy.com/archives/advanced-vim-skills-catalog/
+https://stackoverflow.com/questions/158968/changing-vim-indentation-behavior-by-file-type
+https://vim.fandom.com/wiki/Disable_automatic_comment_insertion
+https://learnvimscriptthehardway.stevelosh.com/chapters/12.html#filetype-events
+
+https://github.com/amix/vimrc
+
+https://github.com/ctrlpvim/ctrlp.vim
+
+https://github.com/plasticboy/vim-markdown
+
+https://github.com/vim-ruby/vim-ruby
+
+配置参考 https://gist.github.com/millermedeiros/1262085
+
+插件介绍 https://blog.csdn.net/weixin_34341229/article/details/92034909
+
+
+```
+set nocompatible              " be iMproved, required
+"filetype off                  " required 与下面的有冲突
+" 设置当文件被改动时自动载入
+set autoread
+set t_Co=256
+set term=xterm-256color
+set termencoding=utf-8
+set background=light
+" quickfix模式
+autocmd FileType c,cpp map <buffer> <leader><space> :w<cr>:make<cr>
+"代码补全 
+set completeopt=preview,menu 
+"允许插件  
+filetype plugin on
+"共享剪贴板  
+set clipboard=unnamed 
+"从不备份  
+set nobackup
+"make 运行
+:set makeprg=g++\ -Wall\ \ %
+"自动保存
+set autowrite
+set ruler                   " 打开状态栏标尺
+set cursorline              " 突出显示当前行
+set magic                   " 设置魔术
+set guioptions-=T           " 隐藏工具栏
+set guioptions-=m           " 隐藏菜单栏
+"set statusline=\ %<%F[%1*%M%*%n%R%H]%=\ %y\ %0(%{&fileformat}\ %{&encoding}\ %c:%l/%L%)\
+" 设置在状态行显示的信息
+set foldcolumn=0
+set foldmethod=indent 
+set foldlevel=3 
+set foldenable              " 开始折叠
+
+" 语法高亮
+set syntax=on
+" 去掉输入错误的提示声音
+set noeb
+" 在处理未保存或只读文件的时候，弹出确认
+set confirm
+" 自动缩进
+set autoindent
+set cindent
+" Tab键的宽度
+set tabstop=2
+" 统一缩进为2
+set softtabstop=2 " 按退格键的时候退回缩进的长度
+set shiftwidth=2 " 每一级缩进的长度，同上
+" 用空格代替制表符
+set expandtab
+" 设置缩进为4的类型
+autocmd FileType python setlocal expandtab shiftwidth=4 tabstop=4
+autocmd FileType markdown setlocal expandtab shiftwidth=4 tabstop=4
+" 显示行号
+set number
+" 历史记录数
+set history=1000
+"禁止生成临时文件
+set nobackup
+set noswapfile
+"搜索忽略大小写
+set ignorecase
+"搜索逐字符高亮
+set hlsearch
+set incsearch
+"行内替换
+set gdefault
+"编码设置
+set enc=utf-8
+set fencs=utf-8,ucs-bom,shift-jis,gb18030,gbk,gb2312,cp936
+"语言设置
+set langmenu=zh_CN.UTF-8
+set helplang=cn
+" 我的状态行显示的内容（包括文件类型和解码）
+set statusline=%F%m%r%h%w\ [FORMAT=%{&ff}]\ [TYPE=%Y]\ [POS=%l,%v][%p%%]\ %{strftime(\"%d/%m/%y\ -\ %H:%M\")}
+set statusline=[%F]%y%r%m%*%=[Line:%l/%L,Column:%c][%p%%]
+" 总是显示状态行
+set laststatus=2
+" 命令行（在状态行下）的高度，默认为1，这里是2
+set cmdheight=2
+" 侦测文件类型
+filetype on
+" 载入文件类型插件
+filetype plugin on
+" 为特定文件类型载入相关缩进文件
+filetype indent on
+" 保存全局变量
+set viminfo+=!
+" 带有如下符号的单词不要被换行分割
+set iskeyword+=_,$,@,%,#,-
+" 字符间插入的像素行数目
+set linespace=0
+" 增强模式中的命令行自动完成操作
+set wildmenu
+" 使回格键（backspace）正常处理indent, eol, start等
+set backspace=2
+" 允许backspace和光标键跨越行边界
+set whichwrap+=<,>,h,l
+" 可以在buffer的任何地方使用鼠标（类似office中在工作区双击鼠标定位）
+set mouse=a
+set selection=exclusive
+set selectmode=mouse,key
+" 通过使用: commands命令，告诉我们文件的哪一行被改变过
+set report=0
+" 在被分割的窗口间显示空白，便于阅读
+set fillchars=vert:\ ,stl:\ ,stlnc:\
+" 高亮显示匹配的括号
+set showmatch
+" 匹配括号高亮的时间（单位是十分之一秒）
+set matchtime=1
+" 光标移动到buffer的顶部和底部时保持3行距离
+set scrolloff=3
+" 为C程序提供自动缩进
+set smartindent
+" 高亮显示普通txt文件（需要txt.vim脚本）
+ au BufRead,BufNewFile *  setfiletype txt
+"自动补全
+:inoremap ( ()<ESC>i
+:inoremap ) <c-r>=ClosePair(')')<CR>
+":inoremap { {<CR>}<ESC>O
+":inoremap } <c-r>=ClosePair('}')<CR>
+:inoremap [ []<ESC>i
+:inoremap ] <c-r>=ClosePair(']')<CR>
+:inoremap " ""<ESC>i
+:inoremap ' ''<ESC>i
+function! ClosePair(char)
+	if getline('.')[col('.') - 1] == a:char
+		return "\<Right>"
+	else
+		return a:char
+	endif
+endfunction
+filetype plugin indent on 
+"打开文件类型检测, 加了这句才可以用智能补全
+set completeopt=longest,menu
+ 
+" set the runtime path to include Vundle and initialize
+set rtp+=~/.vim/bundle/Vundle.vim
+call vundle#begin()
+ 
+" let Vundle manage Vundle, required
+Plugin 'VundleVim/Vundle.vim'   " PluginInstall 安装插件 PluginClean彻底清除插件
+Plugin 'Shougo/defx.nvim'    " 同类次选'scrooloose/nerdtree'    " nerd tree构建目录树
+Plugin 'nathanaelkane/vim-indent-guides'    "缩进显示"
+Plugin 'Yggdroot/indentLine'    "缩进指示线"
+Plugin 'fholgado/minibufexpl.vim'    "操作多个文件"
+Plugin 'majutsushi/tagbar'  " Tagbar浏览文件结构 "显示文件的类、函数、变量"
+Plugin 'vim-airline/vim-airline'    " vim-airline美化状态栏
+Plugin 'vim-airline/vim-airline-themes' " 主题
+Plugin 'vim-syntastic/syntastic'    "语法检查"
+Plugin 'Yggdroot/LeaderF'   " 同类'ctrlpvim/ctrlp.vim' " ctrlp文本搜索工具
+Plugin 'editorconfig/editorconfig-vim' " 重要插件
+    " vim-autoformat
+    " vim-rainbow
+    "  lightline或powerline
+    " NERD Commenter
+    " fzf 依赖fzf binary
+    " ack配合ag使用
+    " ag
+    " gitgutter
+    " Tag List 跳转变量、类型、类和函数 
+    " vim-commentary
+Plugin 'dyng/ctrlsf.vim'
+Plugin 'MattesGroeger/vim-bookmarks'
+rhysd/clever-f.vim " 前后查找插件
+airblade/vim-gitgutter  " gitgithub 显示diff
+tenfyzhong/CompleteParameter.vim    " 自动完成函数名和参数
+
+" snipmate
+Plugin 'MarcWeber/vim-addon-mw-utils'
+Plugin 'tomtom/tlib_vim'
+Plugin 'garbas/vim-snipmate'
+Plugin 'honza/vim-snippets'
+tmhedberg/SimpylFold
+
+" js
+" Plugin 'pangloss/vim-javascript'
+" Plugin 'elzr/vim-json'
+" Plugin 'mxw/vim-jsx'
+" Plugin 'millermedeiros/vim-esformatter'
+" Plugin 'leafgarland/typescript-vim'
+" Plugin 'prettier/vim-prettier'
+
+" All of your Plugins must be added before the following line
+call vundle#end()            " required
+
+
+" nerdtree
+autocmd vimenter * NERDTree    " 打开vim，自动开启nerd tree
+map <F3> :NERDTreeMirror<CR>   " 通过F3 打开/关闭 nerd tree 
+map <F3> :NERDTreeToggle<CR>
+let NERDTreeChDirMode=1
+let NERDTreeShowBookmarks=1
+let NERDTreeWinSize=25
+let NERDTreeShowHidden=1
+let NERDTreeIgnore=['\~$', '\.pyc$', '\.swp$', '\.git$']
+
+
+" tagbar
+nmap <F8> :TagbarToggle<CR>    " 通过 F8 打开/关闭Tagbar
+
+" vim-airline-themes主题
+let g:airline_theme="bubblegum" " 临时使用主题:AirlineTheme bubblgum
+
+" indentLine 
+let g:indentLine_char = "┆"
+let g:indentLine_enabled = 1
+let g:autopep8_disable_show_diff=1
+
+" syntastic
+set statusline+=%#warningmsg#
+set statusline+=%{SyntasticStatuslineFlag()}
+set statusline+=%*
+let g:syntastic_always_populate_loc_list = 1
+let g:syntastic_auto_loc_list = 1
+let g:syntastic_check_on_open = 0
+let g:syntastic_check_on_wq = 0
+let g:syntastic_mode_map = {'mode': 'passive', 'active_filetypes': [], 'passive_filetypes': []}
+" Use pylint to check python files.
+let g:syntastic_python_checkers = ['pylint']
+map <F5> :SyntasticToggleMode<CR> :SyntasticCheck<CR>
+" Ignore warnings about newlines trailing.
+let g:syntastic_quiet_messages = { 'regex': ['trailing-newlines', 'invalid-name',
+    \'too-many-lines', 'too-many-instance-attributes', 'too-many-public-methods',
+    \'too-many-locals', 'too-many-branches'] }
+    
+
+
+```
+
 ### 0919
 运用 实例才是学习，对每个没有实战过的所有进行实例。
 
@@ -6875,11 +7228,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDc5NDAzODEsLTE4MDkzNTQzODksLT
-I2ODE2NDQ3OSw5NDM3OTA0NDcsLTg2MzI4NzIzMiwxNTYyMTY3
-NTI5LDQ3ODAyOTE4NSwtMTY3ODA2ODk5NCwtMTM1OTQyNjEwNC
-w3MDU4MzU4NSwxNzYzNTYwNjIwLDg1MzkxMTg4OSwxMTU1OTkz
-MTMwLDk0ODg3NzgyNCwxNDYwNzAyMTk2LDc5MjcwNTUzNywtMj
-AyMzc1MzYyNiwtOTAxMzc5MzA1LC0xMzgyNjY5Mjc0LC0xMDIz
-MzI5Nzc0XX0=
+eyJoaXN0b3J5IjpbLTE2OTkzMjU1MzAsLTExNDc5NDAzODEsLT
+E4MDkzNTQzODksLTI2ODE2NDQ3OSw5NDM3OTA0NDcsLTg2MzI4
+NzIzMiwxNTYyMTY3NTI5LDQ3ODAyOTE4NSwtMTY3ODA2ODk5NC
+wtMTM1OTQyNjEwNCw3MDU4MzU4NSwxNzYzNTYwNjIwLDg1Mzkx
+MTg4OSwxMTU1OTkzMTMwLDk0ODg3NzgyNCwxNDYwNzAyMTk2LD
+c5MjcwNTUzNywtMjAyMzc1MzYyNiwtOTAxMzc5MzA1LC0xMzgy
+NjY5Mjc0XX0=
 -->
