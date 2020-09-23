@@ -1,3 +1,5 @@
+## 0923
+老天给我们最大的技能就是用不样的角度看事情，事情自然变的不一样
 ## 0922
 暂时不用的vim配置，还是用spacevim吧，水平不够别浪费生命了
 在开始自己配置插件之前，你应该至少完成了一遍 vimtutor （终端里输入 "vimtutor zh"），熟悉 vim 的基本操作，并且了解 vim script 的基本语法（ vim 里输入 :help usr_41.txt ）。
@@ -7228,11 +7230,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTkzMjU1MzAsLTExNDc5NDAzODEsLT
-E4MDkzNTQzODksLTI2ODE2NDQ3OSw5NDM3OTA0NDcsLTg2MzI4
-NzIzMiwxNTYyMTY3NTI5LDQ3ODAyOTE4NSwtMTY3ODA2ODk5NC
-wtMTM1OTQyNjEwNCw3MDU4MzU4NSwxNzYzNTYwNjIwLDg1Mzkx
-MTg4OSwxMTU1OTkzMTMwLDk0ODg3NzgyNCwxNDYwNzAyMTk2LD
-c5MjcwNTUzNywtMjAyMzc1MzYyNiwtOTAxMzc5MzA1LC0xMzgy
-NjY5Mjc0XX0=
+eyJoaXN0b3J5IjpbLTQ2Nzk4NTQ4MywtMTY5OTMyNTUzMCwtMT
+E0Nzk0MDM4MSwtMTgwOTM1NDM4OSwtMjY4MTY0NDc5LDk0Mzc5
+MDQ0NywtODYzMjg3MjMyLDE1NjIxNjc1MjksNDc4MDI5MTg1LC
+0xNjc4MDY4OTk0LC0xMzU5NDI2MTA0LDcwNTgzNTg1LDE3NjM1
+NjA2MjAsODUzOTExODg5LDExNTU5OTMxMzAsOTQ4ODc3ODI0LD
+E0NjA3MDIxOTYsNzkyNzA1NTM3LC0yMDIzNzUzNjI2LC05MDEz
+NzkzMDVdfQ==
 -->
