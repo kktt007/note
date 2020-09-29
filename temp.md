@@ -1,3 +1,8 @@
+### 0929
+https://www.androidjungles.com/vivo-flash-tool/
+http://www.mediafire.com/file/mr9xjjthsxx5lc7/AFTool_4.8.0.7z/file
+http://www.mediafire.com/file/hu3uqnrcw0b80pq/AfTool_5.1.31.zip/file
+
 ## 0923
 老天给我们最大的技能就是用不样的角度看事情，事情自然变的不一样
 力量，我需要力量，我需要外部的力量带动内部，可是身边这样的人实在太少，不知道如果没有这样的人以后该怎么办才好。
@@ -7233,11 +7238,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ1ODYzMDQ4LC0xMTIzMDI1NTI2LC00Nj
-c5ODU0ODMsLTE2OTkzMjU1MzAsLTExNDc5NDAzODEsLTE4MDkz
-NTQzODksLTI2ODE2NDQ3OSw5NDM3OTA0NDcsLTg2MzI4NzIzMi
-wxNTYyMTY3NTI5LDQ3ODAyOTE4NSwtMTY3ODA2ODk5NCwtMTM1
-OTQyNjEwNCw3MDU4MzU4NSwxNzYzNTYwNjIwLDg1MzkxMTg4OS
-wxMTU1OTkzMTMwLDk0ODg3NzgyNCwxNDYwNzAyMTk2LDc5Mjcw
-NTUzN119
+eyJoaXN0b3J5IjpbLTY3NzE3OTIxMCw3NDU4NjMwNDgsLTExMj
+MwMjU1MjYsLTQ2Nzk4NTQ4MywtMTY5OTMyNTUzMCwtMTE0Nzk0
+MDM4MSwtMTgwOTM1NDM4OSwtMjY4MTY0NDc5LDk0Mzc5MDQ0Ny
+wtODYzMjg3MjMyLDE1NjIxNjc1MjksNDc4MDI5MTg1LC0xNjc4
+MDY4OTk0LC0xMzU5NDI2MTA0LDcwNTgzNTg1LDE3NjM1NjA2Mj
+AsODUzOTExODg5LDExNTU5OTMxMzAsOTQ4ODc3ODI0LDE0NjA3
+MDIxOTZdfQ==
 -->
