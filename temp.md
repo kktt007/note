@@ -1,3 +1,45 @@
+### 1007
+# 所有的事和人整理成科学，有序，有意义，最好的自己其实只在此刻
+- 该加加 该减减 一个字 变
+
+## 要做的事
+- 不做会怎么样
+- 复习本周做过的事
+- 规划未来一个月的事
+- 有多少要做
+- 怎么调整
+
+## 不该做的事
+- 做了会怎么样
+- 是否尊重时空
+- 个人层次来决定
+- 太消耗自己的精力和热情，虽然喜欢但是该放下
+- 对牛弹琴，和别人讲自己的故事
+
+## 不能忘记的事
+- 下一秒
+- 时间在走，她带走的是生命和激情
+- 忘记会怎么样
+- 在最孤单，最烦恼，最无可奈何的时候遇到的人，听到话
+- 即将可能遇到最棘手的事
+- 让自己堕落的事
+- 让自己成长的事，不论当时是什么心情
+
+## 会忘记的事
+- 忘记了会怎么样
+- 不忘记又会怎么样
+- 应该保持的思维和情绪
+- 不停的调整自己的状态，下落了就回来，防止下落，慢慢往高处
+- 乐观，幽默，大度，风趣，礼貌，人性的复杂(不能说善恶了)
+- 让自己开心，对父母好
+- 对周围的人保持适当的距离
+
+## 应该要会的事
+- 不会所以才会有现在的自己
+- 如果会了怎么样
+
+## 不可能的事
+- 一切皆有可能
 
 ### 0929
 https://www.androidjungles.com/vivo-flash-tool/
@@ -7239,11 +7281,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MTc4NzA2NCwtNjc3MTc5MjEwLDc0NT
-g2MzA0OCwtMTEyMzAyNTUyNiwtNDY3OTg1NDgzLC0xNjk5MzI1
-NTMwLC0xMTQ3OTQwMzgxLC0xODA5MzU0Mzg5LC0yNjgxNjQ0Nz
-ksOTQzNzkwNDQ3LC04NjMyODcyMzIsMTU2MjE2NzUyOSw0Nzgw
-MjkxODUsLTE2NzgwNjg5OTQsLTEzNTk0MjYxMDQsNzA1ODM1OD
-UsMTc2MzU2MDYyMCw4NTM5MTE4ODksMTE1NTk5MzEzMCw5NDg4
-Nzc4MjRdfQ==
+eyJoaXN0b3J5IjpbMzE3Nzc2Nzk0LC02NzcxNzkyMTAsNzQ1OD
+YzMDQ4LC0xMTIzMDI1NTI2LC00Njc5ODU0ODMsLTE2OTkzMjU1
+MzAsLTExNDc5NDAzODEsLTE4MDkzNTQzODksLTI2ODE2NDQ3OS
+w5NDM3OTA0NDcsLTg2MzI4NzIzMiwxNTYyMTY3NTI5LDQ3ODAy
+OTE4NSwtMTY3ODA2ODk5NCwtMTM1OTQyNjEwNCw3MDU4MzU4NS
+wxNzYzNTYwNjIwLDg1MzkxMTg4OSwxMTU1OTkzMTMwLDk0ODg3
+NzgyNF19
 -->
