@@ -1,4 +1,7 @@
 ### 1007
+# [脚本进阶，经典用法及其案例](https://www.cnblogs.com/along21/p/7519710.html)
+https://sites.google.com/site/arlhomepage/linux/shellscript
+http://blog.itpub.net/14293828/viewspace-1447570/
 # 所有的事和人整理成科学，有序，有意义，最好的自己其实只在此刻
 - 该加加 该减减 一个字 变
 
@@ -24,7 +27,7 @@
 - 即将可能遇到最棘手的事
 - 让自己堕落的事
 - 让自己成长的事，不论当时是什么心情
-
+- 方法，思维很重要
 ## 会忘记的事
 - 忘记了会怎么样
 - 不忘记又会怎么样
@@ -7281,11 +7284,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE3Nzc2Nzk0LC02NzcxNzkyMTAsNzQ1OD
-YzMDQ4LC0xMTIzMDI1NTI2LC00Njc5ODU0ODMsLTE2OTkzMjU1
-MzAsLTExNDc5NDAzODEsLTE4MDkzNTQzODksLTI2ODE2NDQ3OS
-w5NDM3OTA0NDcsLTg2MzI4NzIzMiwxNTYyMTY3NTI5LDQ3ODAy
-OTE4NSwtMTY3ODA2ODk5NCwtMTM1OTQyNjEwNCw3MDU4MzU4NS
-wxNzYzNTYwNjIwLDg1MzkxMTg4OSwxMTU1OTkzMTMwLDk0ODg3
-NzgyNF19
+eyJoaXN0b3J5IjpbLTY0NzgwMjIwOCwzMTc3NzY3OTQsLTY3Nz
+E3OTIxMCw3NDU4NjMwNDgsLTExMjMwMjU1MjYsLTQ2Nzk4NTQ4
+MywtMTY5OTMyNTUzMCwtMTE0Nzk0MDM4MSwtMTgwOTM1NDM4OS
+wtMjY4MTY0NDc5LDk0Mzc5MDQ0NywtODYzMjg3MjMyLDE1NjIx
+Njc1MjksNDc4MDI5MTg1LC0xNjc4MDY4OTk0LC0xMzU5NDI2MT
+A0LDcwNTgzNTg1LDE3NjM1NjA2MjAsODUzOTExODg5LDExNTU5
+OTMxMzBdfQ==
 -->
