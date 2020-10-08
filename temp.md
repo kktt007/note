@@ -1,3 +1,8 @@
+## 1008
+因为活的太糊涂，所以要把自己理顺些，笨的人就得想各种办法来拯救自己
+既然要记单词，就要用单词
+既然用单词，就从内存里存入到硬盘里去，直接丢弃，那放入内存的时候浪费的时间就不值得
+
 ### 1007
 # [脚本进阶，经典用法及其案例](https://www.cnblogs.com/along21/p/7519710.html)
 https://sites.google.com/site/arlhomepage/linux/shellscript
@@ -7284,11 +7289,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NzgwMjIwOCwzMTc3NzY3OTQsLTY3Nz
-E3OTIxMCw3NDU4NjMwNDgsLTExMjMwMjU1MjYsLTQ2Nzk4NTQ4
-MywtMTY5OTMyNTUzMCwtMTE0Nzk0MDM4MSwtMTgwOTM1NDM4OS
-wtMjY4MTY0NDc5LDk0Mzc5MDQ0NywtODYzMjg3MjMyLDE1NjIx
-Njc1MjksNDc4MDI5MTg1LC0xNjc4MDY4OTk0LC0xMzU5NDI2MT
-A0LDcwNTgzNTg1LDE3NjM1NjA2MjAsODUzOTExODg5LDExNTU5
-OTMxMzBdfQ==
+eyJoaXN0b3J5IjpbLTE4MzgyMjkxMTAsLTY0NzgwMjIwOCwzMT
+c3NzY3OTQsLTY3NzE3OTIxMCw3NDU4NjMwNDgsLTExMjMwMjU1
+MjYsLTQ2Nzk4NTQ4MywtMTY5OTMyNTUzMCwtMTE0Nzk0MDM4MS
+wtMTgwOTM1NDM4OSwtMjY4MTY0NDc5LDk0Mzc5MDQ0NywtODYz
+Mjg3MjMyLDE1NjIxNjc1MjksNDc4MDI5MTg1LC0xNjc4MDY4OT
+k0LC0xMzU5NDI2MTA0LDcwNTgzNTg1LDE3NjM1NjA2MjAsODUz
+OTExODg5XX0=
 -->
