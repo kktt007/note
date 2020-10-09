@@ -1,3 +1,41 @@
+### 1009
+## awk 缩写
+
+- FS - field separator
+
+- RS - record separator
+
+- NF - number of fields
+
+- NR - number of records
+
+
+    awk 'BEGIN { FS=":" } ! /\/sbin\/nologin/ {print $1 }' /etc/passwd
+- 上面的如果不用bein也可以 FS=":" == -F":"
+- 说明动作和 语句需要用{}来 -F这样内置的不需要，
+
+shell 函数
+https://justcode.ikeepstudying.com/2016/06/linux-shell%E8%84%9A%E6%9C%AC%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%E7%B3%BB%E5%88%97%E4%B9%8B%EF%BC%88%E5%8D%81%E4%BA%94%EF%BC%89-shell%E5%87%BD%E6%95%B0%E7%AE%80%E4%BB%8B/
+
+https://www.myfreax.com/bash-functions/
+
+汇率 https://www.usd-cny.com/usd-rmb.htm
+http://longforecast.cn/
+farabeuf sharp slight curved
+dissector dura double ended
+beckman adson laminectomy
+cushing vein retractor
+
+因为活的太糊涂，所以要把自己理顺些，笨的人就得想各种办法来拯救自己
+既然要记单词，就要用单词
+既然用单词，就从内存里存入到硬盘里去，直接丢弃，那放入内存的时候浪费的时间就不值得
+
+ventricle 
+the device sits near the left ventricle of the heart.
+
+shelf
+
+
 ## 1008
 因为活的太糊涂，所以要把自己理顺些，笨的人就得想各种办法来拯救自己
 既然要记单词，就要用单词
@@ -7289,11 +7327,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzgyMjkxMTAsLTY0NzgwMjIwOCwzMT
-c3NzY3OTQsLTY3NzE3OTIxMCw3NDU4NjMwNDgsLTExMjMwMjU1
-MjYsLTQ2Nzk4NTQ4MywtMTY5OTMyNTUzMCwtMTE0Nzk0MDM4MS
-wtMTgwOTM1NDM4OSwtMjY4MTY0NDc5LDk0Mzc5MDQ0NywtODYz
-Mjg3MjMyLDE1NjIxNjc1MjksNDc4MDI5MTg1LC0xNjc4MDY4OT
-k0LC0xMzU5NDI2MTA0LDcwNTgzNTg1LDE3NjM1NjA2MjAsODUz
-OTExODg5XX0=
+eyJoaXN0b3J5IjpbMTEzNjMzNTk3OSwtMTgzODIyOTExMCwtNj
+Q3ODAyMjA4LDMxNzc3Njc5NCwtNjc3MTc5MjEwLDc0NTg2MzA0
+OCwtMTEyMzAyNTUyNiwtNDY3OTg1NDgzLC0xNjk5MzI1NTMwLC
+0xMTQ3OTQwMzgxLC0xODA5MzU0Mzg5LC0yNjgxNjQ0NzksOTQz
+NzkwNDQ3LC04NjMyODcyMzIsMTU2MjE2NzUyOSw0NzgwMjkxOD
+UsLTE2NzgwNjg5OTQsLTEzNTk0MjYxMDQsNzA1ODM1ODUsMTc2
+MzU2MDYyMF19
 -->
