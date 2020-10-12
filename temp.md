@@ -1,4 +1,5 @@
 ### 1012
+
 昨晚比较平静，也比较感性，和朋友聊了天，回望过去的n多年，其实自己真挺傻的，自己限制了自己，没有用科学，发展的眼光看问题，总是停留在初级阶段，实在是太傻了。虽然我明白这是家庭给我最好礼物，我这一生都比较安静，幸福。但是面对等下这个世界，就要不断的去守护自己的，内心，需要筑起堡垒。平凡而又不再来的活生生的每一天，值得好好度过。
 
 之前看东西总是自以为是的看，看重点，急躁，所以自己除了知道道理外，却不懂如何表达，根本就不会看书，真正的会看书是应该从书的技巧，逻辑，故事，方法，内容一起，人生短暂，学习的时候一定是能多方面的，能多复杂，就能多优秀，智慧与效率并存
@@ -7368,11 +7369,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ1MTExOTY2LC0zOTEyODEyNDIsMTEzNj
-MzNTk3OSwtMTgzODIyOTExMCwtNjQ3ODAyMjA4LDMxNzc3Njc5
-NCwtNjc3MTc5MjEwLDc0NTg2MzA0OCwtMTEyMzAyNTUyNiwtND
-Y3OTg1NDgzLC0xNjk5MzI1NTMwLC0xMTQ3OTQwMzgxLC0xODA5
-MzU0Mzg5LC0yNjgxNjQ0NzksOTQzNzkwNDQ3LC04NjMyODcyMz
-IsMTU2MjE2NzUyOSw0NzgwMjkxODUsLTE2NzgwNjg5OTQsLTEz
-NTk0MjYxMDRdfQ==
+eyJoaXN0b3J5IjpbLTE3NzAzMTkwOTIsLTM5MTI4MTI0MiwxMT
+M2MzM1OTc5LC0xODM4MjI5MTEwLC02NDc4MDIyMDgsMzE3Nzc2
+Nzk0LC02NzcxNzkyMTAsNzQ1ODYzMDQ4LC0xMTIzMDI1NTI2LC
+00Njc5ODU0ODMsLTE2OTkzMjU1MzAsLTExNDc5NDAzODEsLTE4
+MDkzNTQzODksLTI2ODE2NDQ3OSw5NDM3OTA0NDcsLTg2MzI4Nz
+IzMiwxNTYyMTY3NTI5LDQ3ODAyOTE4NSwtMTY3ODA2ODk5NCwt
+MTM1OTQyNjEwNF19
 -->
