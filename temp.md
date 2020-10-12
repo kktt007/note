@@ -39,6 +39,7 @@ Make: https://make.mk/
 多多热榜: https://www.duoduorebang.com/
 今日热榜: https://ttop5.net/to-be-slack/
 搜榜: https://www.bjsoubang.com/#/
+https://www.tuicool.com/ah/0/
 
 ### 1009
 ## awk 缩写
@@ -7369,11 +7370,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzAzMTkwOTIsLTM5MTI4MTI0MiwxMT
-M2MzM1OTc5LC0xODM4MjI5MTEwLC02NDc4MDIyMDgsMzE3Nzc2
-Nzk0LC02NzcxNzkyMTAsNzQ1ODYzMDQ4LC0xMTIzMDI1NTI2LC
-00Njc5ODU0ODMsLTE2OTkzMjU1MzAsLTExNDc5NDAzODEsLTE4
-MDkzNTQzODksLTI2ODE2NDQ3OSw5NDM3OTA0NDcsLTg2MzI4Nz
-IzMiwxNTYyMTY3NTI5LDQ3ODAyOTE4NSwtMTY3ODA2ODk5NCwt
-MTM1OTQyNjEwNF19
+eyJoaXN0b3J5IjpbLTQ5NDY1MzA2MiwtMTc3MDMxOTA5MiwtMz
+kxMjgxMjQyLDExMzYzMzU5NzksLTE4MzgyMjkxMTAsLTY0Nzgw
+MjIwOCwzMTc3NzY3OTQsLTY3NzE3OTIxMCw3NDU4NjMwNDgsLT
+ExMjMwMjU1MjYsLTQ2Nzk4NTQ4MywtMTY5OTMyNTUzMCwtMTE0
+Nzk0MDM4MSwtMTgwOTM1NDM4OSwtMjY4MTY0NDc5LDk0Mzc5MD
+Q0NywtODYzMjg3MjMyLDE1NjIxNjc1MjksNDc4MDI5MTg1LC0x
+Njc4MDY4OTk0XX0=
 -->
