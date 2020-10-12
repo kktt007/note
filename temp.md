@@ -5,6 +5,40 @@
 
 昨天看的东西才明白，久坐，久站都会有痔疮，为什么，地球有重力，地球在运动，我们的身体特性首先是受物质影响，其次才是情感影响。
 
+[vim配置python](https://www.shangmayuan.com/a/36270146685441e0b18e54ae.html)
+    - [vim学习](https://www.openvim.com)
+    - 
+
+[新闻](https://posts.careerengine.us/?&docked-header=false)
+
+[linux学习](http://www.jintiankansha.me/column/H4b23Qs0UP)
+
+[linux学习](https://www.pianshen.com/tag/linux/)
+
+[公众号新闻](https://www.ershicimi.com/a/l3wwZG3b)
+
+[网站导航](https://nav.hzwdd.cn)
+[网站导航](https://touduyu.com)
+[在线工具](https://tool.lu)
+[在线工具](https://www.dute.org)
+[在线刷题](https://www.lintcode.com/?utm_source=sc-csdn-sy0903)
+
+多摸鱼: https://bang.duomoyu.com/
+今日热榜: http://hot.mrcuriosity.org/
+今日热榜: https://tophub.today/
+今日 bb: https://news.bicido.com/#/
+比格张: https://bigezhang.com/news/zhihu
+ReadHub: https://readhub.cn/topics
+瓦斯阅读: https://wx.qnmlgb.tech/
+二十次幂: https://www.ershicimi.com/
+抽屉新热榜: https://dig.chouti.com/
+AnyKnew: https://www.anyknew.com/#/
+OhToday: http://today.songkaizong.top/
+Make: https://make.mk/
+多多热榜: https://www.duoduorebang.com/
+今日热榜: https://ttop5.net/to-be-slack/
+搜榜: https://www.bjsoubang.com/#/
+
 ### 1009
 ## awk 缩写
 
@@ -7334,11 +7368,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MTI4MTI0MiwxMTM2MzM1OTc5LC0xOD
-M4MjI5MTEwLC02NDc4MDIyMDgsMzE3Nzc2Nzk0LC02NzcxNzky
-MTAsNzQ1ODYzMDQ4LC0xMTIzMDI1NTI2LC00Njc5ODU0ODMsLT
-E2OTkzMjU1MzAsLTExNDc5NDAzODEsLTE4MDkzNTQzODksLTI2
-ODE2NDQ3OSw5NDM3OTA0NDcsLTg2MzI4NzIzMiwxNTYyMTY3NT
-I5LDQ3ODAyOTE4NSwtMTY3ODA2ODk5NCwtMTM1OTQyNjEwNCw3
-MDU4MzU4NV19
+eyJoaXN0b3J5IjpbMzQ1MTExOTY2LC0zOTEyODEyNDIsMTEzNj
+MzNTk3OSwtMTgzODIyOTExMCwtNjQ3ODAyMjA4LDMxNzc3Njc5
+NCwtNjc3MTc5MjEwLDc0NTg2MzA0OCwtMTEyMzAyNTUyNiwtND
+Y3OTg1NDgzLC0xNjk5MzI1NTMwLC0xMTQ3OTQwMzgxLC0xODA5
+MzU0Mzg5LC0yNjgxNjQ0NzksOTQzNzkwNDQ3LC04NjMyODcyMz
+IsMTU2MjE2NzUyOSw0NzgwMjkxODUsLTE2NzgwNjg5OTQsLTEz
+NTk0MjYxMDRdfQ==
 -->
