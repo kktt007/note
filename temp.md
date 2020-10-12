@@ -1,4 +1,13 @@
 ### 1012
+fwlist:
+https://github.com/hashuser/yashmak/blob/master/chinalist.json
+https://github.com/DivineEngine/Profiles/tree/master
+http://git.bet/elrepo/trojan-go/-/tree/efd37f435b963ffe2e3d1105318d6bb51409b6c6/data
+
+
+这个似乎是去广告的 https://badmojr.github.io/1Hosts/
+https://cdn.jsdelivr.net/gh/banbendalao/ADgk@latest/
+
 
 昨晚比较平静，也比较感性，和朋友聊了天，回望过去的n多年，其实自己真挺傻的，自己限制了自己，没有用科学，发展的眼光看问题，总是停留在初级阶段，实在是太傻了。虽然我明白这是家庭给我最好礼物，我这一生都比较安静，幸福。但是面对等下这个世界，就要不断的去守护自己的，内心，需要筑起堡垒。平凡而又不再来的活生生的每一天，值得好好度过。
 
@@ -7370,11 +7379,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NDY1MzA2MiwtMTc3MDMxOTA5MiwtMz
-kxMjgxMjQyLDExMzYzMzU5NzksLTE4MzgyMjkxMTAsLTY0Nzgw
-MjIwOCwzMTc3NzY3OTQsLTY3NzE3OTIxMCw3NDU4NjMwNDgsLT
-ExMjMwMjU1MjYsLTQ2Nzk4NTQ4MywtMTY5OTMyNTUzMCwtMTE0
-Nzk0MDM4MSwtMTgwOTM1NDM4OSwtMjY4MTY0NDc5LDk0Mzc5MD
-Q0NywtODYzMjg3MjMyLDE1NjIxNjc1MjksNDc4MDI5MTg1LC0x
-Njc4MDY4OTk0XX0=
+eyJoaXN0b3J5IjpbLTExMTIwNjM5NDYsLTQ5NDY1MzA2MiwtMT
+c3MDMxOTA5MiwtMzkxMjgxMjQyLDExMzYzMzU5NzksLTE4Mzgy
+MjkxMTAsLTY0NzgwMjIwOCwzMTc3NzY3OTQsLTY3NzE3OTIxMC
+w3NDU4NjMwNDgsLTExMjMwMjU1MjYsLTQ2Nzk4NTQ4MywtMTY5
+OTMyNTUzMCwtMTE0Nzk0MDM4MSwtMTgwOTM1NDM4OSwtMjY4MT
+Y0NDc5LDk0Mzc5MDQ0NywtODYzMjg3MjMyLDE1NjIxNjc1Mjks
+NDc4MDI5MTg1XX0=
 -->
