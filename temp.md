@@ -1,5 +1,6 @@
 ### 1012
 fwlist:
+https://github.com/pluwen/China-Domain-Whitelist
 https://github.com/hashuser/yashmak/blob/master/chinalist.json
 https://github.com/DivineEngine/Profiles/tree/master
 http://git.bet/elrepo/trojan-go/-/tree/efd37f435b963ffe2e3d1105318d6bb51409b6c6/data
@@ -7379,11 +7380,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTIwNjM5NDYsLTQ5NDY1MzA2MiwtMT
-c3MDMxOTA5MiwtMzkxMjgxMjQyLDExMzYzMzU5NzksLTE4Mzgy
-MjkxMTAsLTY0NzgwMjIwOCwzMTc3NzY3OTQsLTY3NzE3OTIxMC
-w3NDU4NjMwNDgsLTExMjMwMjU1MjYsLTQ2Nzk4NTQ4MywtMTY5
-OTMyNTUzMCwtMTE0Nzk0MDM4MSwtMTgwOTM1NDM4OSwtMjY4MT
-Y0NDc5LDk0Mzc5MDQ0NywtODYzMjg3MjMyLDE1NjIxNjc1Mjks
-NDc4MDI5MTg1XX0=
+eyJoaXN0b3J5IjpbLTUxMDc2ODQ5NCwtNDk0NjUzMDYyLC0xNz
+cwMzE5MDkyLC0zOTEyODEyNDIsMTEzNjMzNTk3OSwtMTgzODIy
+OTExMCwtNjQ3ODAyMjA4LDMxNzc3Njc5NCwtNjc3MTc5MjEwLD
+c0NTg2MzA0OCwtMTEyMzAyNTUyNiwtNDY3OTg1NDgzLC0xNjk5
+MzI1NTMwLC0xMTQ3OTQwMzgxLC0xODA5MzU0Mzg5LC0yNjgxNj
+Q0NzksOTQzNzkwNDQ3LC04NjMyODcyMzIsMTU2MjE2NzUyOSw0
+NzgwMjkxODVdfQ==
 -->
