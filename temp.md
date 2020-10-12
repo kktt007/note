@@ -1,3 +1,10 @@
+### 1012
+昨晚比较平静，也比较感性，和朋友聊了天，回望过去的n多年，其实自己真挺傻的，自己限制了自己，没有用科学，发展的眼光看问题，总是停留在初级阶段，实在是太傻了。虽然我明白这是家庭给我最好礼物，我这一生都比较安静，幸福。但是面对等下这个世界，就要不断的去守护自己的，内心，需要筑起堡垒。平凡而又不再来的活生生的每一天，值得好好度过。
+
+之前看东西总是自以为是的看，看重点，急躁，所以自己除了知道道理外，却不懂如何表达，根本就不会看书，真正的会看书是应该从书的技巧，逻辑，故事，方法，内容一起，人生短暂，学习的时候一定是能多方面的，能多复杂，就能多优秀，智慧与效率并存
+
+昨天看的东西才明白，久坐，久站都会有痔疮，为什么，地球有重力，地球在运动，我们的身体特性首先是受物质影响，其次才是情感影响。
+
 ### 1009
 ## awk 缩写
 
@@ -7327,11 +7334,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNjMzNTk3OSwtMTgzODIyOTExMCwtNj
-Q3ODAyMjA4LDMxNzc3Njc5NCwtNjc3MTc5MjEwLDc0NTg2MzA0
-OCwtMTEyMzAyNTUyNiwtNDY3OTg1NDgzLC0xNjk5MzI1NTMwLC
-0xMTQ3OTQwMzgxLC0xODA5MzU0Mzg5LC0yNjgxNjQ0NzksOTQz
-NzkwNDQ3LC04NjMyODcyMzIsMTU2MjE2NzUyOSw0NzgwMjkxOD
-UsLTE2NzgwNjg5OTQsLTEzNTk0MjYxMDQsNzA1ODM1ODUsMTc2
-MzU2MDYyMF19
+eyJoaXN0b3J5IjpbLTM5MTI4MTI0MiwxMTM2MzM1OTc5LC0xOD
+M4MjI5MTEwLC02NDc4MDIyMDgsMzE3Nzc2Nzk0LC02NzcxNzky
+MTAsNzQ1ODYzMDQ4LC0xMTIzMDI1NTI2LC00Njc5ODU0ODMsLT
+E2OTkzMjU1MzAsLTExNDc5NDAzODEsLTE4MDkzNTQzODksLTI2
+ODE2NDQ3OSw5NDM3OTA0NDcsLTg2MzI4NzIzMiwxNTYyMTY3NT
+I5LDQ3ODAyOTE4NSwtMTY3ODA2ODk5NCwtMTM1OTQyNjEwNCw3
+MDU4MzU4NV19
 -->
