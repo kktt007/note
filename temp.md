@@ -1,3 +1,170 @@
+### 1014
+脑子里的是tip，正在看到东西用眼睛明锐的观察，脑子敏锐的感知，再看看别人的技巧和坑(技巧是自己没用上的方法，坑也是不敏锐造成的)
+
+总之通过各种方法来提高效率，速度，力量，减少无用的招数
+
+  
+
+[参考](https://www.cnblogs.com/tongye/p/9707590.html)
+
+https://www.cnblogs.com/lonelywolfmoutain/p/5950439.html
+
+https://www.jb51.net/article/60328.htm
+
+https://blog.csdn.net/weixin_34228662/article/details/91536891
+
+  
+
+##风格: 空格 引号
+
+bash 坑
+
+  
+
+###  空格
+
+规则 不能 注意事项 注意空格 空格的那点事
+
+  
+
+不能有空格: 变量名=值, 变量名+$来取值
+
+a=1
+
+  
+
+需要空格:
+
+command 选项
+
+| 需要的理由:|不明显，需要空格突出，除了赋值不要，其余操作符需要突出
+
+参数之间必须有空格
+
+  
+
+###  引号
+
+单引和双引
+
+单引号: 中的特殊字符失去了特殊含义
+
+双引号: $ `(反引号) \(转义符) 有含义，其余失去特殊含义, 功能累死 $(...)，尽量替代 ```
+
+- 反引号"`": 引用系统命令,内容会被优先执行
+
+###  变量
+
+- 用户变量
+
+- 环境变量:通常是大写字母
+
+| 表达式 | 说明 |
+
+| -------------- | -------------------------------------------------------- |
+
+| expr1 \| expr2 | 若 expr1 非零，则等于 expr1 ，否则等于 expr2。 |
+
+| expr1 & expr2 | 只要有一个表达式为零，则等于零，否则等于 expr1。 |
+
+| expr1 = expr2 | 等于（与 == 是同义的），若两式相等则结果为1，不等结果为0 |
+
+| expr1 > expr2 | 大于 |
+
+| expr1 >= expr2 | 大于等于 |
+
+| expr1 < expr2 | 小于 |
+
+| expr1 <= expr2 | 小于等于 |
+
+| expr1 != expr2 | 不等于 |
+
+| expr1 + expr2 | 加 |
+
+| expr1 - expr2 | 减 |
+
+| expr1 * expr2 | 乘 |
+
+| expr1 / expr2 | 整除 |
+
+| expr1 % expr2 | 取余 |
+
+  
+  
+  
+
+关于markdown格式:
+
+  
+
+md空格: 看下一行，下一行非#(标题) -*(序数)，就需要，基本需要加2个空格，下面有序数，不需要
+
+  
+
+空行:用于需要确定是否有紧凑感，段落需要完成后需要，分子级后需要到下一个父级，则需要加。 平级间不需要空行。进入下一段需要加。
+
+  
+
+缩进:下分多个级,解释说明就需要缩进，所谓缩进不是指2或4个空格，而是缩到齐平上一层级开始写文字的地方，所谓齐平是起始的符号和前面的一列.
+
+所以缩进就是，有格式符号的，符号缩进到对齐前面的文字；没符号的文字对齐前面的文字。 (以前面文字为准)
+
+  
+
+以下作为参考
+
+层级标题下不需要缩进，也不需要空行。
+
+  
+
+列表和区块配合可能需要一个代码块的缩进(参考https://www.jianshu.com/p/335db5716248)
+
+  
+
+###  网络命令
+
+* 查看无线网络接口
+
+`ls /sys/class/net`  `ip`
+
+* `nmcli` 查看所有网络接口 修改NetworkManager的DHCP或静态IP
+
+1. `nmcli general` 查看是否与 NetworkManager 通信
+
+1. `nmcli connection show` 列出内存或磁盘上的网络连接配置
+
+2. 添加网络连接
+
+- 比如连接 enp2s0
+
+- `sudo nmcli connection add type ethernet ifname enp2s0` 其中 `type` 选项指定需要一个 [Ethernet](https://en.wikipedia.org/wiki/Ethernet) 类型的连接，而 `ifname` （接口名）选项指定你想要为这个连接使用的网络接口设备。
+
+- 查看激活状态 `nmcli connection show --active`
+
+- 设置静态ip 需要4步完成
+
+1. `nmcli connection modify ethernet-enp2s0 ipv4.address 192.168.1.12/24`
+
+2. `nmcli connection modify ethernet-enp2s0 ipv4.method manual` 完成以上地址
+
+3. `nmcli connection down ethernet-enp2s0` 停用连接
+
+4. `nmcli connection up ethernet-enp2s0` 启用(这里和下面加上一个空格比较好)
+
+  
+
+- 将静态ip设置为DHCP模式
+
+`nmcli connection modify ethernet-enp0s8 ipv4.method auto`
+
+- 检查所有网络接口 nmcli的子命令
+
+`device`
+
+- 检查某个接口
+
+`nmcli`
+
 ### 1012
 fwlist:
 https://github.com/pluwen/China-Domain-Whitelist
@@ -7380,11 +7547,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMDc2ODQ5NCwtNDk0NjUzMDYyLC0xNz
-cwMzE5MDkyLC0zOTEyODEyNDIsMTEzNjMzNTk3OSwtMTgzODIy
-OTExMCwtNjQ3ODAyMjA4LDMxNzc3Njc5NCwtNjc3MTc5MjEwLD
-c0NTg2MzA0OCwtMTEyMzAyNTUyNiwtNDY3OTg1NDgzLC0xNjk5
-MzI1NTMwLC0xMTQ3OTQwMzgxLC0xODA5MzU0Mzg5LC0yNjgxNj
-Q0NzksOTQzNzkwNDQ3LC04NjMyODcyMzIsMTU2MjE2NzUyOSw0
-NzgwMjkxODVdfQ==
+eyJoaXN0b3J5IjpbMjkyMzA2MDQzLC01MTA3Njg0OTQsLTQ5ND
+Y1MzA2MiwtMTc3MDMxOTA5MiwtMzkxMjgxMjQyLDExMzYzMzU5
+NzksLTE4MzgyMjkxMTAsLTY0NzgwMjIwOCwzMTc3NzY3OTQsLT
+Y3NzE3OTIxMCw3NDU4NjMwNDgsLTExMjMwMjU1MjYsLTQ2Nzk4
+NTQ4MywtMTY5OTMyNTUzMCwtMTE0Nzk0MDM4MSwtMTgwOTM1ND
+M4OSwtMjY4MTY0NDc5LDk0Mzc5MDQ0NywtODYzMjg3MjMyLDE1
+NjIxNjc1MjldfQ==
 -->
