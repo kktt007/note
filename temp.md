@@ -1,3 +1,8 @@
+### 1015
+什么是现实，
+现实是真的，是残酷的，是不会骗人的，而我们却不信，做个真实的人，成就理想，一切一切最美妙的一切，都来自于现实，而我们每天都在却看不到，这就是人类的无知，软弱吗。我想是的，我们是什么样的人，在现实中得到了验证。还好有时间，我们有机会去改变，所谓的运气固然不是人力所能，但是这不是我们的范畴，我们要做的是自己，要 完成的是目标，是任务是打破这现实对我们心灵赤裸裸的伤害。
+所以呢，超越现实中一切对自己的伤害，与现实为伍，是我往后最要紧的事
+
 ### 1014
 昨晚路由设置刷系统教程:
 昨天sudo mount /dev/sdb1 /mnt:
@@ -7557,11 +7562,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMDMzMzA1OSwyOTIzMDYwNDMsLTUxMD
-c2ODQ5NCwtNDk0NjUzMDYyLC0xNzcwMzE5MDkyLC0zOTEyODEy
-NDIsMTEzNjMzNTk3OSwtMTgzODIyOTExMCwtNjQ3ODAyMjA4LD
-MxNzc3Njc5NCwtNjc3MTc5MjEwLDc0NTg2MzA0OCwtMTEyMzAy
-NTUyNiwtNDY3OTg1NDgzLC0xNjk5MzI1NTMwLC0xMTQ3OTQwMz
-gxLC0xODA5MzU0Mzg5LC0yNjgxNjQ0NzksOTQzNzkwNDQ3LC04
-NjMyODcyMzJdfQ==
+eyJoaXN0b3J5IjpbNDI5MjE1NjU5LC00MjAzMzMwNTksMjkyMz
+A2MDQzLC01MTA3Njg0OTQsLTQ5NDY1MzA2MiwtMTc3MDMxOTA5
+MiwtMzkxMjgxMjQyLDExMzYzMzU5NzksLTE4MzgyMjkxMTAsLT
+Y0NzgwMjIwOCwzMTc3NzY3OTQsLTY3NzE3OTIxMCw3NDU4NjMw
+NDgsLTExMjMwMjU1MjYsLTQ2Nzk4NTQ4MywtMTY5OTMyNTUzMC
+wtMTE0Nzk0MDM4MSwtMTgwOTM1NDM4OSwtMjY4MTY0NDc5LDk0
+Mzc5MDQ0N119
 -->
