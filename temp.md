@@ -1,4 +1,14 @@
 ### 1014
+昨晚路由设置刷系统教程:
+昨天sudo mount /dev/sdb1 /mnt:
+显示/dev/sdb1 already mounted on /run/archiso/bootmnt
+
+所以果然在/run/archiso/bootmnt下发现了根目录文件
+
+lsblk可以查看并且验证
+然后dd 写入即可
+
+
 脑子里的是tip，正在看到东西用眼睛明锐的观察，脑子敏锐的感知，再看看别人的技巧和坑(技巧是自己没用上的方法，坑也是不敏锐造成的)
 
 总之通过各种方法来提高效率，速度，力量，减少无用的招数
@@ -7547,11 +7557,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkyMzA2MDQzLC01MTA3Njg0OTQsLTQ5ND
-Y1MzA2MiwtMTc3MDMxOTA5MiwtMzkxMjgxMjQyLDExMzYzMzU5
-NzksLTE4MzgyMjkxMTAsLTY0NzgwMjIwOCwzMTc3NzY3OTQsLT
-Y3NzE3OTIxMCw3NDU4NjMwNDgsLTExMjMwMjU1MjYsLTQ2Nzk4
-NTQ4MywtMTY5OTMyNTUzMCwtMTE0Nzk0MDM4MSwtMTgwOTM1ND
-M4OSwtMjY4MTY0NDc5LDk0Mzc5MDQ0NywtODYzMjg3MjMyLDE1
-NjIxNjc1MjldfQ==
+eyJoaXN0b3J5IjpbLTQyMDMzMzA1OSwyOTIzMDYwNDMsLTUxMD
+c2ODQ5NCwtNDk0NjUzMDYyLC0xNzcwMzE5MDkyLC0zOTEyODEy
+NDIsMTEzNjMzNTk3OSwtMTgzODIyOTExMCwtNjQ3ODAyMjA4LD
+MxNzc3Njc5NCwtNjc3MTc5MjEwLDc0NTg2MzA0OCwtMTEyMzAy
+NTUyNiwtNDY3OTg1NDgzLC0xNjk5MzI1NTMwLC0xMTQ3OTQwMz
+gxLC0xODA5MzU0Mzg5LC0yNjgxNjQ0NzksOTQzNzkwNDQ3LC04
+NjMyODcyMzJdfQ==
 -->
