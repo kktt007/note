@@ -1,3 +1,34 @@
+### 1016
+archlinux源添加多个 优先排序
+archlinuxcn源只能添加一个
+yay源
+yay --aururl “https://aur.tuna.tsinghua.edu.cn” --save
+https://www.fatalerrors.org/a/manjaro-personal-new-outfit.html
+
+https://peng.likehere.me
+
+备份系统 https://github.com/lra/mackup
+https://leay.net/2019/12/18/manjaro/
+
+$ exit
+#先把挂载的分区都卸载了
+ PS：挂载的分区都得卸载了，不然可能遇到重启卡死的问题...
+$ umount /mnt/boot
+$ umount /mnt
+ $ umount /mnt/home
+$ reboot
+
+首先检查本机是否存在 SSH keys
+
+id_rsa
+id_rsa.pub
+ls ~/.ssh
+id_rsa  id_rsa.pub
+
+
+一本好入门教材->一本linux指令参考手册->linux系统管理手册->讲解linux系统原理的书.
+
+
 ### 1015
 什么是现实，
 现实是真的，是残酷的，是不会骗人的，而我们却不信，做个真实的人，成就理想，一切一切最美妙的一切，都来自于现实，而我们每天都在却看不到，这就是人类的无知，软弱吗。我想是的，我们是什么样的人，在现实中得到了验证。还好有时间，我们有机会去改变，所谓的运气固然不是人力所能，但是这不是我们的范畴，我们要做的是自己，要 完成的是目标，是任务是打破这现实对我们心灵赤裸裸的伤害。
@@ -7565,11 +7596,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDEyOTgwNTcsNDg2NjMxNzUzLDQyOT
-IxNTY1OSwtNDIwMzMzMDU5LDI5MjMwNjA0MywtNTEwNzY4NDk0
-LC00OTQ2NTMwNjIsLTE3NzAzMTkwOTIsLTM5MTI4MTI0MiwxMT
-M2MzM1OTc5LC0xODM4MjI5MTEwLC02NDc4MDIyMDgsMzE3Nzc2
-Nzk0LC02NzcxNzkyMTAsNzQ1ODYzMDQ4LC0xMTIzMDI1NTI2LC
-00Njc5ODU0ODMsLTE2OTkzMjU1MzAsLTExNDc5NDAzODEsLTE4
-MDkzNTQzODldfQ==
+eyJoaXN0b3J5IjpbMTY1OTgxOTQ4OSwtMTQ0MTI5ODA1Nyw0OD
+Y2MzE3NTMsNDI5MjE1NjU5LC00MjAzMzMwNTksMjkyMzA2MDQz
+LC01MTA3Njg0OTQsLTQ5NDY1MzA2MiwtMTc3MDMxOTA5MiwtMz
+kxMjgxMjQyLDExMzYzMzU5NzksLTE4MzgyMjkxMTAsLTY0Nzgw
+MjIwOCwzMTc3NzY3OTQsLTY3NzE3OTIxMCw3NDU4NjMwNDgsLT
+ExMjMwMjU1MjYsLTQ2Nzk4NTQ4MywtMTY5OTMyNTUzMCwtMTE0
+Nzk0MDM4MV19
 -->
