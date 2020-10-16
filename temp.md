@@ -27,7 +27,8 @@ id_rsa  id_rsa.pub
 
 
 一本好入门教材->一本linux指令参考手册->linux系统管理手册->讲解linux系统原理的书.
-
+https://dev.to/john_sunny/10-best-linux-command-line-books-for-beginners-experts-1621
+https://itsfoss.com/learn-linux-for-free/
 
 ### 1015
 什么是现实，
@@ -7596,11 +7597,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1OTgxOTQ4OSwtMTQ0MTI5ODA1Nyw0OD
-Y2MzE3NTMsNDI5MjE1NjU5LC00MjAzMzMwNTksMjkyMzA2MDQz
-LC01MTA3Njg0OTQsLTQ5NDY1MzA2MiwtMTc3MDMxOTA5MiwtMz
-kxMjgxMjQyLDExMzYzMzU5NzksLTE4MzgyMjkxMTAsLTY0Nzgw
-MjIwOCwzMTc3NzY3OTQsLTY3NzE3OTIxMCw3NDU4NjMwNDgsLT
-ExMjMwMjU1MjYsLTQ2Nzk4NTQ4MywtMTY5OTMyNTUzMCwtMTE0
-Nzk0MDM4MV19
+eyJoaXN0b3J5IjpbMTAxMTgyMDY4LDE2NTk4MTk0ODksLTE0ND
+EyOTgwNTcsNDg2NjMxNzUzLDQyOTIxNTY1OSwtNDIwMzMzMDU5
+LDI5MjMwNjA0MywtNTEwNzY4NDk0LC00OTQ2NTMwNjIsLTE3Nz
+AzMTkwOTIsLTM5MTI4MTI0MiwxMTM2MzM1OTc5LC0xODM4MjI5
+MTEwLC02NDc4MDIyMDgsMzE3Nzc2Nzk0LC02NzcxNzkyMTAsNz
+Q1ODYzMDQ4LC0xMTIzMDI1NTI2LC00Njc5ODU0ODMsLTE2OTkz
+MjU1MzBdfQ==
 -->
