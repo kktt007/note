@@ -1,6 +1,6 @@
 ### 1017
 Pdf阅读最好的是平板系列(9.7以上级别)，屏幕勾搭，且系统省电系列，轻便。
-ipad 2020和surface go,考虑到vivaldi这个浏览器，我最终选择windows系列...
+ipad 2020和surface go,考虑到vivaldi这个浏览器
 
 安卓系的后期卡顿是个问题
 
@@ -7603,11 +7603,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMjQ5NjQ5Niw0NjYyODQ5MjcsMTAxMT
-gyMDY4LDE2NTk4MTk0ODksLTE0NDEyOTgwNTcsNDg2NjMxNzUz
-LDQyOTIxNTY1OSwtNDIwMzMzMDU5LDI5MjMwNjA0MywtNTEwNz
-Y4NDk0LC00OTQ2NTMwNjIsLTE3NzAzMTkwOTIsLTM5MTI4MTI0
-MiwxMTM2MzM1OTc5LC0xODM4MjI5MTEwLC02NDc4MDIyMDgsMz
-E3Nzc2Nzk0LC02NzcxNzkyMTAsNzQ1ODYzMDQ4LC0xMTIzMDI1
-NTI2XX0=
+eyJoaXN0b3J5IjpbMTQ1MDY1NTE4MCwxODIyNDk2NDk2LDQ2Nj
+I4NDkyNywxMDExODIwNjgsMTY1OTgxOTQ4OSwtMTQ0MTI5ODA1
+Nyw0ODY2MzE3NTMsNDI5MjE1NjU5LC00MjAzMzMwNTksMjkyMz
+A2MDQzLC01MTA3Njg0OTQsLTQ5NDY1MzA2MiwtMTc3MDMxOTA5
+MiwtMzkxMjgxMjQyLDExMzYzMzU5NzksLTE4MzgyMjkxMTAsLT
+Y0NzgwMjIwOCwzMTc3NzY3OTQsLTY3NzE3OTIxMCw3NDU4NjMw
+NDhdfQ==
 -->
