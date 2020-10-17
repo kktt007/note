@@ -6,7 +6,7 @@ surface系统也是问题，所以选苹果吧
 安卓系的后期卡顿是个问题
 
 手机肯定是安卓系
-电脑是linux
+电脑是linux系，(除非办公用windows系)，苹果系也是个选择
 
 ### 1016
 archlinux源添加多个 优先排序
@@ -7607,7 +7607,7 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzE3MTYyNDMsMjAyNTQwMDgzMiw4MD
+eyJoaXN0b3J5IjpbLTE0NDA3NDc5NjEsMjAyNTQwMDgzMiw4MD
 Y2Mjk3MTUsMTgyMjQ5NjQ5Niw0NjYyODQ5MjcsMTAxMTgyMDY4
 LDE2NTk4MTk0ODksLTE0NDEyOTgwNTcsNDg2NjMxNzUzLDQyOT
 IxNTY1OSwtNDIwMzMzMDU5LDI5MjMwNjA0MywtNTEwNzY4NDk0
