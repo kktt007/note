@@ -1,3 +1,33 @@
+### 10.27
+我深深的明白
+底色是悲凉的
+道路是曲折的
+前途是为知的
+人生当然要靠自我奋斗
+过去的事告诉我
+所有一切遭遇都是如此安静的发生了
+当下的一切回望
+都是一场自我觉醒自我奋斗
+同时伴随着喜欢和讨厌的
+综合来看我还是没活明白
+
+技巧网站
+https://tonsky.me/blog/cursor-keys/
+
+https://mycodetips.com/category/tipstricks
+
+https://medium.com/better-programming/21-vscode-shortcuts-to-make-coding-faster-and-more-fun-b18b25083def
+
+https://ihatetomatoes.net/vscode-tips-select-everything-between-brackets-quotes/
+
+https://jsmanifest.com/21-vscode-shortcuts-to-code-faster-and-funner/
+
+https://blog.logrocket.com/learn-these-keyboard-shortcuts-to-become-a-vs-code-ninja/
+
+https://ihatetomatoes.net/vscode-tips-select-everything-between-brackets-quotes/
+
+how to set left right
+
 ### 1017
 Pdf阅读最好的是平板系列(9.7以上级别)，屏幕勾搭，且系统省电系列，轻便。
 ipad 2020和surface go, 
@@ -7608,11 +7638,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkwMjMyMjgzLDE4Mjg2NTIwMTUsLTE0ND
-A3NDc5NjEsMjAyNTQwMDgzMiw4MDY2Mjk3MTUsMTgyMjQ5NjQ5
-Niw0NjYyODQ5MjcsMTAxMTgyMDY4LDE2NTk4MTk0ODksLTE0ND
-EyOTgwNTcsNDg2NjMxNzUzLDQyOTIxNTY1OSwtNDIwMzMzMDU5
-LDI5MjMwNjA0MywtNTEwNzY4NDk0LC00OTQ2NTMwNjIsLTE3Nz
-AzMTkwOTIsLTM5MTI4MTI0MiwxMTM2MzM1OTc5LC0xODM4MjI5
-MTEwXX0=
+eyJoaXN0b3J5IjpbMTcxMjgwMTk4Miw1OTAyMzIyODMsMTgyOD
+Y1MjAxNSwtMTQ0MDc0Nzk2MSwyMDI1NDAwODMyLDgwNjYyOTcx
+NSwxODIyNDk2NDk2LDQ2NjI4NDkyNywxMDExODIwNjgsMTY1OT
+gxOTQ4OSwtMTQ0MTI5ODA1Nyw0ODY2MzE3NTMsNDI5MjE1NjU5
+LC00MjAzMzMwNTksMjkyMzA2MDQzLC01MTA3Njg0OTQsLTQ5ND
+Y1MzA2MiwtMTc3MDMxOTA5MiwtMzkxMjgxMjQyLDExMzYzMzU5
+NzldfQ==
 -->
