@@ -1,3 +1,83 @@
+### 11.4
+move character by character without arrows 
+
+最快的解决办法 
+已有的问题解决方案的重新组合
+vim 按键
+vscode 编辑器
+
+看任何教程都是有前提的，如果需要完全看懂，需要掌握所有教程需要的必备知识，
+如果需要看懂需要用到的部分，就需要掌握相应的。
+需要是都看懂了，那教程就是用来完善自己的。
+
+不要只看到自己所需要的，可能问题不止一点，需要补充的部分还有很多。
+
+起因是因为   
+move character by character without arrows 
+
+https://medium.com/medvine/increase-coding-productivity-with-vscode-vim-a101d5772cd0 
+
+https://dev.to/designpuddle/27-no-frills-keyboard-shortcuts-every-developer-should-follow-4jd
+
+Use h j k l for moving cursor. instead of arrow key vscode
+
+https://shortcutworld.com快捷世界
+https://wiki.archlinux.org/index.php/Keyboard_shortcuts 快捷设置
+https://medium.com/better-humans/how-to-setup-your-windows-global-hotkeys-in-10-minutes-becc40ff492
+
+技巧https://zellwk.com/blog/useful-vscode-keyboard-shortcuts/
+
+https://johtela.github.io/vscode-modaledit/docs/tutorial.html#jumping-to-start-end-of-line
+
+https://github.com/metaseed/metago
+
+https://dev.to/vintharas/moving-blazingly-fast-with-the-code-vim-motions-2i1n
+
+https://vscode-docs.readthedocs.io/en/latest/customization/keybindings/#navigation
+https://shortcutworld.com/Vim/linux/Vim_Shortcuts
+
+https://zellwk.com/blog/useful-vscode-keyboard-shortcuts/
+
+cursor movement vscode with h j k l
+
+https://sanctum.geek.nz/arabesque/avoiding-the-arrow-keys/
+
+
+https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/cheatsheet/
+
+https://medium.com/td-lab/a-little-boost-in-productivity-with-vim-and-visual-studio-code-957d7702fe26
+
+https://vimsheet.com
+
+https://masteringemacs.org/article/effective-editing-movement
+
+https://www.reddit.com/r/vscode/comments/5y0ca9/how_to_navigate_code_without_moving_your_hands/
+
+https://www.ronaldjamesgroup.com/blog/10-vim-vscode-tips-that-will-supercharge-your-productivity-by-james-baldwin
+
+
+https://command-lab.com/10-vscode-shortcuts-that-you-can-lose-without-knowing/
+
+
+https://switowski.com/blog/18-plugins-for-python-in-vscode
+
+https://www.freecodecamp.org/news/here-are-some-super-secret-vs-code-hacks-to-boost-your-productivity-20d30197ac76/
+
+
+
+
+emulate 原来是这意思
+
+He hoped to emulate the success of Wilder.
+
+问题和答案
+ Map Ctrl-f To Move Forward A Character In VS Code
+ 
+https://danielmiessler.com/study/vim/#moving
+
+https://stackoverflow.com/questions/47903209/how-to-shift-a-block-of-code-left-right-by-one-space-in-vscode
+
+https://marketplace.visualstudio.com/items?itemName=usernamehw.indent-one-space
 ### 10.27
 我深深的明白
 底色是悲凉的
@@ -7638,11 +7718,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMjgwMTk4Miw1OTAyMzIyODMsMTgyOD
-Y1MjAxNSwtMTQ0MDc0Nzk2MSwyMDI1NDAwODMyLDgwNjYyOTcx
-NSwxODIyNDk2NDk2LDQ2NjI4NDkyNywxMDExODIwNjgsMTY1OT
-gxOTQ4OSwtMTQ0MTI5ODA1Nyw0ODY2MzE3NTMsNDI5MjE1NjU5
-LC00MjAzMzMwNTksMjkyMzA2MDQzLC01MTA3Njg0OTQsLTQ5ND
-Y1MzA2MiwtMTc3MDMxOTA5MiwtMzkxMjgxMjQyLDExMzYzMzU5
-NzldfQ==
+eyJoaXN0b3J5IjpbLTE2ODI3MDM1NjcsMTcxMjgwMTk4Miw1OT
+AyMzIyODMsMTgyODY1MjAxNSwtMTQ0MDc0Nzk2MSwyMDI1NDAw
+ODMyLDgwNjYyOTcxNSwxODIyNDk2NDk2LDQ2NjI4NDkyNywxMD
+ExODIwNjgsMTY1OTgxOTQ4OSwtMTQ0MTI5ODA1Nyw0ODY2MzE3
+NTMsNDI5MjE1NjU5LC00MjAzMzMwNTksMjkyMzA2MDQzLC01MT
+A3Njg0OTQsLTQ5NDY1MzA2MiwtMTc3MDMxOTA5MiwtMzkxMjgx
+MjQyXX0=
 -->
