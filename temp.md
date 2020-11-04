@@ -1,6 +1,4 @@
 ### 11.4
-move character by character without arrows 
-
 最快的解决办法 
 已有的问题解决方案的重新组合
 vim 按键
@@ -20,6 +18,12 @@ https://medium.com/medvine/increase-coding-productivity-with-vscode-vim-a101d577
 https://dev.to/designpuddle/27-no-frills-keyboard-shortcuts-every-developer-should-follow-4jd
 
 Use h j k l for moving cursor. instead of arrow key vscode
+
+不错不错，这是我要的
+https://github.com/JakubNer/autokey-autohotkey-vim-nav
+https://github.com/madslundt/keybindings
+https://www.autohotkey.com/docs/misc/Remap.htm
+下载ahk
 
 https://shortcutworld.com快捷世界
 https://wiki.archlinux.org/index.php/Keyboard_shortcuts 快捷设置
@@ -78,6 +82,15 @@ https://danielmiessler.com/study/vim/#moving
 https://stackoverflow.com/questions/47903209/how-to-shift-a-block-of-code-left-right-by-one-space-in-vscode
 
 https://marketplace.visualstudio.com/items?itemName=usernamehw.indent-one-space
+
+foam a mass of very small bubbles formed on the surface of a liquid
+
+bubble a ball of air or gas in a liquid
+
+froth a mass of small air bubbles that form on the surface of a liquid
+记忆的前提是理解
+记忆的后续是运用
+记忆的过程是理解和实例
 ### 10.27
 我深深的明白
 底色是悲凉的
@@ -7718,11 +7731,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODI3MDM1NjcsMTcxMjgwMTk4Miw1OT
-AyMzIyODMsMTgyODY1MjAxNSwtMTQ0MDc0Nzk2MSwyMDI1NDAw
-ODMyLDgwNjYyOTcxNSwxODIyNDk2NDk2LDQ2NjI4NDkyNywxMD
-ExODIwNjgsMTY1OTgxOTQ4OSwtMTQ0MTI5ODA1Nyw0ODY2MzE3
-NTMsNDI5MjE1NjU5LC00MjAzMzMwNTksMjkyMzA2MDQzLC01MT
-A3Njg0OTQsLTQ5NDY1MzA2MiwtMTc3MDMxOTA5MiwtMzkxMjgx
-MjQyXX0=
+eyJoaXN0b3J5IjpbLTcyMDcxMjMyMCwtMTY4MjcwMzU2NywxNz
+EyODAxOTgyLDU5MDIzMjI4MywxODI4NjUyMDE1LC0xNDQwNzQ3
+OTYxLDIwMjU0MDA4MzIsODA2NjI5NzE1LDE4MjI0OTY0OTYsND
+Y2Mjg0OTI3LDEwMTE4MjA2OCwxNjU5ODE5NDg5LC0xNDQxMjk4
+MDU3LDQ4NjYzMTc1Myw0MjkyMTU2NTksLTQyMDMzMzA1OSwyOT
+IzMDYwNDMsLTUxMDc2ODQ5NCwtNDk0NjUzMDYyLC0xNzcwMzE5
+MDkyXX0=
 -->
