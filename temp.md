@@ -27,6 +27,8 @@ thriving \ ˈthrī-viŋ
 The dog is thriving in its new home.
 
 rinse
+
+其实那天上台开始，我就知道自己在众人中举行了成人仪式，我必须要在言行举止，说话赚钱等各方面用最高的智慧，能力，去完成自己看似平凡，又因为我而伟大的生活。
 ### 11.4
 最快的解决办法 
 已有的问题解决方案的重新组合
@@ -7760,11 +7762,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTM1NzU3MTEsLTcyMDcxMjMyMCwtMT
-Y4MjcwMzU2NywxNzEyODAxOTgyLDU5MDIzMjI4MywxODI4NjUy
-MDE1LC0xNDQwNzQ3OTYxLDIwMjU0MDA4MzIsODA2NjI5NzE1LD
-E4MjI0OTY0OTYsNDY2Mjg0OTI3LDEwMTE4MjA2OCwxNjU5ODE5
-NDg5LC0xNDQxMjk4MDU3LDQ4NjYzMTc1Myw0MjkyMTU2NTksLT
-QyMDMzMzA1OSwyOTIzMDYwNDMsLTUxMDc2ODQ5NCwtNDk0NjUz
-MDYyXX0=
+eyJoaXN0b3J5IjpbLTc3NzAwNDA1LC0yMTEzNTc1NzExLC03Mj
+A3MTIzMjAsLTE2ODI3MDM1NjcsMTcxMjgwMTk4Miw1OTAyMzIy
+ODMsMTgyODY1MjAxNSwtMTQ0MDc0Nzk2MSwyMDI1NDAwODMyLD
+gwNjYyOTcxNSwxODIyNDk2NDk2LDQ2NjI4NDkyNywxMDExODIw
+NjgsMTY1OTgxOTQ4OSwtMTQ0MTI5ODA1Nyw0ODY2MzE3NTMsND
+I5MjE1NjU5LC00MjAzMzMwNTksMjkyMzA2MDQzLC01MTA3Njg0
+OTRdfQ==
 -->
