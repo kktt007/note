@@ -1,3 +1,32 @@
+### 11.5
+[cvim 插件使用教程](chrome-extension://ihlenndgcmojhcghmfjfneahoeklbjjh/pages/mappings.html)
+
+- [政治](https://baike.baidu.com/item/政治)  \ ˈpä-lə-ˌtiks
+是指政府、政党等治理国家的行为。政治是以经济为基础的上层建筑，是经济的集中表现，是以国家权力为核心展开的各种社会活动和社会关系的总和。政治是牵动社会全体成员的利益并支配其行为的社会力量。
+
+政治一词最早出现在荷马史诗中
+荷马史诗 记录了迈锡尼文明 
+
+一个人说什么话，代表了他知道当前事物和整个世界的理解。所以不是所有话都正确，只是他对这个世界个人的理解而已。
+
+最近交易的客户有说明注意事项。需要 沟通维护的。之前客户需要挖掘的。
+
+- troy \ ˈtrȯi 特洛伊
+
+小亚细亚半岛(Asia Minor Peninsula) 亚洲西部半岛。位于土耳其境内。
+minor  \ ˈmī-nər
+Peninsula  \ pə-ˈnin(t)-s(ə-)lə
+
+coast 
+the land next to or close to the ocean:
+
+severe  \ sə-ˈvir
+This will be a severe test of our strength.
+
+thriving \ ˈthrī-viŋ
+The dog is thriving in its new home.
+
+rinse
 ### 11.4
 最快的解决办法 
 已有的问题解决方案的重新组合
@@ -7731,11 +7760,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMDcxMjMyMCwtMTY4MjcwMzU2NywxNz
-EyODAxOTgyLDU5MDIzMjI4MywxODI4NjUyMDE1LC0xNDQwNzQ3
-OTYxLDIwMjU0MDA4MzIsODA2NjI5NzE1LDE4MjI0OTY0OTYsND
-Y2Mjg0OTI3LDEwMTE4MjA2OCwxNjU5ODE5NDg5LC0xNDQxMjk4
-MDU3LDQ4NjYzMTc1Myw0MjkyMTU2NTksLTQyMDMzMzA1OSwyOT
-IzMDYwNDMsLTUxMDc2ODQ5NCwtNDk0NjUzMDYyLC0xNzcwMzE5
-MDkyXX0=
+eyJoaXN0b3J5IjpbLTIxMTM1NzU3MTEsLTcyMDcxMjMyMCwtMT
+Y4MjcwMzU2NywxNzEyODAxOTgyLDU5MDIzMjI4MywxODI4NjUy
+MDE1LC0xNDQwNzQ3OTYxLDIwMjU0MDA4MzIsODA2NjI5NzE1LD
+E4MjI0OTY0OTYsNDY2Mjg0OTI3LDEwMTE4MjA2OCwxNjU5ODE5
+NDg5LC0xNDQxMjk4MDU3LDQ4NjYzMTc1Myw0MjkyMTU2NTksLT
+QyMDMzMzA1OSwyOTIzMDYwNDMsLTUxMDc2ODQ5NCwtNDk0NjUz
+MDYyXX0=
 -->
