@@ -1,5 +1,10 @@
 ### 11.6
-对自己产品的了解，参数和使用和实际过程遇到的问题了解。
+就是要让不会的变会
+别人会的去对比出差距才能更好的提升自己与生俱来的不足。
+似乎与生俱来的自我良好感觉就是无形限制自己的最大障碍。
+对
+
+自己产品的了解，参数和使用和实际过程遇到的问题了解。
 对产品的保养，维护了解。
 了解同类产品的优缺点
 了解自身产品的上下游产品，也是挖掘客户的一种方式。
@@ -7833,11 +7838,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNjg0ODQzMywtNzc3MDA0MDUsLTIxMT
-M1NzU3MTEsLTcyMDcxMjMyMCwtMTY4MjcwMzU2NywxNzEyODAx
-OTgyLDU5MDIzMjI4MywxODI4NjUyMDE1LC0xNDQwNzQ3OTYxLD
-IwMjU0MDA4MzIsODA2NjI5NzE1LDE4MjI0OTY0OTYsNDY2Mjg0
-OTI3LDEwMTE4MjA2OCwxNjU5ODE5NDg5LC0xNDQxMjk4MDU3LD
-Q4NjYzMTc1Myw0MjkyMTU2NTksLTQyMDMzMzA1OSwyOTIzMDYw
-NDNdfQ==
+eyJoaXN0b3J5IjpbLTQyNTM3OTU0MSwtNzI2ODQ4NDMzLC03Nz
+cwMDQwNSwtMjExMzU3NTcxMSwtNzIwNzEyMzIwLC0xNjgyNzAz
+NTY3LDE3MTI4MDE5ODIsNTkwMjMyMjgzLDE4Mjg2NTIwMTUsLT
+E0NDA3NDc5NjEsMjAyNTQwMDgzMiw4MDY2Mjk3MTUsMTgyMjQ5
+NjQ5Niw0NjYyODQ5MjcsMTAxMTgyMDY4LDE2NTk4MTk0ODksLT
+E0NDEyOTgwNTcsNDg2NjMxNzUzLDQyOTIxNTY1OSwtNDIwMzMz
+MDU5XX0=
 -->
