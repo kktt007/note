@@ -1,3 +1,74 @@
+### 11.6
+对自己产品的了解，参数和使用和实际过程遇到的问题了解。
+对产品的保养，维护了解。
+了解同类产品的优缺点
+了解自身产品的上下游产品，也是挖掘客户的一种方式。
+对各种平台的运用
+
+用现有的组合是最快且最高效的方式，万物怎么生出来的，不是无中生有，而是1生二，二生三，三生万物，这样所以我应该要做的是积累这最基本的东西，然后去组合。
+
+影响理解的不仅是要查询的单词，而是句子中其他东西，所以在其他理解的基础上才能掌握到这个单词，变量只能有一个，其他人说的不影响都是扯。
+
+architect
+Bevan was the architect of the British National Health Service.
+
+sleep on
+
+carpenter
+
+etcetera \ et-ˈse-tə-rə
+
+disinfection
+
+What are the Similarities Between Sterilization and Disinfection?
+
+What is the Difference Between Sterilization and Disinfection?
+不同点在于
+
+
+
+
+
+原来单词不仅是了解不同点，相同点 也是要了解的。
+
+eliminate
+We eliminated the possibility that it could have been an accident.
+
+deny
+Her request for time off work was denied.
+
+The SUDO (Super User DO) command enables the performance of a task that requires administrative privileges. Therefore, if you run a command and you get an output like “permission denied,” use the SUDO command as illustrated below.
+
+symbolic \ sim-ˈbä-lik
+The skull at the bottom of the picture is symbolic of death
+
+- linux
+- restart kde plasma desktop without rebooting
+`killall plasmashell` and `kstart5 plasmashell`
+or
+`kquitapp5 plasmashell` and `kstart5 plasmashell`
+
+- Mounting USB drive in Linux via command-line
+`sudo fdisk -l`
+`sudo mkdir /media/USB-Drive`
+`sudo mount /dev/sdb/ /media/USB-Drive`
+
+- 永久挂载 其中`ls -l /dev/disk/by-uuid/*` 查看uuid
+`sudo nano /etc/fstab`
+`/dev/sdb/by-uuid/607F23B84180A238       media/USB-Drive       vfat       0`
+
+- unmount USB Drive
+`sudo umount /dev/sdb /media/USB-Drive`
+
+cd /: This command will take you to the root directory.
+cd ..: This command will take you to the parent directory of the current directory.
+cd ~: This works similar to the CD command and will drop you to the home directory.
+
+- Best Laptops that ship with Linux pre-installed
+1. System76 Serval WS
+2. Dell XPS 13 7390
+3. System76 Galago Pro Laptop
+
 ### 11.5
 [cvim 插件使用教程](chrome-extension://ihlenndgcmojhcghmfjfneahoeklbjjh/pages/mappings.html)
 
@@ -7762,11 +7833,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NzAwNDA1LC0yMTEzNTc1NzExLC03Mj
-A3MTIzMjAsLTE2ODI3MDM1NjcsMTcxMjgwMTk4Miw1OTAyMzIy
-ODMsMTgyODY1MjAxNSwtMTQ0MDc0Nzk2MSwyMDI1NDAwODMyLD
-gwNjYyOTcxNSwxODIyNDk2NDk2LDQ2NjI4NDkyNywxMDExODIw
-NjgsMTY1OTgxOTQ4OSwtMTQ0MTI5ODA1Nyw0ODY2MzE3NTMsND
-I5MjE1NjU5LC00MjAzMzMwNTksMjkyMzA2MDQzLC01MTA3Njg0
-OTRdfQ==
+eyJoaXN0b3J5IjpbLTcyNjg0ODQzMywtNzc3MDA0MDUsLTIxMT
+M1NzU3MTEsLTcyMDcxMjMyMCwtMTY4MjcwMzU2NywxNzEyODAx
+OTgyLDU5MDIzMjI4MywxODI4NjUyMDE1LC0xNDQwNzQ3OTYxLD
+IwMjU0MDA4MzIsODA2NjI5NzE1LDE4MjI0OTY0OTYsNDY2Mjg0
+OTI3LDEwMTE4MjA2OCwxNjU5ODE5NDg5LC0xNDQxMjk4MDU3LD
+Q4NjYzMTc1Myw0MjkyMTU2NTksLTQyMDMzMzA1OSwyOTIzMDYw
+NDNdfQ==
 -->
