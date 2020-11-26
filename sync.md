@@ -2,6 +2,7 @@ rime路径
 C:\Users\Administrator\AppData\Roaming\Rime
 
 C:\Program Files (x86)\Rime\weasel-0.14.3\data
+
 ## speed dial2
 ```
 {
@@ -244,10 +245,10 @@ eyJzZWFyY2hFbmdpbmVzIjpbeyJuYW1lIjoiZ29vZ2xlIiwidXJsIjoiaHR0cHM6Ly93d3cuZ29vZ2xl
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczOTM3MjEwMywtMTgwODMwNDg4NCw0Mz
-M5MzgyNjEsOTYzNTQ4MDMzLC0zNDIwMDkzODAsLTk0MDAzNzYw
-OCwzMzIzMDUzODIsLTEwNTQyNzIwNjEsLTE2MTQwMTEwNTQsLT
-E4NDYzNzIzNTUsNjIyNzczNDU5LC0xNDYwMjEyODkxLDY3NjYw
-MjQzOSwtMTkyODQ1Mzc4OSw5MTQxOTMzNiwtOTY3MzQ2MTUyLC
-05MjMxMDQyNDVdfQ==
+eyJoaXN0b3J5IjpbMTU3NDQ1Mjc2MSwxNzM5MzcyMTAzLC0xOD
+A4MzA0ODg0LDQzMzkzODI2MSw5NjM1NDgwMzMsLTM0MjAwOTM4
+MCwtOTQwMDM3NjA4LDMzMjMwNTM4MiwtMTA1NDI3MjA2MSwtMT
+YxNDAxMTA1NCwtMTg0NjM3MjM1NSw2MjI3NzM0NTksLTE0NjAy
+MTI4OTEsNjc2NjAyNDM5LC0xOTI4NDUzNzg5LDkxNDE5MzM2LC
+05NjczNDYxNTIsLTkyMzEwNDI0NV19
 -->
