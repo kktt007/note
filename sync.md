@@ -1,8 +1,9 @@
 rime路径
-C:\Users\Administrator\AppData\Roaming\Rime
+C:\Users\Administrator\AppData\Roaming\Rimen内置了opencc备份,不起作用
 
 C:\Program Files (x86)\Rime\weasel-0.14.3\data
 
+opcc在系统文件夹才有用
 ## speed dial2
 ```
 {
@@ -245,10 +246,10 @@ eyJzZWFyY2hFbmdpbmVzIjpbeyJuYW1lIjoiZ29vZ2xlIiwidXJsIjoiaHR0cHM6Ly93d3cuZ29vZ2xl
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NDQ1Mjc2MSwxNzM5MzcyMTAzLC0xOD
-A4MzA0ODg0LDQzMzkzODI2MSw5NjM1NDgwMzMsLTM0MjAwOTM4
-MCwtOTQwMDM3NjA4LDMzMjMwNTM4MiwtMTA1NDI3MjA2MSwtMT
-YxNDAxMTA1NCwtMTg0NjM3MjM1NSw2MjI3NzM0NTksLTE0NjAy
-MTI4OTEsNjc2NjAyNDM5LC0xOTI4NDUzNzg5LDkxNDE5MzM2LC
-05NjczNDYxNTIsLTkyMzEwNDI0NV19
+eyJoaXN0b3J5IjpbNjUxMzY5NjY5LDE3MzkzNzIxMDMsLTE4MD
+gzMDQ4ODQsNDMzOTM4MjYxLDk2MzU0ODAzMywtMzQyMDA5Mzgw
+LC05NDAwMzc2MDgsMzMyMzA1MzgyLC0xMDU0MjcyMDYxLC0xNj
+E0MDExMDU0LC0xODQ2MzcyMzU1LDYyMjc3MzQ1OSwtMTQ2MDIx
+Mjg5MSw2NzY2MDI0MzksLTE5Mjg0NTM3ODksOTE0MTkzMzYsLT
+k2NzM0NjE1MiwtOTIzMTA0MjQ1XX0=
 -->
