@@ -1,4 +1,10 @@
 ## 1204
+要经常搜索，然后搜索后再搜索，慢慢的发现这个世界的大，怎么延伸的。
+关于网站的关键词，并且使用One search 和google结果不一样
+使用 sitelike.org/ 等类似网站查找site-stats.org www.sitelinks.info
+
+top websites for linux
+
 关于学习
 https://www.nshen.net/article/2015-11-03/learn-more-study-less/
 #### 获取能力薄弱表现在
@@ -7854,11 +7860,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2Mzg4MzIxMywxMDUxODczMTI0LC00Mj
-UzNzk1NDEsLTcyNjg0ODQzMywtNzc3MDA0MDUsLTIxMTM1NzU3
-MTEsLTcyMDcxMjMyMCwtMTY4MjcwMzU2NywxNzEyODAxOTgyLD
-U5MDIzMjI4MywxODI4NjUyMDE1LC0xNDQwNzQ3OTYxLDIwMjU0
-MDA4MzIsODA2NjI5NzE1LDE4MjI0OTY0OTYsNDY2Mjg0OTI3LD
-EwMTE4MjA2OCwxNjU5ODE5NDg5LC0xNDQxMjk4MDU3LDQ4NjYz
-MTc1M119
+eyJoaXN0b3J5IjpbLTE2MDc5NDY0NjIsLTY2Mzg4MzIxMywxMD
+UxODczMTI0LC00MjUzNzk1NDEsLTcyNjg0ODQzMywtNzc3MDA0
+MDUsLTIxMTM1NzU3MTEsLTcyMDcxMjMyMCwtMTY4MjcwMzU2Ny
+wxNzEyODAxOTgyLDU5MDIzMjI4MywxODI4NjUyMDE1LC0xNDQw
+NzQ3OTYxLDIwMjU0MDA4MzIsODA2NjI5NzE1LDE4MjI0OTY0OT
+YsNDY2Mjg0OTI3LDEwMTE4MjA2OCwxNjU5ODE5NDg5LC0xNDQx
+Mjk4MDU3XX0=
 -->
