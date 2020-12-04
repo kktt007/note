@@ -1,3 +1,16 @@
+## 1204
+关于学习
+https://www.nshen.net/article/2015-11-03/learn-more-study-less/
+#### 获取能力薄弱表现在
+
+1.  阅读，听讲需要很长时间。
+2.  需要反复阅读才能得到所有基础信息。
+
+#### 主要原因在于：
+
+1.  没有好的阅读和学习习惯。
+2.  笔记记得差，不是记得太多，就是太少。
+3.  不懂基础术语，或英语太烂。
 ## 1202
 关于查找ruby自动补全的插件搜索
 autocomplete deoplete for "ruby"
@@ -7841,11 +7854,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MTg3MzEyNCwtNDI1Mzc5NTQxLC03Mj
-Y4NDg0MzMsLTc3NzAwNDA1LC0yMTEzNTc1NzExLC03MjA3MTIz
-MjAsLTE2ODI3MDM1NjcsMTcxMjgwMTk4Miw1OTAyMzIyODMsMT
-gyODY1MjAxNSwtMTQ0MDc0Nzk2MSwyMDI1NDAwODMyLDgwNjYy
-OTcxNSwxODIyNDk2NDk2LDQ2NjI4NDkyNywxMDExODIwNjgsMT
-Y1OTgxOTQ4OSwtMTQ0MTI5ODA1Nyw0ODY2MzE3NTMsNDI5MjE1
-NjU5XX0=
+eyJoaXN0b3J5IjpbLTY2Mzg4MzIxMywxMDUxODczMTI0LC00Mj
+UzNzk1NDEsLTcyNjg0ODQzMywtNzc3MDA0MDUsLTIxMTM1NzU3
+MTEsLTcyMDcxMjMyMCwtMTY4MjcwMzU2NywxNzEyODAxOTgyLD
+U5MDIzMjI4MywxODI4NjUyMDE1LC0xNDQwNzQ3OTYxLDIwMjU0
+MDA4MzIsODA2NjI5NzE1LDE4MjI0OTY0OTYsNDY2Mjg0OTI3LD
+EwMTE4MjA2OCwxNjU5ODE5NDg5LC0xNDQxMjk4MDU3LDQ4NjYz
+MTc1M119
 -->
