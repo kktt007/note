@@ -1,3 +1,8 @@
+## 1208
+当一些崛起的国家自以为是的时候，其实别的国家发展更快。那是自己的国家无能吗，未必，不是国家的事，国家是所有阶层组成的。要说也是怪罪那些只管经济发展，必须牺牲大部分的少数阶级，而怪只怪自己的无能吧。
+以前吧，总是想着做这做哪，改变这改变那，也被父母影响，也为情所困，现在想想，那些固然值得留恋。但是生活在向前走，生活太残酷。从以前洒脱的笑，到后来的不知道要不要笑，再到后来我想明白了，就简单点吧。过好眼前，怎么过好，当然是简单点，然后随意点，不再想这想那，不再感情用事，就好好的生活吧。
+
+对事物的基本条件，最少物质，框架，规律逻辑关系，然后开始真正深入了解。
 ## 1204
 要经常搜索，然后搜索后再搜索，慢慢的发现这个世界的大，怎么延伸的。
 关于网站的关键词，并且使用One search 和google结果不一样
@@ -7860,11 +7865,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDc5NDY0NjIsLTY2Mzg4MzIxMywxMD
-UxODczMTI0LC00MjUzNzk1NDEsLTcyNjg0ODQzMywtNzc3MDA0
-MDUsLTIxMTM1NzU3MTEsLTcyMDcxMjMyMCwtMTY4MjcwMzU2Ny
-wxNzEyODAxOTgyLDU5MDIzMjI4MywxODI4NjUyMDE1LC0xNDQw
-NzQ3OTYxLDIwMjU0MDA4MzIsODA2NjI5NzE1LDE4MjI0OTY0OT
-YsNDY2Mjg0OTI3LDEwMTE4MjA2OCwxNjU5ODE5NDg5LC0xNDQx
-Mjk4MDU3XX0=
+eyJoaXN0b3J5IjpbLTQ2MjY1MTAwMCwtMTYwNzk0NjQ2MiwtNj
+YzODgzMjEzLDEwNTE4NzMxMjQsLTQyNTM3OTU0MSwtNzI2ODQ4
+NDMzLC03NzcwMDQwNSwtMjExMzU3NTcxMSwtNzIwNzEyMzIwLC
+0xNjgyNzAzNTY3LDE3MTI4MDE5ODIsNTkwMjMyMjgzLDE4Mjg2
+NTIwMTUsLTE0NDA3NDc5NjEsMjAyNTQwMDgzMiw4MDY2Mjk3MT
+UsMTgyMjQ5NjQ5Niw0NjYyODQ5MjcsMTAxMTgyMDY4LDE2NTk4
+MTk0ODldfQ==
 -->
