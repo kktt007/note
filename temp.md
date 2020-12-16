@@ -1,3 +1,5 @@
+##
+凤凰会 kk 
 ## 1208
 当一些崛起的国家自以为是的时候，其实别的国家发展更快。那是自己的国家无能吗，未必，不是国家的事，国家是所有阶层组成的。要说也是怪罪那些只管经济发展，必须牺牲大部分的少数阶级，而怪只怪自己的无能吧。
 以前吧，总是想着做这做哪，改变这改变那，也被父母影响，也为情所困，现在想想，那些固然值得留恋。但是生活在向前走，生活太残酷。从以前洒脱的笑，到后来的不知道要不要笑，再到后来我想明白了，就简单点吧。过好眼前，怎么过好，当然是简单点，然后随意点，不再想这想那，不再感情用事，就好好的生活吧。
@@ -7865,11 +7867,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MjY1MTAwMCwtMTYwNzk0NjQ2MiwtNj
-YzODgzMjEzLDEwNTE4NzMxMjQsLTQyNTM3OTU0MSwtNzI2ODQ4
-NDMzLC03NzcwMDQwNSwtMjExMzU3NTcxMSwtNzIwNzEyMzIwLC
-0xNjgyNzAzNTY3LDE3MTI4MDE5ODIsNTkwMjMyMjgzLDE4Mjg2
-NTIwMTUsLTE0NDA3NDc5NjEsMjAyNTQwMDgzMiw4MDY2Mjk3MT
-UsMTgyMjQ5NjQ5Niw0NjYyODQ5MjcsMTAxMTgyMDY4LDE2NTk4
-MTk0ODldfQ==
+eyJoaXN0b3J5IjpbLTEwNjM5MjkxMjYsLTQ2MjY1MTAwMCwtMT
+YwNzk0NjQ2MiwtNjYzODgzMjEzLDEwNTE4NzMxMjQsLTQyNTM3
+OTU0MSwtNzI2ODQ4NDMzLC03NzcwMDQwNSwtMjExMzU3NTcxMS
+wtNzIwNzEyMzIwLC0xNjgyNzAzNTY3LDE3MTI4MDE5ODIsNTkw
+MjMyMjgzLDE4Mjg2NTIwMTUsLTE0NDA3NDc5NjEsMjAyNTQwMD
+gzMiw4MDY2Mjk3MTUsMTgyMjQ5NjQ5Niw0NjYyODQ5MjcsMTAx
+MTgyMDY4XX0=
 -->
