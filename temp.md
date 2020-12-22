@@ -1,4 +1,52 @@
-##
+## 1222
+
+
+学习英语tip
+需要用思维导图和笔记辅助记忆，后续阅读来记，完成。 
+过程中尽量多个层面和节点交织，比如legislature,对应成中国的来理解。用权威新闻和wikipedia配合
+http://www.npc.gov.cn/englishnpc/c23934/202011/f6c51b2c57d74d98a00653ff645f8c20.shtml
+the People's Republic of China
+
+representative \ ˌre-pri-ˈzen-tə-tiv
+
+legislature \ ˈle-jə-ˌslā-chər 与其看这么多片面的解释，最终还得和现实接轨来完全把控。
+the group of people in a country or part of a country who have the power to make and change laws
+
+wobble \ ˈwä-bəl
+Don't wobble the table, please, Dan.
+
+nuclear
+nuclear power
+
+transportation
+rising transportation costs
+
+parliament\ ˈpär-lə-mənt 
+
+explanation \ ˌek-splə-ˈnā-shən 注意发音
+
+
+dog
+Our dog eats a vast amount of food each day.
+
+competitor  \ kəm-ˈpe-tə-tər
+
+routine \ rü-ˈtēn
+There's no set/fixed routine at work - every day is different.
+
+boxing
+He's a former world heavyweight boxing chapion.
+
+hawaii \ hə-ˈwä-yē
+
+The best mind map apps for iPhone and iPad for brainstorming
+
+job \ ˈjäb
+
+that \ ˈt͟hat
+
+## 1221
+
 凤凰会 kk .7
 ## 1208
 当一些崛起的国家自以为是的时候，其实别的国家发展更快。那是自己的国家无能吗，未必，不是国家的事，国家是所有阶层组成的。要说也是怪罪那些只管经济发展，必须牺牲大部分的少数阶级，而怪只怪自己的无能吧。
@@ -7867,11 +7915,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMTgzMzI1LC00NjI2NTEwMDAsLTE2MD
-c5NDY0NjIsLTY2Mzg4MzIxMywxMDUxODczMTI0LC00MjUzNzk1
-NDEsLTcyNjg0ODQzMywtNzc3MDA0MDUsLTIxMTM1NzU3MTEsLT
-cyMDcxMjMyMCwtMTY4MjcwMzU2NywxNzEyODAxOTgyLDU5MDIz
-MjI4MywxODI4NjUyMDE1LC0xNDQwNzQ3OTYxLDIwMjU0MDA4Mz
-IsODA2NjI5NzE1LDE4MjI0OTY0OTYsNDY2Mjg0OTI3LDEwMTE4
-MjA2OF19
+eyJoaXN0b3J5IjpbMTYxOTMxODg4MiwtNDYyNjUxMDAwLC0xNj
+A3OTQ2NDYyLC02NjM4ODMyMTMsMTA1MTg3MzEyNCwtNDI1Mzc5
+NTQxLC03MjY4NDg0MzMsLTc3NzAwNDA1LC0yMTEzNTc1NzExLC
+03MjA3MTIzMjAsLTE2ODI3MDM1NjcsMTcxMjgwMTk4Miw1OTAy
+MzIyODMsMTgyODY1MjAxNSwtMTQ0MDc0Nzk2MSwyMDI1NDAwOD
+MyLDgwNjYyOTcxNSwxODIyNDk2NDk2LDQ2NjI4NDkyNywxMDEx
+ODIwNjhdfQ==
 -->
