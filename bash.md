@@ -1,3 +1,5 @@
+https://www.tutorialkart.com/bash-shell-scripting/bash-read-file-examples/
+
 3.5.4 Command Substitution
 
 https://www.gnu.org/software/bash/manual/html_node/Command-Substitution.html
@@ -48,5 +50,6 @@ despite
 without taking any notice of or being influenced by; not prevented by:
 I still enjoyed the week despite the weather.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjAzMzA1MTIsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTE1MjIyMjI1MSwtMjA2MDMzMDUxMiw3Mz
+A5OTgxMTZdfQ==
 -->
