@@ -250,13 +250,286 @@ best for word looking up selection search
 eyJzZWFyY2hFbmdpbmVzIjpbeyJuYW1lIjoiZ29vZ2xlIiwidXJsIjoiaHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9zZWFyY2g/cT0lcyIsImljb25fdXJsIjoiaHR0cHM6Ly9hcGkuZmF2aWNvbmtpdC5jb20vZ29vZ2xlLmNvbS8ifSx7Im5hbWUiOiJtLXciLCJ1cmwiOiJodHRwczovL3d3dy5tZXJyaWFtLXdlYnN0ZXIuY29tL2RpY3Rpb25hcnkvJXMifSx7Im5hbWUiOiJvbmVzZWFyY2giLCJ1cmwiOiJodHRwczovL3d3dy5vbmVzZWFyY2guY29tL3locy9zZWFyY2g7X3lsdD1Bd3JYcG5TQXcxNWZhMFlBaVJ2Rm5JbFE/cD0lcyZmcj15aHMtb25vLWRmJmZyMj1zZnAmaHNwYXJ0PW9ubyZoc2ltcD15aHMtZGYmaW50bD11cyZpc2Nxcnk9In0seyJuYW1lIjoidHJhbnNsYXRlIiwidXJsIjoiaHR0cHM6Ly90cmFuc2xhdGUuZ29vZ2xlLmNuI2F1dG8vZW4vJXMifSx7Im5hbWUiOiJmb3J2byIsInVybCI6Imh0dHBzOi8vZm9ydm8uY29tL3dvcmQvJXMvI2VuX3VzYSJ9LHsibmFtZSI6IkN1cnJlbnQgZG9tYWluIiwidXJsIjoiaHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9zZWFyY2g/cT0lcyBzaXRlOiVQQUdFX0hPU1QiLCJpY29uX3VybCI6IkNVUlJFTlRfRE9NQUlOIn0seyJuYW1lIjoibGRvY2VvbmxpbmUiLCJ1cmwiOiJodHRwczovL3d3dy5sZG9jZW9ubGluZS5jb20vZGljdGlvbmFyeS8lcyJ9LHsibmFtZSI6ImNhbWJyaWRnZSIsInVybCI6Imh0dHBzOi8vZGljdGlvbmFyeS5jYW1icmlkZ2Uub3JnL3VzL2RpY3Rpb25hcnkvZW5nbGlzaC8lcyJ9LHsibmFtZSI6Im1hY21pbGxhbiIsInVybCI6Imh0dHBzOi8vd3d3Lm1hY21pbGxhbmRpY3Rpb25hcnkuY29tL3VzL2RpY3Rpb25hcnkvYW1lcmljYW4veyVzfHJlcGxhY2U6L1xccysvLS9nfSIsImljb25fdXJsIjoiaHR0cHM6Ly9hcGkuZmF2aWNvbmtpdC5jb20vbWFjbWlsbGFuZGljdGlvbmFyeS5jb20ifSx7Im5hbWUiOiJjb2xsaW5zIiwidXJsIjoiaHR0cHM6Ly93d3cuY29sbGluc2RpY3Rpb25hcnkuY29tL2RpY3Rpb25hcnkvZW5nbGlzaC8lcyIsImljb25fdXJsIjoiaHR0cHM6Ly9hcGkuZmF2aWNvbmtpdC5jb20vY29sbGluc2RpY3Rpb25hcnkuY29tLyJ9LHsibmFtZSI6ImRpY3Rpb25hcnkiLCJ1cmwiOiJodHRwczovL3d3dy5kaWN0aW9uYXJ5LmNvbS9icm93c2UvJXMifSx7Im5hbWUiOiJldHltb2xvZ3kiLCJ1cmwiOiJodHRwczovL3d3dy5ldHltb25saW5lLmNvbS93b3JkLyVzIn0seyJuYW1lIjoid2lrdGlvbmFyeSIsInVybCI6Imh0dHBzOi8vZW4ud2lrdGlvbmFyeS5vcmcvd2lraS8lcyJ9LHsibmFtZSI6Imdlcm1hbnkiLCJ1cmwiOiJodHRwczovL2RpY3Rpb25hcnkuY2FtYnJpZGdlLm9yZy91cy9zcGVsbGNoZWNrL2VuZ2xpc2gvP3E9JXMifSx7Im5hbWUiOiJlYXJ5IHRvIHVuZGVyc3RhbmQiLCJ1cmwiOiJodHRwczovL3d3dy53b3Jkc215dGgubmV0Lz9lbnQ9JXMifSx7Im5hbWUiOiJzeW5vbnltIGhpcHBvIiwidXJsIjoiaHR0cHM6Ly93d3cud29yZGhpcHBvLmNvbS93aGF0LWlzL2Fub3RoZXItd29yZC1mb3IvJXMuaHRtbCJ9LHsibmFtZSI6InN5bm9ueW0gcG93ZXIiLCJ1cmwiOiJodHRwczovL3d3dy5wb3dlcnRoZXNhdXJ1cy5vcmcvJXMifSx7Im5hbWUiOiJmcmVldGhlc2F1cnVzIiwidXJsIjoiaHR0cHM6Ly93d3cuZnJlZXRoZXNhdXJ1cy5jb20vJXMifSx7Im5hbWUiOiJhbnRvbnltLmNvbSIsInVybCI6Imh0dHBzOi8vd3d3LmFudG9ueW0uY29tL3N5bm9ueW1zLyVzIiwiaWNvbl91cmwiOiJodHRwczovL2FwaS5mYXZpY29ua2l0LmNvbS9hbnRvbnltLmNvbS8ifSx7Im5hbWUiOiJhbnRvbnltIiwidXJsIjoiaHR0cHM6Ly9lbmdsaXNodGhlc2F1cnVzLm5ldC9hbnRvbnltLyVzIn0seyJuYW1lIjoib3hmb3JkIiwidXJsIjoiaHR0cHM6Ly93d3cub3hmb3JkbGVhcm5lcnNkaWN0aW9uYXJpZXMuY29tL3NlYXJjaC9lbmdsaXNoLz9xPSVzIn0seyJuYW1lIjoib3hmb3JkIiwidXJsIjoiaHR0cHM6Ly93d3cubGV4aWNvLmNvbS9lbi9kZWZpbml0aW9uLyVzIn0seyJuYW1lIjoid29yZG5payIsInVybCI6Imh0dHBzOi8vd3d3LndvcmRuaWsuY29tL3dvcmRzLyVzIn0seyJuYW1lIjoibGVhcm5lcnMiLCJ1cmwiOiJodHRwOi8vbGVhcm5lcnNkaWN0aW9uYXJ5LmNvbS9kZWZpbml0aW9uLyVzIn0seyJuYW1lIjoiZnJlZWRpY3QiLCJ1cmwiOiJodHRwczovL3d3dy50aGVmcmVlZGljdGlvbmFyeS5jb20vJXMifSx7Im5hbWUiOiJpZGlvbXMiLCJ1cmwiOiJodHRwczovL2lkaW9tcy50aGVmcmVlZGljdGlvbmFyeS5jb20vJXMifSx7Im5hbWUiOiJ2b2NhYnVsYXJ5IiwidXJsIjoiaHR0cHM6Ly93d3cudm9jYWJ1bGFyeS5jb20vZGljdGlvbmFyeS8lcyJ9LHsibmFtZSI6InlvdXIiLCJ1cmwiOiJodHRwczovL3d3dy55b3VyZGljdGlvbmFyeS5jb20vJXMifSx7Im5hbWUiOiJuaWZ0eXdvcmQiLCJ1cmwiOiJodHRwczovL3d3dy5uaWZ0eXdvcmQuY29tL2RpY3Rpb25hcnkvJXMiLCJpY29uX3VybCI6Imh0dHBzOi8vaS5vbHNoLm1lL2xldHRlcmljb25zL04tMTIwLnBuZyJ9LHsibmFtZSI6InNlbnRlbmNlIGhpcHBvIiwidXJsIjoiaHR0cHM6Ly93d3cud29yZGhpcHBvLmNvbS93aGF0LWlzL3NlbnRlbmNlcy13aXRoLXRoZS13b3JkLyVzLmh0bWwifSx7Im5hbWUiOiJzZW50ZW5jZWRpY3QiLCJ1cmwiOiJodHRwczovL3NlbnRlbmNlZGljdC5jb20vJXMuaHRtbCJ9LHsibmFtZSI6ImZvcm1zIiwidXJsIjoiaHR0cHM6Ly93d3cud29yZHJlZmVyZW5jZS5jb20vZGVmaW5pdGlvbi8lcyJ9LHsibmFtZSI6ImNvbXB1dGVyaG9wZSIsInVybCI6Imh0dHBzOi8vd3d3LmNvbXB1dGVyaG9wZS5jb20vc2VhcmNoMi5odG0jZ3NjLnRhYj0wJmdzYy5xPSVzJmdzYy5wYWdlPTEifSx7Im5hbWUiOiJ0ZWNodGVybXMiLCJ1cmwiOiJodHRwczovL3RlY2h0ZXJtcy5jb20vZGVmaW5pdGlvbi8lcyJ9LHsibmFtZSI6Im9uZWxvb2siLCJ1cmwiOiJodHRwczovL3d3dy5vbmVsb29rLmNvbS8/bHM9YiZmYz1hbGxfZ2VuJnE9JXMifSx7Im5hbWUiOiJpbWciLCJ1cmwiOiJodHRwczovL3d3dy5nb29nbGUuY29tL3NlYXJjaD9xPSVzJnRibT1pc2NoIiwiaWNvbl91cmwiOiJodHRwczovL2FwaS5mYXZpY29ua2l0LmNvbS9nb29nbGUuY29tL3NlYXJjaD9xPSVzJnRibT1pc2NoIn0seyJuYW1lIjoiT3BlbiB1cmwiLCJ1cmwiOiIlcyIsImljb25fdXJsIjoiaHR0cHM6Ly9hcGkuZmF2aWNvbmtpdC5jb20vb3Blbm11bHRpcGxldXJsLmNvbS8ifSx7Im5hbWUiOiJ2aXN1YWwiLCJ1cmwiOiJodHRwczovL3Zpc3V3b3Jkcy5jb20vJXMifSx7Im5hbWUiOiJzeW5pbnltIiwidXJsIjoiaHR0cHM6Ly90b3BtZWFuaW5nLmNvbS9zeW5vbnltLyVzIn0seyJuYW1lIjoic3lub255bSIsInVybCI6Imh0dHBzOi8vdGhlc2F1cnVzLnBsdXMvc3lub255bXMvJXMifSx7Im5hbWUiOiJkaWZmIiwidXJsIjoiaHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9zZWFyY2g/cT1XaGF0IGlzIHRoZSBkaWZmZXJlbmNlIGJldHdlZW4gJXMgYW5kIiwiaWNvbl91cmwiOiJodHRwczovL2FwaS5mYXZpY29ua2l0LmNvbS90aGUtZGlmZmVyZW5jZS5jb20ifV0sInN0eWxlU2hlZXQiOiIubWFpbm1lbnUgPiBsaTpmaXJzdC1jaGlsZCwgLm1haW5tZW51IGlucHV0e1xuIHdpZHRoOiAxMDAlO1xuIGJveC1zaXppbmc6IGJvcmRlci1ib3g7XG59XG4ubWFpbm1lbnUge1xuIHdpZHRoOiAyMzBweDtcbn1cbi5wb3B1cCAuZW5naW5lLW5hbWUsIC5wb3B1cC5tYWlubWVudSA+IGxpOmZpcnN0LWNoaWxke1xuIGRpc3BsYXk6IG5vbmU7XG59XG4ucG9wdXAgYSwgLnBvcHVwIGxpe1xuIGRpc3BsYXk6IGlubGluZS1ibG9jazsgcGFkZGluZzogMC4zZW07XG59XG4ucG9wdXAgaW1ne1xuIG1hcmdpbjogMDsgcGFkZGluZzogMDt6b29tOiAxLjU7XG59XG4ucG9wdXAgLmVuZ2luZS1zZXBhcmF0b3J7XG4gd2lkdGg6IDFweDsgaGVpZ2h0OiAyMHB4OyBtYXJnaW46IDAgM3B4IDNweCAzcHg7IHBhZGRpbmc6IDA7IHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7XG59XG4vKkNPTkZJR19TVEFSVHtcInN1Ym1lbnVfcG9zaXRpb25cIjpcInRvcHJpZ2h0XCIsXCJzdWJtZW51X2Nvcm5lclwiOlwiYm90dG9tbGVmdFwifUNPTkZJR19FTkQqLyIsIm9wdGlvbnMiOnsiYnV0dG9uIjowLCJuZXd0YWIiOnRydWUsImFjdGl2YXRvciI6ImNsaWNrIiwicmVtb3ZlX2ljb25zIjoibm8iLCJzaG93X2luX2lucHV0cyI6dHJ1ZSwiYmFja2dyb3VuZF90YWIiOnRydWUsImtfYW5kX21fY29tYm8iOlsxNywwXSwiY29udGV4dF9tZW51IjoiZW5hYmxlZCIsInRvb2xiYXJfcG9wdXAiOiJlbmFibGVkIiwidG9vbGJhcl9wb3B1cF9zdHlsZSI6Imljb25zLW9ubHkiLCJ0b29sYmFyX3BvcHVwX2hvdGtleXMiOmZhbHNlLCJ0b29sYmFyX3BvcHVwX3N1Z2dlc3Rpb25zIjp0cnVlLCJzZXBhcmF0ZV9tZW51cyI6dHJ1ZSwiaGlkZV9vbl9jbGljayI6ZmFsc2UsImRpc2FibGVfZm9ybWV4dHJhY3RvciI6ZmFsc2UsIm9wZW5fb25fZGJsY2xpY2siOnRydWUsImRibGNsaWNrX2luX2lucHV0cyI6dHJ1ZSwib3Blbl9uZXdfdGFiX2xhc3QiOmZhbHNlLCJkaXNhYmxlX2VmZmVjdHMiOmZhbHNlLCJhdXRvX3BvcHVwX3JlbGF0aXZlX3RvX21vdXNlIjp0cnVlLCJhdXRvX3BvcHVwX3Nob3dfbWVudV9kaXJlY3RseSI6ZmFsc2UsImF1dG9fcG9wdXBfaW5faW5wdXRzIjp0cnVlLCJhY3RpdmF0b3JfY29tYm8iOltdLCJzaG93X3Rvb2x0aXBzIjpmYWxzZSwiY2lyY3VsYXJfbWVudSI6ZmFsc2UsInNvcnRfYnlfY2xpY2siOmZhbHNlLCJzZWxlY3Rpb25fbGVuZ3RoX2xpbWl0IjotMSwiYXV0b19oaWRlX2RlbGF5IjoxMDAwMCwiYXV0b19vcGVuX2RlbGF5IjozMDAsImhpZGVfb25fc2Nyb2xsIjpmYWxzZSwic2VsZWN0aW9uX2FsbG93X25ld2xpbmUiOnRydWUsInVzZV93aGl0ZWxpc3QiOmZhbHNlfSwiVkVSU0lPTiI6IjAuOC41NiJ9
 ```
 
+- clean crxmouse gusture
+```
+{
+  "cfgver": 2.3,
+  "normal": {
+    "gesture": true,
+    "drag": true,
+    "scroll": false,
+    "autocancel": false,
+    "autocancelvalue": 2,
+    "lasttab": false,
+    "scrolleffects": true,
+    "backgroundtab": false,
+    "newtabposition": "chrome",
+    "minilength": 10,
+    "capturetype": "jpeg",
+    "jpegquality": 100,
+    "cancelcontextmenu": true,
+    "dbclicktime": 600
+  },
+  "gesture": {
+    "gestureui": true,
+    "stroke": true,
+    "direct": true,
+    "tooltip": true,
+    "strokecolor": "4E1485",
+    "strokewidth": 5,
+    "strokeopa": 0.8,
+    "directcolor": "5E6A88",
+    "directopa": 0.9,
+    "tooltipcolor": "120310",
+    "tooltipwidth": 18,
+    "tooltipopa": 0.9,
+    "geskey": "right",
+    "stenable": false,
+    "gholdkey": "none",
+    "gesture": [
+      {
+        "direct": "L",
+        "action": "G_back"
+      },
+      {
+        "direct": "R",
+        "action": "G_go"
+      },
+      {
+        "direct": "U",
+        "action": "G_top"
+      },
+      {
+        "direct": "D",
+        "action": "G_bottom"
+      },
+      {
+        "direct": "RD",
+        "action": "G_bottom"
+      },
+      {
+        "direct": "DL",
+        "action": "G_closelefttabs"
+      },
+      {
+        "direct": "DR",
+        "action": "G_closerighttabs"
+      },
+      {
+        "direct": "LR",
+        "action": "G_lefttab"
+      },
+      {
+        "direct": "RL",
+        "action": "G_righttab"
+      },
+      {
+        "direct": "DRU",
+        "action": "G_windowmax"
+      },
+      {
+        "direct": "URD",
+        "action": "G_windowmin"
+      },
+      {
+        "direct": "LDR",
+        "action": "G_copyurl"
+      },
+      {
+        "direct": "UL",
+        "action": "G_reclosedtab",
+        "moreDes": "Reopen closed tab",
+        "moreTarget": "newfront",
+        "morePosition": "chrome",
+        "morePinned": "unpinned"
+      },
+      {
+        "direct": "UD",
+        "action": "G_reloadall"
+      },
+      {
+        "direct": "DU",
+        "action": "G_close",
+        "moreCloseurl": "chrome://newtab/",
+        "moreClosesel": "chrome",
+        "moreCloseopts": "close"
+      },
+      {
+        "direct": "UR",
+        "action": "G_newtab",
+        "moreDes": "New tab",
+        "moreTarget": "newfront",
+        "morePosition": "chrome",
+        "morePinned": "unpinned"
+      },
+      {
+        "direct": "LD",
+        "action": "G_firsttab"
+      }
+    ]
+  },
+  "drag": {
+    "dragui": true,
+    "dstroke": true,
+    "ddirect": true,
+    "dtooltip": true,
+    "dstrokecolor": "4E1485",
+    "dstrokewidth": 5,
+    "dstrokeopa": 0.8,
+    "ddirectcolor": "5E6A88",
+    "ddirectopa": 0.9,
+    "dtooltipcolor": "120310",
+    "dtooltipwidth": 18,
+    "dtooltipopa": 0.9,
+    "dragtext": true,
+    "draglink": true,
+    "dragimage": true,
+    "draginput": false,
+    "setdragurl": true,
+    "imgfirstcheck": false,
+    "imgfirst": "none",
+    "dholdkey": "none",
+    "text": [
+      {
+        "direct": "L",
+        "action": "T_search",
+        "moreDes": "Use %name to search \"%s\"(New tab & Background)",
+        "morePinned": "unpinned",
+        "morePosition": "chrome",
+        "moreTarget": "newback",
+        "moreTsearch": "sgoogle"
+      },
+      {
+        "direct": "R",
+        "action": "T_search",
+        "moreDes": "Use %name to search \"%s\"(New tab & Front)",
+        "morePinned": "unpinned",
+        "morePosition": "chrome",
+        "moreTarget": "newfront",
+        "moreTsearch": "sgoogle"
+      },
+      {
+        "direct": "D",
+        "action": "T_copytext"
+      }
+    ],
+    "link": [
+      {
+        "direct": "L",
+        "action": "L_open",
+        "moreDes": "Open link in new tab(New tab & Background)",
+        "morePinned": "unpinned",
+        "morePosition": "chrome",
+        "moreTarget": "newback"
+      },
+      {
+        "direct": "R",
+        "action": "L_open",
+        "moreDes": "Open link in new tab(New tab & Front)",
+        "morePinned": "unpinned",
+        "morePosition": "chrome",
+        "moreTarget": "newfront"
+      },
+      {
+        "direct": "D",
+        "action": "L_copytext"
+      },
+      {
+        "direct": "U",
+        "action": "L_copyurl"
+      }
+    ],
+    "image": [
+      {
+        "direct": "L",
+        "action": "I_open",
+        "moreDes": "Open image in new tab(New tab & Background)",
+        "morePinned": "unpinned",
+        "morePosition": "chrome",
+        "moreTarget": "newback"
+      },
+      {
+        "direct": "R",
+        "action": "I_open",
+        "moreDes": "Open image in new tab(New tab & Front)",
+        "morePinned": "unpinned",
+        "morePosition": "chrome",
+        "moreTarget": "newfront"
+      },
+      {
+        "direct": "D",
+        "action": "I_save"
+      }
+    ]
+  },
+  "scroll": {
+    "smooth": true,
+    "scrollspeed": 3,
+    "scrollaccele": 1
+  },
+  "scrollgesture": {
+    "tablist": true,
+    "tablistkey": "right",
+    "sgsleftenable": true,
+    "sgsrightenable": false,
+    "sgsleft": [
+      {
+        "action": "G_top"
+      },
+      {
+        "action": "G_bottom"
+      }
+    ],
+    "sgsright": [
+      {
+        "action": "G_top"
+      },
+      {
+        "action": "G_bottom"
+      }
+    ]
+  },
+  "strokegesture": {
+    "strpress": "up",
+    "strleftenable": true,
+    "strleft": [
+      {
+        "action": "G_none"
+      },
+      {
+        "action": "G_righttab"
+      }
+    ],
+    "strmiddleenable": false,
+    "strmiddle": [
+      {
+        "action": "G_lefttab"
+      },
+      {
+        "action": "G_righttab"
+      }
+    ],
+    "strrightenable": true,
+    "strright": [
+      {
+        "action": "G_lefttab"
+      },
+      {
+        "action": "G_none"
+      }
+    ]
+  },
+  "sync": true
+}
+```
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MjkzMjQ1OSwtMTMzOTMyNTcwOSw0Nz
-Y5NTEzOTgsLTEwOTIwODM2MDcsMjgyNzkwMDgxLDY1MTM2OTY2
-OSwxNzM5MzcyMTAzLC0xODA4MzA0ODg0LDQzMzkzODI2MSw5Nj
-M1NDgwMzMsLTM0MjAwOTM4MCwtOTQwMDM3NjA4LDMzMjMwNTM4
-MiwtMTA1NDI3MjA2MSwtMTYxNDAxMTA1NCwtMTg0NjM3MjM1NS
-w2MjI3NzM0NTksLTE0NjAyMTI4OTEsNjc2NjAyNDM5LC0xOTI4
-NDUzNzg5XX0=
+eyJoaXN0b3J5IjpbLTY4OTgwOTM4OSwtMzQyOTMyNDU5LC0xMz
+M5MzI1NzA5LDQ3Njk1MTM5OCwtMTA5MjA4MzYwNywyODI3OTAw
+ODEsNjUxMzY5NjY5LDE3MzkzNzIxMDMsLTE4MDgzMDQ4ODQsND
+MzOTM4MjYxLDk2MzU0ODAzMywtMzQyMDA5MzgwLC05NDAwMzc2
+MDgsMzMyMzA1MzgyLC0xMDU0MjcyMDYxLC0xNjE0MDExMDU0LC
+0xODQ2MzcyMzU1LDYyMjc3MzQ1OSwtMTQ2MDIxMjg5MSw2NzY2
+MDI0MzldfQ==
 -->
