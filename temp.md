@@ -15,6 +15,12 @@ acpi_osi=linux: 让linux在回答自己支持的系统时可以正常应答．
 https://averagelinuxuser.com/10-things-to-do-first-in-arch-linux/
 https://averagelinuxuser.com/10-things-to-do-after-installing-manjaro/
 
+在线书籍
+linux
+https://dl1.newoutlook.it/book/2020/08/Linux.pdf
+http://read.pudn.com/downloads76/ebook/282154/LX023STUD.PDF
+https://tldr.sh/assets/tldr-book.pdf
+
 ## 1222
 
 
@@ -7932,11 +7938,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NjE1MDQzMywxNjE5MzE4ODgyLC00Nj
-I2NTEwMDAsLTE2MDc5NDY0NjIsLTY2Mzg4MzIxMywxMDUxODcz
-MTI0LC00MjUzNzk1NDEsLTcyNjg0ODQzMywtNzc3MDA0MDUsLT
-IxMTM1NzU3MTEsLTcyMDcxMjMyMCwtMTY4MjcwMzU2NywxNzEy
-ODAxOTgyLDU5MDIzMjI4MywxODI4NjUyMDE1LC0xNDQwNzQ3OT
-YxLDIwMjU0MDA4MzIsODA2NjI5NzE1LDE4MjI0OTY0OTYsNDY2
-Mjg0OTI3XX0=
+eyJoaXN0b3J5IjpbMTE2ODg2NDQsMjE0NjE1MDQzMywxNjE5Mz
+E4ODgyLC00NjI2NTEwMDAsLTE2MDc5NDY0NjIsLTY2Mzg4MzIx
+MywxMDUxODczMTI0LC00MjUzNzk1NDEsLTcyNjg0ODQzMywtNz
+c3MDA0MDUsLTIxMTM1NzU3MTEsLTcyMDcxMjMyMCwtMTY4Mjcw
+MzU2NywxNzEyODAxOTgyLDU5MDIzMjI4MywxODI4NjUyMDE1LC
+0xNDQwNzQ3OTYxLDIwMjU0MDA4MzIsODA2NjI5NzE1LDE4MjI0
+OTY0OTZdfQ==
 -->
