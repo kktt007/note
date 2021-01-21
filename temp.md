@@ -1,3 +1,20 @@
+## 20210121
+archlinux安装和错误指导
+https://io-oi.me/tech/hello-arch-linux/#%E9%98%BF%E9%87%8C%E4%BA%91-oss-browser
+https://gitlab.com/gabmus/bestArch
+https://bbs.archlinuxcn.org/viewtopic.php?id=5499
+
+官方一些文件参考:
+https://wiki.archlinux.org/index.php/Category:Boot_process_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)
+
+grub 参数解释
+nomodeset: 不载入所有关于显卡的驱动．使得linux可以正常进入系统
+acpi_osi=linux: 让linux在回答自己支持的系统时可以正常应答．
+
+安装后的优化
+https://averagelinuxuser.com/10-things-to-do-first-in-arch-linux/
+https://averagelinuxuser.com/10-things-to-do-after-installing-manjaro/
+
 ## 1222
 
 
@@ -7915,11 +7932,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxOTMxODg4MiwtNDYyNjUxMDAwLC0xNj
-A3OTQ2NDYyLC02NjM4ODMyMTMsMTA1MTg3MzEyNCwtNDI1Mzc5
-NTQxLC03MjY4NDg0MzMsLTc3NzAwNDA1LC0yMTEzNTc1NzExLC
-03MjA3MTIzMjAsLTE2ODI3MDM1NjcsMTcxMjgwMTk4Miw1OTAy
-MzIyODMsMTgyODY1MjAxNSwtMTQ0MDc0Nzk2MSwyMDI1NDAwOD
-MyLDgwNjYyOTcxNSwxODIyNDk2NDk2LDQ2NjI4NDkyNywxMDEx
-ODIwNjhdfQ==
+eyJoaXN0b3J5IjpbMjE0NjE1MDQzMywxNjE5MzE4ODgyLC00Nj
+I2NTEwMDAsLTE2MDc5NDY0NjIsLTY2Mzg4MzIxMywxMDUxODcz
+MTI0LC00MjUzNzk1NDEsLTcyNjg0ODQzMywtNzc3MDA0MDUsLT
+IxMTM1NzU3MTEsLTcyMDcxMjMyMCwtMTY4MjcwMzU2NywxNzEy
+ODAxOTgyLDU5MDIzMjI4MywxODI4NjUyMDE1LC0xNDQwNzQ3OT
+YxLDIwMjU0MDA4MzIsODA2NjI5NzE1LDE4MjI0OTY0OTYsNDY2
+Mjg0OTI3XX0=
 -->
