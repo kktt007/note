@@ -49,7 +49,43 @@ We went to high school together. I haven't seen her for years, though.
 despite
 without taking any notice of or being influenced by; not prevented by:
 I still enjoyed the week despite the weather.
+
+再次对自己的要求，勇气，勇气，不可错过机会。
+bash:
+
+https://www.freebsd.org/cgi/man.cgi?sh
+
+	- github
+		https://github.com/alexanderepstein/Bash-Snippets#:~:text=Bash-Snippets%20A%20collection%20of%20small%20bash%20scripts%20for,Windows%2010%20and%20the%20official%20developer%20bash%20instance.
+		
+		https://awesomeopensource.com/project/alexanderepstein/Bash-Snippets?categoryPage=12
+		
+		
+https://stackoverflow.com/questions/25165808/should-i-use-a-shebang-with-bash-scripts
+
+https://dev.to/matthewbrophy/code-snippets---a-beginners-guide-p4d
+
+snippets
+vscode :https://code.visualstudio.com/docs/editor/userdefinedsnippets
+
+vim: 
+https://github.com/neoclide/coc-snippets
+https://github.com/neoclide/coc.nvim/wiki/Completion-with-sources
+
+autocompletion
+vim:coc.nvim
+
+plugin:
+https://phaazon.net/blog/editors-in-2020#keyboard-layout
+https://www.chengxuzhilu.com/2409.html#an_zhuang_Phpactor
+https://blog.csdn.net/niuiic/article/details/109157414
+
+插件扫盲
+https://zhuanlan.zhihu.com/p/58816186
+https://pokitpeng.github.io/posts/linux/vim%E6%89%93%E9%80%A0golang%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MjIyMjI1MSwtMjA2MDMzMDUxMiw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNzkxNzEyOTI4LDExNTIyMjIyNTEsLTIwNj
+AzMzA1MTIsNzMwOTk4MTE2XX0=
 -->
