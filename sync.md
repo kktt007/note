@@ -537,13 +537,24 @@ https://sub.fnf.xyz/link/SsjaX88LO931JVD9?sub=3&extend=1
 ```
 https://sub.fnf.xyz/link/SsjaX88LO931JVD9?sub=1&extend=1
 ```
+
+https://my.naiping.cyou/user/node     ssr
+```
+https://subscribe.nerwo.co/sub/2BQX9BWxdInlLn3X.html
+```
+```
+ssr://aGswNS5kZG5zLm5jZGRucy50b3A6MTcwNTphdXRoX2FlczEyOF9tZDU6YWVzLTI1Ni1jZmI6aHR0cF9zaW1wbGU6TTJ0bE1WbE9RbEJuZG1nei8_b2Jmc3BhcmFtPU9EWTNZMk00T1RFNUxtMXBZM0p2YzI5bWRDNWpiMjAmcHJvdG9wYXJhbT1PRGt4T1Rwa1dsZ3piVWsmcmVtYXJrcz02YWFaNXJpdk1EVWdMU0F4TGpVZ1VtRjBaU0I4SUU1RyZncm91cD1UbVZ5ZDI4
+```
+```
+{"nodeid":20,"server":"hk05.ddns.ncddns.top","local_address":"127.0.0.1","local_port":1080,"timeout":300,"workers":1,"server_port":"1705","password":"3ke1YNBPgvh3","method":"aes-256-cfb","obfs":"http_simple","obfs_param":"[867cc8919.microsoft.com](http://867cc8919.microsoft.com/)","protocol":"auth_aes128_md5","protocol_param":"8919:dZX3mI"}
+```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg4NDU5NzU5LDQzMjIxMzE3OSwxNjI1NT
-k2ODUzLC02ODk4MDkzODksLTM0MjkzMjQ1OSwtMTMzOTMyNTcw
-OSw0NzY5NTEzOTgsLTEwOTIwODM2MDcsMjgyNzkwMDgxLDY1MT
-M2OTY2OSwxNzM5MzcyMTAzLC0xODA4MzA0ODg0LDQzMzkzODI2
-MSw5NjM1NDgwMzMsLTM0MjAwOTM4MCwtOTQwMDM3NjA4LDMzMj
-MwNTM4MiwtMTA1NDI3MjA2MSwtMTYxNDAxMTA1NCwtMTg0NjM3
-MjM1NV19
+eyJoaXN0b3J5IjpbLTE2NTQ1NjkxMjcsNDMyMjEzMTc5LDE2Mj
+U1OTY4NTMsLTY4OTgwOTM4OSwtMzQyOTMyNDU5LC0xMzM5MzI1
+NzA5LDQ3Njk1MTM5OCwtMTA5MjA4MzYwNywyODI3OTAwODEsNj
+UxMzY5NjY5LDE3MzkzNzIxMDMsLTE4MDgzMDQ4ODQsNDMzOTM4
+MjYxLDk2MzU0ODAzMywtMzQyMDA5MzgwLC05NDAwMzc2MDgsMz
+MyMzA1MzgyLC0xMDU0MjcyMDYxLC0xNjE0MDExMDU0LC0xODQ2
+MzcyMzU1XX0=
 -->
