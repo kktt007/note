@@ -28,7 +28,9 @@
 ![](https://kktt007.top/note/2021_02_25_018.jpg)
 ![](https://kktt007.top/note/2021_02_25_017.jpg)
 ![](https://kktt007.top/note/2021_02_25_016.jpg)
-daily study
+![](https://kktt007.top/note/2021_02_25_015.jpg)
+![](https://kktt007.top/note/2021_02_25_014.jpg)
+![](https://kktt007.top/note/2021_02_25_013.jpg)
 ![](https://kktt007.top/note/2021_02_25_012.jpg)
 ![](https://kktt007.top/note/2021_02_25_011.jpg)
 ![](https://kktt007.top/note/2021_02_25_010.jpg)
