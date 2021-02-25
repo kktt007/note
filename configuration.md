@@ -3,11 +3,11 @@
 ```
 facapture截图
 shift+pss快捷截图
-配置自动保存
+配置自动保存,jpg格式最好，质量100
 $Y-$M-$D_###
 ```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIxOTE2OTAxXX0=
+eyJoaXN0b3J5IjpbNjc2MTgwMjk2LDkyMTkxNjkwMV19
 -->
