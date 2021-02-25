@@ -5,11 +5,11 @@ facapture截图
 shift+pss快捷截图
 配置自动保存,jpg格式最好，质量100
 $Y_$M_$D_#####
-这样文件名就有年月，这样每天记录内容的时候直接设置多少张就行了，最小 
+这样文件名就有年月，这样每天记录内容的时候直接设置多少张就行了，最小变量就在每天不一样
 ```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjgzMzg4NjQsNjc2MTgwMjk2LDkyMT
-kxNjkwMV19
+eyJoaXN0b3J5IjpbMTgyOTkzNTQwNCw2NzYxODAyOTYsOTIxOT
+E2OTAxXX0=
 -->
