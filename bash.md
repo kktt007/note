@@ -84,6 +84,10 @@ https://blog.csdn.net/niuiic/article/details/109157414
 https://zhuanlan.zhihu.com/p/58816186
 https://pokitpeng.github.io/posts/linux/vim%E6%89%93%E9%80%A0golang%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/
 
+```
+file=$HOME/007
+${file##*/} #表示将匹配到的最长的。。。/部分全部删除
+```
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNzkxNzEyOTI4LDExNTIyMjIyNTEsLTIwNj
