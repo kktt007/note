@@ -1,3 +1,48 @@
+## 0329
+# vscodium and neovim
+
+  
+
+https://xu3352.github.io/tags.html#vim-plugin-ref
+
+  
+
+[vscodium](https://vscodium.com)
+
+  
+
+| 插件 | vscode | neovim |
+
+| :--: | :--------------------------------: | :----: |
+
+| 对齐 | [Better Align](#a1)<a  id="1a"></a> |Tabular.vim |
+
+| 注释 | | |
+
+  
+
+---
+
+  
+
+## [Better Align](#1a) <a id="a1"></a> 需要额外配置
+
+[marketplace](https://marketplace.visualstudio.com/items?itemName=wwm.better-align)
+
+  
+
+[别人的效果](https://github.com/joshukraine/dotfiles/blob/master/nvim/init.vim)
+
+vscode似乎只有简单的插件来完成，vim插件到是可以,百合说，vscode什么都能做，还要vim干嘛
+
+  
+  
+
+参考
+
+https://zhuanlan.zhihu.com/p/111004160
+
+https://blog.csdn.net/techfield/article/details/84186402
 ## 20210121
 archlinux安装和错误指导
 https://io-oi.me/tech/hello-arch-linux/#%E9%98%BF%E9%87%8C%E4%BA%91-oss-browser
@@ -7938,11 +7983,11 @@ v2ray配置
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2ODg2NDQsMjE0NjE1MDQzMywxNjE5Mz
-E4ODgyLC00NjI2NTEwMDAsLTE2MDc5NDY0NjIsLTY2Mzg4MzIx
-MywxMDUxODczMTI0LC00MjUzNzk1NDEsLTcyNjg0ODQzMywtNz
-c3MDA0MDUsLTIxMTM1NzU3MTEsLTcyMDcxMjMyMCwtMTY4Mjcw
-MzU2NywxNzEyODAxOTgyLDU5MDIzMjI4MywxODI4NjUyMDE1LC
-0xNDQwNzQ3OTYxLDIwMjU0MDA4MzIsODA2NjI5NzE1LDE4MjI0
-OTY0OTZdfQ==
+eyJoaXN0b3J5IjpbMTI3OTUzNDIwOCwxMTY4ODY0NCwyMTQ2MT
+UwNDMzLDE2MTkzMTg4ODIsLTQ2MjY1MTAwMCwtMTYwNzk0NjQ2
+MiwtNjYzODgzMjEzLDEwNTE4NzMxMjQsLTQyNTM3OTU0MSwtNz
+I2ODQ4NDMzLC03NzcwMDQwNSwtMjExMzU3NTcxMSwtNzIwNzEy
+MzIwLC0xNjgyNzAzNTY3LDE3MTI4MDE5ODIsNTkwMjMyMjgzLD
+E4Mjg2NTIwMTUsLTE0NDA3NDc5NjEsMjAyNTQwMDgzMiw4MDY2
+Mjk3MTVdfQ==
 -->
